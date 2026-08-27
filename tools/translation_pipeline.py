@@ -35,11 +35,27 @@ def fix(en,de):
    out='Als Entbehrter verlierst du den Zugang zu deinen wichtigsten Machtquellen, darunter Merkmale aus Fusionen, Avatar-Kreaturen und Relikteffekte. Dies ist eine Herausforderungsspezialisierung und erscheint nach dem Freischalten nicht im Kelch der Prüfungen.'
   if en.startswith("As a Monk, you'll boost your creatures' chance to Dodge attacks and spells."):
    out='Als Mönch erhöhst du die Chance deiner Kreaturen, Angriffen und Zaubern auszuweichen. Wenn deine Kreaturen ausweichen, führen sie einen verheerenden Gegenangriff gegen den Feind aus.'
-  # UI character sheet grammar.
   if en=='Innate Trait:':out='Angeborenes Merkmal:'
   if en=='Fused Trait:':out='Fusionsmerkmal:'
-  # Keep Reaver as the specialization name instead of the misleading Plünderer.
   if 'Reaver' in en:out=re.sub(r'\bPlünderer\b','Reaver',out)
+  # Reviewed relic section (starts at relic effect text and ends before mission unlock messages).
+  relic_effect=('relic' in en.lower() or "bearer" in en.lower()) and not en.startswith('You can now take on ')
+  if relic_effect:
+   out=out.replace('Reliquie','Relikt').replace('Reliquien','Relikte')
+   out=out.replace('Statuswert-steigernde','attributssteigernde').replace('Statuswerte steigernde','attributssteigernde').replace('Statuswert-steigernden','attributssteigernden').replace('Statuswert','Attribut').replace('Statuswerte','Attribute')
+   out=out.replace('Attribut-steigernde','attributssteigernde').replace('Attribut-steigernden','attributssteigernden')
+   out=out.replace('für jedes Mal, das ','für jedes Mal, wenn ')
+   out=out.replace('Beim-Angriff- oder Beim-Zaubern-Effekte','bei Angriff oder Zauberwirken ausgelösten Effekte').replace('Beim-Verteidigen- oder Beim-Provozieren-Effekte','bei Verteidigung oder Provokation ausgelösten Effekte')
+   out=out.replace('Bei-Heilung-, Bei-Schwächung- und Bei-Stärkung-Effekte','bei Heilung, Debuffs und Buffs ausgelösten Effekte')
+  relic_exact={
+   'The first time the bearer is killed, it resurrects with 100% {STAT_health} and gains 50% stats (other than {STAT_health}).':'Wenn der Träger im Kampf zum ersten Mal getötet wird, wird er mit 100% {STAT_health} wiederbelebt und erhält 50% mehr Attribute (außer {STAT_health}).',
+   'At the end of the bearer\'s turn, it {ACTION_provokes} and gains 10% Current and Maximum {STAT_health}.':'Am Ende seines Zuges {ACTION_provokes} der Träger und erhöht seine aktuelle sowie maximale {STAT_health} um 10%.',
+   'After the bearer is {ACTION_attacked} while it is {ACTION_provoking}, it gains 10% Maximum {STAT_health}.':'Nachdem der Träger {ACTION_attacked} wurde, während er {ACTION_provoking} ist, erhöht sich seine maximale {STAT_health} um 10%.',
+   'After this relic {ACTION_attacks}, the bearer gains 10% Maximum {STAT_health}.':'Nachdem dieses Relikt {ACTION_attacks}, erhöht sich die maximale {STAT_health} des Trägers um 10%.',
+   'After this relic {ACTION_casts} a spell, a random enemy loses a random stat equal to 30% of the bearer\'s highest stat.':'Nachdem dieses Relikt einen Zauber {ACTION_casts}, verliert ein zufälliger Gegner 30% eines zufälligen Attributs, basierend auf dem höchsten Attribut des Trägers.',
+   'This relic and its bearer have 5% more stats (other than {STAT_health}) for each time its on-resurrect or on-death effects activated.':'Dieses Relikt und sein Träger haben 5% mehr Attribute (außer {STAT_health}) für jedes Mal, wenn die bei Wiederbelebung oder Tod ausgelösten Effekte des Trägers aktiviert wurden.',
+  }
+  if en in relic_exact:out=relic_exact[en]
   exact={"You don't have Rank S knowledge with any creatures.":"Du hast für keine Kreatur Wissen auf Rang S."}
   if en in exact:out=exact[en]
  return out
