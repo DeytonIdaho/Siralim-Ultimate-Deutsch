@@ -22,29 +22,15 @@ def fix(en,de):
  if stem in {'ui','vocabulary'}:
   if re.search(r'\bTraits?\b',en):out=out.replace('Eigenschaft(en)','Merkmal(e)').replace('Eigenschaftsgewinne','Merkmalsgewinne').replace('Eigenschaftsdetails','Merkmalsdetails').replace('Eigenschaftsplatz','Merkmalsplatz').replace('Eigenschaften','Merkmale').replace('Eigenschaft','Merkmal')
   if re.search(r'\bSpell Gems?\b',en):out=out.replace('Zauberstein-Platz/Plätze','Zaubersteinplatz/-plätze').replace('Edelsteine','Zaubersteine').replace('Edelstein','Zauberstein')
-  # Remaining reviewed UI cases.
-  exact={
-   "This option allows you to choose if floating battle text related to creatures gaining traits is displayed for enemies only, allies only, both, or neither.\\n\\nThis option is ignored in the Arena.":"Mit dieser Option legst du fest, ob schwebender Kampftext über Kreaturen, die Merkmale erhalten, nur für Gegner, nur für Verbündete, für beide oder gar nicht angezeigt wird.\\n\\nDiese Option wird in der Arena ignoriert.",
-   "You don't have Rank S knowledge with any creatures.":"Du hast für keine Kreatur Wissen auf Rang S.",
-   "Castor:\\nThe resulting creature will inherit the averaged stats and experience points of both of its parents, along with both of its parents' innate traits!":"Castor:\\nDie resultierende Kreatur erbt die gemittelten Attribute und Erfahrungspunkte beider Eltern sowie die angeborenen Merkmale beider Eltern!",
-   "As a Deprived, you'll lose access to your most significant sources of power, including Fused traits, Avatar creatures, and Relic effects. This is a Challenge Specialization, and it will not appear at the Goblet of Trials after you unlock it.":"Als Entbehrter verlierst du den Zugang zu deinen wichtigsten Machtquellen, darunter Merkmale aus Fusionen, Avatar-Kreaturen und Relikteffekte. Dies ist eine Herausforderungsspezialisierung und erscheint nach dem Freischalten nicht im Kelch der Prüfungen.",
-  }
+  exact={"You don't have Rank S knowledge with any creatures.":"Du hast für keine Kreatur Wissen auf Rang S."}
   if en in exact:out=exact[en]
-  if en.startswith('You can Fuse two creatures together to create a new one.'):
-   out=out.replace('beide ihrer Eigenschaften','beide ihrer Merkmale')
-  if en.startswith('Have you tried to use the [battle_inspect] Inspect command'):
-   out=out.replace('ihr Level, Werte, Eigenschaften','ihre Stufe, Attribute, Merkmale').replace('Zauberstein-Informationen','Informationen zu Zaubersteinen')
-  if en.startswith('You can set the default battle command for each of your creatures.'):
-   # German already says Zauberstein twice; plural English term need not appear literally.
-   pass
  return out
 
 def narrative_file(path):return Path(path).stem in {"personality","dialog","dialog_story","lore","bosses"}
 def exception(path,en,term):
  stem=Path(path).stem
  if narrative_file(path) and term in("Creature","Creatures"):return True
- if stem=='ui' and term in ('Creature','Creatures') and any(x in en for x in ['First, you need to assign a creatures','This option allows','Release:','Menagerie','Grovetenders','As a Druid','At least one creatures']):return True
- if stem=='ui' and term=='Spell Gems' and en.startswith('You can set the default battle command for each of your creatures.'):return True
+ if stem=='ui' and en=="You don't have Rank S knowledge with any creatures." and term=='Creatures':return True
  if stem=="personality" and term in("Trait","Traits"):return True
  if stem=="lore" and term in("Trait","Traits") and "Trait Material" not in en:return True
  return False
