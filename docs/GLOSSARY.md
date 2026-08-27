@@ -20,7 +20,8 @@ Story und Geschichte haben vorerst keine Priorität.
 - Platzhalter und Formatierungs-Tags bleiben unverändert.
 - `after`, `before`, `when`, `at the start`, `at the end` werden nicht miteinander vermischt.
 - `additional` muss als zusätzlicher Effekt erkennbar bleiben.
-- Häufige oder strittige Kernbegriffe werden vor einer globalen Änderung mit dem Projektinhaber abgestimmt.
+- Eindeutige Übersetzungsfehler werden selbstständig korrigiert.
+- Häufige oder strittige Kernbegriffe werden vor einer globalen Änderung abgestimmt.
 
 ## Verbindliche Begriffe
 
@@ -30,6 +31,7 @@ Story und Geschichte haben vorerst keine Priorität.
 | Trait | Merkmal | verbindlich |
 | Buff | Buff | etablierter Gaming-Begriff |
 | Debuff | Debuff | etablierter Gaming-Begriff |
+| Minion | Diener | klassischer deutscher Fantasy-/RPG-Begriff |
 | Stat | Attribut | normalerweise; Satzkontext beachten |
 | Creature | Kreatur | |
 | Attack | Angriff | Stat/Aktion kontextabhängig |
@@ -41,6 +43,8 @@ Story und Geschichte haben vorerst keine Priorität.
 | missing Health | fehlende Gesundheit | Differenz zwischen Maximum und aktuell |
 | current Health | aktuelle Gesundheit | explizit, wenn das Original `current` sagt |
 | Spell | Zauber | |
+| Spell Gem | Zauberstein | verbindlich |
+| Ethereal Spell Gem | Ätherischer Zauberstein | verbindlich |
 | cast | zaubern / wirkt einen Zauber | Satzkontext beachten |
 | manually cast | manuell zaubern / wirkt manuell | `manuell` darf nicht entfallen |
 | additional | zusätzlich | mechanisch relevant |
@@ -70,13 +74,10 @@ Story und Geschichte haben vorerst keine Priorität.
 
 Diese Begriffe werden vor einer globalen Festlegung gesondert abgestimmt:
 
-- Spell Gem
+- Sealed Spell Gem / Sealed (Mechanik-Kontext zuerst klären)
 - Spell Potency / Potency
-- Minion
 - Tier
 - Race
 - Class (Kreaturenklasse vs. Spezialisierung des Spielers)
-- Ethereal
-- Sealed
 - Artifact
 - Fusion / fused
