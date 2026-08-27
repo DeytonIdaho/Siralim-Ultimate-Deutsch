@@ -2,6 +2,6 @@
 
 - Source: `masters.csv`
 - Rows: 312
-- Flagged: 12
+- Flagged: 4
 - Chunk size: 100
 - Review files: 1

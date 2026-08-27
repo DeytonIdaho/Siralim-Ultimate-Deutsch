@@ -2,6 +2,6 @@
 
 - Source: `battle.csv`
 - Rows: 256
-- Flagged: 14
+- Flagged: 2
 - Chunk size: 100
 - Review files: 1

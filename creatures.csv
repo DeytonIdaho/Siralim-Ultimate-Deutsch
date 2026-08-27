@@ -1,4 +1,4 @@
-﻿Tag,Notes,English,Japanese,German,French,Spanish,Portuguese,Russian,Italian,Chinese (Traditional),Chinese (Simplified),Korean,Polish,Ukrainian,Dutch,Turkish
+Tag,Notes,English,Japanese,German,French,Spanish,Portuguese,Russian,Italian,Chinese (Traditional),Chinese (Simplified),Korean,Polish,Ukrainian,Dutch,Turkish
 L_DENIZEN,,Denizen,住人,Bewohner,Habitant,Habitante,Habitante,Обитатель,Abitante,居民,海民,주민,Mieszkaniec,Мешканець,Bewoner,Sakin
 L_APOCALYPSE,,Apocalypse,アポカリプス,Apokalypse,Apocalypse,Apocalipsis,Apocalipse,Апокалипсис,Apocalisse,末日,末日兽,종말,Apokalipsa,Апокаліпсис,Apocalyps,Kıyamet
 L_ASURA,,Asura,アスラ,Asura,Asura,Asura,Asura,Асура,Asura,阿修羅,阿修罗,아수라,Asura,Асура,Asura,Asura
@@ -1417,7 +1417,7 @@ L_CRIT_PROTO-BRACHYURA,,Proto-Brachyura,プロト・ブラキュラ,Proto-Brachy
 L_CRIT_PETRAFORTIS,,Petrafortis,ペトラフォルティス,Petrafortis,Petrafortis,Petrafortis,Petrafortis,Петрафортис,Petrafortis,岩石堡壘,坚岩兽,페트라포티스,Petrafortis,Петрафортіс,Petrafortis,Petrafortis
 L_CRIT_ABACUS,,Abacus,そろばん,Abakus,Abaque,Ábaco,Ábaco,Счёты,Abaco,算盤,算盘,주판,Abakus,Рахівниця,Telraam,Abaküs
 L_CRIT_FORGOTTENDISCIPLE,,Forgotten Disciple,忘れられた弟子,Vergessener Jünger,Disciple Oublié,Discípulo Olvidado,Discípulo Esquecido,Забытый Ученик,Discepolo Dimenticato,遺忘的門徒,被遗忘的门徒,잊혀진 제자,Zapomniany Uczeń,Забутий Учень,Vergeten Discipel,Unutulmuş Mürit
-L_CRIT_ORPHANEDMINION,,Orphaned Minion,孤児となった手下,Verwaister Scherge,Sbire Orphelin,Esbirro Huérfano,Lacaio Órfão,Осиротевший миньон,Sgherro Orfano,孤立的爪牙,遗孤仆从,버려진 하수인,Osierocony Pomiot,Осиротілий Поплічник,Verweesd Handlanger,Öksüz Yardakçı
+L_CRIT_ORPHANEDMINION,,Orphaned Minion,孤児となった手下,Verwaister Diener,Sbire Orphelin,Esbirro Huérfano,Lacaio Órfão,Осиротевший миньон,Sgherro Orfano,孤立的爪牙,遗孤仆从,버려진 하수인,Osierocony Pomiot,Осиротілий Поплічник,Verweesd Handlanger,Öksüz Yardakçı
 L_CRIT_ATLASBEACON,,Atlas Beacon,アトラスビーコン,Atlas-Leuchtfeuer,Atlas Beacon,Faro de Atlas,Farol de Atlas,Маяк Атласа,Faro di Atlas,阿特拉斯信標,擎天信标,아틀라스 비콘,Latarnia Atlasa,Маяк Атласа,Atlas Baken,Atlas Feneri
 L_CRIT_LUNABEACON,,Luna Beacon,ルナビーコン,Luna-Leuchtfeuer,Luna Beacon,Faro Lunar,Farol de Luna,Лунный Маяк,Faro Lunare,月光信標,月光信标,루나 비콘,Latarnia Luny,Маяк Луни,Luna Baken,Luna Feneri
 L_CRIT_LAPPETBEACON,,Lappet Beacon,ラペット・ビーコン,Lappet-Leuchtfeuer,Balise de Lappet,Faro de Lappet,Farol de Lappet,Маяк Лаппет,Faro di Lappet,褶邊信標,垂翅信标,랩펫 비콘,Latarnia Lappet,Маяк Лаппет,Lappet Baken,Lappet Feneri
