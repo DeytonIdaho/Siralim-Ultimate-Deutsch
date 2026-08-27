@@ -4,7 +4,7 @@
 |---:|---|---|
 | 2 | Lucius, King of Nex | Lucius, König von Nex |
 | 3 | Gilbert | Gilbert |
-| 4 | Furnace, Brother of Furness | Ofen, Bruder von Furness |
+| 4 | Furnace, Brother of Furness | Furnace, Bruder von Furness |
 | 5 | Jerex | Jerex |
 | 6 | Leftrin | Leftrin |
 | 7 | Engelin | Engelin |
@@ -18,12 +18,12 @@
 | 15 | Fitz | Fitz |
 | 16 | Searle | Searle |
 | 17 | Batley | Batley |
-| 18 | Graft | Transplantat |
+| 18 | Graft | Graft |
 | 19 | Buster | Buster |
 | 20 | Uncle Carb | Onkel Carb |
 | 21 | Carnagor | Carnagor |
 | 22 | Dice | Würfel |
-| 23 | Shun | Meiden |
+| 23 | Shun | Shun |
 | 24 | Yash | Yash |
 | 25 | Gringer | Gringer |
 | 26 | Imba | Imba |
@@ -36,14 +36,14 @@
 | 33 | Woovie | Woovie |
 | 34 | Connor | Connor |
 | 35 | Malleville | Malleville |
-| 36 | Thesauram | Thesaurus |
+| 36 | Thesauram | Thesauram |
 | 37 | Niklas | Niklas |
 | 38 | Ryd | Ryd |
 | 39 | Gelotte | Gelotte |
 | 40 | Histor | Histor |
 | 41 | Heafy | Heafy |
 | 42 | Jesper | Jesper |
-| 43 | Birch | Birke |
+| 43 | Birch | Birch |
 | 44 | Bayaz | Bayaz |
 | 45 | Arner | Arner |
 | 46 | Savine | Savine |
@@ -55,14 +55,14 @@
 | 52 | Orvus, Best Golemancer | Orvus, Bester Golemmagier |
 | 53 | Zola | Zola |
 | 54 | Gryffindor | Gryffindor |
-| 55 | Lake | See |
-| 56 | Jerky | Dörrfleisch |
-| 57 | Luv | Liebe |
+| 55 | Lake | Lake |
+| 56 | Jerky | Jerky |
+| 57 | Luv | Luv |
 | 58 | Bourbon | Bourbon |
 | 59 | Joe | Joe |
 | 60 | Rathik | Rathik |
 | 61 | Tad | Tad |
-| 62 | Doctor Feelgood | Doktor Wohlgefühl |
+| 62 | Doctor Feelgood | Doctor Feelgood |
 | 63 | Ridley | Ridley |
 | 64 | Umbri | Umbri |
 | 65 | Vesh | Vesh |
@@ -82,7 +82,7 @@
 | 79 | Unaxx | Unaxx |
 | 80 | Ewyn | Ewyn |
 | 81 | Dazzess | Dazzess |
-| 82 | Slash | Schlitzer |
+| 82 | Slash | Slash |
 | 83 | Zinud | Zinud |
 | 84 | Brithyr | Brithyr |
 | 85 | Doctor Negative | Doktor Negativ |

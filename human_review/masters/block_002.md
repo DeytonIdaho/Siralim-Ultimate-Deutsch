@@ -7,7 +7,7 @@
 | 104 | Menos | Menos |
 | 105 | Torne | Torne |
 | 106 | Phan | Phan |
-| 107 | Remane | Umbenennen |
+| 107 | Remane | Remane |
 | 108 | Leonault | Leonault |
 | 109 | Muse | Muse |
 | 110 | Folo | Folo |
@@ -19,7 +19,7 @@
 | 116 | Vitali | Vitali |
 | 117 | Althea | Althea |
 | 118 | Shuulmoth | Shuulmoth |
-| 119 | Breeze | Brise |
+| 119 | Breeze | Breeze |
 | 120 | Benedict | Benedict |
 | 121 | Auran | Auran |
 | 122 | Seuzan | Seuzan |
@@ -43,7 +43,7 @@
 | 140 | Honas | Honas |
 | 141 | Diablo | Diablo |
 | 142 | Vindeliar | Vindeliar |
-| 143 | Chum | Kumpel |
+| 143 | Chum | Chum |
 | 144 | Lysandre | Lysandre |
 | 145 | Veydris | Veydris |
 | 146 | Gideon | Gideon |
@@ -65,10 +65,10 @@
 | 162 | Apises are formidable in both offense and defense, making them some of the toughest creatures you'll find. Let's have a quick duel so you can experience what I'm talking about first-hand! | Apises sind sowohl in Angriff als auch in Verteidigung beeindruckend, was sie zu einigen der härtesten Kreaturen macht, denen du begegnen wirst. Lass uns ein schnelles Duell austragen, damit du aus erster Hand erfahren kannst, wovon ich spreche! |
 | 163 | Apocalypses grow exponentially more powerful as the battle drags on. If you want to defeat me, you'll have to do it fast! | Apokalypsen werden exponentiell mächtiger, je länger der Kampf andauert. Wenn du mich besiegen willst, musst du es schnell tun! |
 | 164 | Arachnalisks prefer to ensnare their opponents before poisoning them, watching as their foes suffer long and painful deaths.\n\nBut anyway, how are you doing today? Care for a duel? | Arachnalisken ziehen es vor, ihre Gegner zu umgarnen, bevor sie sie vergiften, und beobachten, wie ihre Feinde einen langen und qualvollen Tod erleiden.\n\nAber wie auch immer, wie geht es dir heute? Lust auf ein Duell? |
-| 165 | Aspects are one with nature. They exhibit a level of focus that is unmatched by any other creature in Rodia, allowing them to dodge even the most powerful of attacks. Your creatures don't stand a chance! | Aspekte sind eins mit der Natur. Sie zeigen ein Maß an Konzentration, das von keinem anderen Kreatur in Rodia erreicht wird, und können so selbst den mächtigsten Angriffen ausweichen. Deine Kreaturen haben keine Chance! |
+| 165 | Aspects are one with nature. They exhibit a level of focus that is unmatched by any other creature in Rodia, allowing them to dodge even the most powerful of attacks. Your creatures don't stand a chance! | Aspekte sind eins mit der Natur. Sie besitzen eine Konzentration, die von keiner anderen Kreatur in Rodia erreicht wird, und können dadurch selbst den mächtigsten Angriffen ausweichen. Deine Kreaturen haben keine Chance! |
 | 166 | Asuras are formidable melee attackers that can dish out some massive critical damage. Care for a duel? I won't go easy on you! | Asuras sind beeindruckende Nahkämpfer, die gewaltigen kritischen Schaden austeilen können. Lust auf ein Duell? Ich werde dich nicht schonen! |
 | 167 | Automatons automatically decrease their enemies' stats without needing to waste a turn! How great is that? Let me show you how they work! | Automaten verringern automatisch die Werte ihrer Feinde, ohne eine Runde verschwenden zu müssen! Ist das nicht großartig? Lass mich dir zeigen, wie sie funktionieren! |
-| 168 | Banshees have access to empowered versions of different Spell Gems. If you don't manage to seal their gems early on in battle, you'll be sorry!\n\nWith that said, it's time to du-du-du-du-du-duel! | Banshees haben Zugang zu verstärkten Versionen verschiedener Zaubersteine. Wenn es dir nicht gelingt, ihre Edelsteine früh im Kampf zu versiegeln, wirst du es bereuen!\n\nDas gesagt, ist es Zeit zu du-du-du-du-du-duellieren! |
+| 168 | Banshees have access to empowered versions of different Spell Gems. If you don't manage to seal their gems early on in battle, you'll be sorry!\n\nWith that said, it's time to du-du-du-du-du-duel! | Banshees haben Zugriff auf verstärkte Versionen verschiedener Zaubersteine. Wenn es dir nicht gelingt, ihre Zaubersteine früh im Kampf zu versiegeln, wirst du es bereuen!\n\nAlso dann: Zeit für ein Du-du-du-du-du-duell! |
 | 169 | Many Bards enable your creatures' attack damage to come from different stats. Others provide a variety of beneficial effects to your creatures. Let's have a duel, and then I'll have one of my Bards treat you to a song afterward! | Viele Barden ermöglichen es, dass der Angriffsschaden deiner Kreaturen von verschiedenen Werten abhängt. Andere bieten eine Vielzahl von vorteilhaften Effekten für deine Kreaturen. Lass uns ein Duell austragen, und danach wird einer meiner Barden dir ein Lied vorspielen! |
 | 170 | If you want to stand a chance against my Basilisks, you'd better make sure you damage them between each of their turns. Otherwise, you'll be in for a world of hurt! Let's see what you've got! | Wenn du eine Chance gegen meine Basilisken haben willst, solltest du besser sicherstellen, dass du ihnen zwischen ihren Zügen Schaden zufügst. Andernfalls wirst du eine Welt voller Schmerzen erleben! Zeig mir, was du drauf hast! |
 | 171 | Bats might not seem very dangerous on their own, but get enough of them together and you'll be in for a nasty surprise! Let's have a quick duel so I can show you! | Fledermäuse mögen allein nicht sehr gefährlich erscheinen, aber wenn genug von ihnen zusammenkommen, erwartet dich eine böse Überraschung! Lass uns ein schnelles Duell austragen, damit ich es dir zeigen kann! |
@@ -80,7 +80,7 @@
 | 177 | Centaurs tend to shy away from spellcasting in favor of strong melee attacks - which is great, since that means I don't ever have to worry about my creatures' Spell Gems running out of Charges! Think you've got what it takes to bring me down? | Zentauren neigen dazu, dem Zauberwirken aus dem Weg zu gehen und bevorzugen stattdessen starke Nahkampfangriffe - was großartig ist, denn das bedeutet, dass ich mir nie Sorgen machen muss, dass die Zaubersteine meiner Kreaturen keine Ladungen mehr haben! Glaubst du, du hast was es braucht, um mich zu besiegen? |
 | 178 | Cerberuses... Cerberi? Hmmm.\n\nAnyway, my creatures may not be able to cast spells through traditional means, but that doesn't mean they can't make use of their Spell Gems for other purposes. Allow me to demonstrate! | Zerberusse... Zerberi? Hmmm.\n\nWie auch immer, meine Kreaturen mögen zwar keine Zauber auf herkömmliche Weise wirken können, aber das bedeutet nicht, dass sie ihre Zaubersteine nicht für andere Zwecke nutzen können. Lass mich das demonstrieren! |
 | 179 | If your team relies on dodging attacks, I'm afraid my Clutchers are going to dish out the ultimate punishment to you. Let's see what you've got! | Wenn sich dein Team darauf verlässt, Angriffen auszuweichen, fürchte ich, dass meine Clutcher die ultimative Strafe für dich bereithalten werden. Lass uns sehen, was du drauf hast! |
-| 180 | Make no mistake: Cockatrices are weird. But isn't everyone a little odd in their own way? Cockatrices like to make other creatures feel welcome no matter who they are. Such inclusion translates into brilliant teamwork in battle as well. Let me show you! | Täusche dich nicht: Cockatrices sind seltsam. Aber ist nicht jeder auf seine eigene Art ein bisschen merkwürdig? Cockatrices lassen andere Kreaturen gerne willkommen fühlen, egal wer sie sind. Diese Inklusivität führt auch zu brillanter Teamarbeit im Kampf. Lass es mich dir zeigen! |
+| 180 | Make no mistake: Cockatrices are weird. But isn't everyone a little odd in their own way? Cockatrices like to make other creatures feel welcome no matter who they are. Such inclusion translates into brilliant teamwork in battle as well. Let me show you! | Täusche dich nicht: Cockatrices sind seltsam. Aber ist nicht jeder auf seine eigene Art ein bisschen merkwürdig? Cockatrices geben anderen Kreaturen unabhängig von ihrer Herkunft das Gefühl, willkommen zu sein. Diese Offenheit führt auch im Kampf zu hervorragender Teamarbeit. Lass es mich dir zeigen! |
 | 181 | I hope your creatures don't rely too much on their Artifacts, because my Concoctions are going to turn them into dust! Let's fight! | Ich hoffe, deine Kreaturen verlassen sich nicht zu sehr auf ihre Artefakte, denn meine Gebräue werden sie zu Staub zerfallen lassen! Lass uns kämpfen! |
 | 182 | Crunchers like to eat Spell Gems. That's bad news for your creatures who rely on casting spells rather than using standard attacks. Think you've got what it takes to beat me? | Knirscher fressen gerne Zaubersteine. Das sind schlechte Nachrichten für deine Kreaturen, die sich auf das Wirken von Zaubern verlassen, anstatt Standardangriffe zu nutzen. Glaubst du, du hast das Zeug dazu, mich zu besiegen? |
 | 183 | Constructs utilize powerful Arsenal Spells to destroy their foes. Let's see if you can handle them! | Konstrukte nutzen mächtige Arsenal-Zauber, um ihre Feinde zu vernichten. Mal sehen, ob du mit ihnen fertig wirst! |
