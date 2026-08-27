@@ -19,20 +19,28 @@ def cols(fs):
 
 def fix(en,de):
  out=de or""
- for p,r in [(r"Zielzauberedelsteine","Zielzaubersteine"),(r"Zielzauber-Edelsteine","Zielzaubersteine"),(r"Phantomzauber-Edelstein","Phantomzauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein"),(r"Schergenmeister","Dienermeister"),(r"Schergen","Diener"),(r"Lakaien","Diener"),(r"Lakai","Diener"),(r"Schwächungseffekt","Debuff"),(r"Statuswerte","Attribute"),(r"Statuswert","Attribut")]:out=re.sub(p,r,out)
+ for p,r in [(r"Zielzauberedelsteine","Zielzaubersteine"),(r"Zielzauber-Edelsteine","Zielzaubersteine"),(r"Phantomzauber-Edelstein","Phantomzauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein"),(r"Schergenmeister","Dienermeister"),(r"Schergen","Diener"),(r"Lakaien","Diener"),(r"Lakai","Diener"),(r"Schwächungseffekte?","Debuff"),(r"Schwächungszauber","Debuff"),(r"Statuswerte","Attribute"),(r"Statuswert","Attribut")]:out=re.sub(p,r,out)
  if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"Eigenschaften","Merkmale",out);out=re.sub(r"Eigenschaft","Merkmal",out)
- # Explicit plural game-creature prose reviewed in masters.
+ # Reviewed gameplay consistency: debuff potency => Effektstärke.
+ if re.search(r"(?:debuff|CONDNAME_DEBUFF).{0,100}(?:potency|potent)|(?:potency|potent).{0,100}(?:debuff|CONDNAME_DEBUFF)",en,re.I):
+  out=re.sub(r"Wirksamkeit","Effektstärke",out)
+ # Equipment spell potency is spell power even when DEF replaces INT as scaling stat.
+ if "The potency is based on the caster's {STAT_defense} instead of {STAT_intelligence}" in en:
+  out=re.sub(r"Wirksamkeit","Zaubermacht",out)
+  out=out.replace("Der Klasse des Zauberwirkers wird zu","Die Klasse des Zauberwirkers wird zu")
+  out=out.replace(", es erhält {CONDNAME_",", der Zauberwirker erhält {CONDNAME_")
+  out=out.replace(", erhält {CONDNAME_",", der Zauberwirker erhält {CONDNAME_")
+ # Specific consistency leftovers.
+ if en=="Diabolic Henchman":out="Teuflischer Diener"
+ if en.startswith("Target's next attack deals 100% more damage. This effect does not stack."):out="Der nächste Angriff des Ziels verursacht 100% mehr Schaden. Dieser Effekt ist nicht kumulativ."
+ # Earlier reviewed fixes retained.
  if en.startswith("Demigods are manipulative creatures"):out=out.replace("manipulative Kreatur,","manipulative Kreaturen,")
  if en.startswith("Familiars are studious creatures"):out=out.replace("fleißige Kreatur,","fleißige Kreaturen,")
  if en.startswith("Rift Dancers are some of the most graceful creatures"):out=out.replace("anmutigsten Kreatur,","anmutigsten Kreaturen,")
  if en.startswith("Valkyries are well-rounded creatures"):out=out.replace("vielseitige Kreatur,","vielseitige Kreaturen,")
- # Battle UI leftovers.
  if en=="Max Minion\\nStacks":out="Max. Diener\\nStapel"
  if en=="Extra Traits\\nRemoved":out="Zusätzliche Merkmale\\nEntfernt"
- # Item Magnetic: creature is the mechanical game entity.
  if en.startswith("This item can be taken to the Enchanter") and "Magnetic:" in en:out=out.replace("für jedes Mitglied deiner Gruppe","für jede Kreatur in deiner Gruppe")
- # Existing reviewed semantic fixes.
- if re.search(r"spell(?:'s|s')?.{0,50}potency|potency.{0,50}spell",en,re.I):out=re.sub(r"Wirksamkeit","Zaubermacht",out)
  if en=="Death Creature Core":out="Todeskreatur-Kern"
  elif en=="Nature Creature Core":out="Naturkreatur-Kern"
  elif en=="Sorcery Creature Core":out="Zauberkreatur-Kern"
@@ -45,10 +53,9 @@ def fix(en,de):
 
 def exception(en,term=None):
  if "mermaid-like creature" in en and term=="Creature":return True
- # Singular German is correct under distributive 'each of ... Spell Gems'.
  if en.startswith("Each of the caster's other, permanent Spell Gems") and term=="Spell Gems":return True
  return False
-def false_token(en):return (en.startswith("\\n\\nYou need 5 of these materials")or en.startswith("\\n\\nYou need 3 of these materials")or en=="Balance In All Things"or en.startswith("A random enemy recovers a large amount of {STAT_health}")or en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY")or en.startswith("Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes")or en.startswith("Your creatures have a 1% chance (up to 35%) to avoid debuffs"))
+def false_token(en):return (en.startswith("\\n\\nYou need 5 of these materials")or en.startswith("\\n\\nYou need 3 of these materials")or en=="Balance In All Things"or en.startswith("A random enemy recovers a large amount of {STAT_health}")or en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY"))
 def main():
  ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
  with open(a.csv_file,encoding="utf-8-sig",newline="")as f:rd=csv.DictReader(f);fs=rd.fieldnames or[];ec,dc=cols(fs);rows=list(rd)
