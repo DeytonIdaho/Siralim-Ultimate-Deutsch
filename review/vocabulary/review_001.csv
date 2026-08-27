@@ -1,0 +1,5 @@
+line,english,german,issues,reviewed,replacement
+238,{CONDNAME_DEBUFF_CONFUSED} creatures have a 50% chance to {ACTION_attack} or {ACTION_cast} harmful spells on their allies.,"Verwirrte Kreaturen haben eine 50% Chance, ihre Verbündeten zu {ACTION_attack} oder schädliche Zauber auf sie zu {ACTION_cast}.",TOKEN_MISMATCH,,
+267,"After the {CONDNAME_MINION_ANIMATEDGEM}'s master manually {ACTION_casts} a spell, this minion {ACTION_casts} one of its master's Spell Gems as well, chosen randomly.","Nachdem der Meister des {CONDNAME_MINION_ANIMATEDGEM} manuell einen Zauber {ACTION_casts}, {ACTION_casts} dieser Diener ebenfalls einen der Zauberedelsteine seines Meisters, der zufällig ausgewählt wird.",TERM:Spell Gems->Zaubersteine,,
+301,Trait Slot,Eigenschaftsplatz,TERM:Trait->Merkmal,,
+480,Trait,Eigenschaft,TERM:Trait->Merkmal,,
