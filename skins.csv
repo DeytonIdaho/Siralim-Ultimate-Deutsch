@@ -1,0 +1,835 @@
+﻿Tag,Notes,English,Japanese,German,French,Spanish,Portuguese,Russian,Italian,Chinese (Traditional),Chinese (Simplified),Korean,Polish,Ukrainian,Dutch,Turkish
+L_SKIN_ANIMATUSGHOST,,Animatus (Ghost),アニマタス（ゴースト）,Animatus (Geist),Animatus (Fantôme),Animatus (Fantasma),Animatus (Fantasma),Анимат (Призрак),Animatus (Fantasma),活屍（鬼魂）,幽魂灵偶,애니마투스 (유령),Animatus (Duch),Анімат (Привид),Animatus (Geest),Animatus (Hayalet)
+L_SKIN_ANIMATUSGROSS,,Animatus (Gross),アニマタス（グロス）,Animatus (Ekelhaft),Animatus (Dégoûtant),Animatus (Asqueroso),Animatus (Nojento),Анимат (Мерзость),Animatus (Ripugnante),活屍（噁心）,丑恶灵偶,애니마투스 (역겨움),Animatus (Obrzydliwy),Анімат (Огидний),Animatus (Walgelijk),Animatus (İğrenç)
+L_SKIN_ANIMATUSPURPLE,,Animatus (Purple),アニマタス（紫）,Animatus (Lila),Animatus (Violet),Animatus (Púrpura),Animatus (Roxo),Анимат (Фиолетовый),Animatus (Viola),活靈活現（紫）,紫灵偶,애니마투스 (보라색),Animatus (Fioletowy),Анімат (Фіолетовий),Animatus (Paars),Animatus (Mor)
+L_SKIN_ANIMATUSRED,,Animatus (Red),アニマタス（赤）,Animatus (Rot),Animatus (Rouge),Animatus (Rojo),Animatus (Vermelho),Анимат (Красный),Animatus (Rosso),活靈獸（紅）,赤灵偶,애니마투스 (적색),Animatus (Czerwony),Анімат (Червоний),Animatus (Rood),Animatus (Kırmızı)
+L_SKIN_ANIMATUSWOOD,,Animatus (Wood),アニマタス（木）,Animatus (Holz),Animatus (Bois),Animatus (Madera),Animatus (Madeira),Анимат (Дерево),Animatus (Legno),活木靈 (木),森灵偶,애니마투스 (목재),Animatus (Drewno),Анімат (Дерево),Animatus (Hout),Animatus (Odun)
+L_SKIN_XYRXZYS,,Xyrxzys,ザーザイス,Xyrxzys,Xyrxzys,Xyrxzys,Xyrxzys,Ксирксис,Xyrxzys,薩爾西斯,克西尔瑞克西滋义斯,지르지스,Xyrxzys,Ксірксіс,Xyrxzys,Xyrxzys
+L_SKIN_ETTA,,Etta,エッタ,Etta,Etta,Etta,Etta,Этта,Etta,艾塔,艾塔,에타,Etta,Етта,Etta,Etta
+L_SKIN_GIRAN,,Giran,ギラン,Giran,Giran,Giran,Giran,Гиран,Giran,奇連,吉兰,기란,Giran,Гіран,Giran,Giran
+L_SKIN_IMPIMPINGTON,,Imp Impington,インプ・インピントン,Kobold Koboldingen,Imp Impington,Diablillo Impington,Diabrete Impington,Бес Импингтон,Imp Impington,小惡魔英彭頓,小鬼英普顿,임프 임핑턴,Chochlik Impington,Імп Імпінгтон,Kobold Koboldstein,İblis İmpington
+L_SKIN_IMPIMPINGTONPRIME,,Imp Impington Prime,インプ・インピントン・プライム,Imp Impington Prime,Imp Impington Prime,Diablillo Impington Supremo,Diabrete Impington Prime,Бес Импингтон Прайм,Imp Impington Prime,小惡魔英普頓大王,钢铁小鬼英普顿,임프 임핑턴 프라임,Imp Impington Pierwszy,Імп Імпінгтон Прайм,Kobold Koboldstein Opperhoofd,İblis İmpington Üstün
+L_SKIN_KRAYNAKS,,Kraynaks,クレイナクス,Kraynaks,Kraynaks,Kraynaks,Kraynaks,Крайнаки,Kraynaks,克雷納克斯,克雷纳克斯,크레이낙스,Kraynaki,Крайнаки,Kraynaks,Kraynaklar
+L_SKIN_MYRTLE,,Myrtle,マートル,Myrtle,Myrtle,Myrtle,Myrtle,Миртл,Myrtle,默特爾,默特尔,머틀,Myrtle,Міртл,Myrtle,Myrtle
+L_SKIN_QILA,,Qila,キラ,Qila,Qila,Qila,Qila,Кила,Qila,奇拉,奇拉,퀼라,Qila,Кіла,Qila,Qila
+L_SKIN_RAMSES,,Ramses,ラムセス,Ramses,Ramsès,Ramses,Ramsés,Рамзес,Ramses,拉姆西斯,拉美西斯,람세스,Ramses,Рамзес,Ramses,Ramses
+L_SKIN_SHADOWAXE,,Shadow Axe,シャドウアックス,Schattenklinge,Hache d'Ombre,Hacha de Sombra,Machado das Sombras,Теневой Топор,Ascia d'Ombra,暗影斧,暗影之斧,그림자 도끼,Cienisty Topór,Тіньова Сокира,Schaduwbijl,Gölge Balta
+L_SKIN_SHADOWDAGGER,,Shadow Dagger,シャドウダガー,Schattendolch,Dague d'Ombre,Daga de Sombra,Adaga Sombria,Кинжал Тени,Pugnale d'Ombra,暗影匕首,暗影之刺,그림자 단검,Sztylet Cienia,Тіньовий кинджал,Schaduwdolk,Gölge Hançeri
+L_SKIN_SHADOWHANDLEFT,,Shadow Hand (Left),シャドウハンド（左）,Schattenhand (Links),Main d'Ombre (Gauche),Mano Sombría (Izquierda),Mão das Sombras (Esquerda),Теневая Рука (Левая),Mano d'Ombra (Sinistra),暗影之手（左）,暗影之握（左）,그림자 손(왼쪽),Ręka Cienia (Lewa),Тіньова Рука (Ліва),Schaduwhand (Links),Gölge Eli (Sol)
+L_SKIN_SHADOWMONARCH,,Shadow Monarch,シャドウモナーク,Schattenmonarch,Monarque des Ombres,Monarca de las Sombras,Monarca das Sombras,Монарх Теней,Monarca dell'Ombra,暗影君王,暗影君主,그림자 군주,Monarcha Cieni,Монарх Тіней,Schaduwmonarch,Gölge Hükümdar
+L_SKIN_SHADOWSKULL,,Shadow Skull,シャドウスカル,Schattenschädel,Crâne d'Ombre,Cráneo Sombrío,Crânio Sombrio,Теневой Череп,Teschio d'Ombra,暗影骷髏,暗影之颅,그림자 해골,Czaszka Cienia,Тіньовий Череп,Schaduwschedel,Gölge Kafatası
+L_SKIN_SPOONOR,,Spoonor,スプーナー,Spoonor,Spoonor,Spoonor,Spoonor,Спунор,Spoonor,湯匙人,斯普诺,스푸너,Spoonor,Спунор,Spoonor,Spoonor
+L_SKIN_TELLUR,,Tellur,テルル,Tellur,Tellur,Tellur,Tellur,Теллур,Tellur,泰勒爾,泰勒,텔루르,Tellur,Теллур,Tellur,Tellur
+L_SKIN_VITJA,,Vitja,ヴィチャ,Vitja,Vitja,Vitja,Vitja,Витя,Vitja,維佳,维佳,비차,Vitja,Вітя,Vitja,Vitja
+L_SKIN_VLORA,,Vlora,ヴローラ,Vlora,Vlora,Vlora,Vlora,Влора,Vlora,芙蘿拉,薇洛拉,블로라,Vlora,Влора,Vlora,Vlora
+L_SKIN_TOXICITY,,Toxicity,毒性,Toxizität,Toxicité,Toxicidad,Toxicidade,Токсичность,Tossicità,毒性,剧毒,독성,Toksyczność,Токсичність,Giftigheid,Zehirlilik
+L_SKIN_GUARDIANOFHELL,,Guardian of Hell,地獄の守護者,Wächter der Hölle,Gardien des Enfers,Guardián del Infierno,Guardião do Inferno,Страж Ада,Guardiano dell'Inferno,地獄守護者,地狱守护者,지옥의 수호자,Strażnik Piekieł,Страж Пекла,Bewaker van de Hel,Cehennem Muhafızı
+L_SKIN_FEMININEDEVIL,,Feminine Devil,フェミニン・デビル,Weiblicher Teufel,Diablesse,Diablesa,Diabo Feminino,Дьяволица,Diavolo Femminile,魅惡魔,雌性魔鬼,여성적인 악마,Diabelska Kobieta,Диявольська Жінка,Vrouwelijke Duivel,Dişi Şeytan
+L_SKIN_OVERKILL,,Overkill,オーバーキル,Übertötung,Massacre,Daño excesivo,Dano Excessivo,Сверхубийство,Colpo Letale,過量殺傷,赶尽杀绝,오버킬,Nadmierne zabicie,Перевищення шкоди,Overkill,Aşırı Öldürme
+L_SKIN_KRAKEN,,Kraken,クラーケン,Kraken,Kraken,Kraken,Kraken,Кракен,Kraken,克拉肯,克拉肯,크라켄,Kraken,Кракен,Kraken,Kraken
+L_SKIN_NEVERMORE,,Nevermore,ネバーモア,Nimmermehr,Jamais plus,Nunca más,Nunca Mais,Никогда больше,Nevermore,永無止境,永不复焉,네버모어,Nigdymore,Ніколи більше,Nimmermeer,Asla
+L_SKIN_HELLLORD,,Hell Lord,冥府の主,Höllenfürst,Seigneur des Enfers,Señor del Infierno,Senhor do Inferno,Повелитель Ада,Signore dell'Inferno,地獄領主,地狱领主,지옥 군주,Władca Piekieł,Володар Пекла,Helvorst,Cehennem Lordu
+L_SKIN_REDONI,,Red Oni,赤鬼,Roter Oni,Oni Rouge,Oni Rojo,Oni Vermelho,Красный Они,Oni Rosso,赤鬼,赤鬼,붉은 오니,Czerwony Oni,Червоний Оні,Rode Oni,Kızıl Oni
+L_SKIN_VOIDDEVIL,,Void Devil,ヴォイド・デビル,Leerer Teufel,Démon du Néant,Diablo del Vacío,Demônio do Vazio,Пустотный Дьявол,Diavolo del Vuoto,虛空惡魔,虚空魔鬼,공허의 악마,Pustynny Diabeł,Порожнинний Диявол,Leegtedemon,Boşluk Şeytanı
+L_SKIN_CEASELESSGLADIATOR,,Ceaseless Gladiator,不屈の剣闘士,Unermüdlicher Gladiator,Gladiateur Incessant,Gladiador Incesante,Gladiador Incessante,Неустанный Гладиатор,Gladiatore Incessante,不懈鬥士,不息角斗士,끝없는 검투사,Nieustępliwy Gladiator,Невпинний Гладіатор,Onophoudelijke Gladiator,Durmaksızın Gladyatör
+L_SKIN_SCYLLA,,Scylla,シラ,Scylla,Scylla,Escila,Cila,Сцилла,Scilla,席拉,斯库拉,스킬라,Scylla,Сцилла,Scylla,Scylla
+L_SKIN_CHROMACHAOS,,Chroma (Chaos),クローマ（カオス）,Chroma (Chaos),Chroma (Chaos),Croma (Caos),Chroma (Caos),Хрома (Хаос),Chroma (Caos),色度（混沌）,变色灵（混沌）,크로마 (혼돈),Chroma (Chaos),Хрома (Хаос),Chroma (Chaos),Kroma (Kaos)
+L_SKIN_CHROMADEATH,,Chroma (Death),クロマ（死）,Chroma (Tod),Chroma (Mort),Croma (Muerte),Croma (Morte),Хрома (Смерть),Chroma (Morte),色度（死亡）,变色灵（死亡）,크로마 (죽음),Chroma (Śmierć),Хрома (Смерть),Chroma (Dood),Kroma (Ölüm)
+L_SKIN_CHROMALIFE,,Chroma (Life),クロマ（ライフ）,Chroma (Leben),Chroma (Vie),Croma (Vida),Chroma (Vida),Хрома (Жизнь),Chroma (Vita),色彩（生命）,变色灵（生命）,크로마 (생명),Chroma (Życie),Хрома (Життя),Chroma (Leven),Kroma (Yaşam)
+L_SKIN_CHROMANATURE,,Chroma (Nature),クロマ（自然）,Chroma (Natur),Chroma (Nature),Croma (Naturaleza),Croma (Natureza),Хрома (Природа),Chroma (Natura),色彩（自然）,变色灵（自然）,크로마 (자연),Chroma (Natura),Хрома (Природа),Chroma (Natuur),Kroma (Doğa)
+L_SKIN_CHROMASORCERY,,Chroma (Sorcery),クロマ（魔術）,Chroma (Zauberei),Chroma (Sorcellerie),Croma (Hechicería),Croma (Feitiçaria),Хрома (Колдовство),Chroma (Stregoneria),色譜（魔法）,变色灵（巫术）,크로마 (마법),Chroma (Czarodziejstwo),Хрома (Чаклунство),Chroma (Toverkunst),Kroma (Büyücülük)
+L_SKIN_FLUBRISGREEN,,Flubris (Green),フルブリス（緑）,Flubris (Grün),Flubris (Vert),Flubris (Verde),Flubris (Verde),Флубрис (Зеленый),Flubris (Verde),福布里斯（綠）,弗鲁碧里斯,플루브리스 (초록),Flubris (Zielony),Флубріс (Зелений),Flubris (Groen),Flubris (Yeşil)
+L_SKIN_FLUBRISPURPLE,,Flubris (Purple),フルブリス（紫）,Flubris (Lila),Flubris (Violet),Flubris (Púrpura),Flubris (Roxo),Флубрис (Фиолетовый),Flubris (Viola),芙露布莉絲（紫色）,弗鲁布里紫,플루브리스 (보라색),Flubris (Fioletowy),Флубріс (Фіолетовий),Flubris (Paars),Flubris (Mor)
+L_SKIN_FLUBRISBLUE,,Flubris (Blue),フルブリス（青）,Flubris (Blau),Flubris (Bleu),Flubris (Azul),Flubris (Azul),Флубрис (Синий),Flubris (Blu),芙露布莉絲（藍）,弗蓝布里斯,플루브리스 (파랑),Flubris (Niebieski),Флубріс (Синій),Flubris (Blauw),Flubris (Mavi)
+L_SKIN_KINGANDRICK,,King Andrick,キング・アンドリック,König Andrick,Roi Andrick,Rey Andrick,Rei Andrick,Король Андрик,Re Andrick,安德里克國王,国王安德里克,앤드릭 왕,Król Andrick,Король Андрік,Koning Andrick,Kral Andrick
+L_SKIN_MEDIERRA,,Medierra,メディエラ,Medierra,Medierra,Medierra,Medierra,Медиерра,Medierra,梅迪拉,梅蒂拉,메디에라,Medierra,Медієрра,Medierra,Medierra
+L_SKIN_MISERY,,Misery,悲惨,Elend,Misère,Miseria,Miséria,Страдание,Miseria,悲慘,苦痛,비참,Udręka,Страждання,Ellende,Sefalet
+L_SKIN_NERLYX,,Nerlyx,ネリクス,Nerlyx,Nerlyx,Nerlyx,Nerlyx,Нерликс,Nerlyx,奈利克斯,奈利克斯,넬릭스,Nerlyx,Нерлікс,Nerlyx,Nerlyx
+L_SKIN_NOETHERIAN,,Noetherian,ノエセリアン,Noetherian,Noetherian,Noeteriano,Noetheriano,Ноэтеров,Noetheriano,諾特理安,诺特,노에테리안,Noetherian,Нетерівський,Noetheriaans,Noetherian
+L_SKIN_PHOBOS,,Phobos,フォボス,Phobos,Phobos,Phobos,Phobos,Фобос,Phobos,福波斯,福波斯,포보스,Fobos,Фобос,Phobos,Phobos
+L_SKIN_SAREA,,Sarea,サレア,Sarea,Sarea,Sarea,Sarea,Сарея,Sarea,薩瑞亞,萨瑞娅,사레아,Sarea,Сарея,Sarea,Sarea
+L_SKIN_CHARYBDIS,,Charybdis,カリュブディス,Charybdis,Charybde,Caribdis,Caríbdis,Харибда,Cariddi,卡律布狄斯,卡律布狄斯,카립디스,Charybdis,Харібда,Charybdis,Charybdis
+L_SKIN_SHACKLER,,Shackler,シャックラー,Fessler,Entraveur,Encadenador,Agrilhoador,Оковщик,Incatenatore,束縛者,束缚者,구속자,Zakuwacz,Поневолювач,Ketener,Zincirleyici
+L_SKIN_ULTIMATEUNGUIDED,,Ultimate Unguided,アルティメット・アンガイデッド,Ultimativ Ungeführt,Ultime Sans Guide,Definitivo Sin Guía,Supremo Sem Guia,Абсолютно Неуправляемый,Supremo Non Guidato,終極無引導,终极放逐者,궁극의 무지도,Ostateczny Nieprowadzony,Найвища Некерована,Ultieme Ongeleide,Nihai Rehbersiz
+L_SKIN_ZENPANG,,Zenpang,ゼンパング,Zenpang,Zenpang,Zenpang,Zenpang,Зенпанг,Zenpang,禪胖,禅庞,젠팡,Zenpang,Зенпанг,Zenpang,Zenpang
+L_SKIN_STEELHOUND,,Steel Hound,スティールハウンド,Stahlhund,Molosse d'Acier,Sabueso de Acero,Cão de Aço,Стальной Пёс,Segugio d'Acciaio,鋼鐵獵犬,钢铁猎犬,강철 사냥개,Stalowy Ogar,Сталевий Гончак,Stalen Jachthond,Çelik Tazı
+L_SKIN_BARGHEST,,Barghest,バーゲスト,Barghest,Barghest,Barghest,Barghest,Баргест,Barghest,巴吉斯特,犬魔,바게스트,Barghest,Баргест,Barghest,Barghest
+L_SKIN_SAIA,,Saia,サイア,Saia,Saia,Saia,Sair,Сайя,Saia,薩伊亞,萨亚,사이아,Saia,Сайя,Saia,Saia
+L_SKIN_MAGICIAN,,Magician,魔術師,Magier,Magicien,Mago,Mago,Маг,Mago,魔法師,魔术师,마법사,Mag,Маг,Magiër,Büyücü
+L_SKIN_FUZZYWORM,,Fuzzy Worm,ふわふわワーム,Flauschiger Wurm,Ver Duveteux,Gusano Peludo,Verme Peludo,Пушистый Червь,Verme Peloso,毛毛蟲,长毛蠕虫,보송보송 벌레,Puszysty Robak,Пухнастий Черв'як,Pluizige Worm,Tüylü Solucan
+L_SKIN_UNRAVELED,,Unraveled,ほどけた,Entfesselt,Démêlé,Desentrañado,Desvendado,Распутанный,Svelato,解開的,解脱者,풀어진,Rozplątane,Розплутано,Ontrafeld,Çözülmüş
+L_SKIN_FLY,,Fly,飛ぶ,Fliegen,Voler,Volar,Voar,Лететь,Volare,飛行,苍蝇,날아오르기,Latać,Літати,Vlieg,Uç
+L_SKIN_NIGHTMARE,,Nightmare,ナイトメア,Albtraum,Cauchemar,Pesadilla,Pesadelo,Кошмар,Incubo,夢魘,噩梦,악몽,Koszmar,Кошмар,Nachtmerrie,Kabus
+L_SKIN_PHANTASM,,Phantasm,ファンタズム,Phantasma,Fantasme,Fantasma,Fantasma,Фантазм,Fantasma,幻影,幻影,환영,Fantazmat,Фантазм,Fantoom,Hayalet
+L_SKIN_DEATHOFKINGS,,Death of Kings,王の死,Tod der Könige,Mort des Rois,Muerte de Reyes,Morte dos Reis,Смерть Королей,Morte dei Re,王者之死,诸王黄昏,왕들의 죽음,Śmierć Królów,Смерть Королів,Dood van Koningen,Kralların Ölümü
+L_SKIN_INIQUITOUSINCARNATE,,Iniquitous Incarnate,邪悪の化身,Bösartige Inkarnation,Incarnation Inique,Encarnación Inicua,Encarnação Iníqua,Воплощение Беззакония,Incarnazione Iniqua,邪惡化身,邪恶化身,사악한 화신,Wcielenie Nieprawości,Втілене Беззаконня,Onheilige Vleesgeworden,Kötülük Cisimleşmesi
+L_SKIN_TRUETHYLACINE,,True Thylacine,真のフクロオオカミ,Echter Beutelwolf,Thylacine Véritable,Tilacino Verdadero,Tilacino Verdadeiro,Истинный Тилацин,Tilacino Vero,真袋狼,真正的袋狼,진정한 타일라신,Prawdziwy Tylakin,Справжній Тилацин,Tasmaanse Tijger,Gerçek Tilasın
+L_SKIN_COLORIZED,,Colorized,カラー化された,Koloriert,Colorisé,Colorizado,Colorido,Цветной,Colorato,上色,着色,색상화,Kolorowy,Кольоровий,Gekleurd,Renklendirilmiş
+L_SKIN_JUNGLESHADE,,Jungle Shade,ジャングルシェード,Dschungelschatten,Ombre de la Jungle,Sombra de la Jungla,Sombra da Selva,Тень Джунглей,Ombra della Giungla,叢林之影,丛林阴影,정글 그림자,Cień Dżungli,Тінь Джунглів,Jungleschaduw,Orman Gölgesi
+L_SKIN_STORMSPIRIT,,Storm Spirit,嵐の精霊,Sturmgeist,Esprit de Tempête,Espíritu de Tormenta,Espírito da Tempestade,Дух Бури,Spirito della Tempesta,風暴之靈,风暴幽灵,폭풍의 영혼,Duch Burzy,Дух Бурі,Stormgeest,Fırtına Ruhu
+L_SKIN_DARKWIZARD,,Dark Wizard,ダークウィザード,Dunkler Magier,Sorcier Noir,Mago Oscuro,Mago Negro,Тёмный Волшебник,Mago Oscuro,黑暗巫師,黑巫师,다크 위저드,Mroczny Czarodziej,Темний Чаклун,Duistere Tovenaar,Kara Büyücü
+L_SKIN_ARMORED,,Armored,装甲,Gepanzert,Blindé,Blindado,Blindado,Бронированный,Corazzato,裝甲,装甲,방어구를 갖춘,Opancerzony,Броньований,Gepantserd,Zırhlı
+L_SKIN_IMPERIOUSINCARNATE,,Imperious Incarnate,高慢なる化身,Hochmütiger Inkarnierter,Incarnation Impérieuse,Encarnación Imperiosa,Encarnação Imperiosa,Высокомерное Воплощение,Incarnazione Imperiosa,傲慢化身,傲临化身,오만한 화신,Wyniosłe Wcielenie,Величний Втілений,Hooghartige Incarnatie,Yüce Enkarne
+L_SKIN_RAINBOW,,Rainbow,虹,Regenbogen,Arc-en-ciel,Arcoíris,Arco-íris,Радуга,Arcobaleno,彩虹,彩虹,무지개,Tęcza,Веселка,Regenboog,Gökkuşağı
+L_SKIN_LIGHT,,Light,ライト,Licht,Lumière,Luz,Luz,Свет,Luce,光,光,빛,Światło,Світло,Licht,Işık
+L_SKIN_MECHAHERO,,Mecha Hero,メカヒーロー,Mecha-Held,Héros Mecha,Héroe Mecha,Herói Mecha,Механический Герой,Eroe Mecha,機甲英雄,钢铁侠,메카 히어로,Bohater Mecha,Механічний Герой,Mecha Held,Mekanik Kahraman
+L_SKIN_QUARTZ,,Quartz,クォーツ,Quarz,Quartz,Cuarzo,Quartzo,Кварц,Quarzo,石英,石英,쿼츠,Kwarc,Кварц,Kwarts,Kuartz
+L_SKIN_HARLEQUIN,,Harlequin,ハーレクイン,Harlekin,Arlequin,Arlequín,Arlequim,Арлекин,Arlecchino,小丑,丑角,할리퀸,Arlekin,Арлекін,Harlekijn,Soytarı
+L_SKIN_PHANTOM,,Phantom,ファントム,Phantom,Fantôme,Fantasma,Fantasma,Фантом,Fantasma,幻影,幻影,팬텀,Fantom,Фантом,Fantoom,Hayalet
+L_SKIN_ICEFLANKER,,Iceflanker,アイスフランカー,Eisflanker,Glaceflanc,Flanqueador de Hielo,Flanqueador de Gelo,Ледокрыл,Fiancofreddo,冰翼龍,冰翼兽,얼음날개,Lodoskrzydły,Крижаний Фланкер,IJsflankeerder,Buzkıyıcı
+L_SKIN_DEATHKNIGHT,,Death Knight,デスナイト,Todesritter,Chevalier de la Mort,Caballero de la Muerte,Cavaleiro da Morte,Рыцарь Смерти,Cavaliere della Morte,死亡騎士,死亡骑士,죽음의 기사,Rycerz Śmierci,Лицар Смерті,Doodsridder,Ölüm Şövalyesi
+L_SKIN_STARSPIRIT,,Star Spirit,スターの精霊,Sternengeist,Esprit Stellaire,Espíritu Estelar,Espírito Estelar,Звёздный Дух,Spirito Stellare,星靈,星之幽灵,별의 정령,Gwiezdny Duch,Зоряний Дух,Sterrengeest,Yıldız Ruhu
+L_SKIN_MUSHROOM,,Mushroom,キノコ,Pilz,Champignon,Hongo,Cogumelo,Гриб,Fungo,蘑菇,蘑菇,버섯,Grzyb,Гриб,Paddenstoel,Mantar
+L_SKIN_MASCULINEDRYAD,,Masculine Dryad,男性ドライアド,Männliche Dryade,Dryade Masculine,Dríada Masculina,Dríade Masculino,Мужской Дриад,Driade Mascolina,陽性林妖,雄性树妖,남성 드라이어드,Męski Driad,Чоловічий Дріад,Mannelijke Dryade,Erkek Dryad
+L_SKIN_WILDCAT,,Wildcat,ワイルドキャット,Wildkatze,Félin sauvage,Gato montés,Gato Selvagem,Дикая кошка,Gatto selvatico,野貓,野猫,살쾡이,Dziki Kot,Дикий кіт,Wilde kat,Yaban Kedisi
+L_SKIN_FORESTFIRE,,Forest Fire,森林火災,Waldbrand,Feu de Forêt,Incendio Forestal,Incêndio Florestal,Лесной Пожар,Incendio Boschivo,森林大火,森林火灾,숲 화재,Pożar Lasu,Лісова Пожежа,Bosbrand,Orman Yangını
+L_SKIN_LEAFY,,Leafy,リーフィ,Blättrig,Feuillu,Frondoso,Folhoso,Лиственный,Frondoso,葉子,茂盛,잎이 무성한,Liściasty,Листяний,Bladachtig,Yapraklı
+L_SKIN_SAKURA,,Sakura,サクラ,Sakura,Sakura,Sakura,Sakura,Сакура,Sakura,櫻花,樱树,사쿠라,Sakura,Сакура,Sakura,Sakura
+L_SKIN_FUNGUY,,Fun Guy,楽しい奴,Spaßvogel,Rigolo,Tipo Divertido,Cara Divertido,Весельчак,Tipo Divertente,趣味菇人,滑稽菇,재미있는 녀석,Zabawny Gość,Веселий Грибник,Leuke Kerel,Eğlenceli Adam
+L_SKIN_FAIRY,,Fairy,フェアリー,Fee,Fée,Hada,Fada,Фея,Fata,精靈,仙子,요정,Wróżka,Фея,Fee,Peri
+L_SKIN_WARLOCK,,Warlock,ウォーロック,Hexenmeister,Démoniste,Brujo,Bruxo,Чернокнижник,Stregone,術士,邪术师,흑마법사,Czarnoksiężnik,Чаклун,Heksenmeester,Büyücü
+L_SKIN_UNMASKED,,Unmasked,正体露わし,Entlarvt,Démasqué,Desenmascarado,Desmascarado,Разоблачённый,Smascherato,揭露真相,无面具,정체 공개,Zdemaskowany,Викритий,Ontmaskerd,Maskesiz
+L_SKIN_BOMBER,,Bomber,ボマー,Bomber,Bombardier,Bombardero,Bombardeiro,Бомбист,Bombardiere,轟炸手,轰炸手,폭탄병,Bombardier,Бомбардувальник,Bommenwerper,Bombacı
+L_SKIN_SOUL,,Soul,ソウル,Seele,Âme,Alma,Alma,Душа,Anima,靈魂,灵魂,영혼,Dusza,Душа,Ziel,Ruh
+L_SKIN_CYBERSPIDER,,Cyber Spider,サイバースパイダー,Cyber-Spinne,Araignée Cyber,Araña Cibernética,Aranha Cibernética,Кибер-паук,Ragno Cibernetico,電子蜘蛛,赛博蜘蛛,사이버 스파이더,Cyber Pająk,Кібер-павук,Cyber Spin,Siber Örümcek
+L_SKIN_VOIDHUNTER,,Void Hunter,ヴォイドハンター,Leerejäger,Chasseur du Néant,Cazador del Vacío,Caçador do Vazio,Охотник Пустоты,Cacciatore del Vuoto,虛空獵人,虚空猎手,공허 사냥꾼,Łowca Pustki,Мисливець Порожнечі,Leegtejager,Boşluk Avcısı
+L_SKIN_CRYSTALLINE,,Crystalline,クリスタリン,Kristallin,Cristallin,Cristalino,Cristalino,Кристаллический,Cristallino,晶石,结晶化,수정,Krystaliczny,Кристалічний,Kristallijn,Kristal
+L_SKIN_PERMAFROST,,Permafrost,永久凍土,Permafrost,Permafrost,Permahielo,Permafrost,Вечная мерзлота,Permafrost,永凍層,永冻,영구동토,Wieczna zmarzlina,Вічна мерзлота,Permafrost,Kalıcı Buz
+L_SKIN_RADIOACTIVE,,Radioactive,放射性,Radioaktiv,Radioactif,Radiactivo,Radioativo,Радиоактивный,Radioattivo,放射性,辐射化,방사능,Radioaktywny,Радіоактивний,Radioactief,Radyoaktif
+L_SKIN_KAIJU,,Kaiju,カイジュウ,Kaiju,Kaiju,Kaiju,Kaiju,Кайдзю,Kaiju,怪獸,怪兽,괴수,Kaiju,Кайдзю,Kaiju,Kaiju
+L_SKIN_FEMININESATYR,,Feminine Satyr,女性サテュロス,Weiblicher Satyr,Satyre Féminine,Sátiro Femenino,Sátira Feminina,Женщина-сатир,Satiro Femminile,雌性薩特,雌性萨堤尔,여성 사티로스,Satyrzyna,Жіноча Сатир,Vrouwelijke Satyr,Dişi Satir
+L_SKIN_MEATGIANT,,Meat Giant,肉の巨人,Fleischriese,Géant de Viande,Gigante de Carne,Gigante de Carne,Мясной Гигант,Gigante di Carne,肉巨人,血肉巨人,고기 거인,Mięsny Gigant,М'ясний Гігант,Vleesgigant,Et Devi
+L_SKIN_MONARCH,,Monarch,モナーク,Monarch,Monarque,Monarca,Monarca,Монарх,Monarca,君王,君主,군주,Monarcha,Монарх,Monarch,Hükümdar
+L_SKIN_CULTIST,,Cultist,カルト教団員,Kultist,Cultiste,Cultista,Cultista,Культист,Cultista,邪教徒,邪教徒,광신도,Kultysta,Культист,Cultist,Tarikatçı
+L_SKIN_PIPEORGAN,,Pipe Organ,パイプオルガン,Pfeifenorgel,Orgue,Órgano de Tubos,Órgão de Tubos,Орган,Organo a Canne,管風琴,管风琴,파이프 오르간,Organy Piszczałkowe,Орган,Pijporgel,Org
+L_SKIN_CELESTINE,,Celestine,セレスティン,Celestine,Célestine,Celestine,Celestine,Селестина,Celestine,賽雷斯汀,天空,셀레스틴,Celestyna,Селестіна,Celestine,Celestine
+L_SKIN_ELDRITCH,,Eldritch,エルドリッチ,Eldritch,Eldritch,Eldritch,Eldritch,Элдрич,Eldritch,奧術,异能,엘드리치,Przedwieczny,Ельдрич,Eldritch,Doğaüstü
+L_SKIN_QUETZALCOATL,,Quetzalcoatl,ケツァルコアトル,Quetzalcoatl,Quetzalcoatl,Quetzalcóatl,Quetzalcoatl,Кетцалькоатль,Quetzalcoatl,羽蛇神,羽蛇神,케찰코아틀,Quetzalcoatl,Кетцалькоатль,Quetzalcoatl,Quetzalcoatl
+L_SKIN_DUBIOUSCOOKBOOK,,Dubious Cookbook,怪しい料理本,Zweifelhafte Rezeptsammlung,Livre de Cuisine Douteux,Recetario Dudoso,Livro de Receitas Duvidoso,Сомнительная Поваренная Книга,Ricettario Dubbio,可疑的食譜,可疑食谱,의심스러운 요리책,Podejrzana Książka Kucharska,Сумнівна Куховарська Книга,Twijfelachtig Kookboek,Şüpheli Yemek Kitabı
+L_SKIN_STAR,,Star,スター,Stern,Étoile,Estrella,Estrela,Звезда,Stella,星星,星,별,Gwiazda,Зірка,Ster,Yıldız
+L_SKIN_LAMIA,,Lamia,ラミア,Lamia,Lamia,Lamia,Lâmia,Ламия,Lamia,拉彌亞,拉弥亚,라미아,Lamia,Ламія,Lamia,Lamia
+L_SKIN_MERMAID,,Mermaid,マーメイド,Meerjungfrau,Sirène,Sirena,Sereia,Русалка,Sirena,人魚,人鱼,인어,Syrena,Русалка,Zeemeermin,Denizkızı
+L_SKIN_NUWA,,Nu Wa,ヌワ,Nu Wa,Nu Wa,Nu Wa,Nu Wa,Нюй-ва,Nu Wa,女媧,女娲,여와,Nu Wa,Нюй Ва,Nu Wa,Nu Wa
+L_SKIN_ANCIENTMEDUSA,,Ancient Medusa,古代メデューサ,Uralte Medusa,Méduse Antique,Medusa Antigua,Medusa Ancestral,Древняя Медуза,Medusa Antica,遠古美杜莎,远古美杜莎,고대 메두사,Starożytna Meduza,Древня Медуза,Antieke Medusa,Antik Medusa
+L_SKIN_NAGA,,Naga,ナーガ,Naga,Naga,Naga,Naga,Нага,Naga,納迦,娜迦,나가,Naga,Нага,Naga,Naga
+L_SKIN_WIZARD,,Wizard,魔法使い,Magier,Mage,Mago,Mago,Волшебник,Mago,法師,巫师,마법사,Czarodziej,Чарівник,Tovenaar,Büyücü
+L_SKIN_BLACKKNIGHT,,Black Knight,黒騎士,Schwarzer Ritter,Chevalier Noir,Caballero Negro,Cavaleiro Negro,Чёрный Рыцарь,Cavaliere Nero,黑騎士,黑骑士,흑기사,Czarny Rycerz,Чорний Лицар,Zwarte Ridder,Kara Şövalye
+L_SKIN_STREETPUNK,,Street Punk,ストリートパンク,Straßenpunk,Voyou des rues,Pandillero Callejero,Punk de Rua,Уличный панк,Teppista,街頭混混,街头混混,길거리 깡패,Miejski Punk,Вуличний панк,Straatpunk,Sokak Serserisi
+L_SKIN_BLACKHOLE,,Black Hole,ブラックホール,Schwarzes Loch,Trou Noir,Agujero Negro,Buraco Negro,Чёрная дыра,Buco Nero,黑洞,黑洞,블랙홀,Czarna Dziura,Чорна діра,Zwart Gat,Kara Delik
+L_SKIN_BOOKOFCURSES,,Book of Curses,呪いの書,Buch der Flüche,Livre des Malédictions,Libro de Maldiciones,Livro de Maldições,Книга Проклятий,Libro delle Maledizioni,詛咒之書,诅咒之书,저주의 서,Księga Klątw,Книга Проклять,Boek der Vloeken,Lanetler Kitabı
+L_SKIN_ROYALGUARD,,Royal Guard,王室護衛,Königliche Garde,Garde Royale,Guardia Real,Guarda Real,Королевская Стража,Guardia Reale,皇家衛士,皇家守卫,왕실 경비대,Gwardia Królewska,Королівська Варта,Koninklijke Garde,Kraliyet Muhafızı
+L_SKIN_MASTER,,Master,マスター,Meister,Maître,Maestro,Mestre,Мастер,Maestro,大師,大师,마스터,Mistrz,Майстер,Meester,Usta
+L_SKIN_HAZMAT,,Hazmat,ハズマット,Gefahrgut,Hazmat,Hazmat,Traje de Proteção,Химзащита,Tuta protettiva,防護服,防化服,방호복,Kombinezon ochronny,Захисний костюм,Hazmat,Tehlikeli Madde
+L_SKIN_GRAVEN,,Graven,グレイヴン,Graven,Gravé,Graven,Graven,Грейвен,Graven,墓碑,坟墓,그레이븐,Graven,Гравен,Graven,Kazınmış
+L_SKIN_PYRE,,Pyre,焔火,Scheiterhaufen,Bûcher,Pira,Pira,Костер,Pira,聖火,火焰,불꽃,Stos,Вогнище,Brandstapel,Ateş Çukuru
+L_SKIN_CHAOSAXE,,Chaos Axe,カオスアックス,Chaosaxt,Hache du Chaos,Hacha del Caos,Machado do Caos,Топор Хаоса,Ascia del Caos,混沌之斧,混沌战斧,혼돈의 도끼,Topór Chaosu,Сокира Хаосу,Chaosbijl,Kaos Baltası
+L_SKIN_DEATHMACE,,Death Mace,デスメイス,Todesstreitkolben,Masse de la Mort,Maza de la Muerte,Maça da Morte,Булава Смерти,Mazza della Morte,死亡重錘,死亡钉锤,죽음의 철퇴,Kosa Śmierci,Коса Смерті,Doodknots,Ölüm Topuzu
+L_SKIN_LIFESWORD,,Life Sword,生命の剣,Lebensschwert,Épée de Vie,Espada de Vida,Espada da Vida,Меч Жизни,Spada della Vita,生命之劍,生命之剑,생명의 검,Miecz Życia,Меч Життя,Levenszwaard,Yaşam Kılıcı
+L_SKIN_NATUREBOW,,Nature Bow,ネイチャーボウ,Naturbogen,Arc de la Nature,Arco de la Naturaleza,Arco da Natureza,Лук Природы,Arco della Natura,自然之弓,自然之弓,자연의 활,Łuk Natury,Лук Природи,Natuurboog,Doğa Yayı
+L_SKIN_SORCERYSTAFF,,Sorcery Staff,魔術の杖,Zauberstab,Bâton de Sorcellerie,Bastón de Hechicería,Cajado de Feitiçaria,Посох колдовства,Bastone della Stregoneria,巫術法杖,巫术法杖,마법 지팡이,Kostur Czarnoksięstwa,Посох чаклунства,Toverstaff,Büyücülük Asası
+L_SKIN_PEEP,,Peep,ピープ,Pieps,Piou,Pío,Espiar,Пип,Sbirciare,偷看,叽叽鸡,엿보기,Pip,Піп,Piep,Cik
+L_SKIN_FRESHGAME,,Fresh Game,新規ゲーム,Neues Spiel,Nouvelle Partie,Juego Nuevo,Jogo Novo,Новая игра,Partita Nuova,全新遊戲,野味,새로운 게임,Nowa Gra,Нова Гра,Nieuw Spel,Yeni Oyun
+L_SKIN_ROCKCANDY,,Rock Candy,ロックキャンディ,Steinsüßigkeit,Sucre d'orge,Caramelo de Roca,Doce de Pedra,Леденец,Caramella di Roccia,岩石糖果,硬糖,돌사탕,Cukrowa Skała,Льодяник,Suikersnoep,Taş Şeker
+L_SKIN_SOFTSERVE,,Soft Serve,ソフトクリーム,Softeis,Glace Italienne,Helado Suave,Sorvete Cremoso,Мягкое мороженое,Gelato Soft,霜淇淋,软冰淇淋,소프트 아이스크림,Lody włoskie,М'яке морозиво,Softijs,Yumuşak Dondurma
+L_SKIN_DREAMSICLE,,Dreamsicle,ドリームシクル,Traumstängel,Rêveglaçon,Ensueñelado,Sonholito,Дримсикл,Sognoghiacciolo,夢幻冰棒,梦境冰棒,드림시클,Lodowy Sen,Мрійливе морозиво,Droomijsje,Rüya Dondurması
+L_SKIN_DEVILLED,,Devilled,デビルド,Teuflisch,Diabolique,Endiablado,Demoníaco,Дьявольский,Diavolesco,惡魔化,魔鬼辣,악마화된,Diabelski,Диявольський,Duivels,Şeytani
+L_SKIN_RUMSOAKED,,Rumsoaked,酒浸し,Rumgetränkt,Imbibé,Empapado en ron,Encharcado de Rum,Пропитанный ромом,Inzuppato di rum,酒醺,朗姆风味,술에 취한,Przepity,П'яний,Rumgedrenkt,Şarap Emmiş
+L_SKIN_CRUNCHY,,Crunchy,カリカリ,Knusprig,Croustillant,Crujiente,Crocante,Хрустящий,Croccante,酥脆的,嘎嘣脆,바삭바삭한,Chrupiący,Хрусткий,Knapperig,Çıtır
+L_SKIN_SUNDRIED,,Sun Dried,日干し,Sonnengetrocknet,Séché au Soleil,Sol Seco,Sol Seco,Высушенный на солнце,Essiccato al Sole,曬乾,晒干,햇볕에 말린,Wysuszony na słońcu,Висушене на сонці,Zongedroogd,Güneşte Kurutulmuş
+L_SKIN_FRUITY,,Fruity,フルーティー,Fruchtig,Fruité,Afrutado,Frutado,Фруктовый,Fruttato,果味的,果缤纷,과일향의,Owocowy,Фруктовий,Fruitig,Meyveli
+L_SKIN_BONEBROTH,,Bone Broth,骨のスープ,Knochenbrühe,Bouillon d'os,Caldo de Huesos,Caldo de Ossos,Костный бульон,Brodo d'Ossa,骨湯,骨汤,뼈 육수,Wywar z kości,Кістковий бульйон,Bottenbouillon,Kemik Suyu
+L_SKIN_SMOOTHIE,,Smoothie,スムージー,Smoothie,Smoothie,Batido,Smoothie,Смузи,Frullato,冰沙,冰沙,스무디,Koktajl,Смузі,Smoothie,Smoothie
+L_SKIN_FOODPOISONING,,Food Poisoning,食中毒,Lebensmittelvergiftung,Intoxication Alimentaire,Intoxicación Alimentaria,Intoxicação Alimentar,Пищевое отравление,Avvelenamento da Cibo,食物中毒,食物中毒,식중독,Zatrucie Pokarmowe,Харчове отруєння,Voedselvergiftiging,Gıda Zehirlenmesi
+L_SKIN_ANGELFOOD,,Angel Food,エンジェルフード,Engelsspeise,Nourriture Angélique,Comida de Ángel,Comida de Anjo,Ангельская Пища,Cibo Angelico,天使蛋糕,天使圣餐,천사의 양식,Anielski Pokarm,Ангельська Їжа,Engelenvoedsel,Melek Yemeği
+L_SKIN_IT'S!@#$INGRAW,,IT'S !@#$ING RAW,生焼けだ、くそったれ！,ES IST VERDAMMT ROH,C'EST !@#$EMENT CRU,ESTÁ !@#$ING CRUDO,ESTÁ !@#$AMENTE CRU,ЭТО !@#$ИНГ СЫРОЕ,È MALEDETTAMENTE CRUDO,這是!@#$的生的,这!@#$是生的,아직도 !@#$하게 날것이다,TO JEST !@#$ING SUROWE,ЦЕ !@#$ИНА СИРІСТЬ,HET IS !@#$ING RAUW,ÇOK @#$%İN HAM
+L_SKIN_MYSTERYMEAL,,Mystery Meal,ミステリーミール,Mysteriöse Mahlzeit,Repas Mystère,Comida Misteriosa,Refeição Misteriosa,Загадочное Блюдо,Pasto Misterioso,神秘餐點,神秘佳肴,미스터리 식사,Tajemniczy Posiłek,Таємнича Страва,Mysterieuze Maaltijd,Gizemli Yemek
+L_SKIN_ARRABIATA,,Arrabiata,アラビアータ,Arrabiata,Arrabiata,Arrabiata,Arrabiata,Аррабиата,Arrabiata,阿拉比亞塔,愤怒辣酱,아라비아타,Arrabiata,Арабіата,Arrabiata,Arrabiata
+L_SKIN_HARDBOILED,,Hard Boiled,ハードボイルド,Hartgesotten,Dur à Cuire,Duro de Pelar,Durão,Крутой детектив,Duro a Morire,硬漢風格,全熟,하드보일드,Twardziel,Крутий Детектив,Hard Boiled,Sert Kafalı
+L_SKIN_STARGAZY,,Stargazy,スターゲイジー,Sterngucker,Stargazy,Stargazy,Stargazy,Старгейзи,Stargazy,星空凝視,仰望星空,별바라기,Stargazy,Зоряний погляд,Stargazy,Stargazy
+L_SKIN_EXTRASPICY,,Extra Spicy,激辛,Extra scharf,Extra épicé,Extra Picante,Extra Picante,Очень острый,Extra Piccante,超級辣,特级辣,매우 매운,Ekstra Ostre,Екстра гострий,Extra Pittig,Ekstra Acılı
+L_SKIN_DESSERT,,Dessert,デザート,Nachtisch,Dessert,Postre,Sobremesa,Десерт,Dessert,甜點,小甜点,디저트,Deser,Десерт,Dessert,Tatlı
+L_SKIN_SAUCERER,,Saucerer,ソーサラー,Saucerer,Saucier,Saucerero,Molheiro,Соусомаг,Sauciere,醬汁師,托碟术士,소스러,Czarownik,Соусьє,Sausmagi,Sosçu
+L_SKIN_SINGULARALAKADAN,,Singular Alakadan,シングラー・アラカダン,Singulärer Alakadan,Alakadan Singulier,Alakadan Singular,Alakadan Singular,Сингулярный Алакадан,Alakadan Singolare,獨特的阿拉卡丹,奇异阿拉卡丹,단일 알라카단,Osobliwy Alakadan,Сингулярний Алакадан,Enkelvoudige Alakadan,Tekil Alakadan
+L_SKIN_SINGULARAJABIRKU,,Singular Aja Birku,シングラー・アジャ・ビルク,Singulärer Aja Birku,Aja Birku Singulier,Aja Birku Singular,Singular Aja Birku,Сингулярная Аджа Бирку,Aja Birku Singolare,獨特的阿迦·比爾庫,奇异阿贾·比尔库,단일 아자 비르쿠,Osobliwy Aja Birku,Сингулярна Аджа Бірку,Enkelvoudige Aja Birku,Tekil Aja Birku
+L_SKIN_SINGULAREMLAI,,Singular Emlai,シングラー・エムライ,Singulärer Emlai,Emlai Singulier,Emlai Singular,Emlai Singular,Сингулярный Эмлай,Emlai Singolare,獨特的艾姆萊,奇异恩来,단일 엠라이,Osobliwy Emlai,Сингулярний Емлай,Enkelvoudige Emlai,Tekil Emlai
+L_SKIN_SINGULARMUMU,,Singular Mumu,シングラー・ムム,Singulärer Mumu,Mumu Singulier,Mumu Singular,Mumu Singular,Сингулярный Муму,Mumu Singolare,獨特穆穆,奇异姆姆,단일 무무,Osobliwy Mumu,Сингулярний Муму,Enkelvoudige Mumu,Tekil Mumu
+L_SKIN_SINGULAROTTUM,,Singular Ottum,シングラー・オタム,Singulärer Ottum,Ottum Singulier,Ottum Singular,Ottum Singular,Одиночный Оттум,Ottum Singolare,奇異歐特姆,奇异奥图姆,단일 오툼,Pojedynczy Ottum,Одиничний Оттум,Enkelvoudige Ottum,Tekil Ottum
+L_SKIN_SINGULARUGAT,,Singular Ugat,シングラー・ウガット,Singuläre Ugat,Ugat Singulier,Ugat Singular,Ugat Singular,Сингулярный Угат,Ugat Singolare,奇異根莖,奇异乌加特,단일 우갓,Osobliwy Ugat,Сингулярний Угат,Enkelvoudige Ugat,Tekil Ugat
+L_SKIN_SINGULARYLLOR,,Singular Yllor,シングラー・イロール,Singulärer Yllor,Yllor Singulier,Yllor Singular,Yllor Singular,Единственный Иллор,Yllor Singolare,奇異伊洛,奇异伊洛,단일 일로르,Osobliwy Yllor,Сингулярний Іллор,Enkelvoudige Yllor,Tekil Yllor
+L_SKIN_SINGULARCOLG,,Singular Colg,シングラー・コルグ,Singulärer Colg,Colg Singulier,Colg Singular,Colg Singular,Сингулярный Кольг,Colg Singolare,單一科爾格,奇异科尔格,단일 콜그,Osobliwy Colg,Сингулярний Кольг,Enkelvoudige Colg,Tekil Colg
+L_SKIN_SINGULARDARKSULKER,,Singular Darksulker,シングラー・ダークサルカー,Singulärer Dunkellauerer,Darksulker Solitaire,Acechador Oscuro Singular,Darksulker Singular,Одинокий Темнокрад,Darksulker Solitario,獨行暗潛者,奇异暗潜者,단일 암흑잠행자,Osobliwy Mrocznykradacz,Одиночний Темнокрадій,Eenzame Duisterloerder,Tekil Karanlıkpuscu
+L_SKIN_SINGULARDIAMANT,,Singular Diamant,シングラーダイアマント,Singulärer Diamant,Diamant Singulier,Diamante Singular,Diamante Singular,Сингулярный Диамант,Diamante Singolare,單一鑽石,奇异晶簇灵,단일 디아망,Pojedynczy Diament,Сингулярний Діамант,Enkelvoudige Diamant,Tekil Elmas
+L_SKIN_SINGULARDIKYA,,Singular Dikya,シングラー・ディキャ,Singulärer Dikya,Dikya Singulier,Dikya Singular,Dikya Singular,Сингулярная Дикья,Dikya Singolare,單一迪卡,奇异迪卡亚,단일 디키아,Osobliwa Dikya,Сингулярна Дік'я,Enkelvoudige Dikya,Tekil Dikya
+L_SKIN_SINGULARELQOR,,Singular Elqor,シングラー・エルコー,Singulärer Elqor,Elqor Singulier,Elqor Singular,Elqor Singular,Единственный Элкор,Elqor Singolare,獨特的艾爾科,奇异艾尔科,단일 엘코르,Osobliwy Elqor,Одиничний Елкор,Enkelvoudige Elqor,Tekil Elqor
+L_SKIN_SINGULARICONUS,,Singular Iconus,シングラー・アイコナス,Singulärer Iconus,Iconus Singulier,Iconus Singular,Ícone Singular,Сингулярный Иконус,Iconus Singolare,獨特聖像,奇异伊科洛斯,단일 아이코너스,Osobliwy Ikonus,Сингулярний Іконус,Enkelvoudige Iconus,Tekil İkonus
+L_SKIN_SINGULARKALASAG,,Singular Kalasag,シングラー・カラサグ,Singulärer Kalasag,Kalasag Singulier,Kalasag Singular,Kalasag Singular,Единственный Каласаг,Kalasag Singolare,獨特盾牌,奇异卡拉萨格,단일 칼라삭,Osobliwy Kalasag,Сингулярний Каласаг,Enkelvoudige Kalasag,Tekil Kalasag
+L_SKIN_SINGULARKAPRE,,Singular Kapre,単独のカプレ,Einzelner Kapre,Kapre Singulier,Kapre Singular,Kapre Singular,Одинокий Капре,Kapre Singolare,獨特卡普雷,奇异卡普雷,단일 카프레,Osobliwy Kapre,Одиночний Капре,Enkelvoudige Kapre,Tekil Kapre
+L_SKIN_SINGULARLAGLOR,,Singular Laglor,シングラー・ラグロー,Singulärer Laglor,Laglor Singulier,Laglor Singular,Laglor Singular,Единственный Лаглор,Laglor Singolare,奇異拉格洛,奇异拉格洛尔,단일 라글로,Osobliwy Laglor,Одиничний Лаглор,Enkelvoudige Laglor,Tekil Laglor
+L_SKIN_SINGULARLINTA,,Singular Linta,シングラー・リンタ,Singuläre Linta,Linta Singulier,Linta Singular,Linta Singular,Единственная Линта,Linta Singolare,單一琳塔,奇异林塔,단일 린타,Pojedyncza Linta,Одинична Лінта,Enkelvoudige Linta,Tekil Linta
+L_SKIN_SINGULARNOXPIT,,Singular Noxpit,シングラー・ノックスピット,Singulärer Noxpit,Noxpit Singulier,Noxpit Singular,Noxpit Singular,Единичный Ноксит,Noxpit Singolare,奇異毒坑,奇异诺克斯皮特,단일 녹스핏,Pojedynczy Noxpit,Одиничний Нокспіт,Enkelvoudige Noxpit,Tekil Noxpit
+L_SKIN_SINGULARTENBRAN,,Singular Tenbran,シングラー・テンブラン,Singulärer Tenbran,Tenbran Singulier,Tenbran Singular,Tenbran Singular,Сингулярный Тенбран,Tenbran Singolare,奇異天冠,奇异坦布兰,단일 텐브란,Osobliwy Tenbran,Сингулярний Тенбран,Enkelvoudige Tenbran,Tekil Tenbran
+L_SKIN_SINGULARTHELOST,,Singular The Lost,シングラー・ザ・ロスト,Singular Der Verlorene,Le Perdu,Singular El Perdido,Singular O Perdido,Сингуляр Потерянный,Il Perduto,單數 迷失者,奇异迷失者,단독 길 잃은 자,Osobliwy Zagubiony,Сингулярний Загублений,De Verlorene,Tekil Kayıp
+L_SKIN_SINGULARTISYA,,Singular Tisya,シングラー・ティシャ,Singuläre Tisya,Tisya Singulier,Tisya Singular,Tisya Singular,Единственная Тисья,Tisya Singolare,奇異提西亞,奇异缇丝娅,단일 티샤,Pojedyncza Tisya,Сингулярна Тіся,Enkelvoudige Tisya,Tekil Tisya
+L_SKIN_SINGULARWALKEN,,Singular Walken,シングラー・ウォーケン,Singulärer Walken,Walken Singulier,Walken Singular,Singular Walken,Сингулярный Уолкен,Walken Singolare,獨特行者,奇异沃肯,싱귤러 워컨,Osobliwy Walken,Сингулярний Волкен,Enkelvoudige Walken,Tekil Walken
+L_SKIN_CHAOSFORM,,Chaos Form,カオスフォーム,Chaosform,Forme du Chaos,Forma de Caos,Forma do Caos,Форма Хаоса,Forma del Caos,混沌形態,混沌之形,혼돈의 형태,Forma Chaosu,Форма Хаосу,Chaosvorm,Kaos Formu
+L_SKIN_DEATHFORM,,Death Form,デスフォーム,Todesgestalt,Forme de Mort,Forma de Muerte,Forma da Morte,Форма Смерти,Forma della Morte,死亡形態,死亡之形,죽음의 형태,Forma Śmierci,Форма Смерті,Doodsvorm,Ölüm Formu
+L_SKIN_LIFEFORM,,Life Form,生命体,Lebensform,Forme de vie,Forma de Vida,Forma de Vida,Форма жизни,Forma di Vita,生命體,生命之形,생명체,Forma Życia,Форма життя,Levensvorm,Yaşam Formu
+L_SKIN_NATUREFORM,,Nature Form,自然形態,Naturform,Forme Naturelle,Forma Natural,Forma da Natureza,Природная Форма,Forma Naturale,自然形態,自然之形,자연 형태,Forma Natury,Природна Форма,Natuurvorm,Doğa Formu
+L_SKIN_SORCERYFORM,,Sorcery Form,魔術形態,Zauberform,Forme de Sorcellerie,Forma de Hechicería,Forma de Feitiçaria,Форма Колдовства,Forma di Stregoneria,巫術形態,巫术之形,마법 형태,Forma Czarnoksięstwa,Форма Чаклунства,Toverkunstvorm,Büyücülük Formu
+L_SKIN_LOID,,Loid,ロイド,Loid,Loid,Loid,Loid,Лоид,Loid,洛伊德,洛伊德,로이드,Loid,Лоїд,Loid,Loid
+L_SKIN_GENGGAI,,Genggai,ゲンガイ,Genggai,Genggai,Genggai,Genggai,Генггай,Genggai,更改,更改,겡가이,Genggai,Генггай,Genggai,Genggai
+L_SKIN_KIICHI,,Kiichi,キイチ,Kiichi,Kiichi,Kiichi,Kiichi,Киичи,Kiichi,紀一,吉一,키이치,Kiichi,Кіічі,Kiichi,Kiichi
+L_SKIN_KATARINA,,Katarina,カタリナ,Katarina,Katarina,Katarina,Katarina,Катарина,Katarina,卡塔莉娜,卡特琳娜,카타리나,Katarina,Катаріна,Katarina,Katarina
+L_SKIN_BLUEONI,,Blue Oni,青鬼,Blauer Oni,Oni Bleu,Oni Azul,Oni Azul,Синий Они,Oni Blu,藍鬼,蓝鬼,푸른 오니,Niebieski Oni,Синій Оні,Blauwe Oni,Mavi Oni
+L_SKIN_ZOMBIE,,Zombie,ゾンビ,Zombie,Zombie,Zombi,Zumbi,Зомби,Zombie,殭屍,僵尸,좀비,Zombie,Зомбі,Zombie,Zombi
+L_SKIN_FEMININETROLL,,Feminine Troll,女性トロール,Weiblicher Troll,Trollesse,Trol Femenino,Troll Feminina,Женщина-тролль,Troll Femmina,女性巨魔,雌性巨魔,여성 트롤,Trollica,Жінка-троль,Vrouwelijke Trol,Dişi Trol
+L_SKIN_TREASUREGOLEM,,Treasure Golem,トレジャーゴーレム,Schatzgolem,Golem de Trésor,Gólem del Tesoro,Golem do Tesouro,Сокровищный Голем,Golem del Tesoro,寶藏魔像,宝藏魔像,보물 골렘,Golem Skarbów,Скарбовий Голем,Schatgolem,Hazine Golemi
+L_SKIN_SHADOWHANDRIGHT,,Shadow Hand (Right),シャドウハンド（右）,Schattenhand (Rechts),Main d'Ombre (Droite),Mano de Sombra (Derecha),Mão das Sombras (Direita),Теневая Рука (Правая),Mano d'Ombra (Destra),暗影之手（右）,暗影之握（右）,그림자 손(오른쪽),Ręka Cienia (Prawa),Тіньова Рука (Права),Schaduwhand (Rechts),Gölge El (Sağ)
+L_SKIN_IANNE,,Ianne,イアンヌ,Ianne,Ianne,Ianne,Ianne,Ианне,Ianne,伊安妮,艾安,이안느,Ianne,Іанне,Ianne,Ianne
+L_SKIN_FURNESS,,Furness,ファーネス,Furness,Furness,Furness,Fornalha,Фернесс,Fornace,弗內斯,弗内斯,화로,Piec,Горно,Furness,Ocak
+L_SKIN_VEXT,,Vext,ヴェクスト,Vext,Vext,Vext,Vext,Векст,Vext,維克斯特,维克斯特,벡스트,Vext,Векст,Vext,Vext
+L_SKIN_CYHRA,,Cyhra,サイラ,Cyhra,Cyhra,Cyhra,Cyhra,Сайра,Cyhra,賽拉,赛拉,시라,Cyhra,Сіра,Cyhra,Cyhra
+L_SKIN_DEATHWALKER,,Deathwalker,デスウォーカー,Todesläufer,Marcheur de la Mort,Caminante de la Muerte,Mortífero,Вестник Смерти,Camminamorte,死亡行者,死亡行者,죽음방랑자,Kroczący Śmiercią,Смертоходець,Doodsreiziger,Ölümyürüyücü
+L_SKIN_JUDGMENT,,Judgment,審判,Urteil,Jugement,Juicio,Julgamento,Суд,Giudizio,審判,审判,심판,Osąd,Судження,Oordeel,Hüküm
+L_SKIN_MERCY,,Mercy,慈悲,Gnade,Miséricorde,Piedad,Misericórdia,Милосердие,Pietà,憐憫,仁慈,자비,Miłosierdzie,Милосердя,Genade,Merhamet
+L_SKIN_DEATHFROMABOVE,,Death From Above,天からの死,Tod von oben,Mort Venue d'en Haut,Muerte Desde lo Alto,Morte Vinda do Céu,Смерть Свыше,Morte Dall'Alto,從天而降的死亡,天降死神,하늘에서의 죽음,Śmierć z Niebios,Смерть Згори,Dood Van Boven,Yukarıdan Gelen Ölüm
+L_SKIN_DEATHGRIP,,Deathgrip,デスグリップ,Todesgriff,Étreinte mortelle,Garra Mortal,Garra Mortal,Смертельная хватка,Morsa Letale,死亡之握,死亡之握,죽음의 손아귀,Śmiertelny Uścisk,Смертельна хватка,Doodsgreep,Ölüm Pençesi
+L_SKIN_FRESH,,Fresh,新鮮,Frisch,Frais,Fresco,Fresco,Свежий,Fresco,新鮮,鲜活,신선한,Świeży,Свіжий,Vers,Taze
+L_SKIN_SOULSTEALER,,Soul Stealer,ソウルスティーラー,Seelendieb,Voleur d'Âmes,Ladrón de Almas,Ladrão de Almas,Похититель Душ,Ladro d'Anime,靈魂竊取者,灵魂窃取者,영혼 도둑,Złodziej Dusz,Викрадач Душ,Zielendief,Ruh Hırsızı
+L_SKIN_WILDERNESS,,Wilderness,荒野,Wildnis,Contrée sauvage,Naturaleza salvaje,Selva,Дикая местность,Natura selvaggia,荒野,荒野,황야,Dzikie Ostępy,Пустеля,Wildernis,Vahşi Doğa
+L_SKIN_GRASP,,Grasp,掴む,Griff,Saisir,Agarrar,Agarrar,Хватка,Afferrare,掌握,抓握,장악,Chwyt,Схопити,Greep,Kavrama
+L_SKIN_DIREWOLF,,Direwolf,ダイアウルフ,Schreckenswolf,Loup sinistre,Lobo terrible,Lobo Terrível,Лютоволк,Lupo Terribile,凶狼,恶狼,다이어울프,Wilkołak,Лютововк,Grimmige Wolf,Korkunç Kurt
+L_SKIN_ZOMBIE,,Zombie,ゾンビ,Zombie,Zombie,Zombi,Zumbi,Зомби,Zombie,殭屍,僵尸,좀비,Zombie,Зомбі,Zombie,Zombi
+L_SKIN_WRITHELING,,Writheling,リズリング,Krümmer,Tortueux,Retorcido,Contorcente,Корчун,Contorcente,扭曲怪,扭曲者,몸부림충,Wijący,Корчун,Kronkelwezen,Kıvranıl
+L_SKIN_UNSTABLEHORROR,,Unstable Horror,アンステイブル・ホラー,Instabiler Schrecken,Horreur instable,Horror Inestable,Horror Instável,Нестабильный Ужас,Orrore Instabile,不穩定恐魖,不稳定恐魔,불안정한 공포,Niestabilny Horror,Нестабільний Жах,Onstabiele Gruwel,Kararsız Dehşet
+L_SKIN_SLUDGE,,Sludge,スラッジ,Schleim,Boue,Lodo,Lodo,Слизь,Melma,污泥,污泥,슬러지,Szlam,Слиз,Slijm,Çamur
+L_SKIN_GHOSTBRIDE,,Ghost Bride,幽霊花嫁,Geisterbraut,Mariée Fantôme,Novia Fantasma,Noiva Fantasma,Призрачная Невеста,Sposa Fantasma,鬼新娘,幽灵新娘,유령 신부,Duch Panny Młodej,Наречена-привид,Spookbruid,Hayalet Gelin
+L_SKIN_DAPPERLAD,,Dapper Lad,ダンディな若者,Feiner Bursche,Jeune Élégant,Mozo Elegante,Rapaz Elegante,Щеголеватый Парень,Giovanotto Elegante,風雅少年,时髦小将,멋쟁이 소년,Elegancki Młodzian,Чепурний Хлопець,Keurige Knaap,Şık Delikanlı
+L_SKIN_DRAUGR,,Draugr,ドラウグル,Draugr,Draugr,Draugr,Draugr,Драугр,Draugr,屍鬼,尸鬼,드라우그르,Draugr,Драугр,Draugr,Draugr
+L_SKIN_HUNGER,,Hunger,空腹,Hunger,Faim,Hambre,Fome,Голод,Fame,飢餓,饥饿,배고픔,Głód,Голод,Honger,Açlık
+L_SKIN_PIRATECAPTAIN,,Pirate Captain,海賊船長,Piratenkapitän,Capitaine Pirate,Capitán Pirata,Capitão Pirata,Капитан Пиратов,Capitano Pirata,海盜船長,海盗船长,해적 선장,Kapitan Piratów,Капітан Піратів,Piratenkapitein,Korsan Kaptanı
+L_SKIN_ANGLER,,Angler,アングラー,Angler,Pêcheur,Pescador,Pescador,Рыболов,Pescatore,釣魚者,渔夫,낚시꾼,Wędkarz,Рибалка,Hengelaar,Balıkçı
+L_SKIN_BIOLUMINESCENT,,Bioluminescent,生物発光,Biolumineszent,Bioluminescent,Bioluminiscente,Bioluminescente,Биолюминесцентный,Bioluminescente,生物發光,生物荧光,생체발광,Bioluminescencyjny,Біолюмінесцентний,Bioluminescent,Biyolüminesan
+L_SKIN_WIZARDOFWAR,,Wizard of War,戦争の魔術師,Kriegsmagier,Magicien de Guerre,Mago de Guerra,Mago da Guerra,Волшебник Войны,Mago della Guerra,戰爭法師,战争巫师,전쟁의 마법사,Czarodziej Wojny,Чарівник Війни,Tovenaar van Oorlog,Savaş Büyücüsü
+L_SKIN_FAILEDEXPERIMENT,,Failed Experiment,失敗した実験,Fehlgeschlagenes Experiment,Expérience Ratée,Experimento Fallido,Experimento Fracassado,Неудачный Эксперимент,Esperimento Fallito,失敗的實驗,失败实验品,실패한 실험,Nieudany Eksperyment,Невдалий Експеримент,Mislukt Experiment,Başarısız Deney
+L_SKIN_HI-TECH,,Hi-Tech,ハイテク,Hi-Tech,Hi-Tech,Alta Tecnología,Hi-Tech,Хай-тек,Hi-Tech,高科技,高科技,하이테크,Hi-Tech,Хай-тек,Hi-Tech,Yüksek Teknoloji
+L_SKIN_DECADENCE,,Decadence,退廃,Dekadenz,Décadence,Decadencia,Decadência,Декаданс,Decadenza,頹廢,堕落,타락,Dekadencja,Декаданс,Decadentie,Sefahat
+L_SKIN_GLITTER,,Glitter,キラキラ,Glitzer,Éclat,Brillo,Brilho,Блеск,Scintillio,閃粉,闪光,반짝임,Błysk,Блиск,Glitter,Parıltı
+L_SKIN_ISLANDTURTLE,,Island Turtle,アイランド・タートル,Inselkröte,Tortue Insulaire,Tortuga Isla,Tartaruga Insular,Островная Черепаха,Tartaruga dell'Isola,島嶼龜,岛龟,섬 거북,Wyspiarski Żółw,Острівна Черепаха,Eilandschildpad,Ada Kaplumbağası
+L_SKIN_CULTIST,,Cultist,カルト教団員,Kultist,Cultiste,Cultista,Cultista,Культист,Cultista,邪教徒,邪教徒,광신도,Kultysta,Культист,Cultist,Tarikatçı
+L_SKIN_HEART,,Heart,ハート,Herz,Cœur,Corazón,Coração,Сердце,Cuore,心,心,심장,Serce,Серце,Hart,Kalp
+L_SKIN_BLACKANDWHITE,,Black and White,白黒,Schwarz und Weiß,Noir et Blanc,Blanco y Negro,Preto e Branco,Чёрное и Белое,Bianco e Nero,黑與白,黑白,흑백,Czerń i Biel,Чорне та Біле,Zwart en Wit,Siyah ve Beyaz
+L_SKIN_ELDER,,Elder,エルダー,Ältester,Ancien,Anciano,Ancião,Старейшина,Anziano,長老,长老,장로,Starszy,Старійшина,Oudste,Yaşlı
+L_SKIN_MAJESTY,,Majesty,威厳,Majestät,Majesté,Majestad,Majestade,Величество,Maestà,威嚴,君王,위엄,Majestat,Велич,Majesteit,Majeste
+L_SKIN_ROBOTIC,,Robotic,ロボット的,Robotisch,Robotique,Robótico,Robótico,Роботизированный,Robotico,機械人,机械,로봇형,Robotyczny,Роботичний,Robotisch,Robotik
+L_SKIN_RENEGADE,,Renegade,レネゲード,Abtrünniger,Renégat,Renegado,Renegado,Отступник,Rinnegato,叛逆者,叛逆者,배신자,Renegat,Ренегат,Afvallige,Dönek
+L_SKIN_REDKNEE,,Redknee,レッドニー,Rotknie,Genouil Rouge,Rodillaroja,Joelho Vermelho,Красноколен,Ginocchio Rosso,紅膝,红膝,레드니,Czerwonokolan,Червоноколін,Roodknie,Kızıldiz
+L_SKIN_YOUNGLING,,Youngling,若者,Jüngling,Novice,Novato,Filhote,Юнлинг,Novizio,幼體,幼崽,어린것,Młodzik,Молодик,Jongeling,Yavru
+L_SKIN_MANTIS,,Mantis,マンティス,Mantis,Mante,Mantis,Louva-a-deus,Богомол,Mantide,螳螂,螳螂,사마귀,Modliszka,Богомол,Bidsprinkhaan,Mantis
+L_SKIN_HELPERBOT,,Helper Bot,ヘルパーボット,Helfer-Bot,Robot Assistant,Bot Ayudante,Robô Ajudante,Бот-помощник,Helper Bot,助手機器人,助手机器人,도우미 봇,Pomocny Bot,Бот-помічник,Hulpbot,Yardımcı Bot
+L_SKIN_WOODLAND,,Woodland,森林地帯,Waldgebiet,Forêt,Bosque,Floresta,Лесистая местность,Bosco,林地,林地,숲지대,Las,Ліс,Bosland,Orman
+L_SKIN_DOPPELGANGER,,Doppelganger,ドッペルゲンガー,Doppelgänger,Doppelgänger,Doppelgänger,Doppelgänger,Двойник,Doppelganger,分身,替身,도플갱어,Sobowtór,Доппельгангер,Dubbelganger,Doppelganger
+L_SKIN_GEMLER,,Gemler,ゲムラー,Gemler,Gemler,Gemler,Gemler,Гемлер,Gemler,傑姆勒,宝石魔像,젬러,Gemler,Гемлер,Gemler,Mücevherler
+L_SKIN_PILWIZARD,,Pilwizard,ピルウィザード,Zauberpilz,Magimage,Pilwizard,Mago Píleo,Пилволшебник,Pilmago,藥劑法師,皮维兹巫师,필위저드,Magiczarodziej,Чарівник пілюль,Piltovenaar,Büyücü
+L_SKIN_TEMPLEOFLIES,,Temple of Lies,嘘の神殿,Tempel der Lügen,Temple des Mensonges,Templo de las Mentiras,Templo das Mentiras,Храм Лжи,Tempio delle Menzogne,謊言神殿,谎言神庙,거짓의 신전,Świątynia Kłamstw,Храм Брехні,Tempel van Leugens,Yalanlar Tapınağı
+L_SKIN_BASTIONOFTHEVOID,,Bastion of the Void,虚無の砦,Bastion der Leere,Bastion du Néant,Bastión del Vacío,Bastião do Vazio,Бастион Пустоты,Bastione del Vuoto,虛空堡壘,虚空堡垒,공허의 요새,Bastion Pustki,Бастіон Порожнечі,Bastion van de Leegte,Boşluğun Kalesi
+L_SKIN_FROSTBITECAVERNS,,Frostbite Caverns,フロストバイト洞窟,Frosthöhlen,Cavernes du Gel Mordant,Cavernas Heladas,Cavernas da Mordida Gélida,Морозные Пещеры,Caverne del Gelo Mordente,霜咬洞窟,寒霜洞穴,서리물림 동굴,Lodowe Jaskinie,Крижані Печери,Ijsbijtgrotten,Ayaz Mağaraları
+L_SKIN_REFUGEOFTHEMAGI,,Refuge of the Magi,魔術師の避難所,Zuflucht der Magier,Refuge des Mages,Refugio de los Magos,Refúgio dos Magos,Убежище Магов,Rifugio dei Maghi,魔法師的庇護所,贤者避难所,마법사들의 피난처,Schronienie Magów,Притулок Магів,Toevluchtsoord van de Magiërs,Büyücülerin Sığınağı
+L_SKIN_UNSULLIEDMEADOWS,,Unsullied Meadows,穢れなき草原,Unbefleckte Auen,Prairies Immaculées,Prados Inmaculados,Campinas Imaculadas,Незапятнанные Луга,Prati Incontaminati,純淨草原,纯净草原,오염되지 않은 초원,Nieskalane Łąki,Незаплямовані Луки,Onbevlekte Weiden,Lekesiz Çayırlar
+L_SKIN_TORTURECHAMBER,,Torture Chamber,拷問室,Folterkammer,Chambre de torture,Cámara de Tortura,Câmara de Tortura,Камера пыток,Camera di Tortura,刑求室,酷刑密室,고문실,Sala Tortur,Катівня,Martelkamer,İşkence Odası
+L_SKIN_KINGDOMOFHERETICS,,Kingdom of Heretics,異端者の王国,Königreich der Ketzer,Royaume des Hérétiques,Reino de Herejes,Reino dos Hereges,Королевство Еретиков,Regno degli Eretici,異教徒王國,异教王国,이단자의 왕국,Królestwo Heretyków,Королівство Єретиків,Koninkrijk der Ketters,Sapkınlar Krallığı
+L_SKIN_GREATPANDEMONIUM,,Great Pandemonium,大混沌,Großes Pandemonium,Grand Pandémonium,Gran Pandemonio,Grande Pandemonium,Великий Пандемониум,Grande Pandemonium,大混亂,混乱之域,대혼란,Wielki Pandemonium,Великий Пандемоніум,Groot Pandemonium,Büyük Kargaşa
+L_SKIN_CAUSTICREACTOR,,Caustic Reactor,腐食反応炉,Ätzender Reaktor,Réacteur Caustique,Reactor Cáustico,Reator Cáustico,Едкий реактор,Reattore Caustico,腐蝕反應爐,腐蚀性反应堆,부식성 원자로,Reaktor Żrący,Їдкий реактор,Bijtende Reactor,Kostik Reaktör
+L_SKIN_FARAWAYENCLAVE,,Faraway Enclave,遠方の飛地,Entlegene Enklave,Enclave Lointaine,Enclave Lejano,Enclave Distante,Дальний Анклав,Enclave Remota,遙遠飛地,遥远飞地,먼 곳의 은신처,Odległa Enklawa,Віддалений Анклав,Verre Enclave,Uzak Yerleşke
+L_SKIN_THEBARRENS,,The Barrens,不毛の地,Die Ödlande,Les Terres Désolées,Los Páramos,Os Ermos,Пустоши,Le Lande Desolate,荒原,荒芜之地,황무지,Pustkowia,Пустища,De Woestenij,Çorak Topraklar
+L_SKIN_SANCTUMUMBRA,,Sanctum Umbra,サンクタム・アンブラ,Sanctum Umbra,Sanctum Umbra,Sanctum Umbra,Santuário Sombrio,Святилище Теней,Sanctum Umbra,闇影聖殿,暗影圣所,성역의 그림자,Sanktuarium Cienia,Святилище Тіні,Heiligdom van Schaduw,Gölge Tapınağı
+L_SKIN_AZUREDREAM,,Azure Dream,蒼き夢,Azurtraum,Rêve d'Azur,Sueño Azur,Sonho Azul,Лазурный Сон,Sogno Azzurro,蒼藍夢境,碧蓝梦境,푸른 꿈,Lazurowy Sen,Лазуровий Сон,Azuurblauwe Droom,Mavi Rüya
+L_SKIN_ETERNITY'SEND,,Eternity's End,永遠の終焉,Ewigkeits Ende,Fin de l'Éternité,El Fin de la Eternidad,Fim da Eternidade,Конец Вечности,Fine dell'Eternità,永恆終焉,永恒尽头,영원의 끝,Kres Wieczności,Кінець Вічності,Einde der Eeuwigheid,Sonsuzluğun Sonu
+L_SKIN_PATHOFTHEDAMNED,,Path of the Damned,呪われし者の道,Pfad der Verdammten,Chemin des Damnés,Camino de los Condenados,Caminho dos Condenados,Путь Проклятых,Sentiero dei Dannati,詛咒之途,诅咒之路,저주받은 자의 길,Ścieżka Potępionych,Шлях Проклятих,Pad der Verdoemden,Lanetlilerin Yolu
+L_SKIN_WHERETHEDEADSHIPSDWELL,,Where the Dead Ships Dwell,死せる船の住処,Wo die toten Schiffe ruhen,Là où Gisent les Navires Morts,Donde Moran los Barcos Muertos,Onde Habitam os Navios Mortos,Где Обитают Мёртвые Корабли,Dove Dimorano le Navi dei Morti,亡船棲息之地,亡船居所,죽은 배들이 머무는 곳,Gdzie Spoczywają Martwe Okręty,Де Оселяються Мертві Кораблі,Waar de Dode Schepen Verblijven,Ölü Gemilerin Mesken Tuttuğu Yer
+L_SKIN_TITAN'SWOUND,,Titan's Wound,タイタンの傷,Titanenwunde,Blessure du Titan,Herida del Titán,Ferida do Titã,Рана Титана,Ferita del Titano,泰坦之傷,泰坦之伤,타이탄의 상처,Rana Tytana,Рана Титана,Wond van de Titaan,Titan'ın Yarası
+L_SKIN_BLOODGROVE,,Blood Grove,血の林,Bluthain,Bosquet Sanglant,Arboleda Sangrienta,Bosque Sangrento,Кровавая Роща,Boschetto di Sangue,血林,血色树林,블러드 그로브,Gaj Krwi,Кривавий Гай,Bloedwoud,Kan Korusu
+L_SKIN_THESWAMPLANDS,,The Swamplands,湿地帯,Die Sümpfe,Les Marécages,Los Pantanos,Os Pântanos,Болотные земли,Le Paludi,沼澤地帶,沼泽之地,늪지대,Mokradła,Болотні землі,De Moeraslanden,Bataklık Toprakları
+L_SKIN_CUTTHROATJUNGLE,,Cutthroat Jungle,カットスロート・ジャングル,Halsabschneider-Dschungel,Jungle Impitoyable,Jungla Despiadada,Selva Implacável,Джунгли Головорезов,Giungla dei Tagliagole,殺戮叢林,绝命丛林,살인마의 정글,Dżungla Bezwzględnych,Безжальні Джунглі,Meedogenloze Jungle,Haydut Ormanı
+L_SKIN_ARACHNIDNEST,,Arachnid Nest,アラクニドの巣,Spinnennest,Nid d'Arachnide,Nido de Arácnidos,Ninho de Aracnídeo,Гнездо арахнидов,Nido di Aracnidi,蜘蛛巢穴,蜘蛛巢穴,거미 둥지,Gniazdo Arachnidów,Павуче Гніздо,Spinnennest,Örümcek Yuvası
+L_SKIN_TREASUREGOLEM2.0,,Treasure Golem 2.0,トレジャーゴーレム2.0,Schatzgolem 2.0,Golem Trésor 2.0,Gólem del Tesoro 2.0,Golem do Tesouro 2.0,Сокровищный Голем 2.0,Golem del Tesoro 2.0,寶藏魔像 2.0,宝藏魔像2.0,보물 골렘 2.0,Golem Skarbów 2.0,Скарбовий Голем 2.0,Schatgolem 2.0,Hazine Golemi 2.0
+L_SKIN_HELLRIDER,,Hellrider,ヘルライダー,Höllenreiter,Cavalier des Enfers,Jinete Infernal,Cavaleiro Infernal,Адский всадник,Cavaliere Infernale,地獄騎士,地狱骑士,헬라이더,Piekielny Jeździec,Пекельний вершник,Helrijder,Cehennem Binicisi
+L_SKIN_METEOR,,Meteor,メテオ,Meteor,Météore,Meteoro,Meteoro,Метеор,Meteora,隕石,流星,메테오,Meteor,Метеор,Meteoor,Meteor
+L_SKIN_LOSTSOUL,,Lost Soul,迷える魂,Verlorene Seele,Âme perdue,Alma Perdida,Alma Perdida,Потерянная Душа,Anima Perduta,迷失靈魂,迷失之魂,길 잃은 영혼,Zagubiona Dusza,Загублена Душа,Verloren Ziel,Kayıp Ruh
+L_SKIN_QILIN,,Qilin,キリン,Qilin,Qilin,Qilin,Qilin,Цилинь,Qilin,麒麟,麒麟,기린,Qilin,Цілінь,Qilin,Qilin
+L_SKIN_GALACTIC,,Galactic,ギャラクティック,Galaktisch,Galactique,Galáctico,Galáctico,Галактический,Galattico,銀河系,银河,은하계,Galaktyczny,Галактичний,Galactisch,Galaktik
+L_SKIN_FEY,,Fey,フェイ,Feenwesen,Fée,Feérico,Feérico,Фея,Fatato,精靈,妖精,요정,Fey,Фея,Feeën,Peri
+L_SKIN_RAINBOWCAT,,Rainbow Cat,レインボーキャット,Regenbogenkatze,Chat Arc-en-ciel,Gato Arcoíris,Gato Arco-Íris,Радужный Кот,Gatto Arcobaleno,彩虹貓,彩虹猫,무지개 고양이,Tęczowy Kot,Райдужний Кіт,Regenboogkat,Gökkuşağı Kedi
+L_SKIN_CREATOR,,Creator,クリエイター,Schöpfer,Créateur,Creador,Criador,Создатель,Creatore,創作者,造物主,창조자,Twórca,Творець,Schepper,Yaratıcı
+L_SKIN_NIGHT,,Night,夜,Nacht,Nuit,Noche,Noite,Ночь,Notte,夜晚,夜,밤,Noc,Ніч,Nacht,Gece
+L_SKIN_FEMININE,,Feminine,フェミニン,Feminin,Féminin,Femenino,Feminino,Женский,Femminile,女性化,雌性,여성적,Kobieca,Жіноча,Vrouwelijk,Dişil
+L_SKIN_SWARM,,Swarm,群れ,Schwarm,Essaim,Enjambre,Enxame,Рой,Sciame,蜂群,蝠群,군체,Rój,Рій,Zwerm,Sürü
+L_SKIN_SKELETAL,,Skeletal,スケルタル,Skelettartig,Squelettique,Esquelético,Esquelético,Скелетный,Scheletrico,骷髏,骸骨,해골,Szkieletowy,Кістяний,Skeletachtig,İskeletimsi
+L_SKIN_STATUE,,Statue,石像,Statue,Statue,Estatua,Estátua,Статуя,Statua,雕像,雕塑,석상,Posąg,Статуя,Standbeeld,Heykel
+L_SKIN_WHITELION,,White Lion,白獅子,Weißer Löwe,Lion Blanc,León Blanco,Leão Branco,Белый Лев,Leone Bianco,白獅,白狮,하얀 사자,Biały Lew,Білий Лев,Witte Leeuw,Beyaz Aslan
+L_SKIN_CARRIONBIRD,,Carrion Bird,キャリオンバード,Aasvogel,Oiseau charognard,Ave Carroñera,Pássaro Carniceiro,Стервятник,Uccello Carogna,腐肉鳥,腐尸鸟,송장까마귀,Padlinożerny Ptak,Стерв'ятник,Aasvogel,Leş Kuşu
+L_SKIN_HELLBEAST,,Hell Beast,地獄獣,Höllenbestie,Bête Infernale,Bestia Infernal,Besta Infernal,Адское Чудовище,Bestia Infernale,地獄獸,地狱兽,지옥 야수,Bestia Piekielna,Пекельний Звір,Helbeest,Cehennem Canavarı
+L_SKIN_FEMININE,,Feminine,フェミニン,Feminin,Féminin,Femenino,Feminino,Женский,Femminile,女性化,雌性,여성적,Kobieca,Жіноча,Vrouwelijk,Dişil
+L_SKIN_ERROR,,ERROR,エラー,FEHLER,ERREUR,ERROR,ERRO,ОШИБКА,ERRORE,錯誤,错乱,오류,BŁĄD,ПОМИЛКА,FOUT,HATA
+L_SKIN_AXOLOTL,,Axolotl,アクソロトル,Axolotl,Axolotl,Axolotl,Axolotl,Аксолотль,Axolotl,六角恐龍,美西螈,아홀로틀,Aksolotl,Аксолотль,Axolotl,Aksolotl
+L_SKIN_LIBRARIAN,,Librarian,司書,Bibliothekar,Bibliothécaire,Bibliotecario,Bibliotecário,Библиотекарь,Bibliotecario,圖書管理員,图书管理员,사서,Bibliotekarz,Бібліотекар,Bibliothecaris,Kütüphaneci
+L_SKIN_GENTLEMAN,,Gentleman,紳士,Gentleman,Gentilhomme,Caballero,Cavalheiro,Джентльмен,Gentiluomo,紳士,绅士,신사,Dżentelmen,Джентльмен,Heer,Beyefendi
+L_SKIN_AAMON'SEMBRACE,,Aamon's Embrace,アーモンの抱擁,Aamons Umarmung,Étreinte d'Aamon,Abrazo de Aamon,Abraço de Aamon,Объятия Аамона,Abbraccio di Aamon,亞蒙的擁抱,亚蒙之拥,아몬의 포옹,Objęcie Aamona,Обійми Аамона,Aamons Omhelzing,Aamon'un Sarılışı
+L_SKIN_COSMIC,,Cosmic,コズミック,Kosmisch,Cosmique,Cósmico,Cósmico,Космический,Cosmico,宇宙,宇宙,우주의,Kosmiczny,Космічний,Kosmisch,Kozmik
+L_SKIN_ANACONDA,,Anaconda,アナコンダ,Anakonda,Anaconda,Anaconda,Anaconda,Анаконда,Anaconda,蟒蛇,森蚺,아나콘다,Anakonda,Анаконда,Anaconda,Anakonda
+L_SKIN_JEWELLERY,,Jewellery,宝飾品,Schmuck,Bijoux,Joyería,Joias,Украшения,Gioielli,珠寶,珍宝,보석류,Biżuteria,Прикраси,Sieraden,Mücevher
+L_SKIN_JUNKYARDDOG,,Junkyard Dog,ジャンクヤード・ドッグ,Schrottplatz-Hund,Chien de Ferraille,Perro Callejero,Cão de Ferro-Velho,Дворняга,Cane da Discarica,廢土惡犬,废品场之犬,쓰레기장 개,Śmieciowy Pies,Дворовий Пес,Schroothond,Çöplük Köpeği
+L_SKIN_FRUITBAT,,Fruit Bat,フルーツコウモリ,Fruchtfledermaus,Chauve-souris frugivore,Murciélago de la fruta,Morcego-da-fruta,Фруктовая летучая мышь,Pipistrello della frutta,果蝠,果蝠,과일박쥐,Nietoperz owocowy,Фруктовий кажан,Fruitvleermuis,Meyve Yarasası
+L_SKIN_INVADER,,Invader,インベーダー,Eindringling,Envahisseur,Invasor,Invasor,Захватчик,Invasore,入侵者,侵袭者,침략자,Najeźdźca,Загарбник,Indringer,İstilacı
+L_SKIN_GHOSTLY,,Ghostly,幽霊のような,Geisterhaft,Spectral,Fantasmal,Fantasmagórico,Призрачный,Spettrale,幽靈般的,幽灵,유령 같은,Widmowy,Примарний,Spookachtig,Hayaletimsi
+L_SKIN_OROCHI,,Orochi,オロチ,Orochi,Orochi,Orochi,Orochi,Орочи,Orochi,大蛇,大蛇,오로치,Orochi,Орочі,Orochi,Orochi
+L_SKIN_JUDOKA,,Judoka,柔道家,Judoka,Judoka,Judoka,Judoca,Дзюдоист,Judoka,柔道家,柔道家,유도가,Judoka,Дзюдоїст,Judoka,Judoka
+L_SKIN_PAGODA,,Pagoda,パゴダ,Pagode,Pagode,Pagoda,Pagode,Пагода,Pagoda,寶塔,宝塔,탑,Pagoda,Пагода,Pagode,Pagoda
+L_SKIN_INDUSTRIAL,,Industrial,インダストリアル,Industriell,Industriel,Industrial,Industrial,Промышленный,Industriale,工業,工业化,산업용,Przemysłowy,Промисловий,Industrieel,Endüstriyel
+L_SKIN_WEIRDO,,Weirdo,変人,Sonderling,Cinglé,Bicho raro,Esquisito,Чудак,Strambotto,怪咖,怪奇,괴짜,Dziwak,Дивак,Zonderling,Tuhaf
+L_SKIN_CLOWN,,Clown,ピエロ,Clown,Clown,Payaso,Palhaço,Клоун,Pagliaccio,小丑,小丑,광대,Klaun,Клоун,Clown,Palyaço
+L_SKIN_EAGLE,,Eagle,イーグル,Adler,Aigle,Águila,Águia,Орёл,Aquila,鷹,鹰,독수리,Orzeł,Орел,Adelaar,Kartal
+L_SKIN_CYBORG,,Cyborg,サイボーグ,Cyborg,Cyborg,Ciborg,Ciborgue,Киборг,Cyborg,生化人,半机械,사이보그,Cyborg,Кіборг,Cyborg,Sayborg
+L_SKIN_SOHANDSOME,,So Handsome,とてもハンサム,So Gutaussehend,Si Beau,Tan Apuesto,Tão Bonito,Такой красавчик,Così Affascinante,好帥氣,真帅,너무 잘생겼어,Tak Przystojny,Такий Вродливий,Zo Knap,Çok Yakışıklı
+L_SKIN_CHAMELEON,,Chameleon,カメレオン,Chamäleon,Caméléon,Camaleón,Camaleão,Хамелеон,Camaleonte,變色龍,变色龙,카멜레온,Kameleon,Хамелеон,Kameleon,Bukalemun
+L_SKIN_CORRUPTED,,Corrupted,腐敗した,Verdorben,Corrompu,Corrompido,Corrompido,Искаженный,Corrotto,腐化,腐化,타락한,Zepsuty,Спотворений,Verdorven,Yozlaşmış
+L_SKIN_COMMON,,Common,一般,Gewöhnlich,Commun,Común,Comum,Обычный,Comune,普通,普通,일반,Pospolity,Звичайний,Algemeen,Yaygın
+L_SKIN_QUARTERBACK,,Quarterback,クォーターバック,Quarterback,Quarterback,Mariscal de campo,Quarterback,Квотербек,Quarterback,四分衛,四分卫,쿼터백,Rozgrywający,Квотербек,Quarterback,Quarterback
+L_SKIN_FORGE,,Forge,鍛冶場,Schmiede,Forge,Forja,Forja,Кузница,Forgia,鍛造,锻造,대장간,Kuźnia,Кузня,Smederij,Demirci
+L_SKIN_DARKLORD,,Dark Lord,ダークロード,Dunkler Fürst,Seigneur des Ténèbres,Señor Oscuro,Senhor das Trevas,Тёмный Владыка,Signore Oscuro,黑暗領主,黑暗领主,암흑군주,Mroczny Lord,Темний Володар,Duistere Heer,Karanlık Lord
+L_SKIN_ANGRYSPIRITS,,Angry Spirits,怒れる霊,Zornige Geister,Esprits Furieux,Espíritus Furiosos,Espíritos Furiosos,Разгневанные Духи,Spiriti Furiosi,憤怒的靈魂,愤怒幽灵,분노한 영혼,Gniewne Duchy,Розлючені Духи,Boze Geesten,Öfkeli Ruhlar
+L_SKIN_LIGHTSIN,,Light Sin,光の罪,Leichtes Vergehen,Péché de Lumière,Pecado de Luz,Pecado da Luz,Легкий Грех,Peccato di Luce,光之罪,光明之罪,빛의 죄,Lekki Grzech,Легкий Гріх,Licht Zonde,Hafif Günah
+L_SKIN_DEATHBOT,,Deathbot,デスボット,Todesbot,Deathbot,Deathbot,Robô da Morte,Робот Смерти,Deathbot,死亡機器人,死亡机器人,데스봇,Śmiercionator,Смертобот,Doodsrobot,Ölümbot
+L_SKIN_SHADOWWRAITH,,Shadow Wraith,シャドウレイス,Schattengeist,Spectre des Ombres,Espectro Sombrío,Espectro Sombrio,Призрачный Дух,Spettro d'Ombra,暗影幽魂,暗影幽魂,그림자 망령,Upiór Cienia,Тіньовий Привид,Schaduwgeest,Gölge Hayalet
+L_SKIN_FOSSIL,,Fossil,化石,Fossil,Fossile,Fósil,Fóssil,Окаменелость,Fossile,化石,化石,화석,Skamieniałość,Скам'янілість,Fossiel,Fosil
+L_SKIN_FEMININE,,Feminine,フェミニン,Feminin,Féminin,Femenino,Feminino,Женский,Femminile,女性化,雌性,여성적,Kobieca,Жіноча,Vrouwelijk,Dişil
+L_SKIN_MASCULINE,,Masculine,男性的,Maskulin,Masculin,Masculino,Masculino,Мужской,Maschile,陽性,雄性,남성,Męski,Чоловічий,Mannelijk,Eril
+L_SKIN_CYBER,,Cyber,サイバー,Cyber,Cyber,Ciber,Cyber,Кибер,Cyber,網路,赛博,사이버,Cyber,Кібер,Cyber,Siber
+L_SKIN_DEATHADDER,,Death Adder,デスアダー,Todesotter,Vipère Mortelle,Sierpe Mortal,Víbora da Morte,Смертоносная Гадюка,Vipera della Morte,死亡蝰蛇,死亡蝰蛇,데스 애더,Żmija Śmierci,Смертоносна Гадюка,Doodadder,Ölüm Engereki
+L_SKIN_GHOST,,Ghost,ゴースト,Geist,Fantôme,Fantasma,Fantasma,Призрак,Fantasma,幽靈,幽灵,유령,Duch,Привид,Geest,Hayalet
+L_SKIN_MERMAID,,Mermaid,マーメイド,Meerjungfrau,Sirène,Sirena,Sereia,Русалка,Sirena,人魚,人鱼,인어,Syrena,Русалка,Zeemeermin,Denizkızı
+L_SKIN_GREATSPHINX,,Great Sphinx,グレート・スフィンクス,Große Sphinx,Grand Sphinx,Gran Esfinge,Grande Esfinge,Великий Сфинкс,Grande Sfinge,大獅身人面像,大斯芬克斯,그레이트 스핑크스,Wielki Sfinks,Великий Сфінкс,Grote Sfinx,Büyük Sfenks
+L_SKIN_ROCK,,Rock,岩,Fels,Roche,Roca,Rocha,Камень,Roccia,岩石,岩石,바위,Skała,Камінь,Rots,Kaya
+L_SKIN_DARKNESS,,Darkness,闇,Dunkelheit,Ténèbres,Oscuridad,Escuridão,Тьма,Oscurità,黑暗,黑暗,어둠,Ciemność,Темрява,Duisternis,Karanlık
+L_SKIN_ROBED,,Robed,ローブを着た,Gewandet,Vêtu d'une robe,Encapuchado,Vestido,Облачённый в мантию,Ammantato,長袍,长袍,로브를 입은,Odziana w szatę,Одягнений у мантію,Gewaad,Cüppeli
+L_SKIN_MADLORD,,Mad Lord,狂える領主,Wahnsinniger Fürst,Seigneur Fou,Señor Demente,Senhor Louco,Безумный Лорд,Signore Folle,瘋狂領主,疯狂领主,광란의 군주,Szalony Lord,Божевільний Лорд,Waanzinnige Heer,Çılgın Lord
+L_SKIN_TERRORBULL,,Terror Bull,テラーブル,Terrorstier,Taureau Terrifiant,Toro del Terror,Touro do Terror,Бык Ужаса,Toro del Terrore,恐怖牛魔,恐怯公牛,테러 불,Byk Grozy,Бик Жаху,Terreurstier,Dehşet Boğası
+L_SKIN_ANGELOFRUIN,,Angel of Ruin,滅亡の天使,Engel des Ruins,Ange de la Ruine,Ángel de la Ruina,Anjo da Ruína,Ангел Разрушения,Angelo della Rovina,毀滅天使,毁灭天使,파멸의 천사,Anioł Zagłady,Ангел Руїни,Engel van Verwoesting,Yıkım Meleği
+L_SKIN_ANCIENTTECH,,Ancient Tech,古代技術,Uralte Technik,Technologie Ancienne,Tecnología Antigua,Tecnologia Antiga,Древняя Технология,Tecnologia Antica,遠古科技,远古科技,고대 기술,Starożytna Technologia,Прадавня Техніка,Oude Technologie,Kadim Teknoloji
+L_SKIN_DARKSANCTUS,,Dark Sanctus,ダークサンクタス,Dunkler Sanctus,Sanctus Ténébreux,Sanctus Oscuro,Sanctus Sombrio,Тёмный Сантус,Sanctus Oscuro,黑暗聖咒,黑暗圣灵,다크 생투스,Mroczny Sanctus,Темний Санктус,Duister Sanctus,Karanlık Sanctus
+L_SKIN_KITSUNE,,Kitsune,キツネ,Kitsune,Kitsune,Kitsune,Kitsune,Кицунэ,Kitsune,狐妖,狐妖,키츠네,Kitsune,Кіцуне,Kitsune,Kitsune
+L_SKIN_CELESTIAL,,Celestial,セレスティアル,Himmlisch,Céleste,Celestial,Celestial,Небесный,Celestiale,天界,天界,천상의,Niebiański,Небесний,Hemels,Göksel
+L_SKIN_DOE,,Doe,ドウ,Reh,Biche,Ciervo,Doar,Лань,Cerva,母鹿,雌鹿,도,Łania,Лань,Doen,Geyik
+L_SKIN_DIVINE,,Divine,神聖,Göttlich,Divin,Divino,Divino,Божественный,Divino,神聖,神圣,신성한,Boski,Божественний,Goddelijk,İlahi
+L_SKIN_LAZERBLADE,,Lazer Blade,レーザーブレード,Laserklinge,Lame Laser,Espada Láser,Lâmina Laser,Лазерный Клинок,Lama Laser,雷射刀鋒,激光之刃,레이저 블레이드,Ostrze Laserowe,Лазерний Клинок,Lazerkling,Lazer Kılıcı
+L_SKIN_TYRANT,,Tyrant,暴君,Tyrann,Tyran,Tirano,Tirano,Тиран,Tiranno,暴君,暴君,폭군,Tyran,Тиран,Tiran,Tiran
+L_SKIN_CHROME,,Chrome,クローム,Chrom,Chrome,Cromo,Cromo,Хром,Cromo,鉻,铬,크롬,Chrom,Хром,Chroom,Krom
+L_SKIN_VOIDPRIEST,,Void Priest,虚無の司祭,Leerenpriester,Prêtre du Néant,Sacerdote del Vacío,Sacerdote do Vazio,Жрец Пустоты,Sacerdote del Vuoto,虛空祭司,虚空祭司,공허의 사제,Kapłan Pustki,Жрець Порожнечі,Leegtepriester,Boşluk Rahibi
+L_SKIN_THUNDERPRIEST,,Thunder Priest,雷の司祭,Donnerpriester,Prêtre du Tonnerre,Sacerdote del Trueno,Sacerdote do Trovão,Жрец Грома,Sacerdote del Tuono,雷霆祭司,雷鸣祭司,천둥 사제,Kapłan Gromu,Жрець Грому,Donderpriester,Gök Rahibi
+L_SKIN_MOONPRIEST,,Moon Priest,月の司祭,Mondpriester,Prêtre de la Lune,Sacerdote Lunar,Sacerdote Lunar,Лунный Жрец,Sacerdote Lunare,月之祭司,拜月祭司,달의 사제,Księżycowy Kapłan,Місячний Жрець,Maanpriester,Ay Rahibi
+L_SKIN_EXCAVATOR,,Excavator,発掘者,Ausgräber,Excavateur,Excavador,Escavador,Экскаватор,Escavatore,挖掘者,开凿者,발굴가,Koparka,Екскаватор,Graafmachine,Kazıcı
+L_SKIN_MYRMIDON,,Myrmidon,ミルミドン,Myrmidon,Myrmidon,Mirmidón,Mirmidão,Мирмидон,Mirmidone,螞蟻戰士,蚁族战士,미르미돈,Myrmidon,Мірмідон,Myrmidon,Myrmidon
+L_SKIN_NECROHUNTER,,Necro Hunter,ネクロハンター,Nekromantenjäger,Chasseur de Nécromants,Cazador de Nigromantes,Caçador de Necromantes,Охотник на Нежить,Cacciatore di Necro,死靈獵人,死灵猎手,네크로 헌터,Łowca Nekro,Мисливець на Нежить,Necromantenjager,Nekro Avcısı
+L_SKIN_POLLUTION,,Pollution,汚染,Verschmutzung,Pollution,Contaminación,Poluição,Загрязнение,Inquinamento,污染,污染,오염,Zanieczyszczenie,Забруднення,Vervuiling,Kirlilik
+L_SKIN_DELINQUENT,,Delinquent,不良,Delinquent,Délinquant,Delincuente,Delinquente,Хулиган,Delinquente,不良少年,不良少年,불량배,Bandzior,Правопорушник,Delinquent,Serseri
+L_SKIN_VENOM,,Venom,毒,Gift,Venin,Veneno,Veneno,Яд,Veleno,毒液,毒液,맹독,Trucizna,Отрута,Gif,Zehir
+L_SKIN_LITTLEANGEL,,Little Angel,リトルエンジェル,Kleiner Engel,Petit Ange,Pequeño Ángel,Pequeno Anjo,Маленький Ангел,Piccolo Angelo,小天使,小小天使,작은 천사,Mały Anioł,Маленький Янгол,Kleine Engel,Küçük Melek
+L_SKIN_SINISTERFOG,,Sinister Fog,不吉な霧,Unheilvoller Nebel,Brume Sinistre,Niebla Siniestra,Névoa Sinistra,Зловещий Туман,Nebbia Sinistra,邪惡迷霧,邪恶之雾,불길한 안개,Złowroga Mgła,Зловісний Туман,Onheilspellende Mist,Uğursuz Sis
+L_SKIN_PYROCUMULUS,,Pyrocumulus,パイロキュムラス,Pyrocumulus,Pyrocumulus,Pirocúmulo,Pirocúmulo,Пирокумулюс,Pirocumulo,火積雲,火积云,불적운,Pirokumulus,Пірокумулюс,Pyrocumulus,Ateşbulut
+L_SKIN_SACREDSCARAB,,Sacred Scarab,聖なる甲虫,Heiliger Skarabäus,Scarabée Sacré,Escarabajo Sagrado,Escaravelho Sagrado,Священный Скарабей,Scarabeo Sacro,神聖聖甲蟲,圣甲虫,신성한 스카라베,Święty Skarabeusz,Священний Скарабей,Heilige Scarabee,Kutsal Bok Böceği
+L_SKIN_COBALTBLUE,,Cobalt Blue,コバルトブルー,Kobaltblau,Bleu Cobalt,Azul Cobalto,Azul Cobalto,Кобальтовый синий,Blu Cobalto,鈷藍色,钴蓝,코발트 블루,Kobaltowy Błękit,Кобальтовий синій,Kobaltblauw,Kobalt Mavisi
+L_SKIN_ROSYMAPLE,,Rosy Maple,ローズメイプル,Rosenahorn,Érable Rosé,Arce Rosado,Bordo Rosado,Розовый Клён,Acero Rosato,粉紅楓,红玫枫,장밋빛 단풍,Różowy Klon,Рожевий Клен,Roze Esdoorn,Pembe Akçaağaç
+L_SKIN_OUTCAST,,Outcast,アウトキャスト,Ausgestoßener,Paria,Paria,Pária,Изгой,Reietto,流放者,流放者,추방자,Wyrzutek,Вигнанець,Verstotene,Dışlanmış
+L_SKIN_RADIATION,,Radiation,放射能,Strahlung,Radiation,Radiación,Radiação,Радиация,Radiazione,輻射,辐射,방사능,Promieniowanie,Радіація,Straling,Radyasyon
+L_SKIN_PARROT,,Parrot,オウム,Papagei,Perroquet,Loro,Papagaio,Попугай,Pappagallo,鸚鵡,鹦鹉,앵무새,Papuga,Папуга,Papegaai,Papağan
+L_SKIN_EYEOFTHESTORM,,Eye of the Storm,嵐の目,Auge des Sturms,Œil de la Tempête,Ojo de la Tormenta,Olho da Tempestade,Око Бури,Occhio della Tempesta,風暴之眼,风暴之眼,폭풍의 눈,Oko Burzy,Око Бурі,Oog van de Storm,Fırtınanın Gözü
+L_SKIN_REALITYBREACH,,Reality Breach,リアリティ・ブリーチ,Realitätsriss,Brèche de Réalité,Brecha de Realidad,Brecha na Realidade,Разлом Реальности,Breccia nella Realtà,現實裂隙,现实裂隙,현실 침범,Wyłom Rzeczywistości,Розлом Реальності,Realiteitsbreuk,Gerçeklik İhlali
+L_SKIN_SHAVED,,Shaved,剃った,Rasiert,Rasé,Afeitado,Raspado,Бритый,Rasato,削減,剃毛,면도한,Ogolony,Поголений,Geschoren,Tıraşlı
+L_SKIN_DARKMAGIC,,Dark Magic,ダークマジック,Dunkle Magie,Magie Noire,Magia Oscura,Magia Negra,Тёмная магия,Magia Oscura,黑暗魔法,黑魔法,암흑 마법,Mroczna Magia,Темна магія,Duistere Magie,Kara Büyü
+L_SKIN_MASCULINE,,Masculine,男性的,Maskulin,Masculin,Masculino,Masculino,Мужской,Maschile,陽性,雄性,남성,Męski,Чоловічий,Mannelijk,Eril
+L_SKIN_BLASTER,,Blaster,ブラスター,Blaster,Blaster,Blaster,Blaster,Бластер,Blaster,爆破槍,爆破者,블래스터,Blaster,Бластер,Blaster,Patlatıcı
+L_SKIN_UNSTABLE,,Unstable,不安定,Instabil,Instable,Inestable,Instável,Нестабильный,Instabile,不穩定,不稳定,불안정한,Niestabilny,Нестабільний,Onstabiel,Kararsız
+L_SKIN_FULLPOWER,,Full Power,フルパワー,Volle Kraft,Pleine Puissance,Poder Máximo,Poder Máximo,Полная Мощь,Potenza Massima,全力以赴,完全力量,최대 파워,Pełna Moc,Повна Сила,Volle Kracht,Tam Güç
+L_SKIN_BRUTALITY,,Brutality,残忍さ,Brutalität,Brutalité,Brutalidad,Brutalidade,Жестокость,Brutalità,殘暴,残暴,잔혹함,Brutalność,Жорстокість,Brutaliteit,Vahşet
+L_SKIN_PRISMATIC,,Prismatic,プリズマティック,Prismatisch,Prismatique,Prismático,Prismático,Призматический,Prismatico,稜鏡,棱镜,프리즘,Pryzmatyczny,Призматичний,Prismatisch,Prizmatik
+L_SKIN_WINTERCAPE,,Winter Cape,ウィンターケープ,Winterumhang,Cape d'Hiver,Capa Invernal,Capa de Inverno,Зимний Плащ,Mantello Invernale,冬季披風,冬季披风,겨울 망토,Zimowy Płaszcz,Зимовий плащ,Wintermantel,Kış Pelerini
+L_SKIN_NIGHTMARE,,Nightmare,ナイトメア,Albtraum,Cauchemar,Pesadilla,Pesadelo,Кошмар,Incubo,夢魘,噩梦,악몽,Koszmar,Кошмар,Nachtmerrie,Kabus
+L_SKIN_GODDESSOFPEACE,,Goddess of Peace,平和の女神,Göttin des Friedens,Déesse de la Paix,Diosa de la Paz,Deusa da Paz,Богиня Мира,Dea della Pace,和平女神,和平女神,평화의 여신,Bogini Pokoju,Богиня Миру,Godin van Vrede,Barış Tanrıçası
+L_SKIN_ABYSSAL,,Abyssal,アビサル,Abgründig,Abyssal,Abisal,Abissal,Бездонный,Abissale,深淵,深渊,심연의,Otchłaniowy,Безодня,Afgrondelijk,Dipsiz
+L_SKIN_YOUNG,,Young,若い,Jung,Jeune,Joven,Jovem,Молодой,Giovane,年輕,年轻,젊은,Młody,Молодий,Jong,Genç
+L_SKIN_DEEPMEDITATION,,Deep Meditation,深い瞑想,Tiefe Meditation,Méditation Profonde,Meditación Profunda,Meditação Profunda,Глубокая медитация,Meditazione Profonda,深層冥想,深度冥想,깊은 명상,Głęboka Medytacja,Глибока Медитація,Diepe Meditatie,Derin Meditasyon
+L_SKIN_PERFECTBALANCE,,Perfect Balance,パーフェクトバランス,Perfektes Gleichgewicht,Équilibre Parfait,Equilibrio Perfecto,Equilíbrio Perfeito,Идеальный Баланс,Equilibrio Perfetto,完美平衡,完美平衡,완벽한 균형,Idealna Równowaga,Ідеальний Баланс,Perfecte Balans,Mükemmel Denge
+L_SKIN_HEMORRHAGE,,Hemorrhage,出血,Blutsturz,Hémorragie,Hemorragia,Hemorragia,Кровотечение,Emorragia,流血,流血,출혈,Krwotok,Кровотеча,Bloeding,Kanama
+L_SKIN_DIVINEGUARDIAN,,Divine Guardian,神聖なる守護者,Göttlicher Wächter,Gardien Divin,Guardián Divino,Guardião Divino,Божественный Страж,Guardiano Divino,神聖守護者,神圣守护者,신성한 수호자,Boski Strażnik,Божественний Охоронець,Goddelijke Beschermer,İlahi Muhafız
+L_SKIN_SPIDERFORM,,Spider Form,スパイダーフォーム,Spinnengestalt,Forme d'araignée,Forma de Araña,Forma de Aranha,Форма паука,Forma di Ragno,蜘蛛形態,蜘蛛之形,거미 형태,Forma Pająka,Форма павука,Spinnenvorm,Örümcek Formu
+L_SKIN_RADIANT,,Radiant,ラディアント,Strahlend,Radiant,Radiante,Radiante,Сияющий,Radioso,光輝,光辉,광휘,Promienisty,Сяючий,Stralend,Parlak
+L_SKIN_PAIN,,Pain,痛み,Schmerz,Douleur,Dolor,Dor,Боль,Dolore,痛苦,痛苦,고통,Ból,Біль,Pijn,Acı
+L_SKIN_ONEWITHTHEVOID,,One With the Void,虚無との一体化,Eins mit der Leere,Un avec le Néant,Uno Con el Vacío,Um com o Vazio,Единое с Пустотой,Uno Con il Vuoto,與虛無合一,虚空合一,공허와 하나 된 자,Jedność z Pustką,Єдиний з Порожнечею,Eén Met de Leegte,Boşlukla Bir
+L_SKIN_TRUERAGE,,True Rage,真なる憤怒,Wahrer Zorn,Rage Véritable,Furia Verdadera,Fúria Verdadeira,Истинная Ярость,Furia Autentica,真實狂怒,真正的愤怒,진정한 분노,Prawdziwa Furia,Справжня Лють,Ware Woede,Gerçek Öfke
+L_SKIN_MECH,,Mech,メカ,Mech,Méca,Meca,Mecha,Мех,Mech,機甲,机甲,메크,Mech,Мех,Mech,Meka
+L_SKIN_ASCENDANT,,Ascendant,アセンダント,Aufgestiegener,Ascendant,Ascendente,Ascendente,Вознесенный,Ascendente,超凡者,飞升者,승천자,Wzniesiony,Вознесений,Verhevene,Yükselmiş
+L_SKIN_INFERNO,,Inferno,インフェルノ,Inferno,Inferno,Inferno,Inferno,Инферно,Inferno,煉獄,炼狱,인페르노,Inferno,Інферно,Inferno,Cehennem
+L_SKIN_GNOSIS,,Gnosis,ノーシス,Gnosis,Gnosis,Gnosis,Gnosis,Гнозис,Gnosi,靈知,灵知,노시스,Gnoza,Гнозис,Gnosis,Gnosis
+L_SKIN_ARCHMAGE,,Archmage,大魔導師,Erzmagier,Archimage,Archimago,Arquimago,Архимаг,Arcimago,大法師,大法师,대마법사,Arcymag,Архімаг,Aartsmagiër,Başbüyücü
+L_SKIN_TEDDYBEAR,,Teddy Bear,テディベア,Teddybär,Ours en peluche,Osito de Peluche,Ursinho de Pelúcia,Плюшевый мишка,Orsacchiotto,泰迪熊,泰迪熊,테디 베어,Pluszowy Miś,Плюшевий ведмедик,Teddybeer,Oyuncak Ayı
+L_SKIN_CALAVERA,,Calavera,カラベラ,Calavera,Calavera,Calavera,Calavera,Калавера,Calavera,卡拉維拉,卡拉维拉,칼라베라,Calavera,Калавера,Calavera,Calavera
+L_SKIN_CALACA,,Calaca,カラカ,Calaca,Calaca,Calaca,Calaca,Калака,Calaca,骷髏怪,卡拉卡,칼라카,Calaca,Калака,Calaca,Calaca
+L_SKIN_NINJA,,Ninja,忍者,Ninja,Ninja,Ninja,Ninja,Ниндзя,Ninja,忍者,忍者,닌자,Ninja,Ніндзя,Ninja,Ninja
+L_SKIN_MRS.CLAUS,,Mrs. Claus,サンタ夫人,Frau Claus,Mère Noël,Sra. Claus,Sra. Noel,Миссис Клаус,Signora Claus,聖誕老人太太,圣诞夫人,산타 부인,Pani Mikołajowa,Місіс Клаус,Mevrouw Claus,Bayan Noel
+L_SKIN_GIFTWRAPPED,,Gift Wrapped,ギフトラップ,Geschenkverpackt,Emballé Cadeau,Envuelto para Regalo,Embrulhado para Presente,Подарочная упаковка,Incartato Regalo,禮品包裝,礼品包装,선물 포장된,Zapakowany na prezent,Подарунково Упаковано,Ingepakt Cadeau,Hediye Paketli
+L_SKIN_CANDYCANE,,Candy Cane,キャンディケーン,Zuckerstange,Sucre d'orge,Bastón de Caramelo,Bengala Doce,Леденец,Bastoncino di Zucchero,拐杖糖,拐杖糖,사탕 지팡이,Laska Cukrowa,Льодяна Паличка,Zuurstok,Şeker Bastonu
+L_SKIN_NUTCRACKER,,Nutcracker,ナットクラッカー,Nussknacker,Casse-noisette,Cascanueces,Quebra-Nozes,Щелкунчик,Schiaccianoci,胡桃鉗,胡桃夹子,호두까기 인형,Dziadek do Orzechów,Лускунчик,Notenkraker,Fındıkkıran
+L_SKIN_SEASON'SBEATINGS,,Season's Beatings,シーズンズ・ビーティングス,Weihnachtliche Prügel,Raclées de Saison,Palizas Navideñas,Surras da Temporada,Сезонные Побои,Bastonate Natalizie,季節的毆打,节日惩戒,시즌의 응징,Świąteczne Lanie,Сезонні Побиття,Seizoensrammelingen,Mevsimin Dayakları
+L_SKIN_SCROOGE,,Scrooge,スクルージ,Geizhals,Scrooge,Scrooge,Scrooge,Скрудж,Scrooge,吝嗇鬼,吝啬鬼,구두쇠,Skąpiec,Скрудж,Scrooge,Scrooge
+L_SKIN_COALEM,,Coalem,コーレム,Coalem,Coalem,Coalem,Coalem,Коалем,Coalem,科勒姆,煤魔像,콜렘,Coalem,Коалем,Coalem,Coalem
+L_SKIN_PITWREATH,,Pit Wreath,ピット・リース,Grubengirlande,Couronne de Fosse,Corona del Abismo,Coroa do Abismo,Венец Ямы,Corona del Pozzo,深淵花環,深坑花环灵,구덩이 화환,Wieniec Otchłani,Вінок Безодні,Kuilvlecht,Çukur Çelengi
+L_SKIN_GINGERBREADHOUSE,,Gingerbread House,ジンジャーブレッドハウス,Lebkuchenhaus,Maison en Pain d'Épice,Casa de Jengibre,Casa de Pão de Gengibre,Пряничный домик,Casa di Pan di Zenzero,薑餅屋,姜饼屋,진저브레드 하우스,Piernikowa Chatka,Пряниковий будиночок,Peperkoekhuisje,Zencefilli Kurabiye Ev
+L_SKIN_BAUBLE,,Bauble,バブル,Schmuckstück,Babiole,Baratija,Bugiganga,Безделушка,Ninnolo,小飾品,饰球,장신구,Błyskotka,Дрібничка,Snuisterij,Süs
+L_SKIN_LUNAROX,,Lunar Ox,月牛,Mondochse,Bœuf Lunaire,Buey Lunar,Translator: Boi Lunar,Лунный Бык,Bue Lunare,月之牛,月之牛,월령 소,Księżycowy Wół,Місячний Бик,Maanrund,Ay Öküzü
+L_SKIN_MONKEY,,Monkey,猿,Affe,Singe,Mono,Macaco,Обезьяна,Scimmia,猴子,僧人,원숭이,Małpa,Мавпа,Aap,Maymun
+L_SKIN_SNAKE,,Snake,ヘビ,Schlange,Serpent,Serpiente,Serpente,Змея,Serpente,蛇,蛇,뱀,Wąż,Змія,Slang,Yılan
+L_SKIN_LUNARDOG,,Lunar Dog,月の犬,Mondwolf,Chien Lunaire,Perro Lunar,Cão Lunar,Лунный Пёс,Cane Lunare,月犬,月之犬,달의 개,Księżycowy Pies,Місячний Пес,Maanhond,Ay Köpeği
+L_SKIN_TIGER,,Tiger,虎,Tiger,Tigre,Tigre,Tigre,Тигр,Tigre,虎,虎,호랑이,Tygrys,Тигр,Tijger,Kaplan
+L_SKIN_LUNARGOAT,,Lunar Goat,月の山羊,Mondziege,Chèvre Lunaire,Cabra Lunar,Cabra Lunar,Лунный Козел,Capra Lunare,月之山羊,月之山羊,달의 염소,Księżycowa Koza,Місячна Коза,Maanbok,Ay Keçisi
+L_SKIN_LUNARHORSE,,Lunar Horse,月の馬,Mondpferd,Cheval Lunaire,Caballo Lunar,Cavalo Lunar,Лунный Конь,Cavallo Lunare,月馬,月之马,월광마,Księżycowy Koń,Місячний Кінь,Maanpaard,Ay Atı
+L_SKIN_VIBRANT,,Vibrant,鮮やか,Lebendig,Vibrant,Vibrante,Vibrante,Яркий,Vibrante,鮮豔,鲜艳,생동감 넘치는,Żywy,Яскравий,Levendig,Canlı
+L_SKIN_RAT,,Rat,ラット,Ratte,Rat,Rata,Rato,Крыса,Ratto,老鼠,老鼠,쥐,Szczur,Щур,Rat,Sıçan
+L_SKIN_HALLOWEENAEOLIAN,,Halloween Aeolian,ハロウィンエオリアン,Halloween Äolisch,Halloween Éolien,Halloween Aeolian,Halloween Eólico,Хэллоуинский Эолийский,Halloween Aeolian,萬聖節風神,万圣伊欧利安,할로윈 에올리안,Halloween Aeolian,Хелловінський Еоліан,Halloween Aeolisch,Cadılar Bayramı Aeolian
+L_SKIN_HALLOWEENAPOCRANOX,,Halloween Apocranox,ハロウィンアポクラノックス,Halloween Apocranox,Halloween Apocranox,Halloween Apocranox,Halloween Apocranox,Хэллоуинский Апокранокс,Halloween Apocranox,萬聖節啟示錄,万圣阿波克拉诺,할로윈 아포크라녹스,Halloween Apocranox,Хелловінський Апокранокс,Halloween Apocranox,Cadılar Bayramı Apocranox
+L_SKIN_HALLOWEENAURUM,,Halloween Aurum,ハロウィンオーラム,Halloween Aurum,Halloween Aurum,Halloween Aurum,Halloween Aurum,Хэллоуинский Аурум,Halloween Aurum,萬聖節金幣,万圣奥鲁姆,할로윈 오럼,Halloween Aurum,Хелловінське золото,Halloween Aurum,Cadılar Bayramı Aurum
+L_SKIN_HALLOWEENAZURAL,,Halloween Azural,ハロウィンアズラル,Halloween Azural,Halloween Azural,Halloween Azural,Halloween Azural,Хэллоуинская Азураль,Halloween Azural,萬聖節亞祖拉爾,万圣阿祖拉,할로윈 아주랄,Halloween Azural,Хелловінський Азурал,Halloween Azural,Cadılar Bayramı Azural
+L_SKIN_HALLOWEENCALIBAN,,Halloween Caliban,ハロウィンキャリバン,Halloween Caliban,Halloween Caliban,Halloween Caliban,Halloween Caliban,Хэллоуинский Калибан,Halloween Caliban,萬聖節卡利班,万圣卡利班,할로윈 칼리반,Halloween Caliban,Хелловінський Калібан,Halloween Caliban,Cadılar Bayramı Caliban
+L_SKIN_HALLOWEENEREBYSS,,Halloween Erebyss,ハロウィンエレビス,Halloween Erebyss,Halloween Erebyss,Halloween Erebyss,Halloween Erebyss,Хэллоуинский Эребисс,Halloween Erebyss,萬聖節厄瑞比斯,万圣艾瑞比丝,할로윈 에레비스,Halloween Erebyss,Хелловінська Еребісс,Halloween Erebyss,Cadılar Bayramı Erebyss
+L_SKIN_HALLOWEENFRIDEN,,Halloween Friden,ハロウィンフリーデン,Halloween Frieden,Halloween Friden,Halloween Friden,Halloween Friden,Хэллоуинский Фриден,Halloween Friden,萬聖節弗里登,万圣弗里登,할로윈 프리덴,Halloween Friden,Геловінський Фріден,Halloween Friden,Cadılar Bayramı Friden
+L_SKIN_HALLOWEENGONFURIAN,,Halloween Gonfurian,ハロウィンゴンフリアン,Halloween-Gonfurian,Halloween Gonfurian,Halloween Gonfurian,Halloween Gonfurian,Хэллоуинский Гонфуриан,Halloween Gonfurian,萬聖節貢夫里安,万圣贡弗瑞安,할로윈 곤푸리안,Halloween Gonfurian,Гелловінський Гонфуріан,Halloween Gonfurian,Cadılar Bayramı Gonfurian
+L_SKIN_HALLOWEENLISTER,,Halloween Lister,ハロウィンリスター,Halloween Lister,Halloween Lister,Halloween Lister,Halloween Lister,Хэллоуинский Список,Halloween Lister,萬聖節清單者,万圣利斯特,할로윈 리스터,Halloween Lister,Хеловінський Список,Halloween Lister,Cadılar Bayramı Listeleyici
+L_SKIN_HALLOWEENMERAXIS,,Halloween Meraxis,ハロウィンメラクシス,Halloween Meraxis,Halloween Meraxis,Halloween Meraxis,Halloween Meraxis,Хэллоуин Мераксис,Halloween Meraxis,萬聖節梅拉克西斯,万圣梅拉西斯,할로윈 메락시스,Halloween Meraxis,Хелловінський Мераксіс,Halloween Meraxis,Cadılar Bayramı Meraxis
+L_SKIN_HALLOWEENMORTEM,,Halloween Mortem,ハロウィンモルテム,Halloween Mortem,Halloween Mortem,Halloween Mortem,Halloween Mortem,Хэллоуин Мортем,Halloween Mortem,萬聖節死神,万圣莫特姆,할로윈 모르템,Halloween Mortem,Хеллоуїнська Смерть,Halloween Mortem,Halloween Mortem
+L_SKIN_HALLOWEENPERDITION,,Halloween Perdition,ハロウィンの堕獄,Halloween-Verdammnis,Halloween Perdition,Halloween Perdición,Halloween Perdição,Хэллоуинское Проклятие,Halloween Perdizione,萬聖節沉淪,万圣珀迪森,할로윈 파멸,Halloween Potępienie,Хеловінське Прокляття,Halloween Verdoemenis,Cadılar Bayramı Laneti
+L_SKIN_HALLOWEENREGALIS,,Halloween Regalis,ハロウィンレガリス,Halloween Regalis,Halloween Regalis,Halloween Regalis,Halloween Regalis,Хэллоуин Регалис,Halloween Regalis,萬聖節王者,万圣蕾伽丽丝,할로윈 레갈리스,Halloween Regalis,Хелловін Регаліс,Halloween Regalis,Cadılar Bayramı Regalis
+L_SKIN_HALLOWEENSURATHLI,,Halloween Surathli,ハロウィンスラスリ,Halloween Surathli,Halloween Surathli,Halloween Surathli,Halloween Surathli,Хэллоуинский Суратли,Halloween Surathli,萬聖節蘇拉斯利,万圣苏拉斯莉,할로윈 수라틀리,Halloween Surathli,Хелловінський Суратлі,Halloween Surathli,Cadılar Bayramı Surathli
+L_SKIN_HALLOWEENTARTARITH,,Halloween Tartarith,ハロウィンのタルタリス,Halloween Tartarith,Halloween Tartarith,Halloween Tartarith,Halloween Tartarith,Хэллоуинский Тартарит,Halloween Tartarith,萬聖節塔塔利斯,万圣塔尔塔里斯,할로윈 타르타리스,Halloween Tartarith,Хелловінський Тартаріт,Halloween Tartarith,Cadılar Bayramı Tartarith
+L_SKIN_HALLOWEENTENEBRIS,,Halloween Tenebris,ハロウィン・テネブリス,Halloween Tenebris,Halloween Tenebris,Halloween Tenebris,Halloween Tenebris,Хэллоуин Тенебрис,Halloween Tenebris,萬聖夜暗影,万圣特内布里斯,할로윈 테네브리스,Halloween Tenebris,Хелловін Тенебріс,Halloween Tenebris,Cadılar Bayramı Tenebris
+L_SKIN_HALLOWEENTORUN,,Halloween Torun,ハロウィンのトルン,Halloween Torun,Halloween Torun,Halloween Torun,Halloween Torun,Хэллоуин Торун,Halloween Torun,萬聖節托倫,万圣托伦,할로윈 토룬,Halloween Toruń,Хелловін Торунь,Halloween Torun,Cadılar Bayramı Torun
+L_SKIN_HALLOWEENVENEDON,,Halloween Venedon,ハロウィンヴェネドン,Halloween Venedon,Halloween Venedon,Halloween Venedon,Halloween Venedon,Хэллоуинский Венедон,Halloween Venedon,萬聖節威尼頓,万圣维内多,할로윈 베네돈,Halloween Venedon,Хелловінський Венедон,Halloween Venedon,Cadılar Bayramı Venedon
+L_SKIN_HALLOWEENVERTRAAG,,Halloween Vertraag,ハロウィンフェルトラーグ,Halloween Vertrag,Halloween Vertraag,Halloween Vertraag,Halloween Vertraag,Хэллоуинский Договор,Halloween Vertraag,萬聖節維特拉格,万圣维特拉戈,할로윈 베르트라그,Halloween Vertraag,Хелловінський Договір,Halloween Vertraag,Cadılar Bayramı Vertraag
+L_SKIN_HALLOWEENVULCANAR,,Halloween Vulcanar,ハロウィンヴァルカナー,Halloween Vulcanar,Halloween Vulcanar,Halloween Vulcanar,Halloween Vulcanar,Хэллоуинский Вулканар,Halloween Vulcanar,萬聖節火山魔龍,万圣瓦尔卡纳,할로윈 불카나르,Halloween Vulcanar,Хелловінський Вулканар,Halloween Vulcanar,Cadılar Bayramı Vulcanar
+L_SKIN_HALLOWEENYSEROS,,Halloween Yseros,ハロウィンイセロス,Halloween Yseros,Halloween Yseros,Halloween Yseros,Halloween Yseros,Хэллоуин Исерос,Halloween Yseros,萬聖節伊瑟洛斯,万圣伊瑟洛丝,할로윈 이세로스,Halloween Yseros,Хелловінський Ісерос,Halloween Yseros,Cadılar Bayramı Yseros
+L_SKIN_HALLOWEENZONTE,,Halloween Zonte,ハロウィンゾンテ,Halloween Zonte,Halloween Zonte,Halloween Zonte,Halloween Zonte,Хэллоуин Зонте,Halloween Zonte,萬聖節佐特,万圣佐特,할로윈 존테,Halloween Zonte,Хелловінський Зонте,Halloween Zonte,Cadılar Bayramı Zonte
+L_SKIN_SPRINGTIMEAEOLIAN,,Springtime Aeolian,春風のエオリアン,Frühlings-Äolisch,Éolien Printanier,Eólico Primaveral,Aeoliano Primaveril,Весенний Эолийский,Eolico Primaverile,春風之歌,春日伊欧利安,봄바람의 선율,Wiosenna Eolia,Весняний Еоловий,Lentebries Aeolisch,Bahar Rüzgarı
+L_SKIN_SPRINGTIMEEREBYSS,,Springtime Erebyss,春のエレビス,Frühlings-Erebyss,Erebyss Printanière,Erebyss Primaveral,Erebyss Primaveril,Весенний Эребисс,Erebyss Primaverile,春之艾瑞比斯,春日艾瑞比丝,봄의 에레비스,Wiosenna Erebyss,Весняний Еребіс,Lentetijd Erebyss,Bahar Erebyss
+L_SKIN_SPRINGTIMELISTER,,Springtime Lister,スプリングタイム・リスター,Frühlings-Aufzähler,Lister du Printemps,Listador de Primavera,Lister da Primavera,Весенний Листер,Catalogatore Primaverile,春日列表者,春日利斯特,봄의 목록작성자,Wiosenny Spisownik,Весняний Укладач,Lentelijst,Bahar Listeleyici
+L_SKIN_SPRINGTIMEREGALIS,,Springtime Regalis,スプリングタイム・レガリス,Frühlingszeit Regalis,Regalis Printanier,Regalis de Primavera,Regalis da Primavera,Весенний Регалис,Regalis Primaverile,春臨王都,春日蕾伽丽丝,봄의 레갈리스,Wiosenna Regalis,Весняний Регаліс,Lenteweelde Regalis,Bahar Regalis
+L_SKIN_SPRINGTIMETARTARITH,,Springtime Tartarith,スプリングタイム・タルタリス,Frühlings-Tartarith,Tartarith Printanier,Tartarith Primaveral,Tartarith Primaveril,Весенний Тартарит,Tartarith Primaverile,春之塔塔利斯,春日塔尔塔里斯,봄의 타르타리스,Wiosenny Tartarith,Весняний Тартаріт,Lentetijd Tartarith,Bahar Tartarith
+L_SKIN_SPRINGTIMETORUN,,Springtime Torun,春のトルン,Frühlings-Torun,Torun Printanier,Torun Primaveral,Torun Primaveril,Весенний Торун,Torun Primaverile,春日托倫,春日托伦,봄의 토룬,Wiosenny Toruń,Весняний Торунь,Lentetijd Torun,Bahar Torun
+L_SKIN_SUMMERFRIDEN,,Summer Friden,サマー・フライデン,Sommer Friden,Summer Friden,Summer Friden,Summer Friden,Саммер Фриден,Summer Friden,薩瑪·弗萊登,夏日弗里登,서머 프리든,Summer Friden,Саммер Фріден,Zomer Friden,Yaz Friden
+L_SKIN_SUMMERGONFURIAN,,Summer Gonfurian,サマー・ゴンフリアン,Sommer-Gonfurianer,Gonfurian d'Été,Gonfurian de Verano,Gonfurian de Verão,Летний Гонфуриан,Estate Gonfuriana,夏日貢夫里安,夏日贡弗瑞安,여름 곤푸리안,Letni Gonfurianin,Літній Гонфуріан,Zomer Gonfuriaan,Yaz Gonfurian
+L_SKIN_SUMMERMORTEM,,Summer Mortem,サマー・モルテム,Sommer Mortem,Summer Mortem,Summer Mortem,Summer Mortem,Летний Мортем,Estate Mortem,夏日死神,夏日莫特姆,여름의 죽음,Summer Mortem,Літній Мортем,Zomer Mortem,Yaz Mortem
+L_SKIN_SUMMERSURATHLI,,Summer Surathli,サマー・スラスリ,Sommer Surathli,Summer Surathli,Summer Surathli,Summer Surathli,Саммер Суратли,Summer Surathli,夏日蘇拉斯利,夏日苏拉斯莉,서머 수라틀리,Lato Surathli,Літня Суратлі,Zomer Surathli,Yaz Surathli
+L_SKIN_SUMMERTORUN,,Summer Torun,サマー・トルン,Sommer Torun,Été Torun,Verano Torun,Verão Torun,Летний Торун,Estate Torun,夏季托倫,夏日托伦,여름 토룬,Letnie Toruń,Літній Торунь,Zomer Torun,Yaz Torun
+L_SKIN_SUMMERZONTE,,Summer Zonte,サマー・ゾンテ,Sommer Zonte,Été Zonte,Verano Zonte,Summer Zonte,Саммер Зонте,Estate Zonte,夏日宗特,夏日佐特,서머 존테,Letnie Zonte,Літня Зонте,Zomer Zonte,Yaz Zonte
+L_SKIN_CHRISTMASAZURAL,,Christmas Azural,クリスマス・アズラル,Weihnachts-Azural,Noël Azural,Navidad Azural,Natal Azural,Рождественский Азурал,Natale Azural,聖誕節亞祖拉爾,圣诞阿祖拉,크리스마스 아주랄,Świąteczny Azural,Різдвяний Азурал,Kerstmis Azural,Noel Azural
+L_SKIN_CHRISTMASMERAXIS,,Christmas Meraxis,クリスマス・メラクシス,Weihnachts-Meraxis,Meraxis de Noël,Meraxis Navideño,Natal de Meraxis,Рождественский Мераксис,Meraxis Natalizia,聖誕梅拉克西斯,圣诞梅拉西斯,크리스마스 메락시스,Świąteczny Meraxis,Різдвяний Мераксіс,Kerstmis Meraxis,Noel Meraxis
+L_SKIN_CHRISTMASPERDITION,,Christmas Perdition,クリスマスの堕獄,Weihnachtsverdammnis,Perdition de Noël,Perdición Navideña,Perdição Natalina,Рождественское Проклятие,Perdizione Natalizia,聖誕浩劫,圣诞珀迪森,크리스마스 파멸,Zatracenie Bożonarodzeniowe,Різдвяна Загибель,Kerstmis Verdoemenis,Noel Laneti
+L_SKIN_CHRISTMASTORUN,,Christmas Torun,クリスマストルン,Weihnachts-Torun,Torun de Noël,Torun Navideño,Torun de Natal,Рождественский Торунь,Torun Natalizio,聖誕托倫,圣诞托伦,크리스마스 토룬,Świąteczny Toruń,Різдвяний Торунь,Kerstmis Torun,Noel Torun
+L_SKIN_CHRISTMASVENEDON,,Christmas Venedon,クリスマス・ヴェネドン,Weihnachts-Venedon,Venedon de Noël,Venedon Navideño,Venedon Natalino,Рождественский Венедон,Natale Venedon,聖誕魚人,圣诞维内多,크리스마스 베네돈,Świąteczny Venedon,Різдвяний Венедон,Kerstmis Venedon,Noel Venedon
+L_SKIN_CHRISTMASVERTRAAG,,Christmas Vertraag,クリスマス・フェルトラーグ,Weihnachts-Vertraag,Noël Vertraag,Pacto Navideño,Natal Vertraag,Рождественский Вертрааг,Natale Vertraag,聖誕節維特拉格,圣诞维特拉戈,크리스마스 베르트라그,Świąteczny Vertraag,Різдвяний Вертрааг,Kerstmis Vertraag,Noel Vertraag
+L_SKIN_SHARK,,Shark,サメ,Hai,Requin,Tiburón,Tubarão,Акула,Squalo,鯊魚,鲨鱼,상어,Rekin,Акула,Haai,Köpekbalığı
+L_SKIN_WEEPING,,Weeping,泣いている,Weinen,Pleurant,Llorando,Chorando,Рыдание,Pianto,哭泣,哭泣,흐느낌,Płacz,Плач,Wenend,Ağlama
+L_SKIN_XENON,,Xenon,キセノン,Xenon,Xenon,Xenon,Xenon,Ксенон,Xenon,氙,氙,제논,Xenon,Ксенон,Xenon,Xenon
+L_SKIN_NITROGEN,,Nitrogen,窒素,Stickstoff,Azote,Nitrógeno,Nitrogênio,Азот,Azoto,氮氣,氮气,질소,Azot,Азот,Stikstof,Azot
+L_SKIN_RIBBONS,,Ribbons,リボン,Bänder,Rubans,Cintas,Fitas,Ленты,Nastri,緞帶,飘带,리본,Wstążki,Стрічки,Linten,Kurdeleler
+L_SKIN_STORMDANCER,,Storm Dancer,ストームダンサー,Sturmtänzer,Danseur des Tempêtes,Bailarín de Tormentas,Dançarino da Tempestade,Танцующий с Бурей,Danzatore della Tempesta,風暴舞者,风暴舞者,폭풍무용수,Tancerz Burzy,Танцюрист Бурі,Stormdanser,Fırtına Dansçısı
+L_SKIN_TREASUREHOARD,,Treasure Hoard,財宝の山,Schatzhort,Trésor Amassé,Tesoro Acumulado,Tesouro Acumulado,Сокровищница,Tesoro Accumulato,寶藏堆,宝藏堆,보물 창고,Skarbiec,Скарбниця,Schattenvoorraad,Hazine Yığını
+L_SKIN_EVILSMITH,,Evil Smith,邪悪な鍛冶屋,Böser Schmied,Forgeron Maléfique,Herrero Maligno,Ferreiro Maligno,Злой Кузнец,Fabbro Malvagio,邪惡鐵匠,邪恶工匠,사악한 대장장이,Zły Kowal,Злий Коваль,Boosaardige Smid,Kötü Demirci
+L_SKIN_MAGE,,Mage,魔道士,Magier,Mage,Mago,Mago,Маг,Mago,法師,法师,마법사,Mag,Маг,Magiër,Büyücü
+L_SKIN_UNDEAD,,Undead,アンデッド,Untote,Mort-vivant,No muerto,Morto-vivo,Нежить,Non morto,不死族,亡灵,언데드,Nieumarły,Нежить,Ondode,Yaşayan Ölü
+L_SKIN_BUBBLE,,Bubble,バブル,Blase,Bulle,Burbuja,Bolha,Пузырь,Bolla,泡泡,气泡,거품,Bańka,Бульбашка,Bubbel,Baloncuk
+L_SKIN_CLUSTER,,Cluster,クラスター,Cluster,Amas,Grupo,Aglomerado,Кластер,Gruppo,集群,集群,클러스터,Skupisko,Скупчення,Cluster,Küme
+L_SKIN_WEAPONSLOADED,,Weapons Loaded,武器装填完了,Waffen geladen,Armes Chargées,Armas Cargadas,Armas Carregadas,Оружие заряжено,Armi Caricate,武器已裝填,上膛,무기 장전 완료,Broń Załadowana,Зброя заряджена,Wapens Geladen,Silahlar Yüklendi
+L_SKIN_ASTRONOMER,,Astronomer,天文学者,Astronom,Astronome,Astrónomo,Astrônomo,Астроном,Astronomo,天文學家,天文学家,천문학자,Astronom,Астроном,Astronoom,Gökbilimci
+L_SKIN_FOREMAN,,Foreman,現場監督,Vorarbeiter,Contremaître,Capataz,Capataz,Бригадир,Caposquadra,工頭,工头,현장 감독,Brygadzista,Бригадир,Voorman,Ustabaşı
+L_SKIN_LICHFLAYER,,Lichflayer,リッチフレイヤー,Lichenschinder,Écorcheur de liche,Desollador de Liches,Flagelo de Lich,Потрошитель личей,Flagellatore di Lich,巫妖剝皮者,巫妖剥皮者,리치 플레이어,Łupieżca Liczy,Вбивця лічів,Lichviller,Ölümsüz Yüzücü
+L_SKIN_FEMININE,,Feminine,フェミニン,Feminin,Féminin,Femenino,Feminino,Женский,Femminile,女性化,雌性,여성적,Kobieca,Жіноча,Vrouwelijk,Dişil
+L_SKIN_SNAIL,,Snail,カタツムリ,Schnecke,Escargot,Caracol,Caracol,Улитка,Lumaca,蝸牛,蜗牛,달팽이,Ślimak,Равлик,Slak,Salyangoz
+L_SKIN_DOUGHGRE,,Doughgre,ドウグレ,Teigork,Doughgre,Doughgre,Doughgre,Тестогр,Doughgre,麵糰魔,面团魔,도우그레,Ciestogr,Тістогр,Deegogre,Hamurcanavar
+L_SKIN_MANEATER,,Maneater,マンイーター,Menschenfresser,Mangeur d'hommes,Devorador,Devorador,Пожиратель,Divoratore,食人鯊,食人草,식인귀,Ludojad,Пожирач,Mensvreter,Yamyam
+L_SKIN_BABYSITTER,,Babysitter,ベビーシッター,Babysitter,Babysitter,Niñera,Babá,Няня,Babysitter,保姆,保姆,보모,Opiekunka,Нянька,Oppas,Bebek Bakıcısı
+L_SKIN_DEMONIC,,Demonic,悪魔の,Dämonisch,Démoniaque,Demoníaco,Demoníaco,Демонический,Demoniaco,惡魔的,恶魔化,악마적,Demoniczny,Демонічний,Demonisch,Şeytani
+L_SKIN_EFTKING,,Eft King,エフトキング,Molchkönig,Roi des Tritons,Rey Eft,Rei Eft,Король Ефтов,Re degli Eft,小蜥蜴王,幼蝾王,도마뱀 왕,Król Jaszczurek,Король Ефтів,Salamanderkoning,Eft Kralı
+L_SKIN_MOONBEAST,,Moon Beast,月獣,Mondbestie,Bête Lunaire,Bestia Lunar,Besta Lunar,Лунный Зверь,Bestia Lunare,月獸,月之兽,달의 야수,Bestia Księżycowa,Місячний Звір,Maanbeest,Ay Canavarı
+L_SKIN_ROYALGUARD,,Royal Guard,王室護衛,Königliche Garde,Garde Royale,Guardia Real,Guarda Real,Королевская Стража,Guardia Reale,皇家衛士,皇家守卫,왕실 경비대,Gwardia Królewska,Королівська Варта,Koninklijke Garde,Kraliyet Muhafızı
+L_SKIN_OVERWHELMING,,Overwhelming,圧倒的,Überwältigend,Écrasant,Abrumador,Esmagador,Сокрушительный,Travolgente,壓倒性的,势不可挡,압도적인,Przytłaczający,Приголомшливий,Overweldigend,Ezici
+L_SKIN_ROCKEN,,Rocken,ロッケン,Rocken,Rocken,Rocken,Rocken,Рокен,Rocken,洛肯,摇滚,로켄,Rocken,Рокен,Rocken,Rocken
+L_SKIN_MADHAIRDAY,,Mad Hair Day,髪の毛の大惨事,Verrückter Haartag,Journée Cheveux Fous,Día del Pelo Loco,Dia do Cabelo Maluco,Безумный День Волос,Giornata dei Capelli Pazzi,瘋狂髮型日,疯狂发型日,미친 머리 날,Dzień Szalonej Fryzury,Божевільний День Волосся,Gekke Haardag,Çılgın Saç Günü
+L_SKIN_TORNBETWIXT,,Torn Betwixt,狭間に引き裂かれし者,Zwischen den Welten Zerrissen,Déchiré Entre-Deux,Desgarrado Entre Dos,Dividido Entre Dois,Разорванный Меж Двух Миров,Lacerato nel Mezzo,撕裂之間,撕裂之间,사이에 찢겨진,Rozdarty Pomiędzy,Розірваний Навпіл,Verscheurd Tussenin,İki Arada Bölünmüş
+L_SKIN_HAPPYLITTLEFLOWER,,Happy Little Flower,ハッピーリトルフラワー,Fröhliche kleine Blume,Petite Fleur Joyeuse,Flor Pequeña Feliz,Florzinha Feliz,Счастливый Маленький Цветок,Fiorellino Felice,快樂小花朵,快乐小花,행복한 작은 꽃,Szczęśliwy Mały Kwiatek,Щаслива Маленька Квітка,Vrolijk Klein Bloempje,Mutlu Küçük Çiçek
+L_SKIN_OWLBEAST,,Owlbeast,アウルビースト,Eulenbiest,Bête-hibou,Bestia Búho,Besta-Coruja,Совомедведь,Bestia Gufo,梟獸,猫头鹰兽,올빔,Sowobest,Совопотвора,Uilbeest,Baykuşcanavarı
+L_SKIN_HELLFIRE,,Hellfire,業火,Höllenfeuer,Feu infernal,Fuego infernal,Fogo Infernal,Адское пламя,Fuoco infernale,地獄之火,地狱之火,지옥불,Piekielny Ogień,Пекельний вогонь,Hellevuur,Cehennem Ateşi
+L_SKIN_WINGED,,Winged,翼のある,Geflügelt,Ailé,Alado,Alado,Крылатый,Alato,有翼的,飞翼,날개 달린,Skrzydlaty,Крилатий,Gevleugeld,Kanatlı
+L_SKIN_CREEP,,Creep,クリープ,Schleicher,Rampant,Sigiloso,Rastejante,Жуть,Strisciante,爬行,潜行,기어가기,Pełzacz,Повзун,Kruiper,Sürünme
+L_SKIN_WORMROT,,Wormrot,ワームロット,Wurmfäule,Putréfaction Vermineuse,Podredumbre de Gusano,Podridão de Vermes,Червоточина,Putrefazione Vermesca,蟲腐,腐烂蠕虫,웜롯,Robactwo,Хробачна гниль,Wormrot,Kurtçürüğü
+L_SKIN_SPLENDID,,Splendid,素晴らしい,Prächtig,Splendide,Espléndido,Esplêndido,Великолепно,Splendido,絕妙,绝妙,훌륭하군,Wspaniały,Чудово,Schitterend,Muhteşem
+L_SKIN_!@#$YOU,,!@#$ YOU,!@#$ YOU,!@#$ DU,!@#$ TOI,!@#$ TÚ,!@#$ VOCÊ,!@#$ ТЫ,!@#$ TU,!@#$ 你,!@#$你,!@#$ 당신,!@#$ TY,!@#$ ТИ,!@#$ JOU,!@#$ SENİ
+L_SKIN_RHYLTHAR,,Rhylthar,リルサー,Rhylthar,Rhylthar,Rhylthar,Rhylthar,Рилтар,Rhylthar,萊爾薩,瑞尔萨尔,릴타르,Rhylthar,Рілтар,Rhylthar,Rhylthar
+L_SKIN_MICRONUS,,Micronus,マイクロナス,Micronus,Micronus,Micronus,Micronus,Микронус,Micronus,微型,微型伊科洛斯,마이크로너스,Micronus,Мікронус,Micronus,Micronus
+L_SKIN_CAEDOSERAPH,,Caedo Seraph,カエド・セラフ,Caedo Seraph,Caedo Seraph,Caedo Seraph,Caedo Seraph,Каэдо Серафим,Caedo Seraph,殺戮熾天使,凯撒炽天使,카에도 세라프,Caedo Seraph,Каедо Серафим,Caedo Seraph,Caedo Seraph
+L_SKIN_HOODED,,Hooded,フード付きの,Vermummt,Encapuchonné,Encapuchado,Encapuzado,Капюшон,Incappucciato,連帽的,兜帽,두건을 쓴,Zakapturzony,Капюшон,Gekapt,Kapüşonlu
+L_SKIN_CEPHALO,,Cephalo,セファロ,Cephalo,Cephalo,Cephalo,Cephalo,Цефало,Cefalo,頭足,塞法洛,세팔로,Cephalo,Цефало,Cephalo,Sefalo
+L_SKIN_COMPLETEFORM,,Complete Form,フォームを完成させる,Formular ausfüllen,Forme Complète,Forma Completa,Forma Completa,Заполнить форму,Forma Completa,完成表格,完全体,완전한 형태,Wypełnij Formularz,Заповнити форму,Voltooi Formulier,Formu Tamamla
+L_SKIN_BLOODSTALKER,,Bloodstalker,ブラッドストーカー,Blutjäger,Traqueur de sang,Cazasangre,Caçador de Sangue,Кровавый охотник,Cacciasangue,血獵者,寻血猎手,블러드스토커,Krwiopijca,Кровожер,Bloedzoeker,Kanizleyici
+L_SKIN_NIGHTTERROR,,Night Terror,ナイトテラー,Nachtschrecken,Terreur Nocturne,Pesadilla Nocturna,Pesadelo Noturno,Ночной Кошмар,Terrore Notturno,夜魘,夜魇,나이트 테러,Nocny Koszmar,Нічний Жах,Nachtmerrie,Gece Dehşeti
+L_SKIN_PLASMA,,Plasma,プラズマ,Plasma,Plasma,Plasma,Plasma,Плазма,Plasma,電漿,等离子,플라즈마,Plazma,Плазма,Plasma,Plazma
+L_SKIN_OPENED,,Opened,開いた,Geöffnet,Ouvert,Abierto,Aberto,Открыто,Aperto,已開啟,已开启,열림,Otwarto,Відкрито,Geopend,Açıldı
+L_SKIN_RHINESTONECOWBUNCLE,,Rhinestone Cowbuncle,ラインストーン・カウバンクル,Rhinestone Cowbuncle,Cowbuncle Strass,Cowbuncle Brillante,Cowbúnculo de Strass,Стразовый Ковбанкл,Cowbuncle Scintillante,萊茵石牛痘,水钻宝玉兔,라인스톤 카우번클,Kryształowy Kowbąkiel,Ковбойський Камінчик,Rhinestone Cowbuncle,Taşlı Kovboy Çıbanı
+L_SKIN_NELIN,,Nelin,ネリン,Nelin,Nelin,Nelin,Nelin,Нелин,Nelin,奈林,内林,넬린,Nelin,Нелін,Nelin,Nelin
+L_SKIN_VOIDFLY,,Voidfly,ヴォイドフライ,Leerenfalter,Mouche du néant,Mosca del vacío,Mosca do Vazio,Пустотница,Mosca del Vuoto,虛空蠅,虚空蝇,공허파리,Pustkowiec,Пустотна муха,Leegtevlieg,Boşluksineği
+L_SKIN_DOTTUM,,Dottum,ドッタム,Dottum,Dottum,Dottum,Dottum,Доттум,Dottum,多塔姆,多特姆,도텀,Dottum,Доттум,Dottum,Dottum
+L_SKIN_PUZZLEBOX,,Puzzle Box,パズルボックス,Rätselbox,Boîte à énigmes,Caja de Rompecabezas,Caixa de Quebra-cabeça,Шкатулка-головоломка,Scatola Enigmatica,謎題盒,谜题盒子,퍼즐 박스,Szkatułka z zagadką,Головоломка,Puzzeldoos,Bulmaca Kutusu
+L_SKIN_CURSED,,Cursed,呪われた,Verflucht,Maudit,Maldito,Amaldiçoado,Проклятый,Maledetto,詛咒,诅咒,저주받은,Przeklęty,Проклятий,Vervloekt,Lanetli
+L_SKIN_BLAAAAGGHHH!,,Blaaaagghhh!,ブラアアアアッガァァァ！,Blaaaagghhh!,Blaaaagghhh!,¡Blaaaagghhh!,Blaaaagghhh!,Блаааааггххх!,Blaaaagghhh!,啊啊啊啊啊啊！,呃啊啊啊啊！,으아아아악!,Blaaaagghhh!,Блаааааггххх!,Blaaaagghhh!,Blaaaagghhh!
+L_SKIN_MASTERTAMER,,Master Tamer,マスターテイマー,Meister-Zähmer,Maître Dompteur,Domador Maestro,Domador Mestre,Мастер-укротитель,Domatore Maestro,馴獸大師,驯兽大师,마스터 테이머,Mistrz Treser,Майстер Приборкувач,Meester Temmer,Usta Eğitmen
+L_SKIN_INITIATE,,Initiate,開始,Initiieren,Initier,Iniciar,Iniciar,Начать,Inizia,啟動,发起者,개시,Rozpocznij,Розпочати,Initiëren,Başlat
+L_SKIN_CHICKATRICE,,Chickatrice,チカトリス,Hühnatrice,Poulitrice,Chickatriz,Chickatrice,Чикатрис,Chickatrice,雞蛇獸,小鸡蛇,치카트리스,Kurczatrysk,Курокатриця,Kippatrice,Tavuktavus
+L_SKIN_BADOMEN,,Bad Omen,不吉な予兆,Schlechtes Omen,Mauvais Présage,Mal Presagio,Mau Presságio,Дурное Предзнаменование,Cattivo Presagio,不祥之兆,不祥之兆,불길한 징조,Zły Omen,Погана Прикмета,Slecht Voorteken,Kötü Kehanet
+L_SKIN_DEEPFEAR,,Deep Fear,ディープフィアー,Tiefe Furcht,Peur Profonde,Miedo Profundo,Medo Profundo,Глубокий Страх,Paura Profonda,深層恐懼,深度恐惧,깊은 공포,Głęboki Strach,Глибокий Страх,Diepe Angst,Derin Korku
+L_SKIN_DARKFIRE,,Darkfire,ダークファイア,Dunkelfeuer,Feu Sombre,Fuego Oscuro,Fogo Negro,Темное пламя,Fuocoscuro,暗焰,暗焰,암화,Mroczny Ogień,Темний вогонь,Duistervuur,Karanlık Ateş
+L_SKIN_MOSJITO,,Mosjito,モスヒート,Mosjito,Mosjito,Mosjito,Mosjito,Мосхито,Mosjito,魔吉托,蚊吉托,모스지토,Mosjito,Мосхіто,Mosjito,Mosjito
+L_SKIN_PORTERGEIST,,Portergeist,ポルターガイスト,Portergeist,Portergeist,Portergeist,Portergeist,Портергейст,Portergeist,搬運幽靈,黑啤鬼,포터가이스트,Portergeist,Портергейст,Portergeist,Portergeist
+L_SKIN_RUMPLING,,Rumpling,しわくちゃにする,Zerknitterung,Froissement,Arrugando,Amarrotando,Смятие,Spiegazzamento,弄皺,醉团子,구겨짐,Gniecenie,М'ятий,Verkreukelen,Buruşturma
+L_SKIN_SCHNAPPDRAGON,,Schnappdragon,スナップドラゴン,Schnappdrache,Schnappdragon,Schnappdragon,Schnappdragon,Шнаппдрагон,Schnappdragon,啪嘴龍,烈酒龙,스냅드래곤,Schnappdragon,Хвостохват,Schnappdragon,Ejderhakapan
+L_SKIN_SUZAKE,,Suzake,スザケ,Suzake,Suzake,Suzake,Suzake,Судзакэ,Suzake,鈴木,清酒鸟,스자케,Suzake,Судзаке,Suzake,Suzake
+L_SKIN_GENEROUS,,Generous,寛大な,Großzügig,Généreux,Generoso,Generoso,Щедрый,Generoso,慷慨,慷慨,관대한,Hojny,Щедрий,Gul,Cömert
+L_SKIN_ANIMATOR,,Animator,アニメーター,Animator,Animateur,Animador,Animador,Аниматор,Animatore,動畫師,塑灵师,애니메이터,Animator,Аніматор,Animator,Animatör
+L_SKIN_DREAMSHADE,,Dreamshade,ドリームシェイド,Traumschatten,Ombrerêve,Sombra Onírica,Sombra Onírica,Дримшейд,Ombrasogno,夢影,梦影行者,드림쉐이드,Cieniosennik,Мрієтінь,Droomschaduw,Rüyagölge
+L_SKIN_FANATIC,,Fanatic,狂信者,Fanatiker,Fanatique,Fanático,Fanático,Фанатик,Fanatico,狂熱者,狂信徒,광신자,Fanatyk,Фанатик,Fanatiekeling,Fanatik
+L_SKIN_GROVETENDER,,Grovetender,グローブテンダー,Hainwächter,Gardien du Bosquet,Guardián del Bosquecillo,Guardião do Bosque,Хранитель рощи,Custode del Bosco,林地守護者,护林员,숲지기,Opiekun Gaju,Лісовий доглядач,Boshoeder,Koru Bakıcısı
+L_SKIN_HELLKNIGHT,,Hell Knight,ヘルナイト,Höllenritter,Chevalier des Enfers,Caballero Infernal,Cavaleiro Infernal,Рыцарь Ада,Cavaliere Infernale,地獄騎士,地狱骑士,지옥 기사,Rycerz Piekieł,Лицар Пекла,Helleridder,Cehennem Şövalyesi
+L_SKIN_PALADIN,,Paladin,パラディン,Paladin,Paladin,Paladín,Paladino,Паладин,Paladino,聖騎士,圣骑士,팔라딘,Paladyn,Паладин,Paladijn,Şövalye
+L_SKIN_SIEGEMASTER,,Siegemaster,シージマスター,Belagerungsmeister,Maître de Siège,Maestro de Asedio,Mestre de Cerco,Мастер Осады,Maestro d'Assedio,攻城大師,围城大师,공성 대가,Mistrz Oblężenia,Майстер Облоги,Belegeringsmeester,Kuşatma Ustası
+L_SKIN_DOOMBRINGER,,Doombringer,ドゥームブリンガー,Unheilsbringer,Porteur de Ruine,Portador de la Perdición,Arauto da Ruína,Вестник Гибели,Portatore di Sventura,厄運使者,厄运使者,파멸의 인도자,Zwiastun Zagłady,Носій Загибелі,Onheilsbrenger,Kıyametgetiren
+L_SKIN_CABALIST,,Cabalist,カバリスト,Kabalist,Cabaliste,Cabalista,Cabalista,Кабалист,Cabalista,秘法師,秘术师,비술사,Kabalista,Кабаліст,Kabalist,Kabalist
+L_SKIN_NECROMANCER,,Necromancer,ネクロマンサー,Nekromant,Nécromancien,Nigromante,Necromante,Некромант,Negromante,死靈法師,死灵法师,강령술사,Nekromanta,Некромант,Necromancer,Nekromancer
+L_SKIN_DEFILER,,Defiler,穢れし者,Schänder,Profanateur,Profanador,Profanador,Осквернитель,Profanatore,褻瀆者,亵渎者,모독자,Plugawiciel,Осквернитель,Bezoedelaar,Kirletici
+L_SKIN_BLOODMAGE,,Bloodmage,ブラッドメイジ,Blutmagier,Mage de sang,Mago de sangre,Mago Sangrento,Кровомаг,Mago del Sangue,血法師,血法师,혈마법사,Krwiopan,Кровомаг,Bloedmagiër,Kan Büyücüsü
+L_SKIN_SORCERER,,Sorcerer,魔術師,Zauberer,Sorcier,Hechicero,Feiticeiro,Чародей,Stregone,巫師,术士,마법사,Czarodziej,Чаклун,Tovenaar,Büyücü
+L_SKIN_WITCHDOCTOR,,Witch Doctor,呪術医,Hexendoktor,Sorcier Vaudou,Médico Brujo,Médico Feiticeiro,Знахарь,Stregone,巫醫,巫医,주술사,Szaman,Знахар,Heksenmeester,Büyücü Doktor
+L_SKIN_WARDEN,,Warden,監視者,Wächter,Gardien,Guardián,Guardião,Страж,Custode,守衛者,守护者,감시자,Strażnik,Страж,Bewaker,Muhafız
+L_SKIN_REAVER,,Reaver,リーヴァー,Plünderer,Faucheur,Segador,Ceifador,Жнец,Predatore,掠奪者,掠夺者,약탈자,Łupieżca,Жнець,Plunderaar,Yağmacı
+L_SKIN_RUNEKNIGHT,,Rune Knight,ルーンナイト,Runenritter,Chevalier des Runes,Caballero Rúnico,Cavaleiro das Runas,Рунный Рыцарь,Cavaliere delle Rune,符文騎士,符文骑士,룬 나이트,Rycerz Run,Рунний Лицар,Runenridder,Rün Şövalyesi
+L_SKIN_PYROMANCER,,Pyromancer,パイロマンサー,Pyromant,Pyromancien,Piromante,Piromante,Пиромант,Piromante,火焰法師,烈焰术士,화염술사,Piromanta,Піромант,Pyromancer,Ateşbaz
+L_SKIN_WINDRUNNER,,Windrunner,ウィンドランナー,Windläufer,Courvent,Correvientos,Corredora dos Ventos,Ветрокрыл,Windrunner,風行者,风行者,윈드러너,Wiatrobieżca,Вітрогон,Windloper,Rüzgarkoşucu
+L_SKIN_PURGATORIAN,,Purgatorian,パーガトリアン,Purgatorier,Purgatorien,Purgatoriano,Purgatório,Чистилищный,Purgatoriano,煉獄者,炼狱使者,연옥의 자,Czyściec,Чистилищний,Purgatorisch,Purgatoryan
+L_SKIN_SPELLWEAVER,,Spellweaver,スペルウィーバー,Zauberwirker,Tisseur de sorts,Tejehechizos,Tecelão de Feitiços,Заклинатель,Tessitore di Incantesimi,織法者,法术编织者,주문술사,Tkacz Zaklęć,Чаклун,Tovenaarwever,Büyü Dokuyucu
+L_SKIN_ASTROLOGER,,Astrologer,占星術師,Astrologe,Astrologue,Astrólogo,Astrólogo,Астролог,Astrologo,占星師,星术师,점성술사,Astrolog,Астролог,Astroloog,Astrolog
+L_SKIN_EVOKER,,Evoker,エヴォーカー,Beschwörer,Évocateur,Evocador,Evocador,Пробудитель,Evocatore,喚魔師,塑能师,환기사,Przywoływacz,Заклинач,Oproeper,Çağırıcı
+L_SKIN_MONK,,Monk,僧侶,Mönch,Moine,Monje,Monge,Монах,Monaco,武僧,武僧,수도사,Mnich,Монах,Monnik,Keşiş
+L_SKIN_CLERIC,,Cleric,クレリック,Kleriker,Clerc,Clérigo,Clérigo,Жрец,Chierico,牧師,牧师,성직자,Kleryk,Клірик,Geestelijke,Rahip
+L_SKIN_INQUISITOR,,Inquisitor,審問官,Inquisitor,Inquisiteur,Inquisidor,Inquisidor,Инквизитор,Inquisitore,審判官,审判官,심문관,Inkwizytor,Інквізитор,Inquisiteur,Sorgulayıcı
+L_SKIN_DRUID,,Druid,ドルイド,Druide,Druide,Druida,Druida,Друид,Druido,德魯伊,德鲁伊,드루이드,Druid,Друїд,Druïde,Druid
+L_SKIN_TRIBALIST,,Tribalist,トライバリスト,Stammesanhänger,Tribaliste,Tribalista,Tribalista,Трайбалист,Tribalista,部落主義者,部落使者,부족주의자,Plemiennik,Трайбаліст,Stamgezinde,Kabileci
+L_SKIN_ROYAL,,Royal,ロイヤル,Königlich,Royal,Real,Real,Королевский,Reale,皇家,皇室成员,왕실,Królewski,Королівський,Koninklijk,Kraliyet
+L_SKIN_TRICKSTER,,Trickster,トリックスター,Trickster,Filou,Embaucador,Trapaceiro,Трикстер,Imbroglione,詭術師,诡术师,트릭스터,Oszust,Трикстер,Bedrieger,Hilebaz
+L_SKIN_POLYHEDRAL,,Polyhedral,ポリヘドラル,Polyeder,Polyédrique,Poliédrico,Poliédrico,Многогранный,Poliedrico,多面體,多面体,다면체,Wielościenny,Багатогранний,Polyhedrisch,Çokyüzlü
+L_SKIN_COSMIC,,Cosmic,コズミック,Kosmisch,Cosmique,Cósmico,Cósmico,Космический,Cosmico,宇宙,宇宙,우주의,Kosmiczny,Космічний,Kosmisch,Kozmik
+L_SKIN_CARCINIZATION,,Carcinization,カルシニゼーション,Karzinisierung,Carcinisation,Carcinización,Carcinização,Карцинизация,Carcinizzazione,甲殼化,蟹化,갑각화,Karcinizacja,Карцинізація,Carcinisatie,Karsinizasyon
+L_SKIN_SPINCYCLE,,Spin Cycle,スピンサイクル,Wirbelzyklus,Cycle Tournoyant,Ciclo de Giro,Ciclo de Rotação,Вихревой Цикл,Vortice Rotante,旋轉循環,旋转循环,회전 주기,Wirowanie,Обертовий Цикл,Draaicyclus,Döndürme Döngüsü
+L_SKIN_FULLPOWER,,Full Power,フルパワー,Volle Kraft,Pleine Puissance,Poder Máximo,Poder Máximo,Полная Мощь,Potenza Massima,全力以赴,完全力量,최대 파워,Pełna Moc,Повна Сила,Volle Kracht,Tam Güç
+L_SKIN_GENTLEOWL,,Gentle Owl,優しいフクロウ,Sanfte Eule,Hibou Doux,Búho Gentil,Coruja Gentil,Кроткая Сова,Gufo Gentile,溫柔貓頭鷹,绅士猫头鹰,온화한 올빼미,Łagodna Sowa,Лагідна Сова,Zachte Uil,Nazik Baykuş
+L_SKIN_DISCOINFERNO,,Disco Inferno,ディスコ・インフェルノ,Disco Inferno,Disco Inferno,Disco Inferno,Disco Inferno,Диско Инферно,Disco Inferno,狂熱迪斯可,迪斯科地狱,디스코 인페르노,Disco Inferno,Диско Інферно,Disco Inferno,Disco Inferno
+L_SKIN_BONSAI,,Bonsai,盆栽,Bonsai,Bonsaï,Bonsái,Bonsai,Бонсай,Bonsai,盆栽,盆景,분재,Bonsai,Бонсай,Bonsai,Bonsai
+L_SKIN_COSMOPOLITAN,,Cosmopolitan,コスモポリタン,Weltgewandt,Cosmopolite,Cosmopolita,Cosmopolita,Космополитичный,Cosmopolita,國際化都市,大都会,코스모폴리탄,Kosmopolityczny,Космополітичний,Kosmopolitisch,Kozmopolit
+L_SKIN_ORBIT,,Orbit,オービット,Umlaufbahn,Orbite,Órbita,Órbita,Орбита,Orbita,軌道,轨道,궤도,Orbita,Орбіта,Baan,Yörünge
+L_SKIN_GEM,,Gem,宝石,Edelstein,Gemme,Gema,Gema,Самоцвет,Gemma,寶石,宝石,보석,Klejnot,Самоцвіт,Edelsteen,Mücevher
+L_SKIN_DISCO,,Disco,ディスコ,Disco,Disco,Disco,Disco,Диско,Disco,迪斯可,迪斯科,디스코,Disco,Диско,Disco,Disko
+L_SKIN_BARISTA,,Barista,バリスタ,Barista,Barista,Barista,Barista,Бариста,Barista,咖啡師,咖啡师,바리스타,Barista,Бариста,Barista,Barista
+L_SKIN_SUNNYSIDEUP,,Sunny Side Up,サニーサイドアップ,Sonnenseite,Côté Soleil,Soleado,Ensolarado,Яичница-глазунья,Uovo al Tegamino,太陽蛋,单面煎蛋,써니 사이드 업,Jajko Sadzone,Сонячна Сторона,Zonnig Omhoog,Güneş Gibi Parlak
+L_SKIN_KING,,King,王,König,Roi,Rey,Rei,Король,Re,國王,王,왕,Król,Король,Koning,Kral
+L_SKIN_MASON,,Mason,メイソン,Mason,Mason,Mason,Mason,Мейсон,Mason,梅森,砖瓦匠,메이슨,Mason,Мейсон,Mason,Mason
+L_SKIN_ROBOTIC,,Robotic,ロボット的,Robotisch,Robotique,Robótico,Robótico,Роботизированный,Robotico,機械人,机械,로봇형,Robotyczny,Роботичний,Robotisch,Robotik
+L_SKIN_BOOMERANG,,Boomerang,ブーメラン,Bumerang,Boomerang,Bumerán,Bumerangue,Бумеранг,Boomerang,迴旋鏢,回旋镖,부메랑,Bumerang,Бумеранг,Boemerang,Bumerang
+L_SKIN_PINATA,,Pinata,ピニャータ,Piñata,Piñata,Piñata,Pinhata,Пиньята,Pignatta,皮納塔,皮纳塔,피냐타,Piniata,Піньята,Piñata,Pinata
+L_SKIN_NEBODARJR.,,Nebodar Jr.,ネボダー・ジュニア,Nebodar Jr.,Nebodar Jr.,Nebodar Jr.,Nebodar Jr.,Небодар Младший,Nebodar Jr.,尼波達爾二世,小内博达,네보다르 주니어,Nebodar Jr.,Небодар Мол.,Nebodar Jr.,Nebodar Jr.
+L_SKIN_TIGERSEYECATBUNCLE,,Tigerseye Catbuncle,タイガーズアイ・キャットバンクル,Tigerauge-Katbunkel,Œil-de-Tigre Catbuncle,Catbuncle Ojo de Tigre,Olho-de-Tigre Catbúnculo,Тигровоглазый Катбункл,Occhio di Tigre Catbuncle,虎眼貓石獸,虎眼猫兔,호안석 캣번클,Tygrysie Oko Kotobuncle,Тигрове Око Котокроль,Tijgeroog Katbunkel,Kaplanözü Kediboncuğu
+L_SKIN_NYASASSIN,,Nyasassin,ニャサシン,Nyasassin,Nyasassin,Nyasassin,Nyasassin,Ньясассин,Nyasassin,喵刺客,喵刺客,냐사신,Nyasassin,Ньясасин,Nyasassin,Nyasassin
+L_SKIN_HELLDANCER,,Hell Dancer,ヘルダンサー,Höllentänzer,Danseuse Infernale,Bailarín Infernal,Dançarina Infernal,Адская Танцовщица,Danzatore Infernale,地獄舞者,地狱舞者,지옥 무용수,Tancerz Piekieł,Танцівник Пекла,Heldanser,Cehennem Dansçısı
+L_SKIN_PORPOISEFUL,,Porpoiseful,ポーポイスフル,Zweckmäßig,Dauphiné,Porpoiseful,Intencional,Целеустремленный,Intenzionale,海豚意志,鼠海豚,돌고래의,Celowy,Цілеспрямований,Doelbewust,Amaçlı
+L_SKIN_KARASUTENGU,,Karasu Tengu,烏天狗,Karasu Tengu,Karasu Tengu,Karasu Tengu,Karasu Tengu,Карасу Тэнгу,Karasu Tengu,烏天狗,鸦天狗,까마귀 텐구,Karasu Tengu,Карасу Тенґу,Karasu Tengu,Karasu Tengu
+L_SKIN_BANDIT,,Bandit,山賊,Bandit,Bandit,Bandido,Bandido,Бандит,Bandito,強盜,强盗,도적,Bandyta,Бандит,Bandiet,Haydut
+L_SKIN_DARKSHIFT,,Dark Shift,ダークシフト,Dunkle Verschiebung,Déplacement Obscur,Cambio Oscuro,Mudança Sombria,Тёмный Сдвиг,Cambio Oscuro,暗影轉移,黑暗转化,다크 시프트,Mroczne Przesunięcie,Темний Зсув,Duistere Verschuiving,Karanlık Değişim
+L_SKIN_LIGHTSHIFT,,Light Shift,ライトシフト,Lichtverschiebung,Changement de Lumière,Cambio de Luz,Mudança de Luz,Световой Сдвиг,Cambio Luce,光明變換,光明转化,라이트 시프트,Zmiana Światła,Зміна Світла,Lichtwissel,Işık Değişimi
+L_SKIN_GHINX,,Ghinx,ギンクス,Ghinx,Ghinx,Ghinx,Ghinx,Гинкс,Ghinx,吉恩克斯,格因克斯,긴크스,Ghinx,Гінкс,Ghinx,Ghinx
+L_SKIN_PURRGY,,Purrgy,パージー,Purrgy,Purrgy,Purrgy,Purrgy,Муррги,Purrgy,喵喵肥,毛球,퍼르기,Purrgy,Муркотун,Purrgy,Pırrgy
+L_SKIN_BRUTE,,Brute,ブルート,Schläger,Brute,Bruto,Bruto,Громила,Bruto,蠻力,野蛮,투사,Osiłek,Громило,Bruut,Zorba
+L_SKIN_MALICIOUS,,Malicious,悪意のある,Bösartig,Malveillant,Malicioso,Maligno,Злобный,Maligno,惡意,恶意,악의적인,Złośliwy,Зловмисний,Kwaadaardig,Kötü Niyetli
+L_SKIN_RELENTLESS,,Relentless,執拗,Unerbittlich,Implacable,Implacable,Implacável,Неумолимый,Implacabile,無情,无情,무자비한,Nieustępliwy,Невблаганний,Meedogenloos,Amansız
+L_SKIN_UNSTABLE,,Unstable,不安定,Instabil,Instable,Inestable,Instável,Нестабильный,Instabile,不穩定,不稳定,불안정한,Niestabilny,Нестабільний,Onstabiel,Kararsız
+L_SKIN_WILL,,Will,意志,Wille,Volonté,Voluntad,Vontade,Воля,Volontà,意志,意志,의지,Wola,Воля,Wil,İrade
+L_SKIN_FIERY,,Fiery,炎の,Feurig,Ardent,Ardiente,Ardente,Огненный,Infuocato,火焰,燃烧,불타는,Ognisty,Вогняний,Vurig,Ateşli
+L_SKIN_BLACKHOLE,,Black Hole,ブラックホール,Schwarzes Loch,Trou Noir,Agujero Negro,Buraco Negro,Чёрная дыра,Buco Nero,黑洞,黑洞,블랙홀,Czarna Dziura,Чорна діра,Zwart Gat,Kara Delik
+L_SKIN_FLORAL,,Floral,フローラル,Blumig,Floral,Floral,Floral,Цветочный,Floreale,花卉,花卉,꽃,Kwiatowy,Квітковий,Bloemen,Çiçeksi
+L_SKIN_GLISTENING,,Glistening,輝く,Glänzend,Scintillant,Reluciente,Reluzente,Сверкающий,Scintillante,閃爍,闪耀,반짝이는,Połyskujący,Блискучий,Glimmend,Parlayan
+L_SKIN_TOXIC,,Toxic,毒,Giftig,Toxique,Tóxico,Tóxico,Токсичный,Tossico,毒性,毒性,독성,Toksyczny,Токсичний,Giftig,Zehirli
+L_SKIN_NEWBORN,,Newborn,新生児,Neugeboren,Nouveau-né,Recién nacido,Recém-nascido,Новорожденный,Neonato,新生兒,初生,신생아,Noworodek,Новонароджений,Pasgeborene,Yenidoğan
+L_SKIN_EXTRAHELPING,,Extra Helping,おかわり,Extraportion,Portion Supplémentaire,Ración Extra,Porção Extra,Дополнительная Порция,Porzione Extra,額外份量,额外份量,추가 배식,Dodatkowa Porcja,Додаткова Порція,Extra Portie,Ekstra Porsiyon
+L_SKIN_FAIRYCAKE,,Fairy Cake,フェアリーケーキ,Feenkuchen,Gâteau Féerique,Pastel de Hadas,Bolo de Fada,Волшебный кекс,Torta Fatata,精靈蛋糕,仙子蛋糕,요정 케이크,Bajkowe Ciastko,Чарівний кекс,Feeëntaart,Peri Pastası
+L_SKIN_FRUITMACHINE,,Fruit Machine,フルーツマシン,Spielautomat,Machine à fruits,Máquina de frutas,Caça-níqueis de Frutas,Игровой автомат,Slot Machine,水果機,水果机,과일 머신,Automat Owocowy,Фруктовий Автомат,Fruitautomaat,Meyve Makinesi
+L_SKIN_IRONRICH,,Iron Rich,鉄分豊富,Eisenreich,Riche en fer,Rico en Hierro,Rico em Ferro,Богатый железом,Ricco di Ferro,富含鐵質,富含铁元素,철분이 풍부한,Bogate w Żelazo,Багатий на залізо,IJzerrijk,Demir Zengini
+L_SKIN_FOODCOLORING,,Food Coloring,食用色素,Lebensmittelfarbe,Colorant alimentaire,Colorante Alimenticio,Corante Alimentício,Пищевой краситель,Colorante Alimentare,食用色素,食物色素,식용 색소,Barwnik spożywczy,Харчовий барвник,Voedselkleurstof,Gıda Boyası
+L_SKIN_HAM,,Ham,ハム,Schinken,Jambon,Jamón,Presunto,Ветчина,Prosciutto,火腿,火腿,햄,Szynka,Шинка,Ham,Jambon
+L_SKIN_BALANCEDFLAVOR,,Balanced Flavor,バランスの取れた風味,Ausgewogener Geschmack,Saveur équilibrée,Sabor Equilibrado,Sabor Equilibrado,Сбалансированный вкус,Sapore Bilanciato,均衡風味,均衡风味,균형 잡힌 맛,Zbalansowany Smak,Збалансований смак,Gebalanceerde Smaak,Dengeli Lezzet
+L_SKIN_STEAMED,,Steamed,蒸し,Gedämpft,Cuit à la vapeur,Cocido al vapor,Cozido no vapor,Пропаренный,Cotto al vapore,蒸煮,清蒸,찐,Gotowane na parze,Пропарений,Gestoomd,Buharda Pişmiş
+L_SKIN_GUMMYWORM,,Gummy Worm,グミワーム,Gummiwurm,Ver gommeux,Gusano de Goma,Minhoca de Goma,Желейный червяк,Verme Gommoso,軟糖蟲,蠕虫软糖,젤리벌레,Gumowy Robak,Желейний черв'як,Gummiwormpje,Jelatinli Solucan
+L_SKIN_OVERGROWNTEMPLE,,Overgrown Temple,生い茂った寺院,Überwucherter Tempel,Temple Envahi,Templo Invadido por la Vegetación,Templo Abandonado,Заросший Храм,Tempio Invaso dalla Vegetazione,雜草叢生的神廟,荒蔓神庙,우거진 사원,Zarośnięta Świątynia,Зарослий Храм,Overwoekerde Tempel,Büyümüş Tapınak
+L_SKIN_FORBIDDENDEPTHS,,Forbidden Depths,禁断の深淵,Verbotene Tiefen,Profondeurs Interdites,Profundidades Prohibidas,Profundezas Proibidas,Запретные Глубины,Profondità Proibite,禁忌深淵,深渊禁地,금지된 심연,Zakazane Głębiny,Заборонені Глибини,Verboden Diepten,Yasaklı Derinlikler
+L_SKIN_FORGOTTENLABORATORY,,Forgotten Laboratory,忘れられた研究所,Vergessenes Labor,Laboratoire Oublié,Laboratorio Olvidado,Laboratório Esquecido,Забытая Лаборатория,Laboratorio Dimenticato,遺忘的實驗室,被遗忘的实验室,잊혀진 연구실,Zapomniane Laboratorium,Забута Лабораторія,Vergeten Laboratorium,Unutulmuş Laboratuvar
+L_SKIN_GAMBLER'SHIVE,,Gambler's Hive,ギャンブラーの巣窟,Spielerhöhle,Ruche du Joueur,Colmena del Jugador,Colmeia do Apostador,Улей Азартных Игроков,Alveare del Giocatore d'Azzardo,賭徒巢穴,赌徒蜂巢,도박꾼의 소굴,Ul Hazardzisty,Вулик Азартника,Gokkersnest,Kumarbazın Kovanı
+L_SKIN_BANDIT,,Bandit,山賊,Bandit,Bandit,Bandido,Bandido,Бандит,Bandito,強盜,强盗,도적,Bandyta,Бандит,Bandiet,Haydut
+L_SKIN_LANDOFBREATH&BALANCE,,Land of Breath & Balance,息吹と均衡の地,Land des Atems & Gleichgewichts,Terre de Souffle & d'Équilibre,Tierra de Aliento y Equilibrio,Terra de Sopro & Equilíbrio,Земля Дыхания и Равновесия,Terra del Respiro e dell'Equilibrio,氣息與平衡之地,调息之地,숨결과 균형의 땅,Kraina Oddechu i Równowagi,Земля Подиху і Рівноваги,Land van Adem & Balans,Nefes ve Denge Diyarı
+L_SKIN_ASTRALGALLERY,,Astral Gallery,アストラルギャラリー,Astrale Galerie,Galerie Astrale,Galería Astral,Galeria Astral,Астральная Галерея,Galleria Astrale,星界畫廊,星界画廊,천체 갤러리,Galeria Astralna,Астральна Галерея,Astrale Galerij,Astral Galeri
+L_SKIN_DAMAREL,,Damarel,ダマレル,Damarel,Damarel,Damarel,Damarel,Дамарел,Damarel,達瑪雷爾,达玛瑞尔,다마렐,Damarel,Дамарел,Damarel,Damarel
+L_SKIN_FAELANDS,,Fae Lands,フェイの国,Feenreiche,Terres Féeriques,Tierras Feéricas,Terras Feéricas,Земли Фей,Terre Fatate,精靈國度,仙灵秘境,요정의 땅,Krainy Fae,Чарівні Землі,Elfenrijken,Peri Diyarları
+L_SKIN_JEWELCOLLECTOR,,Jewel Collector,ジュエルコレクター,Juwellensammler,Collectionneur de Joyaux,Coleccionista de Joyas,Colecionador de Joias,Собиратель Самоцветов,Collezionista di Gemme,寶石收集者,珍宝收集者,보석 수집가,Kolekcjoner Klejnotów,Збирач Коштовностей,Juwelenverzamelaar,Mücevher Toplayıcı
+L_SKIN_TIMEWORN,,Timeworn,古びた,Uralt,Suranné,Antiguo,Ancestral,Древний,Consunto,陳舊的,古旧,낡은,Pradawny,Старовинний,Verweerd,Eskimiş
+"L_SKIN_ASABOVE,SOBELOW",,"As Above, So Below",上は下の如く,"Wie oben, so unten","Comme en Haut, Ainsi en Bas","Como Arriba, Así Abajo","Como Acima, Assim Abaixo","Как Наверху, Так и Внизу","Come Sopra, Così Sotto",如上，如下,如其在上，如其在下,"위와 같이, 아래도 그러하리","Jak na Górze, Tak na Dole","Як Вгорі, Так і Внизу","Zo Boven, Zo Beneden","Yukarıda Nasılsa, Aşağıda da Öyle"
+L_SKIN_MADSCIENTIST,,Mad Scientist,マッドサイエンティスト,Verrückter Wissenschaftler,Savant Fou,Científico Loco,Cientista Louco,Безумный Учёный,Scienziato Pazzo,瘋狂科學家,疯狂科学家,미친 과학자,Szalony Naukowiec,Божевільний Вчений,Gekke Wetenschapper,Çılgın Bilim İnsanı
+L_SKIN_IMPRISONED,,Imprisoned,幽閉された,Gefangen,Emprisonné,Encarcelado,Aprisionado,Заключённый,Imprigionato,被囚禁,封禁者,감금됨,Uwięziony,Ув'язнений,Gevangen,Hapsedilmiş
+L_SKIN_SPARKLEQUEEN,,Sparkle Queen,スパークルクイーン,Funkelkönigin,Reine Étincelante,Reina Brillante,Rainha Cintilante,Сверкающая Королева,Regina Scintillante,閃耀女王,闪耀女王,반짝이는 여왕,Iskrząca Królowa,Королева Блиску,Glitterkoningin,Işıltı Kraliçesi
+L_SKIN_SHOCKINGVIOLENCE,,Shocking Violence,衝撃的な暴力,Schockierende Gewalt,Violence Foudroyante,Violencia Impactante,Violência Chocante,Шокирующее насилие,Violenza Scioccante,駭人暴力,触电暴力,충격적인 폭력,Szokująca Przemoc,Шокуюче насильство,Schokkend Geweld,Şok Edici Şiddet
+L_SKIN_DARKINSPIRATION,,Dark Inspiration,ダークインスピレーション,Dunkle Inspiration,Inspiration Ténébreuse,Inspiración Oscura,Inspiração Sombria,Тёмное Вдохновение,Ispirazione Oscura,黑暗靈感,黑暗灵感,어둠의 영감,Mroczna Inspiracja,Темне Натхнення,Duistere Inspiratie,Karanlık İlham
+L_SKIN_METAMORPHOSIS,,Metamorphosis,メタモルフォーシス,Metamorphose,Métamorphose,Metamorfosis,Metamorfose,Метаморфоза,Metamorfosi,變形術,变形,변신,Metamorfoza,Метаморфоза,Metamorfose,Metamorfoz
+L_SKIN_CHRISTMASANNELTHA,,Christmas Anneltha,クリスマス・アネルサ,Weihnachts-Anneltha,Noël Anneltha,Navidad Anneltha,Natal Anneltha,Рождественская Аннельта,Natale di Anneltha,聖誕安妮莎,圣诞安妮莎,크리스마스 안넬타,Świąteczna Anneltha,Різдвяна Аннельта,Kerstmis Anneltha,Noel Anneltha
+L_SKIN_CHRISTMASARIAMAKI,,Christmas Ariamaki,クリスマス・アリアマキ,Weihnachts-Ariamaki,Christmas Ariamaki,Christmas Ariamaki,Christmas Ariamaki,Рождественский Ариамаки,Christmas Ariamaki,聖誕節亞里亞馬基,圣诞阿瑞玛基,크리스마스 아리아마키,Christmas Ariamaki,Різдвяний Аріамакі,Kerstmis Ariamaki,Noel Ariamaki
+L_SKIN_CHRISTMASGENAROS,,Christmas Genaros,クリスマスジェナロス,Weihnachts-Genaros,Genaros de Noël,Genaros Navideños,Genaros de Natal,Рождественские Генаросы,Genaros Natalizi,聖誕傑納洛斯,圣诞杰纳罗斯,크리스마스 제나로스,Świąteczne Genarosy,Різдвяні Дженароси,Kerstmis Genaros,Noel Genaros
+L_SKIN_SUMMERMUSE,,Summer Muse,サマーミューズ,Sommermusen,Muse d'Été,Musa del Verano,Musa do Verão,Летняя Муза,Musa Estiva,夏日繆思,夏日缪斯,여름의 뮤즈,Letnia Muza,Літня Муза,Zomermuze,Yaz İlhamı
+L_SKIN_SUMMERRECLUSA,,Summer Reclusa,サマー・レクルーサ,Sommer-Reclusa,Reclusa d'Été,Reclusa de Verano,Reclusa de Verão,Летняя Реклуза,Estate Reclusa,夏日隱士,夏日瑞克露莎,여름 레클루사,Letnia Reclusa,Літня Реклюза,Zomer Reclusa,Yaz Reclusa
+L_SKIN_SPRINGTIMEALEXANDRIA,,Springtime Alexandria,春のアレクサンドリア,Frühlings-Alexandria,Alexandrie au Printemps,Alejandría en Primavera,Alexandria Primaveril,Весенняя Александрия,Alessandria in Primavera,春日亞歷山卓,春日亚历山大,봄의 알렉산드리아,Aleksandria Wiosną,Весняна Александрія,Alexandrië in de Lente,İlkbahar Alexandria
+L_SKIN_SPRINGTIMESHALLAN,,Springtime Shallan,春の季節のシャラン,Frühlingszeit Shallan,Shallan du Printemps,Shallan Primaveral,Shallan da Primavera,Весенняя Шаллан,Shallan Primaverile,春日莎蘭,春日莎兰,봄의 샬란,Wiosenna Shallan,Весняна Шаллан,Lentetijd Shallan,Bahar Zamanı Shallan
+L_SKIN_SPRINGTIMET'MEREM'RGO,,Springtime T'mere M'rgo,スプリングタイム・トゥメア・マルゴ,Frühlingszeit T'mere M'rgo,Printemps T'mere M'rgo,Primavera T'mere M'rgo,Primavera T'mere M'rgo,Весеннее Т'мере М'рго,Primavera T'mere M'rgo,春日特米爾·馬戈,春日特米尔·莫尔戈,봄의 티메르 므르고,Wiosenny T'mere M'rgo,Весняний Т'мере М'рго,Lentetijd T'mere M'rgo,Bahar Zamanı T'mere M'rgo
+L_SKIN_HALLOWEENALEXANDRIA,,Halloween Alexandria,ハロウィンアレクサンドリア,Halloween Alexandria,Halloween Alexandria,Halloween Alexandria,Halloween Alexandria,Хэллоуинская Александрия,Halloween Alexandria,萬聖節亞歷山德里亞,万圣亚历山大,할로윈 알렉산드리아,Halloween Alexandria,Хелловінська Александрія,Halloween Alexandria,Cadılar Bayramı Alexandria
+L_SKIN_HALLOWEENANNELTHA,,Halloween Anneltha,ハロウィンアネルサ,Halloween Anneltha,Halloween Anneltha,Halloween Anneltha,Halloween Anneltha,Хэллоуинская Аннельта,Halloween Anneltha,萬聖節安妮莎,万圣安妮莎,할로윈 안넬타,Halloween Anneltha,Геловінська Аннельта,Halloween Anneltha,Cadılar Bayramı Anneltha
+L_SKIN_HALLOWEENARIAMAKI,,Halloween Ariamaki,ハロウィンアリアマキ,Halloween Ariamaki,Halloween Ariamaki,Halloween Ariamaki,Halloween Ariamaki,Хэллоуин Ариамаки,Halloween Ariamaki,萬聖節亞里亞馬基,万圣阿瑞玛基,할로윈 아리아마키,Halloween Ariamaki,Хелловін Аріамакі,Halloween Ariamaki,Halloween Ariamaki
+L_SKIN_HALLOWEENGENAROS,,Halloween Genaros,ハロウィンジェナロス,Halloween Genaros,Halloween Genaros,Genaros de Halloween,Genaros de Halloween,Хэллоуинские Генаросы,Halloween Genaros,萬聖節傑納洛斯,万圣杰纳罗斯,할로윈 제나로스,Halloween Genaros,Хелловінські Генароси,Halloween Genaros,Cadılar Bayramı Genaros
+L_SKIN_HALLOWEENMUSE,,Halloween Muse,ハロウィンミューズ,Halloween Muse,Muse d'Halloween,Musa de Halloween,Musa de Halloween,Хэллоуинская Муза,Halloween Muse,萬聖節繆思,万圣缪斯,할로윈 뮤즈,Halloweenowa Muza,Хеловінська Муза,Halloween Muze,Cadılar Bayramı Perisi
+L_SKIN_HALLOWEENRECLUSA,,Halloween Reclusa,ハロウィンレクルーサ,Halloween Reclusa,Halloween Reclusa,Halloween Reclusa,Halloween Reclusa,Хэллоуинская Реклуза,Halloween Reclusa,萬聖節隱士蜘蛛,万圣瑞克露莎,할로윈 레클루사,Halloween Reclusa,Хеловінська Реклюза,Halloween Reclusa,Cadılar Bayramı Reclusa
+L_SKIN_HALLOWEEN4080,,Halloween 4080,ハロウィン4080,Halloween 4080,Halloween 4080,Halloween 4080,Halloween 4080,Хэллоуин 4080,Halloween 4080,萬聖節 4080,万圣4080,할로윈 4080,Halloween 4080,Хелловін 4080,Halloween 4080,Cadılar Bayramı 4080
+L_SKIN_HALLOWEENSHALLAN,,Halloween Shallan,ハロウィンシャラン,Halloween Shallan,Halloween Shallan,Halloween Shallan,Halloween Shallan,Хэллоуинская Шаллан,Halloween Shallan,萬聖節夏蘭,万圣莎兰,할로윈 샬란,Halloween Shallan,Геловінська Шаллан,Halloween Shallan,Cadılar Bayramı Shallan
+L_SKIN_HALLOWEENT'MEREM'RGO,,Halloween T'mere M'rgo,ハロウィン・トゥメア・マーゴ,Halloween T'mere M'rgo,Halloween T'mere M'rgo,Halloween T'mere M'rgo,Halloween T'mere M'rgo,Хэллоуин Т'мер М'рго,Halloween T'mere M'rgo,萬聖節 特米爾 莫戈,万圣特米尔·莫尔戈,할로윈 트'메어 므'르고,Halloween T'mere M'rgo,Хелловін Т'мере М'рго,Halloween T'mere M'rgo,Cadılar Bayramı T'mere M'rgo
+L_SKIN_SUMMER4080,,Summer 4080,夏 4080,Sommer 4080,Été 4080,Verano 4080,Verão 4080,Лето 4080,Estate 4080,夏季 4080,夏日4080,여름 4080,Lato 4080,Літо 4080,Zomer 4080,Yaz 4080
+L_SKIN_TARTARITH'SMONSTER,,Tartarith's Monster,タルタリスの怪物,Tartariths Monster,Monstre de Tartarith,Monstruo de Tartarith,Monstro de Tartarith,Чудовище Тартарита,Mostro di Tartarith,塔塔利斯的怪物,塔尔塔里斯的怪物,타르타리스의 괴물,Potwór Tartaritha,Монстр Тартаріта,Tartarith's Monster,Tartarith'in Canavarı
+L_SKIN_SINGULARACROVA,,Singular Acrova,シングラー・アクロヴァ,Singuläre Acrova,Acrova Singulier,Acrova Singular,Acrova Singular,Единичная Акрова,Acrova Singolare,奇異阿克洛瓦,奇异阿克罗瓦,단일 아크로바,Osobliwa Acrova,Сингулярна Акрова,Enkelvoudige Acrova,Tekil Acrova
+L_SKIN_IMPERIAL,,Imperial,帝国,Kaiserlich,Impérial,Imperial,Imperial,Имперский,Imperiale,帝國,帝国,제국의,Imperialny,Імперський,Keizerlijk,İmparatorluk
+L_SKIN_SINGULARADAXIAL,,Singular Adaxial,特異内側,Singuläre Adaxialseite,Adaxial Singulier,Adaxial Singular,Adaxial Singular,Сингулярный Адаксиальный,Adassiale Singolare,單一向軸,奇异阿达克西尔,단일 향축성,Osobliwy Adaksjalny,Сингулярний Адаксіальний,Enkelvoudig Adaxiaal,Tekil Adaksiyal
+L_SKIN_COOLHOODIE,,Cool Hoodie,クールなパーカー,Coole Kapuzenjacke,Sweat à capuche cool,Sudadera Genial,Moletom Maneiro,Крутая толстовка,Felpa Figa,酷帽T,酷炫连帽衫,멋진 후드티,Fajna Bluza z Kapturem,Крута толстовка,Coole Hoodie,Havalı Kapüşonlu
+L_SKIN_SINGULARAKARA,,Singular Akara,シングラー・アカラ,Singuläre Akara,Akara Singulier,Akara Singular,Akara Singular,Единственная Акара,Akara Singolare,單一阿卡拉,奇异阿卡拉,단일 아카라,Pojedynczy Akara,Сингулярна Акара,Enkelvoudige Akara,Tekil Akara
+L_SKIN_MYRMOSA,,Myrmosa,ミルモサ,Myrmosa,Myrmosa,Myrmosa,Myrmosa,Мирмоза,Myrmosa,蟻蜂,蚁蜂,미르모사,Myrmosa,Мірмоса,Myrmosa,Myrmosa
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_LIFEGUARD,,Lifeguard,ライフガード,Rettungsschwimmer,Sauveteur,Salvavidas,Salva-vidas,Спасатель,Bagnino,救生員,救生员,인명구조원,Ratownik,Рятувальник,Strandwacht,Cankurtaran
+L_SKIN_LIBRARIAN,,Librarian,司書,Bibliothekar,Bibliothécaire,Bibliotecario,Bibliotecário,Библиотекарь,Bibliotecario,圖書管理員,图书管理员,사서,Bibliotekarz,Бібліотекар,Bibliothecaris,Kütüphaneci
+L_SKIN_NERVE,,Nerve,神経,Nerv,Nerf,Nervio,Nervo,Нерв,Nervo,神經,神经,신경,Nerw,Нерв,Lef,Sinir
+L_SKIN_SOUL,,Soul,ソウル,Seele,Âme,Alma,Alma,Душа,Anima,靈魂,灵魂,영혼,Dusza,Душа,Ziel,Ruh
+L_SKIN_ANCIENT,,Ancient,古代の,Uralt,Ancien,Antiguo,Ancestral,Древний,Antico,遠古,远古,고대의,Starożytny,Прадавній,Oud,Kadim
+L_SKIN_FOLLOWEROFARIAMAKI,,Follower of Ariamaki,アリアマキの信奉者,Anhänger von Ariamaki,Disciple d'Ariamaki,Seguidor de Ariamaki,Seguidor de Ariamaki,Последователь Ариамаки,Seguace di Ariamaki,阿里亞馬基的追隨者,阿瑞玛基的追随者,아리아마키의 추종자,Wyznawca Ariamaki,Послідовник Аріамакі,Volgeling van Ariamaki,Ariamaki'nin Takipçisi
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_FOLLOWEROFTORUN,,Follower of Torun,トゥルンの信奉者,Anhänger von Torun,Disciple de Torun,Seguidor de Torun,Seguidor de Torun,Последователь Торуна,Seguace di Torun,托倫的追隨者,托伦的追随者,토룬의 추종자,Wyznawca Toruna,Послідовник Торуна,Volgeling van Torun,Torun'un Takipçisi
+L_SKIN_SINGULAR8004,,Singular 8004,シングラー 8004,Singular 8004,Singulier 8004,Singular 8004,Singular 8004,Единичный 8004,Singolare 8004,單一 8004,奇异8004,단일 8004,Pojedynczy 8004,Однина 8004,Enkelvoudig 8004,Tekil 8004
+L_SKIN_UNFINISHED,,Unfinished,未完成,Unvollendet,Inachevé,Inacabado,Inacabado,Незавершенный,Incompiuto,未完成,未完成,미완성,Niedokończone,Незавершений,Onvoltooid,Tamamlanmamış
+L_SKIN_FOLLOWEROFGENAROS,,Follower of Genaros,ゲナロスの信奉者,Anhänger von Genaros,Disciple de Genaros,Seguidor de Genaros,Seguidor de Genaros,Последователь Генароса,Seguace di Genaros,傑納洛斯的追隨者,杰纳罗斯的追随者,게나로스의 추종자,Wyznawca Genarosa,Послідовник Генароса,Volgeling van Genaros,Genaros'un Takipçisi
+L_SKIN_YANG,,Yang,ヤン,Yang,Yang,Yang,Yang,Янг,Yang,楊,阳,양,Yang,Янг,Yang,Yang
+L_SKIN_PIPER,,Piper,パイパー,Piper,Piper,Piper,Piper,Пайпер,Piper,派珀,管乐手,파이퍼,Piper,Пайпер,Piper,Piper
+L_SKIN_FIRESNAKE,,Firesnake,ファイアスネーク,Feuerschlange,Serpent de feu,Serpiente de fuego,Serpente de Fogo,Огненный змей,Serpente di Fuoco,火蛇,火蛇,화염뱀,Ognisty Wąż,Вогнезмій,Vuurslang,Ateşyılan
+L_SKIN_BATOUTOFHELL,,Bat Out of Hell,バットアウトオブヘル,Fledermaus aus der Hölle,Chauve-souris de l'Enfer,Murciélago del Infierno,Morcego Saído do Inferno,Адский Летучий Мышь,Pipistrello dall'Inferno,地獄蝙蝠出擊,地狱蝙蝠,지옥에서 온 박쥐,Piekielny Nietoperz,Кажан з Пекла,Vleermuis uit de Hel,Cehennemden Fırlayan Yarasa
+L_SKIN_CATERPILLAR,,Caterpillar,キャタピラー,Raupe,Chenille,Oruga,Lagarta,Гусеница,Bruco,毛毛蟲,毛毛虫,애벌레,Gąsienica,Гусениця,Rups,Tırtıl
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_TIGERSEYECATBUNCLE,,Tigerseye Catbuncle,タイガーズアイ・キャットバンクル,Tigeraugen-Katbunkel,Œil-de-Tigre Catbuncle,Ojo de Tigre Catbuncle,Olho-de-Tigre Catbúnculo,Тигровоглазый Катбункл,Occhio di Tigre Catbuncle,虎眼貓石獸,虎眼猫兔,호안석 캣번클,Tygrysie Oko Kotobuncle,Тигрове Око Котокроль,Tijgeroog Katbunkel,Kaplanözü Kediboncuğu
+L_SKIN_KARASUTENGU,,Karasu Tengu,烏天狗,Karasu Tengu,Karasu Tengu,Karasu Tengu,Karasu Tengu,Карасу Тэнгу,Karasu Tengu,烏天狗,鸦天狗,까마귀 텐구,Karasu Tengu,Карасу Тенґу,Karasu Tengu,Karasu Tengu
+L_SKIN_WOODCARVER,,Woodcarver,木彫師,Holzschnitzer,Sculpteur sur bois,Tallador de madera,Entalhador,Резчик по дереву,Intagliatore,木雕師,木匠,목각공,Rzeźbiarz,Різьбяр по дереву,Houtsnijder,Oymacı
+L_SKIN_FOLLOWEROFAEOLIAN,,Follower of Aeolian,イオリアンの信奉者,Anhänger von Aeolian,Disciple d'Éolien,Seguidor de Aeolian,Seguidor de Aeolian,Последователь Эолиана,Seguace di Aeolian,伊奧利安的追隨者,伊欧利安的追随者,에올리안의 추종자,Wyznawca Aeoliana,Послідовник Еоліана,Volgeling van Aeolian,Aeolian'ın Takipçisi
+L_SKIN_DARKDOGS,,Dark Dogs,ダークドッグス,Dunkle Hunde,Chiens Sombres,Perros Oscuros,Cães Sombrios,Темные Псы,Cani Oscuri,暗黑犬,黑暗犬,어둠의 개들,Mroczne Psy,Темні Пси,Duistere Honden,Karanlık Köpekler
+L_SKIN_SAMUDRA,,Samudra,サムドラ,Samudra,Samudra,Samudra,Samudra,Самудра,Samudra,薩穆德拉,苦海无边,사무드라,Samudra,Самудра,Samudra,Samudra
+L_SKIN_SHISHIRA,,Shishira,シシラ,Shishira,Shishira,Shishira,Shishira,Шишира,Shishira,希希拉,寒季,시시라,Shishira,Шішіра,Shishira,Şişira
+L_SKIN_YIN,,Yin,陰,Yin,Yin,Yin,Yin,Инь,Yin,陰,阴,음,Yin,Інь,Yin,Yin
+L_SKIN_FAILEDCLONE,,Failed Clone,失敗したクローン,Fehlgeschlagter Klon,Clone raté,Clon Fallido,Clone Falho,Неудачный клон,Clone Fallito,失敗的複製體,失败克隆体,실패한 복제체,Nieudany Klon,Невдалий Клон,Mislukte Kloon,Başarısız Klon
+L_SKIN_HEAVENSENT,,Heaven Sent,天啓,Himmelsbote,Envoyé du Ciel,Enviado del Cielo,Enviado do Céu,Посланник Небес,Inviato dal Cielo,天降神兵,天降神兵,하늘이 보낸,Zesłany z Niebios,Послані Небесами,Hemels Gezonden,Gökten İnen
+L_SKIN_HELLBOUND,,Hellbound,ヘルバウンド,Höllisch,Damné,Condenado,Condenado,Обреченный,Dannato,地獄之路,地狱使者,지옥행,Potępiony,Пекельний,Hellegebonden,Cehenneme Mahkûm
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_DIVINEENGINE,,Divine Engine,神機,Göttliche Maschine,Moteur Divin,Motor Divino,Motor Divino,Божественный Механизм,Motore Divino,神聖引擎,神圣引擎,신성한 엔진,Boski Mechanizm,Божественний Двигун,Goddelijke Motor,İlahi Motor
+L_SKIN_REDHANDED,,Red Handed,現行犯,Auf frischer Tat,Pris sur le fait,Manos Rojas,Mãos Vermelhas,Пойманный с поличным,Colto in Flagrante,人贓俱獲,红手,현행범,Przyłapany na gorącym uczynku,Спійманий на гарячому,Betrapt,Suçüstü
+L_SKIN_CORROSIVE,,Corrosive,腐食性,Ätzend,Corrosif,Corrosivo,Corrosivo,Коррозийный,Corrosivo,腐蝕性,腐蚀,부식성,Korozyjny,Корозійний,Corrosief,Aşındırıcı
+L_SKIN_COPIOUS,,Copious,豊富な,Reichlich,Abondant,Abundante,Abundante,Обильный,Copioso,大量的,丰富,풍부한,Obfity,Рясний,Overvloedig,Bol
+L_SKIN_NUCLEARGLOP,,Nuclear Glop,核のドロドロ,Nuklearer Schleim,Bouillie Nucléaire,Lodo Nuclear,Gosma Nuclear,Ядерная Жижа,Melma Nucleare,核能黏液,核废浆,핵 덩어리,Nuklearny Glut,Ядерна Слизь,Nucleaire Smurrie,Nükleer Bulamaç
+L_SKIN_SWIMSUIT,,Swimsuit,水着,Badeanzug,Maillot de bain,Traje de baño,Traje de banho,Купальник,Costume da bagno,泳裝,泳装,수영복,Strój kąpielowy,Купальник,Badpak,Mayo
+L_SKIN_FOLLOWEROFVERTRAAG,,Follower of Vertraag,ヴェルトラーグの信奉者,Anhänger von Vertraag,Disciple de Vertraag,Seguidor de Vertraag,Seguidor de Vertraag,Последователь Вертраага,Seguace di Vertraag,維特拉格的追隨者,维特拉戈的追随者,버트라그의 추종자,Wyznawca Vertraaga,Послідовник Вертраага,Volgeling van Vertraag,Vertraag'ın Takipçisi
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_FOLLOWEROFVENEDON,,Follower of Venedon,ヴェネドンの信奉者,Anhänger von Venedon,Disciple de Venedon,Seguidor de Venedon,Seguidor de Venedon,Последователь Венедона,Seguace di Venedon,維尼頓的追隨者,维内多的追随者,베네돈의 추종자,Wyznawca Venedona,Послідовник Венедона,Volgeling van Venedon,Venedon'un Takipçisi
+L_SKIN_FOLLOWEROFVULCANAR,,Follower of Vulcanar,ヴァルカナーの信奉者,Anhänger von Vulcanar,Disciple de Vulcanar,Seguidor de Vulcanar,Seguidor de Vulcanar,Последователь Вулканара,Seguace di Vulcanar,火神信徒,瓦尔卡纳的追随者,불카나르의 추종자,Wyznawca Vulcanara,Послідовник Вулканара,Volgeling van Vulcanar,Vulcanar'ın Müridi
+L_SKIN_MONSTERHOUSE,,Monster House,モンスターハウス,Monsterhaus,Maison Monstre,Casa de Monstruos,Casa de Monstros,Дом с монстрами,Casa dei Mostri,怪物之屋,怪物之屋,몬스터 하우스,Dom Potworów,Будинок монстрів,Monsterhuis,Canavar Evi
+L_SKIN_GOLDENSILVER,,Golden Silver,黄金の銀,Goldenes Silber,Or Argenté,Plata Dorada,Prata Dourada,Золотое Серебро,Argento Dorato,金銀,金银,골든 실버,Złote Srebro,Золоте Срібло,Gouden Zilver,Altın Gümüş
+L_SKIN_BUNNY,,Bunny,バニー,Hase,Lapin,Conejo,Coelho,Кролик,Coniglietto,兔子,兔女郞,토끼,Królik,Кролик,Konijn,Tavşan
+L_SKIN_FOLLOWEROFSHALLAN,,Follower of Shallan,シャランの信奉者,Anhänger von Shallan,Disciple de Shallan,Seguidor de Shallan,Seguidor de Shallan,Последователь Шаллан,Seguace di Shallan,夏蘭的追隨者,莎兰的追随者,샬란의 추종자,Wyznawca Shallan,Послідовник Шаллан,Volgeling van Shallan,Shallan'ın Takipçisi
+L_SKIN_MIRAGE,,Mirage,ミラージュ,Illusion,Mirage,Espejismo,Miragem,Мираж,Miraggio,幻影,幻象,환영,Miraż,Міраж,Luchtspiegeling,Serap
+L_SKIN_ANCIENTTECH,,Ancient Tech,古代技術,Uralte Technik,Technologie Ancienne,Tecnología Antigua,Tecnologia Antiga,Древняя Технология,Tecnologia Antica,遠古科技,远古科技,고대 기술,Starożytna Technologia,Стародавні Технології,Oude Technologie,Kadim Teknoloji
+L_SKIN_FIREFLY,,Firefly,ホタル,Glühwürmchen,Luciole,Luciérnaga,Vaga-lume,Светлячок,Lucciola,螢火蟲,火苍蝇,반딧불,Świetlik,Світлячок,Vuurvlieg,Ateşböceği
+L_SKIN_FOLLOWEROFREGALIS,,Follower of Regalis,レガリスの信奉者,Anhänger von Regalis,Disciple de Regalis,Seguidor de Regalis,Seguidor de Regalis,Последователь Регалиса,Seguace di Regalis,雷加利斯的追隨者,蕾伽丽丝的追随者,레갈리스의 추종자,Wyznawca Regalisa,Послідовник Регаліса,Volgeling van Regalis,Regalis'in Takipçisi
+L_SKIN_VAMPIRE,,Vampire,ヴァンパイア,Vampir,Vampire,Vampiro,Vampiro,Вампир,Vampiro,吸血鬼,吸血鬼,뱀파이어,Wampir,Вампір,Vampier,Vampir
+L_SKIN_LOSTLENORE,,Lost Lenore,失われたレノア,Verlorene Lenore,Lénore Perdue,Lenore Perdida,Lenore Perdida,Потерянная Ленор,Lenore Perduta,失落的蓮諾,迷失丽诺尔,잃어버린 레노어,Zaginiona Lenora,Втрачена Ленора,Verloren Lenore,Kayıp Lenore
+L_SKIN_SINGULAREMUS,,Singular Emus,シングルエミュー,Einzelne Emus,Émeus Singuliers,Emús Singulares,Emus Singulares,Одиночные Эму,Emù Singolari,奇異鴯鶓,奇异伊穆丝,단일 에뮤,Osobliwe Emu,Одиночні Ему,Enkelvoudige Emoes,Tekil Devekuşları
+L_SKIN_DEADTREE,,Dead Tree,枯れ木,Toter Baum,Arbre Mort,Árbol Muerto,Árvore Morta,Мёртвое дерево,Albero Morto,枯樹,死亡枯木,죽은 나무,Martwe Drzewo,Мертве дерево,Dode Boom,Ölü Ağaç
+L_SKIN_FOLLOWEROFEREBYSS,,Follower of Erebyss,エレビスの信奉者,Anhänger von Erebyss,Disciple d'Erebyss,Seguidor de Erebyss,Seguidor de Erebyss,Последователь Эребисс,Seguace di Erebyss,厄瑞比斯的追隨者,艾瑞比丝的追随者,에레비스의 추종자,Wyznawca Erebyss,Послідовник Еребісс,Volgeling van Erebyss,Erebyss'in Takipçisi
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_GLOOM,,Gloom,憂鬱,Düsternis,Ténèbres,Penumbra,Melancolia,Мрак,Tetraggine,幽暗,阴郁,우울,Mrok,Похмурість,Somberheid,Kasvet
+L_SKIN_GLOW,,Glow,輝き,Leuchten,Lueur,Resplandor,Brilho,Сияние,Bagliore,光芒,发光,빛나다,Blask,Сяйво,Gloed,Parıltı
+L_SKIN_MASCULINE,,Masculine,男性的,Maskulin,Masculin,Masculino,Masculino,Мужской,Maschile,陽性,雄性,남성,Męski,Чоловічий,Mannelijk,Eril
+L_SKIN_SKINNED,,Skinned,スキンド,Gehäutet,Écorché,Despellejado,Esfolado,Освежеванный,Scuoiato,剝皮,剥皮,스킨 적용됨,Oskórowany,Обідрана шкура,Gevild,Yüzülmüş
+L_SKIN_RUSTED,,Rusted,錆びた,Verrostet,Rouillé,Oxidado,Enferrujado,Ржавый,Arrugginito,生鏽的,锈蚀,녹슨,Zardzewiały,Іржавий,Verroest,Paslanmış
+L_SKIN_FOLLOWEROFFRIDEN,,Follower of Friden,フリデンの信奉者,Anhänger von Friden,Disciple de Friden,Seguidor de Friden,Seguidor de Friden,Последователь Фридена,Seguace di Friden,弗萊登的追隨者,弗里登的追随者,프리덴의 추종자,Wyznawca Fridena,Послідовник Фрідена,Volgeling van Friden,Friden'in Takipçisi
+L_SKIN_BLOODANDBONE,,Blood and Bone,血と骨,Blut und Knochen,Sang et Os,Sangre y Hueso,Sangue e Osso,Кровь и Кость,Sangue e Ossa,血與骨,血与骨,피와 뼈,Krew i Kość,Кров і Кістка,Bloed en Been,Kan ve Kemik
+L_SKIN_ICEBERG,,Iceberg,氷山,Eisberg,Iceberg,Iceberg,Iceberg,Айсберг,Iceberg,冰山,冰山,빙산,Góra lodowa,Айсберг,IJsberg,Buzdağı
+L_SKIN_AUTUMN,,Autumn,秋,Herbst,Automne,Otoño,Outono,Осень,Autunno,秋季,秋季,가을,Jesień,Осінь,Herfst,Sonbahar
+L_SKIN_SKETCH,,Sketch,スケッチ,Skizze,Esquisse,Boceto,Esboço,Набросок,Schizzo,素描,草图,스케치,Szkic,Ескіз,Schets,Taslak
+L_SKIN_EGGLING,,Eggling,エグリング,Eggling,Œufelin,Huevito,Filhote de Ovo,Яичко,Eggling,蛋寶寶,蛋宝灵,알껍질 속 생명체,Jajeczątko,Яйцеголовий,Eiertje,Yumurtacık
+L_SKIN_FOLLOWEROF4080,,Follower of 4080,フォロワー・オブ・4080,Anhänger von 4080,Disciple de 4080,Seguidor de 4080,Seguidor de 4080,Последователь 4080,Seguace del 4080,4080的追隨者,4080的追随者,4080의 추종자,Wyznawca 4080,Послідовник 4080,Volgeling van 4080,4080'in Takipçisi
+L_SKIN_WEREWOLF,,Werewolf,人狼,Werwolf,Loup-garou,Hombre lobo,Lobisomem,Оборотень,Lupo mannaro,狼人,狼人,늑대인간,Wilkołak,Перевертень,Weerwolf,Kurt Adam
+L_SKIN_FOLLOWEROFANNELTHA,,Follower of Anneltha,アネルサの信奉者,Anhänger von Anneltha,Disciple d'Anneltha,Seguidor de Anneltha,Seguidor de Anneltha,Последователь Аннелты,Seguace di Anneltha,安妮爾薩的追隨者,安妮莎的追随者,안넬타의 추종자,Wyznawca Annelthy,Послідовник Аннелти,Volgeling van Anneltha,Anneltha'nın Takipçisi
+L_SKIN_DEATHKNIGHT,,Death Knight,デスナイト,Todesritter,Chevalier de la Mort,Caballero de la Muerte,Cavaleiro da Morte,Рыцарь Смерти,Cavaliere della Morte,死亡騎士,死亡骑士,죽음의 기사,Rycerz Śmierci,Лицар Смерті,Doodsridder,Ölüm Şövalyesi
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_GOURDSPAWN,,Gourdspawn,ひょうたん生まれ,Kürbisbrut,Rejeton de Courge,Engendro de Calabaza,Rebento de Cabaça,Тыквенное Отродье,Progenie di Zucca,葫蘆魔,葫芦裔,호박괴물,Dyniowiec,Гарбузовий Породжень,Pompoengebroed,Kabakdoğan
+L_SKIN_MAGICANDOLINSNAIL,,Magic Andolin Snail,マジック・アンドリン・スネイル,Magische Andolin-Schnecke,Escargot Andolin Magique,Caracol Mágico de Andolin,Caracol Mágico de Andolin,Волшебная Андолинская Улитка,Lumaca Magica di Andolin,魔法安多林蝸牛,安多林魔法蜗牛,마법 안돌린 달팽이,Magiczny Ślimak Andolin,Магічний Андолінський Равлик,Magische Andolin Slak,Büyülü Andolin Salyangoz
+L_SKIN_DOGU,,Dogu,ドグ,Dogu,Dogu,Dogu,Dogu,Догу,Dogu,多古,多古,도구,Dogu,Догу,Dogu,Doğu
+L_SKIN_BRONZECOLOSSUS,,Bronze Colossus,ブロンズ・コロッサス,Bronzekoloss,Colosse de Bronze,Coloso de Bronce,Colosso de Bronze,Бронзовый Колосс,Colosso di Bronzo,青銅巨像,青铜巨塑,청동 거상,Brązowy Kolos,Бронзовий Колос,Bronzen Kolos,Bronz Kolos
+L_SKIN_FROST,,Frost,フロスト,Frost,Givre,Escarcha,Gelo,Мороз,Gelo,冰霜,霜冻,서리,Mróz,Мороз,Vorst,Buz
+L_SKIN_GEMSTONE,,Gemstone,宝石,Edelstein,Gemme,Gema,Pedra preciosa,Драгоценный камень,Gemma,寶石,宝石,보석,Kamień szlachetny,Самоцвіт,Edelsteen,Mücevher Taşı
+L_SKIN_HORDEOFTINYGOLEMS,,Horde of Tiny Golems,小さなゴーレムの大群,Horde winziger Golems,Horde de Petits Golems,Horda de Pequeños Gólems,Horda de Pequenos Golens,Орда Крошечных Големов,Orda di Piccoli Golem,微型魔像群,微型魔像群,작은 골렘 무리,Horda Maleńkich Golemów,Орда Крихітних Големів,Horde Kleine Golems,Minik Golem Sürüsü
+L_SKIN_IMPROPERLYSUMMONED,,Improperly Summoned,不完全召喚,Unsachgemäß Beschworen,Invocation Incorrecte,Invocado Incorrectamente,Invocado Incorretamente,Неправильно Призванный,Evocato Impropriamente,不當召喚,失败的召唤物,잘못 소환됨,Nieprawidłowo Przyzwany,Неправильно Викликаний,Onjuist Opgeroepen,Yanlış Çağrılmış
+L_SKIN_SINGULARGROM'MET,,Singular Grom'Met,シングラー・グロムメット,Singuläres Grom'Met,Grom'Met Singulier,Grom'Met Singular,Grom'Met Singular,Единичный Гром'Мет,Grom'Met Singolare,單一格羅姆'梅特,奇异格罗姆梅特,단일 그롬'멧,Pojedynczy Grom'Met,Одиничний Гром'Мет,Enkelvoudige Grom'Met,Tekil Grom'Met
+L_SKIN_MEADOWPROTECTOR,,Meadow Protector,草原の守護者,Wiesenbeschützer,Protecteur des Prés,Protector del Prado,Protetor do Prado,Защитник Луга,Protettore della Prateria,草原守護者,草原守护者,초원 수호자,Strażnik Łąki,Захисник Лугів,Beschermer van de Weide,Çayır Koruyucusu
+L_SKIN_SINGULARHELIOS,,Singular Helios,シングラー・ヘリオス,Singulärer Helios,Hélios Singulier,Helios Singular,Helios Singular,Сингулярный Гелиос,Helios Singolare,獨特赫利歐斯,奇异赫利俄斯,단일 헬리오스,Osobliwy Helios,Сингулярний Геліос,Enkelvoudige Helios,Tekil Helios
+L_SKIN_FOLLOWEROFMORTEM,,Follower of Mortem,モーテムの信奉者,Anhänger von Mortem,Disciple de Mortem,Seguidor de Mortem,Seguidor de Mortem,Последователь Мортема,Seguace di Mortem,莫特姆的追隨者,莫特姆的追随者,모르템의 추종자,Wyznawca Mortem,Послідовник Мортема,Volgeling van Mortem,Mortem'in Takipçisi
+L_SKIN_HORDEBEASTS,,Horde Beasts,ホード・ビースト,Hordentiere,Bêtes de la Horde,Bestias de la Horda,Bestas da Horda,Звери Орды,Bestie dell'Orda,群獸,野兽军团,무리 짐승,Bestie Hordy,Звірі Орди,Horde Beesten,Sürü Canavarları
+L_SKIN_CRABHELMET,,Crab Helmet,カニの兜,Krabbenhelm,Casque de Crabe,Casco de Cangrejo,Elmo de Caranguejo,Шлем Краба,Elmo Granchio,螃蟹頭盔,螃蟹头盔,게 투구,Hełm Kraba,Шолом Краба,Krabhelm,Yengeç Kaskı
+L_SKIN_FOLLOWEROFRECLUSA,,Follower of Reclusa,レクルーサの信奉者,Anhänger von Reclusa,Disciple de Reclusa,Seguidor de Reclusa,Seguidor de Reclusa,Последователь Реклюзы,Seguace di Reclusa,瑞克魯薩的追隨者,瑞克露莎的追随者,레클루사의 추종자,Wyznawca Reclusy,Послідовник Реклюзи,Volgeling van Reclusa,Reclusa'nın Takipçisi
+L_SKIN_POSSESSED,,Possessed,憑依された,Besessen,Possédé,Poseído,Possuído,Одержимый,Posseduto,附身,附身,빙의된,Opętany,Одержимий,Bezeten,Ele Geçirilmiş
+L_SKIN_ANTIQUE,,Antique,アンティーク,Antiquität,Antique,Antiguo,Antiguidade,Антиквариат,Antico,古董,古董,골동품,Antyk,Антикваріат,Antiek,Antika
+L_SKIN_RAINBOW,,Rainbow,虹,Regenbogen,Arc-en-ciel,Arcoíris,Arco-íris,Радуга,Arcobaleno,彩虹,彩虹,무지개,Tęcza,Веселка,Regenboog,Gökkuşağı
+L_SKIN_FOLLOWEROFAZURAL,,Follower of Azural,アズラルの信奉者,Anhänger von Azural,Disciple d'Azural,Seguidor de Azural,Seguidor de Azural,Последователь Азурала,Seguace di Azural,艾祖拉爾的追隨者,阿祖拉的追随者,아주랄의 추종자,Wyznawca Azurala,Послідовник Азурала,Volgeling van Azural,Azural'ın Takipçisi
+L_SKIN_MANO'WAR,,Man O' War,マン・オー・ウォー,Mann der Kriegsflotte,Homme de Guerre,Hombre de Guerra,Homem de Guerra,Человек-о-Война,Uomo di Guerra,戰爭巨艦,僧帽水母,맨 오 워,Okręt Wojenny,Людина-Військовий Корабель,Man O' War,Savaş Gemisi
+L_SKIN_YARRR!,,Yarrr!,やあっ！,Yarrr!,Yarrr !,¡Yarrr!,Yarrr!,Яррр!,Yarrr!,呀啊啊！,呀嚯！,야아아!,Yarrr!,Яррр!,Yarrr!,Yarrr!
+L_SKIN_FOLLOWEROFPERDITION,,Follower of Perdition,破滅の信奉者,Anhänger der Verdammnis,Disciple de la Perdition,Seguidor de la Perdición,Seguidor da Perdição,Последователь Погибели,Seguace della Perdizione,滅亡追隨者,珀迪森的追随者,파멸의 추종자,Wyznawca Zatracenia,Послідовник Загибелі,Volgeling van Verdoemenis,Mahvolmanın Takipçisi
+L_SKIN_PROVIDENCE,,Providence,摂理,Vorsehung,Providence,Providencia,Providência,Провидение,Provvidenza,天命,上帝,섭리,Opatrzność,Провидіння,Voorzienigheid,Takdir
+L_SKIN_FULLHOUSE,,Full House,フルハウス,Volles Haus,Full House,Full House,Casa Cheia,Фулл-хаус,Full House,滿堂紅,满堂,풀 하우스,Full House,Фул-хаус,Volle Hand,Tam Ev
+L_SKIN_BATTLEWORN,,Battleworn,戦い疲れた,Kampferprobt,Éprouvé par la bataille,Curtido en batalla,Desgastado pela Batalha,Потрёпанный в бою,Logoro dalla battaglia,戰痕累累,战痕,전투의 흔적,Poturbowany,Загартований у боях,Strijdversleten,Savaş Yıpranmış
+L_SKIN_MASTEROFTHESWAMP,,Master of the Swamp,沼の主,Meister des Sumpfes,Maître du Marécage,Maestro del Pantano,Mestre do Pântano,Хозяин Болота,Signore della Palude,沼澤之主,沼泽之主,늪지대의 지배자,Władca Bagien,Володар Болота,Meester van het Moeras,Bataklık Ustası
+L_SKIN_MONSOON,,Monsoon,モンスーン,Monsun,Mousson,Monzón,Monção,Муссон,Monsone,季風,雨季,장마,Monsun,Мусон,Moeson,Muson
+L_SKIN_FOLLOWEROFMERAXIS,,Follower of Meraxis,メラクシスの信奉者,Anhänger von Meraxis,Disciple de Meraxis,Seguidor de Meraxis,Seguidor de Meraxis,Последователь Мераксис,Seguace di Meraxis,梅拉克西斯的追隨者,梅拉西斯的追随者,메락시스의 추종자,Wyznawca Meraxis,Послідовник Мераксіс,Volgeling van Meraxis,Meraxis'in Takipçisi
+L_SKIN_FOLLOWEROFGONFURIAN,,Follower of Gonfurian,ゴンフリアンの信奉者,Anhänger von Gonfurian,Disciple de Gonfurian,Seguidor de Gonfurian,Seguidor de Gonfurian,Последователь Гонфуриана,Seguace di Gonfurian,貢弗里安的追隨者,贡弗瑞安的追随者,곤푸리안의 추종자,Wyznawca Gonfuriana,Послідовник Гонфуріана,Volgeling van Gonfurian,Gonfurian'ın Müridi
+L_SKIN_FOLLOWEROFTARTARITH,,Follower of Tartarith,タルタリスの信奉者,Anhänger von Tartarith,Disciple de Tartarith,Seguidor de Tartarith,Seguidor de Tartarith,Последователь Тартарита,Seguace di Tartarith,塔塔利斯的追隨者,塔尔塔里斯的追随者,타르타리스의 추종자,Wyznawca Tartaritha,Послідовник Тартаріта,Volgeling van Tartarith,Tartarith'in Müridi
+L_SKIN_SPIDERLINGS,,Spiderlings,スパイダーリング,Spinnlinge,Araignées,Arañuelas,Aracnídeos,Паучата,Ragnateline,小蜘蛛,蜘蛛幼虫,거미 유충,Pajątkowie,Павучата,Spinnetjes,Örümcek Yavruları
+L_SKIN_ANDROID,,Android,アンドロイド,Android,Android,Android,Android,Андроид,Android,機器人,机器人,안드로이드,Android,Андроїд,Android,Android
+L_SKIN_WIREFRAME,,Wireframe,ワイヤーフレーム,Drahtgitter,Filaire,Wireframe,Wireframe,Каркас,Wireframe,線框,线框,와이어프레임,Szkielet,Каркас,Draadmodel,Tel Çerçeve
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_HOMUNCULUS,,Homunculus,ホムンクルス,Homunkulus,Homoncule,Homúnculo,Homúnculo,Гомункул,Homunculus,人造人,人造人,호문쿨루스,Homunkulus,Гомункул,Homunculus,Homunkulus
+L_SKIN_WANDEREROFLEGEND,,Wanderer of Legend,伝説の放浪者,Wanderer der Legende,Vagabond de Légende,Vagabundo de Leyenda,Andarilho da Lenda,Легендарный Странник,Viandante della Leggenda,傳說中的流浪者,传奇漂泊者,전설의 방랑자,Legendarny Wędrowiec,Мандрівник Легенд,Legendarische Zwerver,Efsanenin Gezgini
+L_SKIN_HUNTEROFLEGEND,,Hunter of Legend,伝説の狩人,Jäger der Legende,Chasseur de Légende,Cazador de Leyendas,Caçador de Lendas,Охотник на Легенду,Cacciatore di Leggende,傳說獵人,传奇猎手,전설의 사냥꾼,Łowca Legend,Мисливець Легенд,Jager van Legendes,Efsane Avcısı
+L_SKIN_WITCH,,Witch,魔女,Hexe,Sorcière,Bruja,Bruxa,Ведьма,Strega,女巫,女巫,마녀,Wiedźma,Відьма,Heks,Cadı
+L_SKIN_AUTUMN,,Autumn,秋,Herbst,Automne,Otoño,Outono,Осень,Autunno,秋季,秋季,가을,Jesień,Осінь,Herfst,Sonbahar
+L_SKIN_SINGULARNALAS,,Singular Nalas,シングラー・ナラス,Singuläre Nalas,Nalas Singulier,Nalas Singular,Nalas Singular,Сингулярный Налас,Nalas Singolare,奇異納拉斯,奇异娜拉丝,단일 날라스,Pojedynczy Nalas,Сингулярний Налас,Enkelvoudige Nalas,Tekil Nalas
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_FOLLOWEROFT'MEREM'RGO,,Follower of T'mere M'rgo,ト・メレ・ム・ルゴの信奉者,Anhänger von T'mere M'rgo,Disciple de T'mere M'rgo,Seguidor de T'mere M'rgo,Seguidor de T'mere M'rgo,Последователь Т'мере М'рго,Seguace di T'mere M'rgo,特米爾·姆戈的追隨者,特米尔·莫尔戈的追随者,트메레 므르고의 추종자,Wyznawca T'mere M'rgo,Послідовник Т'мере М'рго,Volgeling van T'mere M'rgo,T'mere M'rgo'nun Takipçisi
+L_SKIN_MOONKIN,,Moonkin,ムーンキン,Mondkin,Sélénien,Druida Lunar,Lunáquilo,Лунный совух,Lunagufo,月光梟獸,月光,달빛야수,Lunarny Ptak,Місячний кінь,Maankin,Aykuş
+L_SKIN_STARKIN,,Starkin,スターキン,Sternenkind,Starkin,Starkin,Starkin,Старкин,Starkin,星裔,星裔,별족,Gwiezdny Ród,Зоряни,Sterrentelg,Starkin
+L_SKIN_CURSEDARMOR,,Cursed Armor,呪われた鎧,Verfluchte Rüstung,Armure Maudite,Armadura Maldita,Armadura Amaldiçoada,Проклятая броня,Armatura Maledetta,詛咒鎧甲,诅咒盔甲,저주받은 갑옷,Przeklęta Zbroja,Проклятий обладунок,Vervloekt Harnas,Lanetli Zırh
+L_SKIN_AVENGINGSPIRIT,,Avenging Spirit,復讐の魂,Rächender Geist,Esprit Vengeur,Espíritu Vengador,Espírito Vingador,Мстительный Дух,Spirito Vendicatore,復仇之魂,复仇之魂,복수의 영혼,Mściwy Duch,Дух Помсти,Wrekende Geest,İntikamcı Ruh
+L_SKIN_WARRIORSOUL,,Warrior Soul,戦士の魂,Kriegerseele,Âme de Guerrier,Alma de Guerrero,Alma Guerreira,Душа Воина,Anima del Guerriero,戰士之魂,战士之魂,전사의 영혼,Dusza Wojownika,Душа Воїна,Krijgersziel,Savaşçı Ruhu
+L_SKIN_FOLLOWEROFALEXANDRIA,,Follower of Alexandria,アレクサンドリアの信奉者,Anhänger von Alexandria,Disciple d'Alexandria,Seguidor de Alexandria,Seguidor de Alexandria,Последователь Александрии,Seguace di Alexandria,亞歷山卓的追隨者,亚历山大的追随者,알렉산드리아의 추종자,Wyznawca Aleksandrii,Послідовник Александрії,Volgeling van Alexandria,Alexandria'nın Takipçisi
+L_SKIN_HELLDANCER,,Hell Dancer,ヘルダンサー,Höllentänzer,Danseuse Infernale,Bailarín Infernal,Dançarina Infernal,Адская Танцовщица,Danzatore Infernale,地獄舞者,地狱舞者,지옥 무용수,Tancerz Piekieł,Танцівник Пекла,Heldanser,Cehennem Dansçısı
+L_SKIN_NYASSASSIN,,Nyassassin,ニャサシン,Nyassassin,Nyassassin,Nyassasino,Nyassassin,Ньяссасин,Nyassassino,喵刺客,喵刺客,냐살인,Nyassasyn,Ньясасин,Nyassassin,Nyassassin
+L_SKIN_FOLLOWEROFTENEBRIS,,Follower of Tenebris,テネブリスの信奉者,Anhänger von Tenebris,Disciple de Tenebris,Seguidor de Tenebris,Seguidor de Tenebris,Последователь Тенебриса,Seguace di Tenebris,闇黑信徒,特内布里斯的追随者,테네브리스의 추종자,Wyznawca Tenebris,Послідовник Тенебріса,Volgeling van Tenebris,Tenebris'in Müridi
+L_SKIN_THREEORBS,,Three Orbs,三つの宝珠,Drei Kugeln,Trois Orbes,Tres Orbes,Três Orbes,Три Сферы,Tre Sfere,三顆寶珠,三相宝珠,세 개의 오브,Trzy Kule,Три Сфери,Drie Orbs,Üç Küre
+L_SKIN_FLOWERPOWER,,Flower Power,フラワーパワー,Blumenkraft,Pouvoir Floral,Poder Floral,Poder da Flor,Сила Цветов,Potere Floreale,花之力量,花之力量,꽃의 힘,Moc Kwiatów,Сила Квітів,Bloemenkracht,Çiçek Gücü
+L_SKIN_PRISMATIC,,Prismatic,プリズマティック,Prismatisch,Prismatique,Prismático,Prismático,Призматический,Prismatico,稜鏡,棱镜,프리즘,Pryzmatyczny,Призматичний,Prismatisch,Prizmatik
+L_SKIN_WIZARD,,Wizard,魔法使い,Magier,Mage,Mago,Mago,Волшебник,Mago,法師,巫师,마법사,Czarodziej,Чарівник,Tovenaar,Büyücü
+L_SKIN_WINGSOFILLUSION,,Wings of Illusion,幻影の翼,Schwingen der Illusion,Ailes d'Illusion,Alas de Ilusión,Asas da Ilusão,Крылья Иллюзии,Ali dell'Illusione,幻象之翼,幻象之翼,환상의 날개,Skrzydła Iluzji,Крила Ілюзії,Vleugels van Illusie,Hayal Kanatları
+L_SKIN_GAMBLER,,Gambler,ギャンブラー,Glücksspieler,Joueur,Apostador,Apostador,Игрок,Giocatore d'azzardo,賭徒,赌徒,도박사,Hazardzista,Гравець,Gokker,Kumarbaz
+L_SKIN_HYPERPARASITOID,,Hyperparasitoid,ハイパーパラシトイド,Hyperparasitoid,Hyperparasitoïde,Hiperparasitoide,Hiperparasitoide,Гиперпаразитоид,Iperparassitoide,超寄生蜂,重寄生虫,초기생충,Hiperparazytoid,Гіперпаразитоїд,Hyperparasitoïde,Hiperparazitoit
+L_SKIN_ANTIVIRUS,,Antivirus,アンチウイルス,Antivirus,Antivirus,Antivirus,Antivírus,Антивирус,Antivirus,防毒軟體,杀毒程序,바이러스 백신,Antywirus,Антивірус,Antivirusprogramma,Antivirüs
+L_SKIN_FOLLOWEROFMUSE,,Follower of Muse,ミューズの信奉者,Anhänger der Muse,Disciple de la Muse,Seguidor de Musa,Seguidor da Musa,Последователь Музы,Seguace della Musa,繆斯的追隨者,缪斯的追随者,뮤즈의 추종자,Wyznawca Muzy,Послідовник Музи,Volgeling van Muse,Müz Takipçisi
+L_SKIN_AVIANMASTERPIECE,,Avian Masterpiece,鳥類の傑作,Vogelmeisterwerk,Chef-d'œuvre Aviaire,Obra Maestra Aviar,Obra-Prima Aviária,Птичий Шедевр,Capolavoro Aviario,禽鳥傑作,鸟类杰作,조류의 걸작,Ptasie Arcydzieło,Пташиний Шедевр,Gevleugeld Meesterwerk,Kuş Şaheseri
+L_SKIN_FOLLOWEROFZONTE,,Follower of Zonte,ゾンテの信奉者,Anhänger von Zonte,Disciple de Zonte,Seguidor de Zonte,Seguidor de Zonte,Последователь Зонте,Seguace di Zonte,宗特的追隨者,佐特的追随者,존테의 추종자,Wyznawca Zonte,Послідовник Зонте,Volgeling van Zonte,Zonte'nin Takipçisi
+L_SKIN_GAUDY,,Gaudy,派手な,Protzig,Clinquant,Ostentoso,Espalhafatoso,Вычурный,Pacchiano,華麗,华而不实,화려한,Krzykliwy,Показний,Opzichtig,Gösterişli
+L_SKIN_SINGULARRENGAS,,Singular Rengas,シングラー・レンガス,Singuläre Rengas,Rengas Singulier,Rengas Singular,Rengas Singular,Сингулярные Ренгасы,Rengas Singolare,單一連歌,奇异伦加斯,단일 렝가스,Osobliwe Rengas,Сингулярні Ренгаси,Enkelvoudige Rengas,Tekil Rengas
+L_SKIN_SMOLDERINGRAGE,,Smoldering Rage,燻る怒り,Schwelende Wut,Rage Incandescente,Furia Ardiente,Fúria Ardente,Тлеющая Ярость,Rabbia Ardente,燃燒怒火,燃烧之怒,타오르는 분노,Tlący się Gniew,Тліюча Лють,Smeulende Woede,Közlenen Öfke
+L_SKIN_DANSEMACABRE,,Danse Macabre,ダンス・マカブル,Totentanz,Danse Macabre,Danza Macabra,Dança Macabra,Пляска Смерти,Danza Macabra,死亡之舞,骇人之舞,죽음의 무도,Taniec Śmierci,Танець Смерті,Dodendans,Ölüm Dansı
+L_SKIN_FOLLOWEROFYSEROS,,Follower of Yseros,イセロスの信奉者,Anhänger von Yseros,Disciple d'Yseros,Seguidor de Yseros,Seguidor de Yseros,Последователь Исероса,Seguace di Yseros,伊瑟洛斯的追隨者,伊瑟洛丝的追随者,이세로스의 추종자,Wyznawca Yserosa,Послідовник Ізероса,Volgeling van Yseros,Yseros'un Takipçisi
+L_SKIN_METAL,,Metal,メタル,Metall,Métal,Metal,Metal,Металл,Metallo,金屬,金属,금속,Metal,Метал,Metaal,Metal
+L_SKIN_SILK,,Silk,シルク,Seide,Soie,Seda,Seda,Шёлк,Seta,絲綢,丝绸,비단,Jedwab,Шовк,Zijde,İpek
+L_SKIN_CRYSTALLINE,,Crystalline,クリスタリン,Kristallin,Cristallin,Cristalino,Cristalino,Кристаллический,Cristallino,晶石,结晶化,수정,Krystaliczny,Кристалічний,Kristallijn,Kristal
+L_SKIN_SALAMANGER,,Salamanger,サラマンガー,Salamanger,Salamanger,Salamanger,Salamanger,Саламангер,Salamanger,火蜥蜴,怒火蜥蜴,살라맨저,Salamanger,Саламангер,Salamanger,Salamanger
+L_SKIN_WATERCOLOR,,Watercolor,水彩,Aquarell,Aquarelle,Acuarela,Aquarela,Акварель,Acquerello,水彩,水彩,수채화,Akwarela,Акварель,Aquarel,Suluboya
+L_SKIN_FOLLOWEROFAPOCRANOX,,Follower of Apocranox,アポクラノックスの信奉者,Anhänger von Apocranox,Disciple d'Apocranox,Seguidor de Apocranox,Seguidor de Apocranox,Последователь Апокранокса,Seguace di Apocranox,阿波克拉諾克斯的追隨者,阿波克拉诺的追随者,아포크라녹스의 추종자,Wyznawca Apocranoksa,Послідовник Апокранокса,Volgeling van Apocranox,Apocranox'un Müridi
+L_SKIN_ENERGYBEING,,Energy Being,エネルギー生命体,Energiewesen,Être d'Énergie,Ser de Energía,Ser de Energia,Энергетическое Существо,Essere di Energia,能量生物,能量体,에너지 존재,Istota Energetyczna,Енергетична Істота,Energiewezen,Enerji Varlığı
+L_SKIN_SINGULARSAUREL,,Singular Saurel,シングラー・ソーレル,Singulärer Saurel,Saurel Singulier,Saurel Singular,Saurel Singular,Сингулярный Сорель,Saurel Singolare,奇異索雷爾,奇异索雷尔,단일 소렐,Osobliwy Saurel,Сингулярний Сорель,Enkelvoudige Saurel,Tekil Saurel
+L_SKIN_GALVANIZED,,Galvanized,ガルバナイズド,Galvanisiert,Galvanisé,Galvanizado,Galvanizado,Гальванизированный,Galvanizzato,電鍍,电镀,고무된,Zelektryzowany,Гальванізований,Gestaald,Galvanize Edilmiş
+L_SKIN_GHOST!,,Ghost!,ゴースト！,Geist!,Fantôme !,¡Fantasma!,Fantasma!,Призрак!,Fantasma!,鬼魂！,幽灵！,유령!,Duch!,Привид!,Geest!,Hayalet!
+L_SKIN_TENEBRIS'SPET,,Tenebris's Pet,テネブリスのペット,Tenebris' Haustier,Animal de compagnie de Tenebris,Mascota de Tenebris,Mascote de Tenebris,Питомец Тенебриса,Animale di Tenebris,特涅布里斯的寵物,特内布里斯的宠物,테네브리스의 애완동물,Pupil Tenebris,Улюбленець Тенебріса,Tenebris's Huisdier,Tenebris'in Evcil Hayvanı
+L_SKIN_DEVOURER,,Devourer,喰らい魔,Verschlinger,Dévoreur,Devorador,Devorador,Пожиратель,Divoratore,吞噬者,吞噬者,포식자,Pożeracz,Пожирач,Verslinder,Yiyici
+L_SKIN_FOLLOWEROFAURUM,,Follower of Aurum,オーラムの信奉者,Anhänger von Aurum,Disciple d'Aurum,Seguidor de Aurum,Seguidor de Aurum,Последователь Аурума,Seguace di Aurum,奧倫的追隨者,奥鲁姆的追随者,아우룸의 추종자,Wyznawca Aurum,Послідовник Аурума,Volgeling van Aurum,Aurum Takipçisi
+L_SKIN_FOLLOWEROFLISTER,,Follower of Lister,リスターの信奉者,Anhänger von Lister,Disciple de Lister,Seguidor de Lister,Seguidor de Lister,Последователь Листера,Seguace di Lister,李斯特的追隨者,利斯特的追随者,리스터의 추종자,Wyznawca Listera,Послідовник Лістера,Volgeling van Lister,Lister'ın Takipçisi
+L_SKIN_SURFER,,Surfer,サーファー,Surfer,Surfeur,Surfista,Surfista,Сёрфер,Surfista,衝浪者,冲浪者,서퍼,Surfer,Серфер,Surfer,Sörfçü
+L_SKIN_UNMASKED,,Unmasked,正体露わし,Entlarvt,Démasqué,Desenmascarado,Desmascarado,Разоблачённый,Smascherato,揭露真相,无面具,정체 드러남,Zdemaskowany,Викритий,Ontmaskerd,Maskesiz
+L_SKIN_SNAP-O-LANTERN,,Snap-o-Lantern,スナップ・オ・ランタン,Knack-o-Laterne,Citrouille-Éclair,Calabaza Chasqueante,Abóbora Instantânea,Щелк-о-Фонарь,Zucca Scattante,彈指南瓜燈,捕噬南瓜灯,딱딱이 호박등,Trzask-o-Dynia,Гарбуз-клацалка,Knap-o-Lantaarn,Çıt-o-Fener
+L_SKIN_SPROUT,,Sprout,芽生え,Spross,Pousse,Brote,Broto,Росток,Germoglio,萌芽,萌芽,새싹,Kiełek,Паросток,Spruit,Filiz
+L_SKIN_BIOLUMINESCENTRAVE,,Bioluminescent Rave,バイオルミネセント・レイヴ,Biolumineszente Rave,Rave Bioluminescente,Fiesta Bioluminiscente,Rave Bioluminescente,Биолюминесцентный Рейв,Rave Bioluminescente,生物螢光狂歡,狂热生物荧光,생체발광 레이브,Bioluminescencyjna Impreza,Біолюмінесцентний Рейв,Bioluminescente Rave,Biyolüminesan Parti
+L_SKIN_STORMBREAKER,,Stormbreaker,ストームブレイカー,Sturmbrecher,Brise-Tempête,Rompetormentas,Quebra-Tempestade,Буреломщик,Spezzatempeste,風暴破碎者,风暴破碎者,폭풍파괴자,Burzołamacz,Буреламник,Stormbreker,Fırtınakıran
+L_SKIN_BATTLEBEAST,,Battle Beast,バトルビースト,Kampfbestie,Bête de Combat,Bestia de Batalla,Besta de Batalha,Боевой Зверь,Bestia da Combattimento,戰鬥野獸,好战野兽,전투 야수,Bestia Bojowa,Бойовий Звір,Strijdbeest,Savaş Canavarı
+L_SKIN_PIXIES,,Pixies,ピクシー,Pixies,Pixies,Pixies,Pixies,Пикси,Folletti,精靈,小精灵,픽시,Chochliki,Піксі,Pixies,Periler
+L_SKIN_STARMASTER,,Star Master,スターマスター,Sternenmeister,Maître des Étoiles,Maestro Estelar,Mestre Estelar,Мастер Звёзд,Maestro delle Stelle,星之大師,星之大师,별의 대가,Mistrz Gwiazd,Зоряний Майстер,Sterrenmeester,Yıldız Ustası
+L_SKIN_SUNPRIEST,,Sun Priest,太陽司祭,Sonnenpriester,Prêtre du Soleil,Sacerdote Solar,Sacerdote do Sol,Жрец Солнца,Sacerdote del Sole,太陽祭司,拜日祭司,태양 사제,Kapłan Słońca,Жрець Сонця,Zonnepriester,Güneş Rahibi
+L_SKIN_FOLLOWEROFSURATHLI,,Follower of Surathli,スラスリの信奉者,Anhänger von Surathli,Disciple de Surathli,Seguidor de Surathli,Seguidor de Surathli,Последователь Суратли,Seguace di Surathli,蘇拉斯利的追隨者,苏拉斯莉的追随者,수라틀리의 추종자,Wyznawca Surathli,Послідовник Суратлі,Volgeling van Surathli,Surathli'nin Müridi
+L_SKIN_SINGULARTHANA,,Singular Thana,シングラー・サナ,Singuläre Thana,Thana Singulier,Thana Singular,Thana Singular,Единственная Тана,Thana Singolare,奇異薩納,奇异萨娜,단일 타나,Pojedyncza Thana,Сингулярна Тана,Enkelvoudige Thana,Tekil Thana
+L_SKIN_WORMHORDE,,Worm Horde,ワームの大群,Wurmhorde,Horde de Vers,Horda de Gusanos,Horda de Vermes,Полчище Червей,Orda di Vermi,蟲群,蠕虫群,벌레 무리,Horda Robaków,Орда Хробаків,Wormenhorde,Solucan Sürüsü
+L_SKIN_INJUSTICE,,Injustice,不正,Ungerechtigkeit,Injustice,Injusticia,Injustiça,Несправедливость,Ingiustizia,不公正,不义,불의,Niesprawiedliwość,Несправедливість,Onrecht,Adaletsizlik
+L_SKIN_MINTYFRESH,,Minty Fresh,ミント香る,Minzfrisch,Fraîcheur Mentholée,Fresco Mentolado,Frescor de Menta,Мятная Свежесть,Freschezza Mentolata,薄荷清新,薄荷清新,민트향 상쾌함,Miętowa Świeżość,М'ятна свіжість,Muntfris,Nane Ferahlığı
+L_SKIN_BEACHBUM,,Beach Bum,ビーチ・バム,Strandpenner,Flâneur de Plage,Vago de Playa,Vagabundo de Praia,Пляжный бездельник,Fannullone da Spiaggia,海灘流浪漢,海滩浪人,해변 방랑자,Plażowy Obibok,Пляжний нероба,Strandgast,Plaj Serserisi
+L_SKIN_OCCULT,,Occult,オカルト,Okkult,Occulte,Oculto,Oculto,Оккультизм,Occulto,神秘學,神秘者,오컬트,Okultyzm,Окультизм,Occult,Okült
+L_SKIN_GUNSLINGER,,Gunslinger,ガンスリンガー,Revolverheld,Tireur d'élite,Pistolero,Pistoleiro,Стрелок,Pistolero,神槍手,快枪手,건슬링어,Rewolwerowiec,Стрілець,Scherpschutter,Silahşör
+L_SKIN_TORNADO,,Tornado,トルネード,Tornado,Tornade,Tornado,Tornado,Торнадо,Tornado,龍捲風,龙卷风,토네이도,Tornado,Торнадо,Tornado,Kasırga
+L_SKIN_FOX,,Fox,キツネ,Fuchs,Renard,Zorro,Raposa,Лис,Volpe,狐狸,狐狸,여우,Lis,Лис,Vos,Tilki
+L_SKIN_GHOST,,Ghost,ゴースト,Geist,Fantôme,Fantasma,Fantasma,Призрак,Fantasma,幽靈,幽灵,유령,Duch,Привид,Geest,Hayalet
+L_SKIN_GILDED,,Gilded,金箔を施した,Vergoldet,Doré,Dorado,Dourado,Позолоченный,Dorato,鍍金的,镀金,금박을 입힌,Pozłacany,Позолочений,Verguld,Yaldızlı
+L_SKIN_CASINO,,Casino,カジノ,Casino,Casino,Casino,Cassino,Казино,Casinò,賭場,赌场,카지노,Kasyno,Казино,Casino,Kumarhane
+L_SKIN_ARCANEEYE,,Arcane Eye,魔眼,Arkanes Auge,Œil Arcanique,Ojo Arcano,Olho Arcano,Магический Глаз,Occhio Arcano,奧術之眼,奥术之眼,비전의 눈,Magiczne Oko,Магічне Око,Arcaan Oog,Büyülü Göz
+L_SKIN_STARGAZER,,Stargazer,スターゲイザー,Sterngucker,Contemplateur d'étoiles,Contemplador de Estrellas,Contemplador de Estrelas,Звездочёт,Osservatore di Stelle,觀星者,观星者,별을 바라보는 자,Obserwator Gwiazd,Зорелов,Sterrengluurder,Yıldız Gözlemcisi
+L_SKIN_AMALGAMGARDENS,,Amalgam Gardens,アマルガム・ガーデン,Amalgam-Gärten,Jardins d'Amalgame,Jardines Amalgama,Jardins Amalgamados,Сады Амальгамы,Giardini dell'Amalgama,混合花園,融合花园,혼합 정원,Ogrody Amalgamatu,Сади Амальгами,Amalgaamtuinen,Birleşik Bahçeler
+L_SKIN_BREWMASTER,,Brewmaster,醸造師,Braumeister,Maître brasseur,Maestro Cervecero,Mestre Cervejeiro,Пивовар,Mastro Birraio,釀酒大師,调酒师,양조 명인,Mistrz Warzenia,Бровар,Brouwmeester,Biracı
+L_SKIN_DEMONOLOGIST,,Demonologist,悪魔術師,Dämonologe,Démonologue,Demonólogo,Demonologista,Демонолог,Demonologo,惡魔學者,恶魔学家,악마학자,Demonolog,Демонолог,Demonoloog,Şeytanbilimci
+L_SKIN_DEPRIVED,,Deprived,剥奪された,Beraubt,Démuni,Despojado,Despojado,Обделённый,Spogliato,貧困者,被剥夺者,빈곤한,Pozbawiony,Знедолений,Berooid,Yoksun
+L_SKIN_ENGINEER,,Engineer,エンジニア,Ingenieur,Ingénieur,Ingeniero,Engenheiro,Инженер,Ingegnere,工程師,工程师,기술자,Inżynier,Інженер,Ingenieur,Mühendis
+L_SKIN_GLADIATOR,,Gladiator,グラディエーター,Gladiator,Gladiateur,Gladiador,Gladiador,Гладиатор,Gladiatore,角鬥士,角斗士,검투사,Gladiator,Гладіатор,Gladiator,Gladyatör
+L_SKIN_GRAVEBORN,,Graveborn,グレイヴボーン,Grabgeborener,Mortnés,Nacido de la Tumba,Nascido do Túmulo,Рождённый во тьме,Natomorto,墓生者,重生者,그레이브본,Zrodzony z Grobu,Могильнороджений,Grafgeborene,Mezardoğan
+L_SKIN_MIME,,Mime,マイム,Mime,Mime,Mimo,Mímico,Мим,Mimo,啞劇演員,模仿者,마임,Mim,Мім,Mime,Pandomim
+L_SKIN_PARIAH,,Pariah,パリア,Ausgestoßener,Paria,Paria,Pária,Изгой,Paria,棄民,被弃者,추방자,Parias,Вигнанець,Verstotene,Parya
+L_SKIN_SHADOWBRINGER,,Shadowbringer,シャドウブリンガー,Schattenbringer,Porteur d'Ombre,Portador de Sombras,Portador das Sombras,Теневержец,Portatore d'Ombra,暗影使者,暗影使者,그림자인도자,Niosący Cień,Тіньоносець,Schaduwbrenger,Gölgegetiren
+L_SKIN_TOXICOLOGIST,,Toxicologist,毒物学者,Toxikologe,Toxicologue,Toxicólogo,Toxicologista,Токсиколог,Tossicologo,毒物學家,毒物学家,독물학자,Toksykolog,Токсиколог,Toxicoloog,Toksikolog
+L_SKIN_TRATH,,T'Rath,T'ラス,T'Rath,T'Rath,T'Rath,T'Rath,Т'Рат,T'Rath,特拉斯,特拉斯,트라스,T'Rath,Т'Рат,T'Rath,T'Rath
+L_SKIN_MISTRESSOFSECRETS,,Mistress of Secrets,秘密の女主人,Herrin der Geheimnisse,Maîtresse des Secrets,Señora de los Secretos,Senhora dos Segredos,Госпожа Тайн,Signora dei Segreti,秘密女主人,私密女主,비밀의 여주인,Władczyni Sekretów,Володарка Таємниць,Meesteres van Geheimen,Sırların Hanımefendisi
+L_SKIN_CENTAURIDE,,Centauride,ケンタウロスの女,Zentaurin,Centauride,Centáuride,Centáuride,Кентавресса,Centauressa,半人馬女戰士,雌性半人马,켄타우리데,Centaurzyca,Кентавриця,Centauride,Sentaur Kadını
+L_SKIN_CRIMSONFUTURE,,Crimson Future,クリムゾン・フューチャー,Purpurne Zukunft,Avenir Pourpre,Futuro Carmesí,Futuro Carmesim,Багровое Будущее,Futuro Cremisi,赤紅未來,赤红未来,진홍의 미래,Karmazynowa Przyszłość,Багряне Майбутнє,Karmozijnen Toekomst,Kızıl Gelecek
+L_SKIN_AMPED,,Amped,アンプド,Aufgeladen,Survolté,Potenciado,Amplificado,Заряженный,Potenziato,強化,多进程驱动,강화됨,Naładowany,Посилений,Opgeladen,Güçlendirilmiş
+L_SKIN_CHIMERACAT,,Chimera Cat,キメラキャット,Chimärenkatze,Chat Chimère,Gato Quimera,Gato Quimera,Кошка-химера,Gatto Chimera,奇美拉貓,奇美拉猫,키메라 고양이,Kot Chimera,Химера-кіт,Chimera Kat,Kimera Kedi
+L_SKIN_EVILPRINCESS,,Evil Princess,邪悪な姫,Böse Prinzessin,Princesse Maléfique,Princesa Malvada,Princesa Maligna,Злая Принцесса,Principessa Malvagia,邪惡公主,邪恶公主,사악한 공주,Zła Księżniczka,Зла Принцеса,Boosaardige Prinses,Kötü Prenses
+L_SKIN_ONEBRAINCELL,,One Braincell,ワンブレインセル,Ein Gehirnzelle,Une Cellule Grise,Una Neurona,Uma Célula Cerebral,Одна Извилина,Un Neurone,單細胞腦袋,单细胞,단세포,Jedna Komórka Mózgowa,Одна Звивина,Eén Hersencel,Tek Beyin Hücresi
+L_SKIN_ALICE,,Alice,アリス,Alice,Alice,Alice,Alice,Алиса,Alice,愛麗絲,爱丽丝,앨리스,Alicja,Аліса,Alice,Alice
+L_SKIN_FRIEND,,Friend,友達,Freund,Ami,Amigo,Amigo,Друг,Amico,朋友,朋友,친구,Przyjaciel,Друг,Vriend,Dost
+L_SKIN_MOTHICANT,,Mothicant,モシカント,Mothicant,Mothicant,Mothicant,Mothicant,Мотикант,Mothicant,蛾人,神话蛾,모시캔트,Ćmowiec,Мотікант,Mothicant,Mothicant
+L_SKIN_EGGSQUISITE,,Egg-squisite,エッグスクイジット,Ei-quisit,Œuf-quis,Huevo-quisito,Ovo-lente,Яйцеликатес,Uovissimo,蛋中極品,蛋味佳品,계란-찰스러운,Jajo-wite,Яєчна розкіш,Ei-stravagant,Yumurta-leziz
+L_SKIN_MECHLESS,,Mechless,メックレス,Mechlos,Sans méca,Sin meca,Sem Mecha,Безмеханизм,Senza Mech,無機甲,无机械,기계 없는,Bezmech,Безмеханічний,Mechless,Mekanik Olmayan
+L_SKIN_PRIMAL,,Primal,プライマル,Urgewaltig,Primordial,Primigenio,Primordial,Первобытный,Primordiale,原始,原始,원시,Pierwotny,Первісний,Oerkracht,İlkel
+L_SKIN_MASCULINEMARIONETTE,,Masculine Marionette,マスキュリン・マリオネット,Männliche Marionette,Marionnette Masculine,Marioneta Masculina,Marionete Masculina,Мужская Марионетка,Marionetta Maschile,陽剛木偶,雄性提线木偶,남성 마리오네트,Męska Marionetka,Чоловіча Маріонетка,Mannelijke Marionet,Erkeksi Kukla
+L_SKIN_MESMERIST,,Mesmerist,メスメリスト,Mesmerist,Hypnotiseur,Hipnotizador,Mesmerista,Месмерист,Mesmerista,催眠師,催眠师,현혹술사,Mesmeryta,Месмерист,Mesmerist,Hipnotizmacı
+L_SKIN_PRIMALWARRIOR,,Primal Warrior,プライマルウォリアー,Urtümlicher Krieger,Guerrier Primitif,Guerrero Primigenio,Guerreiro Primitivo,Первобытный Воин,Guerriero Primordiale,原始戰士,原始战士,원시 전사,Pierwotny Wojownik,Первісний Воїн,Oerkrijger,İlkel Savaşçı
+L_SKIN_CLASSICCHIMERA,,Classic Chimera,クラシックキメラ,Klassische Chimäre,Chimère Classique,Quimera Clásica,Quimera Clássica,Классическая Химера,Chimera Classica,經典奇美拉,经典奇美拉,클래식 키메라,Klasyczna Chimera,Класична Химера,Klassieke Chimaera,Klasik Kimera
+L_SKIN_MERMAID,,Mermaid,マーメイド,Meerjungfrau,Sirène,Sirena,Sereia,Русалка,Sirena,人魚,人鱼,인어,Syrena,Русалка,Zeemeermin,Denizkızı
+L_SKIN_GILDED,,Gilded,金箔を施した,Vergoldet,Doré,Dorado,Dourado,Позолоченный,Dorato,鍍金的,镀金,금박을 입힌,Pozłacany,Позолочений,Verguld,Yaldızlı
+L_SKIN_NETHERORB,,Nether Orb,冥界のオーブ,Nether-Kugel,Orbe du Néant,Orbe del Inframundo,Orbe do Nether,Сфера Пустоты,Sfera dell'Oltretomba,冥界寶珠,下界宝珠,황천의 오브,Sfera Otchłani,Потойбічна сфера,Nether Bol,Öte Küre
+L_SKIN_STONEHEART,,Stoneheart,ストーンハート,Steinherz,Cœur de Pierre,Corazón de Piedra,Coração de Pedra,Каменное Сердце,Cuordiroccia,石心,石之心,스톤하트,Kamienne Serce,Кам'яне Серце,Steenhart,Taşyürek
+L_SKIN_GOODBOY,,Good Boy,いい子,Braver Junge,Bon Garçon,Buen Chico,Bom Garoto,Хороший мальчик,Bravo Ragazzo,好孩子,好孩子,착한 아이,Grzeczny Chłopiec,Хороший хлопчик,Brave Jongen,İyi Çocuk
