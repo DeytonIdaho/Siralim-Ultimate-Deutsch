@@ -27,7 +27,7 @@
 | 724 | Trait: {1}\n{2} | Merkmal: {1}\n{2} |
 | 725 | You don't have any creatures with Rank D or higher knowledge. Creatures with Rank S knowledge cannot be hunted. | Du hast keine Kreaturen mit Wissen vom Rang D oder höher. Kreaturen mit Wissen vom Rang S können nicht gejagt werden. |
 | 726 | This creature's trait does not have a corresponding Trait material, so you cannot take on an Assassination Mission for this creature. | Für das Merkmal dieser Kreatur gibt es kein entsprechendes Merkmalsmaterial. Daher kannst du für diese Kreatur keine Attentatsmission annehmen. |
-| 727 | You don't have Rank S knowledge with any creatures. | Du hast bei keiner Kreatur Rang-S-Wissen. |
+| 727 | You don't have Rank S knowledge with any creatures. | Du hast für keine Kreatur Wissen auf Rang S. |
 | 728 | After completing this Project, you will receive the following Trait Material:\n\n{1} (Owned: {2}) | Nach Abschluss dieses Projekts erhältst du das folgende Merkmalsmaterial:\n\n{1} (Besessen: {2}) |
 | 729 | After completing this Project, you will receive a large amount of Favor with {1}.\n\nCurrent Favor Rank: {2} | Nach Abschluss dieses Projekts erhältst du eine große Menge an Gunst bei {1}.\n\nAktueller Gunstrang: {2} |
 | 730 | After completing this Project, you will receive a Scroll that permanently increases the base {1} of one of your creatures by 1.\n\nCreatures can consume a maximum of 15 Scrolls. | Nach Abschluss dieses Projekts erhältst du eine Schriftrolle, die den Basis-{1} einer deiner Kreaturen dauerhaft um 1 erhöht.\n\nKreaturen können maximal 15 Schriftrollen konsumieren. |
