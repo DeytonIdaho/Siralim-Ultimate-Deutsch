@@ -1,4 +1,0 @@
-line,english,german,issues,reviewed,replacement
-260,"This is enough gem dust to enchant every Spell Gem you'll find in your lifetime! What luck!\n\nAs you start to gather the satchel of dust, it transforms into a bunch of turtles, because why the hell not?\n\nThe creatures attack!","Das ist genug Edelsteinstaub, um jeden Zauberedelstein zu verzaubern, den du in deinem Leben finden wirst! Was für ein Glück!\n\nAls du beginnst, den Beutel mit Staub einzusammeln, verwandelt er sich in einen Haufen Schildkröten, weil warum zum Teufel nicht?\n\nDie Kreaturen greifen an!",TERM:Spell Gem->Zauberstein,,
-341,Your creatures gained +0.1% Minion Damage!,"Deine Kreaturen haben +0,1% Schergen-Schaden erhalten!",TERM:Minion->Diener,,
-352,A Nemesis Creature appeared nearby!,Ein Nemesis-Wesen ist in der Nähe aufgetaucht!,TERM:Creature->Kreatur,,

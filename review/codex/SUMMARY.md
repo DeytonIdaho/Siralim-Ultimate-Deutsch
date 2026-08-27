@@ -2,6 +2,6 @@
 
 - Source: `codex.csv`
 - Rows: 341
-- Flagged: 48
+- Flagged: 7
 - Chunk size: 100
 - Review files: 1
