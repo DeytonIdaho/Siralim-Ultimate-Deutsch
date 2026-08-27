@@ -20,20 +20,25 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Generate review queues
+      - name: Apply reviewed safe trait fixes
         run: |
-          rm -rf review/perks review/traits
+          python tools/translation_pipeline.py traits.csv --out review/traits --chunk-size 100 --apply-safe-fixes --fixed-file traits.csv
+
+      - name: Generate fresh review queues
+        run: |
+          rm -rf review/perks
           python tools/translation_pipeline.py perks.csv --out review/perks --chunk-size 100
+          rm -rf review/traits
           python tools/translation_pipeline.py traits.csv --out review/traits --chunk-size 100
 
-      - name: Commit generated review files
+      - name: Commit corrected traits and review files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add review
+          git add traits.csv review
           if git diff --cached --quiet; then
-            echo "No review changes to commit."
+            echo "No changes to commit."
           else
-            git commit -m "Generate translation QA review queues"
+            git commit -m "Apply safe trait translation fixes and rerun QA"
             git push origin HEAD:translation-work
           fi
