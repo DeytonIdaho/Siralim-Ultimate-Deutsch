@@ -20,25 +20,73 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Apply reviewed safe trait fixes
+      - name: Apply reviewed safe fixes
         run: |
-          python tools/translation_pipeline.py traits.csv --out review/traits --chunk-size 100 --apply-safe-fixes --fixed-file traits.csv
+          for file in *.csv; do
+            name="${file%.csv}"
+            python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100 --apply-safe-fixes --fixed-file "$file"
+          done
 
-      - name: Generate fresh review queues
+      - name: Generate fresh QA queues
         run: |
-          rm -rf review/perks
-          python tools/translation_pipeline.py perks.csv --out review/perks --chunk-size 100
-          rm -rf review/traits
-          python tools/translation_pipeline.py traits.csv --out review/traits --chunk-size 100
+          rm -rf review
+          for file in *.csv; do
+            name="${file%.csv}"
+            python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100
+          done
 
-      - name: Commit corrected traits and review files
+      - name: Generate human review blocks for all localization files
+        run: |
+          rm -rf human_review
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+
+          BLOCK = 100
+          root = Path('.')
+          outroot = Path('human_review')
+
+          def esc(value):
+              return (value or '').replace('|', '\\|').replace('\n', '\\n').replace('\r', '')
+
+          for src in sorted(root.glob('*.csv')):
+              with src.open(encoding='utf-8-sig', newline='') as f:
+                  reader = csv.DictReader(f)
+                  fields = reader.fieldnames or []
+                  lower = {x.lower(): x for x in fields}
+                  en_col = next((lower[x] for x in ('english','en','source','original','text_en','description_en') if x in lower), None)
+                  de_col = next((lower[x] for x in ('german','de','deutsch','translation','text_de','description_de') if x in lower), None)
+                  if not en_col or not de_col:
+                      print(f'Skipping {src}: EN/DE columns not found')
+                      continue
+                  rows = list(reader)
+
+              target = outroot / src.stem
+              target.mkdir(parents=True, exist_ok=True)
+              for block_no, start in enumerate(range(0, len(rows), BLOCK), 1):
+                  chunk = rows[start:start+BLOCK]
+                  first = start + 1
+                  last = start + len(chunk)
+                  lines = [
+                      f'# Human review: {src.name} — {first}-{last}',
+                      '',
+                      '| Row | English | German |',
+                      '|---:|---|---|',
+                  ]
+                  for offset, row in enumerate(chunk, start=first+1):
+                      lines.append(f'| {offset} | {esc(row.get(en_col))} | {esc(row.get(de_col))} |')
+                  (target / f'block_{block_no:03d}.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+              print(f'{src.name}: {len(rows)} rows -> {block_no if rows else 0} blocks')
+          PY
+
+      - name: Commit corrected files and review data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add traits.csv review
+          git add '*.csv' review human_review
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Apply safe trait translation fixes and rerun QA"
+            git commit -m "Apply translation fixes and rebuild all review data"
             git push origin HEAD:translation-work
           fi
