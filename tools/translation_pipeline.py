@@ -17,21 +17,32 @@ def cols(fs):
  return a,b
 def fix(en,de):
  out=de or""
- for p,r in [(r"Zauberjuwel","Zauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein"),(r"Schergen","Diener"),(r"Handlanger","Diener"),(r"Lakaien","Diener"),(r"Statuswerte","Attribute"),(r"Statuswert","Attribut")]:out=re.sub(p,r,out)
- if re.search(r"\btraits?\b",en,re.I):out=re.sub(r"Eigenschaften","Merkmale",out);out=re.sub(r"Eigenschaft","Merkmal",out)
- # Content consistency decisions.
- if en.startswith('[font_14]"Spell Potency" refers to the strength of a spell'):
-  out=out.replace('"Zauberwirksamkeit"','"Zaubermacht"').replace('Wirksamkeit eines Zaubers','Zaubermacht eines Zaubers').replace('Wirksamkeitsstufe','Zaubermachtstufe').replace('Statusänderungen','Attributsänderungen')
- if en.startswith("Creatures have five primary stats:"):out=out.replace("Wirksamkeit von Zaubern","Zaubermacht")
- if en.startswith("Part of the spell's potency is based on the caster's {STAT_speed}"):out=out.replace("Wirksamkeit des Zaubers","Zaubermacht des Zaubers")
- if en.startswith("Part of the spell's potency is based on the caster's {STAT_attack}"):out=out.replace("Wirksamkeit des Zaubers","Zaubermacht des Zaubers")
- if en=="Enemies lose fewer stats from stat-reducing effects.":out="Gegner verlieren durch attributsreduzierende Effekte weniger Attribute."
+ for p,r in [(r"Zauberjuwel","Zauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein")]:out=re.sub(p,r,out)
+ # Mechanical trait terminology only when the source actually means the game Trait concept.
+ if "Trait Material" in en:out=out.replace("Eigenschaftsmaterial","Merkmalsmaterial")
+ if en.startswith("Everett:\\nWhen you Fuse two creatures together"):out=out.replace("Eigenschaften beider","Merkmale beider").replace("seine Werte","seine Attribute").replace("Durchschnitt der Werte","Durchschnitt der Attribute")
+ # Mechanical creature references in tutorial/UI text.
+ if en.startswith("This creature has already used 15 scrolls."):out=out.replace("Dieses Wesen","Diese Kreatur")
+ if en.startswith("You can now Transmogrify your character"):out=out.replace("jedes Wesen der","jede Kreatur der")
+ if en.startswith("You should bring along at least one creature before using the Teleportation Shrine."):out="Du solltest mindestens eine Kreatur mitnehmen, bevor du den Teleportationsschrein benutzt."
+ if en.startswith("Nortah:\\nYou can return to the Menagerie"):out=out.replace("ein Wesen aus deiner Gruppe","eine Kreatur aus deiner Gruppe")
+ # Decoration/UI names are strict terminology.
+ if en=="Spell Gems":out="Zaubersteine"
+ if en=="Abnormal Spell Gems":out="Abnormale Zaubersteine"
+ if en=="Customizable Creature":out="Anpassbare Kreatur"
+ # Missing proper names are intentionally unchanged in German.
+ if en in("Scylla","Charybdis") and not out:out=en
+ # Existing content decisions.
  if en=="Doubles the potency of these effects.":out="Verdoppelt die Effektstärke dieser Effekte."
- if en=="Your creatures' minions have a 5% lower chance to go away.":out="Die Diener deiner Kreaturen haben eine um 5% geringere Chance zu verschwinden."
- # Preserve repaired damaged Codex pages.
- if en.startswith("Cards are extremely rare items that have a chance to drop from enemy creatures after battle."):
-  out='Karten sind extrem seltene Gegenstände, die nach einem Kampf mit einer gewissen Wahrscheinlichkeit von feindlichen Kreaturen fallen gelassen werden. Jede Karte gehört zu einem "Karten-Set". Wenn du genügend Karten eines Karten-Sets sammelst, erhalten deine Kreaturen im Kampf einen passiven Bonus. Für jede einzelne Kreatur in Rodia gibt es eine Karte.\\n\\nDu kannst alle gesammelten Karten sowie die dafür freigeschalteten Boni ansehen, indem du im Hauptmenü die Option [menu_cards] Karten auswählst.\\n\\nDu kannst zwar doppelte Karten sammeln, diese gewähren jedoch nur die zusätzlichen Attributsboni, die sie normalerweise verleihen würden, und tragen nicht zu den Karten-Set-Boni bei.'
  return out
+
+def narrative_file(path):return Path(path).stem in {"personality","dialog","dialog_story"}
+def exception(path,en,term):
+ # In narrative/flavour prose, creature may naturally be Wesen/Geschöpf/Viech etc.
+ if narrative_file(path) and term in("Creature","Creatures"):
+  mechanical=(en.startswith("This creature has already used 15 scrolls.") or en.startswith("You can now Transmogrify your character") or en.startswith("You should bring along at least one creature before using the Teleportation Shrine.") or en.startswith("Nortah:\\nYou can return to the Menagerie"))
+  return not mechanical
+ return False
 def false_token(en):return en.startswith("A random enemy recovers a large amount of {STAT_health}")
 def main():
  ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
@@ -46,6 +57,7 @@ def main():
   if toks(en)!=toks(de) and not false_token(en):issues.append("TOKEN_MISMATCH")
   for term,want in TERMS.items():
    if term in("Trait","Traits")and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
+   if exception(a.csv_file,en,term):continue
    if re.search(r"\b"+re.escape(term)+r"\b",en,re.I)and want.lower()not in de.lower():issues.append(f"TERM:{term}->{want}")
   if issues:found.append((i,en,de,"; ".join(issues)))
  h=["line","english","german","issues","reviewed","replacement"]
