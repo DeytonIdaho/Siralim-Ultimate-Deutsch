@@ -19,18 +19,26 @@ def cols(fs):
 
 def fix(en,de):
  out=de or""
- for p,r in [(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZaubergems\b","Zaubersteine"),(r"\bZaubergem\b","Zauberstein"),(r"\bZauber-Juwel\b","Zauberstein"),(r"\bRunenzauber-Edelsteine\b","Runenzaubersteine"),(r"\bDeine Wesen\b","Deine Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),(r"\bdas erste Wesen\b","die erste Kreatur"),(r"\bdas sechste Wesen\b","die sechste Kreatur"),(r"\bBei-Lakai-Effekte\b","Bei-Diener-Effekte"),(r"\bbei Begleiter\b","bei Diener"),(r"\boder Begleiter\b","oder Diener")]:out=re.sub(p,r,out)
+ for p,r in [(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZaubergems\b","Zaubersteine"),(r"\bZaubergem\b","Zauberstein"),(r"\bZauber-Juwel\b","Zauberstein"),(r"\bRunenzauber-Edelsteine\b","Runenzaubersteine"),(r"\bStatuswerte\b","Attribute"),(r"\bStatuswert\b","Attribut"),(r"\bSchwächungszaubers\b","Debuffs"),(r"\bSchwächungszauber\b","Debuff"),(r"\bSchergen\b","Diener"),(r"\bLakaien\b","Diener"),(r"\bLakai\b","Diener"),(r"\bDieser Effekt stapelt sich mehrmals hintereinander\b","Dieser Effekt ist mehrfach hintereinander kumulativ")]:out=re.sub(p,r,out)
  if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
- if en.startswith("Your creatures' [temporary] Ethereal Spell Gems have") and "potency" in en:out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+ # Potency classification: spells/gems => Zaubermacht; debuffs/effects => Effektstärke.
+ if re.search(r"\b(?:potency|potent)\b",en,re.I):
+  spell=bool(re.search(r"(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s).{0,60}(?:potency|potent)|(?:potency|potent).{0,60}(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s)",en,re.I))
+  effect=bool(re.search(r"(?:debuff|effects?|CONDNAME_DEBUFF).{0,80}(?:potency|potent)|(?:potency|potent).{0,80}(?:debuff|effects?|CONDNAME_DEBUFF)",en,re.I))
+  if spell and not effect:out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+  elif effect and not spell:out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ # Explicit ambiguous cases reviewed from perk consistency scan.
+ if en.startswith("Increases the potency of your creatures' effects that increase their stats"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ if en.startswith("Increases the potency of your creatures' effects that decrease enemies' stats"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ if en.startswith("Decreases the potency of enemies' effects that increase their stats"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ if en.startswith("50% of the potency of your creatures' {SPELL_equipment}s"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+ if en.startswith("Your creatures' Relics' spells have"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+ # Previously reviewed semantic fixes.
  if en.startswith("Your creatures with {CONDNAME_BUFF_ARCANE} cannot have their Spell Gems sealed"):out="Die Zaubersteine deiner Kreaturen mit {CONDNAME_BUFF_ARCANE} können nicht versiegelt werden. Zusätzlich erhalten deine Kreaturen mit {CONDNAME_BUFF_SHELL}, nachdem sie Ziel eines gegnerischen Zaubers wurden, eine Kopie dieses Zaubersteins."
  if en.strip()=="You can have <1>  additional {RACE_Avatar} creature(s) in your party.":out="Du kannst <1> zusätzliche {RACE_Avatar}-Kreatur(en) in deiner Gruppe haben."
- out=out.replace("ein [temporary] Ätherisches Zauberstein","einen [temporary] Ätherischen Zauberstein").replace("einen [temporary]Ätherisches Zauberstein","einen [temporary]Ätherischen Zauberstein").replace("jedes Versiegelte Zauberstein","jeden versiegelten Zauberstein")
- if en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn.":out="Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}."
- if en.startswith("Your creatures' Ultimate Spell Gems cannot be Sealed"):out="Die ultimativen Zaubersteine deiner Kreaturen können nicht versiegelt werden und verbrauchen keine {STAT_charges}. Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_SILENCE}."
- if en.startswith("At the start of this creature's turn, it kills the creature with the highest {STAT_speed}"):out="Zu Beginn des Zuges dieser Kreatur tötet sie in normalen Kämpfen die Kreatur mit dem höchsten {STAT_speed}. In Bosskämpfen {ACTION_attacks} diese Kreatur sie stattdessen. Dieses Merkmal kann nur einmal pro Kampf aktiviert werden."
  return out
 
-def exception(en,term=None):return ((en.startswith("When this creature {ACTION_attacks}, it has a 100% chance") and term=="Trait")or(en.startswith("After this creature gains a stat, it gains 200%") and term=="Trait")or(en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems") and term=="Spell Gems")or(en.startswith("If this creature's Relic's corresponding {RACE_Avatar}") and term=="Creature"))
+def exception(en,term=None):return ((en.startswith("When this creature {ACTION_attacks}, it has a 100% chance")and term=="Trait")or(en.startswith("After this creature gains a stat, it gains 200%")and term=="Trait")or(en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems")and term=="Spell Gems")or(en.startswith("If this creature's Relic's corresponding {RACE_Avatar}")and term=="Creature"))
 def false_token(en):return (en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY")or en.startswith("While this creature is at 100% {STAT_health}")or en.startswith("Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes")or en.startswith("Your creatures have a 1% chance (up to 35%) to avoid debuffs")or en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn."or(en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}")and"Enemies can only"in en))
 def main():
  ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
