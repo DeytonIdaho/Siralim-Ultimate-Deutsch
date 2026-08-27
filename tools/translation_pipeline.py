@@ -22,6 +22,24 @@ def fix(en,de):
  if stem in {'ui','vocabulary'}:
   if re.search(r'\bTraits?\b',en):out=out.replace('Eigenschaft(en)','Merkmal(e)').replace('Eigenschaftsgewinne','Merkmalsgewinne').replace('Eigenschaftsdetails','Merkmalsdetails').replace('Eigenschaftsplatz','Merkmalsplatz').replace('Eigenschaften','Merkmale').replace('Eigenschaft','Merkmal')
   if re.search(r'\bSpell Gems?\b',en):out=out.replace('Zauberstein-Platz/Plätze','Zaubersteinplatz/-plätze').replace('Edelsteine','Zaubersteine').replace('Edelstein','Zauberstein')
+  # Reviewed specialization section.
+  if en.startswith('Perseverance, an iron will, and a touch of insanity are the perfect recipe for victory.'):
+   out='Ausdauer, ein eiserner Wille und ein Hauch von Wahnsinn sind das perfekte Rezept für den Sieg. Reaver leben nach diesem Mantra und erfüllen ihre Kreaturen mit kaltem, berechnendem Zorn. Dadurch werden sie im Verlauf des Kampfes immer mächtiger, während ihre Feinde zunehmend ermüden.'
+  if en.startswith("Many people foolishly mistake a Druid's introversion for weakness."):
+   out='Viele halten die Zurückgezogenheit eines Druiden törichterweise für Schwäche. Diese Magier sind überzeugt, dass auf dem Schlachtfeld Qualität stets über Quantität siegt. Entgegen der Tradition sieht man sie häufig mit weniger als sechs Kreaturen. Doch wenn druidische Magie ihre kleine Truppe verstärkt, ist die Verwüstung, die sie anrichtet, beeindruckend.'
+  if en.startswith("The Engineer's sole purpose in life is to build a bigger and better explosive than last time."):
+   out='Der einzige Lebenszweck des Ingenieurs besteht darin, eine noch größere und bessere Sprengladung als die letzte zu bauen. Dieser bombastische Bombardier befestigt Bomben an seinen Gegnern und sprengt sie mit gewaltiger Wucht davon.'
+  if en.startswith('The Deprived was born with nothing and will die with nothing.'):
+   out='Der Entbehrte wurde mit nichts geboren und wird mit nichts sterben. Verflucht mit der Intelligenz eines Schwamms und dem Körperbau eines kränklichen Kindes muss der Entbehrte mit dem Wenigen auskommen, das ihm das Schicksal gelassen hat.'
+  if en.startswith("As a Deprived, you'll lose access to your most significant sources of power"):
+   out='Als Entbehrter verlierst du den Zugang zu deinen wichtigsten Machtquellen, darunter Merkmale aus Fusionen, Avatar-Kreaturen und Relikteffekte. Dies ist eine Herausforderungsspezialisierung und erscheint nach dem Freischalten nicht im Kelch der Prüfungen.'
+  if en.startswith("As a Monk, you'll boost your creatures' chance to Dodge attacks and spells."):
+   out='Als Mönch erhöhst du die Chance deiner Kreaturen, Angriffen und Zaubern auszuweichen. Wenn deine Kreaturen ausweichen, führen sie einen verheerenden Gegenangriff gegen den Feind aus.'
+  # UI character sheet grammar.
+  if en=='Innate Trait:':out='Angeborenes Merkmal:'
+  if en=='Fused Trait:':out='Fusionsmerkmal:'
+  # Keep Reaver as the specialization name instead of the misleading Plünderer.
+  if 'Reaver' in en:out=re.sub(r'\bPlünderer\b','Reaver',out)
   exact={"You don't have Rank S knowledge with any creatures.":"Du hast für keine Kreatur Wissen auf Rang S."}
   if en in exact:out=exact[en]
  return out
