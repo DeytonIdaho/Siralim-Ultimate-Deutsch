@@ -2,39 +2,49 @@
 
 Dieses Glossar definiert die verbindliche Terminologie für die deutsche Community-Übersetzung von Siralim Ultimate.
 
+## Priorität
+
+1. Vorteile (Perks)
+2. Merkmale (Traits)
+3. Charakterentwicklung und Build-relevante Systeme
+4. Kampf-/UI-Begriffe
+
+Story und Geschichte haben vorerst keine Priorität.
+
 ## Grundregeln
 
 - Mechanische Genauigkeit hat Vorrang vor wörtlicher Übersetzung.
+- Siralim Ultimate wird als Monsterfusions-/Build-Spiel übersetzt; Begriffe sollen in diesem Kontext natürlich klingen.
+- Im deutschen Gaming-Sprachgebrauch etablierte englische Begriffe dürfen erhalten bleiben.
 - Gleiche englische Mechanik wird immer gleich übersetzt.
-- Platzhalter wie `{1}`, `{2}` sowie Formatierungs-Tags bleiben unverändert.
+- Platzhalter und Formatierungs-Tags bleiben unverändert.
 - `after`, `before`, `when`, `at the start`, `at the end` werden nicht miteinander vermischt.
 - `additional` muss als zusätzlicher Effekt erkennbar bleiben.
-- Namen von Buffs, Debuffs, Stats, Klassen und Kernmechaniken werden konsistent verwendet.
+- Häufige oder strittige Kernbegriffe werden vor einer globalen Änderung mit dem Projektinhaber abgestimmt.
 
-## Kampfbegriffe
+## Verbindliche Begriffe
 
 | Englisch | Deutsch | Hinweis |
 |---|---|---|
-| Attack | Angriff | Stat/Aktion kontextabhängig, Begriff bleibt konsistent |
-| Intelligence | Intelligenz | Stat |
-| Defense | Verteidigung | Stat |
-| Speed | Geschwindigkeit | Stat |
-| Health | Gesundheit | aktuelle/grundsätzliche Gesundheit; Kontext beachten |
-| Maximum Health / Max Health | Maximale Gesundheit | niemals mit aktueller Gesundheit verwechseln |
+| Perk | Vorteil | verbindlich |
+| Trait | Merkmal | verbindlich |
+| Buff | Buff | etablierter Gaming-Begriff |
+| Debuff | Debuff | etablierter Gaming-Begriff |
+| Stat | Attribut | normalerweise; Satzkontext beachten |
+| Creature | Kreatur | |
+| Attack | Angriff | Stat/Aktion kontextabhängig |
+| Intelligence | Intelligenz | Attribut |
+| Defense | Verteidigung | Attribut |
+| Speed | Geschwindigkeit | Attribut |
+| Health | Gesundheit | Kontext beachten |
+| Maximum Health / Max Health | Maximale Gesundheit | nicht mit aktueller Gesundheit verwechseln |
 | missing Health | fehlende Gesundheit | Differenz zwischen Maximum und aktuell |
 | current Health | aktuelle Gesundheit | explizit, wenn das Original `current` sagt |
 | Spell | Zauber | |
-| Spell Gem | Zauberstein | vorläufig; wird anhand bestehender UI-Terminologie gegengeprüft |
-| cast | zaubern / wirkt einen Zauber | niemals `Besetzung` |
-| manually cast | manuell zaubern / wirkt manuell | Trigger-relevant; `manuell` darf nicht entfallen |
+| cast | zaubern / wirkt einen Zauber | Satzkontext beachten |
+| manually cast | manuell zaubern / wirkt manuell | `manuell` darf nicht entfallen |
 | additional | zusätzlich | mechanisch relevant |
-| Spell Potency | Zauberstärke | vorläufig; Konsistenz mit Spiel-UI wird geprüft |
-| Charges | Ladungen | Anzahl verfügbarer Zauberanwendungen |
-| Trait | Eigenschaft | bestehender deutscher Spielbegriff wird noch global geprüft |
-| Perk | Perk | Klassen-Perks |
-| Buff | Buff | |
-| Debuff | Debuff | |
-| Minion | Diener | vorläufig; bestehende Spielterminologie wird geprüft |
+| Charges | Ladungen | |
 | resurrect | wiederbeleben | |
 | resurrection | Wiederbelebung | |
 | Defend | Verteidigen | Aktion |
@@ -56,6 +66,17 @@ Dieses Glossar definiert die verbindliche Terminologie für die deutsche Communi
 | for the rest of battle | für den Rest des Kampfes |
 | once per turn | einmal pro Zug |
 
-## Noch zu prüfen
+## Offene häufige Begriffe
 
-Die Begriffe `Spell Gem`, `Spell Potency`, `Trait` und `Minion` werden gegen `ui.csv`, `battle.csv`, `spells.csv` und `vocabulary.csv` geprüft, bevor wir sie massenhaft verwenden.
+Diese Begriffe werden vor einer globalen Festlegung gesondert abgestimmt:
+
+- Spell Gem
+- Spell Potency / Potency
+- Minion
+- Tier
+- Race
+- Class (Kreaturenklasse vs. Spezialisierung des Spielers)
+- Ethereal
+- Sealed
+- Artifact
+- Fusion / fused
