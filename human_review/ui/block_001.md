@@ -15,7 +15,7 @@
 | 12 | Turbo | Turbo |
 | 13 | Ultra | Ultra |
 | 14 | Press {KEYA} / {KEYD} to\ntoggle Turbo Mode\n\nCurrent Mode:\n{1} | Drücke {KEYA} / {KEYD} um\nden Turbo-Modus umzuschalten\n\nAktueller Modus:\n{1} |
-| 15 | This creature does not have any Spell Gems equipped. | Dieses Wesen hat keine Zaubersteine ausgerüstet. |
+| 15 | This creature does not have any Spell Gems equipped. | Diese Kreatur hat keine Zaubersteine ausgerüstet. |
 | 16 | (Sealed) | (Versiegelt) |
 | 17 | (Empty Slot) | (Leerer Slot) |
 | 18 | (Empty Property Slot) | (Leerer Eigenschaftsplatz) |

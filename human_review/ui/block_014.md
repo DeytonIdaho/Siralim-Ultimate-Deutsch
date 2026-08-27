@@ -70,7 +70,7 @@
 | 1367 | [realmprop_f_lesscharges] Less Charges: {1} | [realmprop_f_lesscharges] Weniger Ladungen: {1} |
 | 1368 | [realmprop_f_debuff] Debuff: {1} | [realmprop_f_debuff] Debuff: {1} |
 | 1369 | [realmprop_e_buff] Buff: {1} | [realmprop_e_buff] Buff: {1} |
-| 1370 | [realmprop_e_minion] Minion: {1} | [realmprop_e_minion] Lakai: {1} |
+| 1370 | [realmprop_e_minion] Minion: {1} | [realmprop_e_minion] Diener: {1} |
 | 1371 | [realmprop_e_resurrect] Resurrect On Death | [realmprop_e_resurrect] Bei Tod wiederbeleben |
 | 1372 | [realmprop_f_statsswapped] Stats Are Swapped | [realmprop_f_statsswapped] Werte Sind Vertauscht |
 | 1373 | [realmprop_e_resistdebuffs] Resistant to Debuffs | [realmprop_e_resistdebuffs] Resistent gegen Debuffs |

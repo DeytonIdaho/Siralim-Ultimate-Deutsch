@@ -29,7 +29,7 @@
 | 426 | …and {1} more lines. | …und {1} weitere Zeilen. |
 | 427 | You can assign a creature's equipped Artifact and Spell Gems to an Item Set, and then automatically re-equip them later. | Du kannst das ausgerüstete Artefakt und die Zaubersteine einer Kreatur einem Ausrüstungsset zuweisen und sie später automatisch wieder ausrüsten. |
 | 428 | You can use this option to set your creature's default battle menu selection. | Du kannst diese Option nutzen, um die Standard-Kampfmenüauswahl deiner Kreatur festzulegen. |
-| 429 | This creature does not have a Relic attuned to it. | Dieses Wesen hat kein auf es abgestimmtes Relikt. |
+| 429 | This creature does not have a Relic attuned to it. | Auf diese Kreatur ist kein Relikt abgestimmt. |
 | 430 | Rank {1} | Rang {1} |
 | 431 | ({1} Bonus: {2}%) | ({1} Bonus: {2}%) |
 | 432 | Your castle is now called {1}. | Deine Burg heißt jetzt {1}. |

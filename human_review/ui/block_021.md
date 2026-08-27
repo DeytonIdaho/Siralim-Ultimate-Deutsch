@@ -18,9 +18,9 @@
 | 2015 | At the start of battle, the bearer gains 3 stacks of {CONDNAME_MINION_ZOMBIE}. | Zu Beginn des Kampfes erhält der Träger 3 Stapel {CONDNAME_MINION_ZOMBIE}. |
 | 2016 | At the start of the bearer's turn, this relic {ACTION_attacks} a random enemy for each minion the bearer has. These attacks deal 25% normal damage. | Zu Beginn des Zuges des Trägers {ACTION_attacks} diese Reliquie einen zufälligen Gegner für jeden Diener, den der Träger hat. Diese Angriffe verursachen 25% des normalen Schadens. |
 | 2017 | After this relic {ACTION_attacks}, the bearer gains 1 stack of {CONDNAME_MINION_SPIDERLING}. | Nachdem diese Reliquie {ACTION_attacks}, erhält der Träger 1 Stapel {CONDNAME_MINION_SPIDERLING}. |
-| 2018 | The bearer deals 5% more damage for each minion stack it has. | Der Träger verursacht 5% mehr Schaden für jeden Schergen-Stapel, den er besitzt. |
+| 2018 | The bearer deals 5% more damage for each minion stack it has. | Der Träger verursacht für jeden Diener-Stapel, den er besitzt, 5% mehr Schaden. |
 | 2019 | The bearer's spells that interact with minions are {ACTION_cast} 2 additional times. | Der Träger wirkt Zauber, die mit Dienern interagieren, 2 zusätzliche Male {ACTION_cast}. |
-| 2020 | The bearer takes 3% less damage for each minion stack it has. | Der Träger erleidet 3% weniger Schaden für jeden Schergen-Stapel, den er besitzt. |
+| 2020 | The bearer takes 3% less damage for each minion stack it has. | Der Träger erleidet für jeden Diener-Stapel, den er besitzt, 3% weniger Schaden. |
 | 2021 | After this relic {ACTION_attacks}, the bearer gains 1 stack of {CONDNAME_MINION_UNSTABLEHORROR}. | Nachdem diese Reliquie {ACTION_attacks}, erhält der Träger 1 Stapel {CONDNAME_MINION_UNSTABLEHORROR}. |
 | 2022 | After the bearer {ACTION_attacks} or {ACTION_casts} a spell, it gains 1 stack of {CONDNAME_MINION_DIREWOLF}. | Nachdem der Träger {ACTION_attacks} oder {ACTION_casts} einen Zauber, erhält er 1 Stapel {CONDNAME_MINION_DIREWOLF}. |
 | 2023 | After the bearer gains {CONDNAME_MINION_ZOMBIE}, {CONDNAME_MINION_SPIDERLING}, {CONDNAME_MINION_UNSTABLEHORROR}, or {CONDNAME_MINION_DIREWOLF}, it gains one of the four horsemen minions. | Nachdem der Träger {CONDNAME_MINION_ZOMBIE}, {CONDNAME_MINION_SPIDERLING}, {CONDNAME_MINION_UNSTABLEHORROR} oder {CONDNAME_MINION_DIREWOLF} erhält, erhält er einen der vier Reiter-Diener. |
@@ -28,7 +28,7 @@
 | 2025 | After the bearer {ACTION_attacks}, this relic {ACTION_attacks} the enemy as well. | Nachdem der Träger {ACTION_attacks}, greift diese Reliquie den Feind ebenfalls {ACTION_attacks} an. |
 | 2026 | After this relic {ACTION_attacks}, the bearer has a 35% chance to gain a random buff. | Nachdem diese Reliquie {ACTION_attacks}, hat der Träger eine 35% Chance, einen zufälligen Buff zu erhalten. |
 | 2027 | At the start of battle, the bearer gains 5 random Spell Gems, one from each class. | Zu Beginn des Kampfes erhält der Träger 5 zufällige Zaubersteine, einen von jeder Klasse. |
-| 2028 | At the start of battle, the bearer gains a random trait that belongs to its race. | Zu Beginn des Kampfes erhält der Träger eine zufällige Eigenschaft, die seiner Rasse angehört. |
+| 2028 | At the start of battle, the bearer gains a random trait that belongs to its race. | Zu Beginn des Kampfes erhält der Träger ein zufälliges Merkmal seiner Rasse. |
 | 2029 | After the bearer manually {ACTION_casts} a spell, this relic casts a copy of that spell as well. | Nachdem der Träger manuell einen Zauber {ACTION_casts}, wirkt diese Reliquie ebenfalls eine Kopie dieses Zaubers. |
 | 2030 | After this relic {ACTION_casts} a spell, a random enemy is afflicted with a random debuff. | Nachdem diese Reliquie einen Zauber {ACTION_casts}, wird ein zufälliger Gegner mit einem zufälligen Debuff belegt. |
 | 2031 | At the start of the bearer's turn, it gains a random minion. | Zu Beginn des Zuges des Trägers erhält dieser einen zufälligen Diener. |

@@ -93,8 +93,8 @@
 | 390 | This option allows you to determine the way you want the game to sort your inventory. | Diese Option ermöglicht es dir, die Art und Weise festzulegen, wie das Spiel dein Inventar sortieren soll. |
 | 391 | Choose a creature. | Wähle eine Kreatur. |
 | 392 | Press {KEYE} to equip this creature with the gem. | Drücke {KEYE}, um diese Kreatur mit dem Edelstein auszustatten. |
-| 393 | This creature cannot equip the gem. | Dieses Wesen kann den Edelstein nicht ausrüsten. |
-| 394 | This creature has {1} empty Spell Gem slot(s). | Dieses Wesen hat {1} leere Zaubersteinplatz/-plätze. |
+| 393 | This creature cannot equip the gem. | Diese Kreatur kann den Zauberstein nicht ausrüsten. |
+| 394 | This creature has {1} empty Spell Gem slot(s). | Diese Kreatur hat {1} leere(n) Zaubersteinplatz/-plätze. |
 | 395 | Fortune {1}% | Glück {1}% |
 | 396 | Realm Item Bonus: {1}% | Realm Item Bonus: {1}% |
 | 397 | You do not have any active Projects. | Du hast keine aktiven Projekte. |

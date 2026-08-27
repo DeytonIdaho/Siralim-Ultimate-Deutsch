@@ -20,7 +20,7 @@
 | 517 | View Spell Details. | Zauberdetails anzeigen. |
 | 518 | Use it. | Benutzen. |
 | 519 | Nothing. | Nichts. |
-| 520 | This Nether Stone does not grant any traits. | Dieser Netherkristall gewährt keine Eigenschaften. |
+| 520 | This Nether Stone does not grant any traits. | Dieser Netherstein gewährt keine Merkmale. |
 | 521 | This Nether Stone does not grant any spells. | Dieser Netherkristall gewährt keine Zauber. |
 | 522 | This Nether Stone is now unlocked and can be destroyed at the Arcane Refinery. | Dieser Netherkristall ist jetzt freigeschaltet und kann in der Arkanen Raffinerie zerstört werden. |
 | 523 | This Nether Stone is now locked and can no longer be destroyed at the Arcane Refinery. | Dieser Netherkristall ist nun gesperrt und kann nicht mehr in der Arkanen Raffinerie zerstört werden. |
@@ -32,7 +32,7 @@
 | 529 | Appearance options: | Aussehensoptionen: |
 | 530 | Choose an appearance. | Wähle ein Aussehen. |
 | 531 | You can't fuse two of the same exact creature. | Du kannst nicht zwei exakt gleiche Kreaturen fusionieren. |
-| 532 | You can only fuse an Avatar creature if it is the first creature you choose. | Du kannst ein Avatar-Wesen nur verschmelzen, wenn es das erste Wesen ist, das du auswählst. |
+| 532 | You can only fuse an Avatar creature if it is the first creature you choose. | Du kannst eine Avatar-Kreatur nur verschmelzen, wenn sie die erste Kreatur ist, die du auswählst. |
 | 533 | You don't have enough {RES_ESSENCE}. | Du hast nicht genug {RES_ESSENCE}. |
 | 534 | (With your team assembled, you head into the arena. Good luck!) | (Mit deinem Team versammelt, betrittst du die Arena. Viel Glück!) |
 | 535 | Choose creature #{1}. Press {KEYF} to toggle display, or {KEYQ} to mulligan ({2} left). | Wähle Kreatur #{1}. Drücke {KEYF}, um die Anzeige umzuschalten, oder {KEYQ} für einen Mulligan ({2} übrig). |

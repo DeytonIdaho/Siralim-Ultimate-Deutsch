@@ -94,7 +94,7 @@
 | 2191 | Creature's spells are more potent. | Kreaturen-Zauber sind mächtiger. |
 | 2192 | Creature has an increased chance to dodge. | Die Kreatur hat eine erhöhte Chance auszuweichen. |
 | 2193 | Creature has an increased chance to deal critical damage. | Kreatur hat eine erhöhte Chance, kritischen Schaden zu verursachen. |
-| 2194 | Creature gains an additional trait. | Kreatur erhält eine zusätzliche Eigenschaft. |
+| 2194 | Creature gains an additional trait. | Kreatur erhält ein zusätzliches Merkmal. |
 | 2195 | Creature deals more damage to, and takes less damage from {CLASS_Chaos} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Chaos}-Kreaturen und erleidet weniger Schaden von ihnen. |
 | 2196 | Creature deals more damage to, and takes less damage from {CLASS_Death} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Death} Kreaturen und erleidet weniger Schaden von ihnen. |
 | 2197 | Creature deals more damage to, and takes less damage from {CLASS_Life} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Life} Kreaturen und erleidet weniger Schaden von ihnen. |

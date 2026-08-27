@@ -26,7 +26,7 @@
 | 723 | After completing this Project, you will gain a large amount of Knowledge about the following creature: | Nach Abschluss dieses Projekts erhältst du eine große Menge an Wissen über folgende Kreatur: |
 | 724 | Trait: {1}\n{2} | Merkmal: {1}\n{2} |
 | 725 | You don't have any creatures with Rank D or higher knowledge. Creatures with Rank S knowledge cannot be hunted. | Du hast keine Kreaturen mit Wissen vom Rang D oder höher. Kreaturen mit Wissen vom Rang S können nicht gejagt werden. |
-| 726 | This creature's trait does not have a corresponding Trait material, so you cannot take on an Assassination Mission for this creature. | Dieses Wesen hat keine entsprechende Merkmalsmaterie, daher kannst du keine Attentatsmission für dieses Wesen annehmen. |
+| 726 | This creature's trait does not have a corresponding Trait material, so you cannot take on an Assassination Mission for this creature. | Für das Merkmal dieser Kreatur gibt es kein entsprechendes Merkmalsmaterial. Daher kannst du für diese Kreatur keine Attentatsmission annehmen. |
 | 727 | You don't have Rank S knowledge with any creatures. | Du hast bei keiner Kreatur Rang-S-Wissen. |
 | 728 | After completing this Project, you will receive the following Trait Material:\n\n{1} (Owned: {2}) | Nach Abschluss dieses Projekts erhältst du das folgende Merkmalsmaterial:\n\n{1} (Besessen: {2}) |
 | 729 | After completing this Project, you will receive a large amount of Favor with {1}.\n\nCurrent Favor Rank: {2} | Nach Abschluss dieses Projekts erhältst du eine große Menge an Gunst bei {1}.\n\nAktueller Gunstrang: {2} |
@@ -95,7 +95,7 @@
 | 792 | Choose an item to purchase. Current {1}: {2} | Wähle einen Gegenstand zum Kaufen. Aktuelles {1}: {2} |
 | 793 | This vendor is out of stock! | Dieser Händler hat keine Vorräte mehr! |
 | 794 | You own {1} of these materials. | Du besitzt {1} dieser Materialien. |
-| 795 | This creature has the following trait: | Dieses Wesen hat die folgende Eigenschaft: |
+| 795 | This creature has the following trait: | Diese Kreatur hat das folgende Merkmal: |
 | 796 | You do not have enough {1} to purchase this item. | Du hast nicht genug {1}, um diesen Gegenstand zu kaufen. |
 | 797 | You cannot purchase this item because you already have enough to finish your Project. | Du kannst diesen Gegenstand nicht kaufen, da du bereits genug hast, um dein Projekt abzuschließen. |
 | 798 | You cannot purchase this item because you don't have any Projects that require it. | Du kannst diesen Gegenstand nicht kaufen, da du keine Projekte hast, die ihn benötigen. |

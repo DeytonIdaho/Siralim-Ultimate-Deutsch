@@ -16,7 +16,7 @@
 | 1413 | Directional Buttons | Richtungstasten |
 | 1414 | D-Pad | D-Pad |
 | 1415 | If | Wenn |
-| 1416 | this creature | dieses Wesen |
+| 1416 | this creature | diese Kreatur |
 | 1417 | any ally | jeder Verbündete |
 | 1418 | ally ({1}) | Verbündeter ({1}) |
 | 1419 | any enemy | jeder Gegner |
@@ -94,8 +94,8 @@
 | 1491 | resurrected < {1} times | wiederbelebt < {1} mal |
 | 1492 | died > {1} times | gestorben > {1} mal |
 | 1493 | died < {1} times | gestorben < {1} mal |
-| 1494 | trait: {1} | Eigenschaft: {1} |
-| 1495 | !trait: {1} | !trait: {1} |
+| 1494 | trait: {1} | Merkmal: {1} |
+| 1495 | !trait: {1} | !Merkmal: {1} |
 | 1496 | is highest on Timeline | ist höchster auf der Zeitleiste |
 | 1497 | is lowest on Timeline | ist am niedrigsten auf der Zeitleiste |
 | 1498 | has > {1} living allies | hat > {1} lebende Verbündete |

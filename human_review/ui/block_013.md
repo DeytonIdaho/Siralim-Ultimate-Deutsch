@@ -44,7 +44,7 @@
 | 1241 | {1}% Critical Damage | {1}% kritischer Schaden |
 | 1242 | Jahithber:\nWelcome to the Death Guild! Here, you can take on Bounties to increase your reputation with the Guild and unlock new items in our shop.\n\nReputation Level: {1} \nBonuses: {2}, {3}, {4} | Jahithber:\nWillkommen bei der Todesgilde! Hier kannst du Kopfgelder annehmen, um deinen Ruf bei der Gilde zu verbessern und neue Gegenstände in unserem Laden freizuschalten.\n\nRufstufe: {1} \nBoni: {2}, {3}, {4} |
 | 1243 | {1}% Stat Reduction Effects | {1}% Statuswert-Reduzierungseffekte |
-| 1244 | {1}% Minion Damage | {1}% Schergen-Schaden |
+| 1244 | {1}% Minion Damage | {1}% Dienerschaden |
 | 1245 | {1}% Debuff Potency | {1}% Schwächungswirksamkeit |
 | 1246 | Jerd:\nWelcome to the Life Guild! Here, you can take on Bounties to increase your reputation with the Guild and unlock new items in our shop.\n\nReputation Level: {1} \nBonuses: {2}, {3}, {4} | Jerd:\nWillkommen bei der Lebensgilde! Hier kannst du Kopfgelder annehmen, um deinen Ruf bei der Gilde zu verbessern und neue Gegenstände in unserem Laden freizuschalten.\n\nRufstufe: {1} \nBoni: {2}, {3}, {4} |
 | 1247 | {1}% Attack/Spell Damage Taken | {1}% erlittener Angriffs-/Zauberschaden |
