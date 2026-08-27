@@ -1,0 +1,2 @@
+line,english,german,issues,reviewed,replacement
+509,"Each of the caster's other, permanent Spell Gems have a 30% chance to be {ACTION_cast}. Maximum of 3 spells can be {ACTION_cast}.","Jeder andere, permanente Zauberstein des Zauberwirkers hat eine 30% Chance, {ACTION_cast} zu werden. Maximal 3 Zauber können {ACTION_cast} werden.",TERM:Spell Gems->Zaubersteine,,
