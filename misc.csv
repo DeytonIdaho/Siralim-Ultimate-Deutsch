@@ -1,4 +1,4 @@
-﻿Tag,Notes,English,Japanese,German,French,Spanish,Portuguese,Russian,Italian,Chinese (Traditional),Chinese (Simplified),Korean,Polish,Ukrainian,Dutch,Turkish
+Tag,Notes,English,Japanese,German,French,Spanish,Portuguese,Russian,Italian,Chinese (Traditional),Chinese (Simplified),Korean,Polish,Ukrainian,Dutch,Turkish
 L_BOSS_KIICHI,,Kiichi,キイチ,Kiichi,Kiichi,Kiichi,Kiichi,Киичи,Kiichi,紀一,吉一,키이치,Kiichi,Кіічі,Kiichi,Kiichi
 L_BOSS_MYRTLE,,Myrtle,マートル,Myrtle,Myrtle,Myrtle,Myrtle,Миртл,Myrtle,默特爾,默特尔,머틀,Myrtle,Міртл,Myrtle,Myrtle
 L_BOSS_LOID,,Loid,ロイド,Loid,Loid,Loid,Loid,Лоид,Loid,洛伊德,洛伊德,로이드,Loid,Лоїд,Loid,Loid
@@ -77,5 +77,5 @@ L_WBOSS_THEANCESTOR,,The Ancestor,先祖,Der Ahnherr,L'Ancêtre,El Ancestro,O An
 L_WBOSS_CALIBAN,,Caliban the Unredeemed,カリバン・ジ・アンリディームド,Caliban der Unerlöste,Caliban l'Irrédimé,Caliban el Irredento,"Caliban, o Irredimido",Калибан Непрощённый,Caliban l'Irredento,不可救贖者卡利班,未被救赎的卡利班,구원받지 못한 칼리반,Caliban Nieodkupiony,Каліба́н Невідку́плений,Caliban de Onverloste,Kurtarılmamış Caliban
 L_WBOSS_MINDWURM,,Mindwurm,マインドワーム,Gedankenwurm,Vermesprit,Gusano mental,Verme Mental,Мыслечервь,Verme Mentale,心靈蟲,蚀心虫,정신벌레,Robak Umysłu,Розумочерв'як,Geestenworm,Zihinsolucanu
 L_WBOSS_LOSTCONSTRUCT,,Lost Construct,失われた構造体,Verlorenes Konstrukt,Construct Perdu,Constructo Perdido,Constructo Perdido,Потерянный Конструкт,Costrutto Perduto,失落構造體,迷失构造体,잃어버린 구조체,Zagubiony Konstrukt,Загублений Конструкт,Verloren Construct,Kayıp Yapı
-L_NBOSS_SCYLLA,,Scylla,,,,,,,,,斯库拉,,,,,
-L_NBOSS_CHARYBDIS,,Charybdis,,,,,,,,,卡律布狄斯,,,,,
+L_NBOSS_SCYLLA,,Scylla,,Scylla,,,,,,,斯库拉,,,,,
+L_NBOSS_CHARYBDIS,,Charybdis,,Charybdis,,,,,,,卡律布狄斯,,,,,
