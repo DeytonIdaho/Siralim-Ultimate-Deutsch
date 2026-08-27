@@ -11,7 +11,7 @@
 | 208 | Resurrect | Wiederbeleben |
 | 209 | Stat Gains | Statuswerte-Zuwächse |
 | 210 | Stat Losses | Statusverluste |
-| 211 | Trait Gains | Eigenschaftsgewinne |
+| 211 | Trait Gains | Merkmalsgewinne |
 | 212 | Touch Control Visibility | Touch-Steuerung Sichtbarkeit |
 | 213 | Touch Control Opacity | Touch-Steuerung Deckkraft |
 | 214 | Touch Control Size | Touchscreen-Steuerungsgröße |
@@ -71,10 +71,10 @@
 | 268 | Artifacts | Artefakte |
 | 269 | Field Items | Feldgegenstände |
 | 270 | Materials (Artifacts) | Materialien (Artefakte) |
-| 271 | Materials (Spell Gems) | Materialien (Zauberedelsteine) |
+| 271 | Materials (Spell Gems) | Materialien (Zaubersteine) |
 | 272 | Nether Stones | Nethersteine |
 | 273 | Special Items | Besondere Gegenstände |
-| 274 | Spell Gems | Zauberedelsteine |
+| 274 | Spell Gems | Zaubersteine |
 | 275 | Enemies: {1} | Gegner: {1} |
 | 276 | & Master | & Meister |
 | 277 | {1} ({2}) | {1} ({2}) |

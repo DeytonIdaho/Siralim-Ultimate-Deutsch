@@ -68,7 +68,7 @@
 | 2865 | [um_pinwheel] Pinwheels Grant Timeline Priority In Next Battle | [um_pinwheel] Windrädchen gewähren Zeitlinienpriorität im nächsten Kampf |
 | 2866 | [tc_well] Wells Decrease Enemies' Defense | [tc_well] Brunnen verringern die Verteidigung der Feinde |
 | 2867 | [fc_diamond] Diamonds Decrease Enemies' Defense | [fc_diamond] Diamanten verringern die Verteidigung der Gegner |
-| 2868 | [fe_starfish] Starfish Grant Random Spell Gem | [fe_starfish] Seestern Gewährt zufälligen Zauberedelstein |
+| 2868 | [fe_starfish] Starfish Grant Random Spell Gem | [fe_starfish] Seestern Gewährt zufälligen Zauberstein |
 | 2869 | [bns_shrine] Sand Shrines Decrease Enemies' Stats | [bns_shrine] Sandschreine Verringern die Werte der Feinde |
 | 2870 | [bg_mushroom] 30% Chance to Receive Emblem From Mushrooms | [bg_mushroom] 30% Chance auf Emblem von Pilzen |
 | 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten Schaden Feinde |
@@ -82,7 +82,7 @@
 | 2879 | [ot_vines] Snaptrap Vines Drop Treasure | [ot_vines] Schnapphafenranken lassen Schätze fallen |
 | 2880 | [ag_bigtreasure] +1 Large Treasure Chests Spawn | [ag_bigtreasure] +1 Große Schatztruhen erscheinen |
 | 2881 | [gh_housecards] Houses of Cards Drop Treasure | [gh_housecards] Kartenhäuser lassen Schätze fallen |
-| 2882 | [fl_circuit] Schematics Grant Random Spell Gem | [fl_circuit] Schaltpläne gewähren zufälligen Zauberedelstein |
+| 2882 | [fl_circuit] Schematics Grant Random Spell Gem | [fl_circuit] Schaltpläne gewähren zufälligen Zauberstein |
 | 2883 | [fae_orb] Orbs Decrease Enemies' Speed | [fae_orb] Kugeln verringern die Geschwindigkeit der Feinde |
 | 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine Schaden an Feinden |
 | 2885 | [fdp_bughive] Waspid Hives Grant 100% Dodge Chance In Next Battle | [fdp_bughive] Wespidnester gewähren 100% Ausweichchance im nächsten Kampf |

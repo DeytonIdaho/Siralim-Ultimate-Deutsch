@@ -24,11 +24,11 @@
 | 721 | Toggle Display | Anzeige umschalten |
 | 722 | Description | Beschreibung |
 | 723 | After completing this Project, you will gain a large amount of Knowledge about the following creature: | Nach Abschluss dieses Projekts erhältst du eine große Menge an Wissen über folgende Kreatur: |
-| 724 | Trait: {1}\n{2} | Eigenschaft: {1}\n{2} |
+| 724 | Trait: {1}\n{2} | Merkmal: {1}\n{2} |
 | 725 | You don't have any creatures with Rank D or higher knowledge. Creatures with Rank S knowledge cannot be hunted. | Du hast keine Kreaturen mit Wissen vom Rang D oder höher. Kreaturen mit Wissen vom Rang S können nicht gejagt werden. |
-| 726 | This creature's trait does not have a corresponding Trait material, so you cannot take on an Assassination Mission for this creature. | Dieses Wesen hat keine entsprechende Eigenschaftsmaterie, daher kannst du keinen Attentatsmission für dieses Wesen annehmen. |
+| 726 | This creature's trait does not have a corresponding Trait material, so you cannot take on an Assassination Mission for this creature. | Dieses Wesen hat keine entsprechende Merkmalsmaterie, daher kannst du keine Attentatsmission für dieses Wesen annehmen. |
 | 727 | You don't have Rank S knowledge with any creatures. | Du hast bei keiner Kreatur Rang-S-Wissen. |
-| 728 | After completing this Project, you will receive the following Trait Material:\n\n{1} (Owned: {2}) | Nach Abschluss dieses Projekts erhältst du das folgende Eigenschaftsmaterial:\n\n{1} (Besessen: {2}) |
+| 728 | After completing this Project, you will receive the following Trait Material:\n\n{1} (Owned: {2}) | Nach Abschluss dieses Projekts erhältst du das folgende Merkmalsmaterial:\n\n{1} (Besessen: {2}) |
 | 729 | After completing this Project, you will receive a large amount of Favor with {1}.\n\nCurrent Favor Rank: {2} | Nach Abschluss dieses Projekts erhältst du eine große Menge an Gunst bei {1}.\n\nAktueller Gunstrang: {2} |
 | 730 | After completing this Project, you will receive a Scroll that permanently increases the base {1} of one of your creatures by 1.\n\nCreatures can consume a maximum of 15 Scrolls. | Nach Abschluss dieses Projekts erhältst du eine Schriftrolle, die den Basis-{1} einer deiner Kreaturen dauerhaft um 1 erhöht.\n\nKreaturen können maximal 15 Schriftrollen konsumieren. |
 | 731 | You must complete your current Realm Project before taking on another one. | Du musst dein aktuelles Reichsprojekt abschließen, bevor du ein weiteres übernimmst. |
@@ -48,7 +48,7 @@
 | 745 | Choose a gem to disenchant. | Wähle einen Edelstein zum Entzaubern. |
 | 746 | Choose a slot to disenchant. | Wähle einen Platz zum Entzaubern. |
 | 747 | Choose a gem to upgrade. Cost: {1} {RES_CRYSTAL} | Wähle einen Edelstein zum Aufwerten. Kosten: {1} {RES_CRYSTAL} |
-| 748 | You do not have any Spell Gems. | Du hast keine Zauberedelsteine. |
+| 748 | You do not have any Spell Gems. | Du hast keine Zaubersteine. |
 | 749 | You do not have enough {RES_CRYSTAL} to enchant this gem. | Du hast nicht genug {RES_CRYSTAL}, um diesen Edelstein zu verzaubern. |
 | 750 | This gem already has the maximum number of properties it can have at its current tier. | Dieser Edelstein hat bereits die maximale Anzahl an Eigenschaften, die er auf seiner aktuellen Stufe haben kann. |
 | 751 | This gem cannot be enchanted with that property. Either the selected property is incompatible with this spell, or the property is incompatible with another property the gem already has. | Dieser Edelstein kann nicht mit dieser Eigenschaft verzaubert werden. Entweder ist die ausgewählte Eigenschaft mit diesem Zauber nicht kompatibel, oder die Eigenschaft ist mit einer anderen Eigenschaft, die der Edelstein bereits besitzt, nicht kompatibel. |
@@ -86,7 +86,7 @@
 | 783 | You cannot attract this creature. | Du kannst diese Kreatur nicht anlocken. |
 | 784 | The Divination Candle attracted a bunch of nearby {1} creatures. | Die Wahrsagekerze hat eine Menge {1} Kreaturen in der Nähe angelockt. |
 | 785 | Select a Spell Gem to grind. | Wähle einen Zauberstein zum Zermahlen aus. |
-| 786 | You do not have any Spell Gems. | Du hast keine Zauberedelsteine. |
+| 786 | You do not have any Spell Gems. | Du hast keine Zaubersteine. |
 | 787 | Select a Nether Stone to crush. | Wähle einen Netherkristall zum Zermalmen aus. |
 | 788 | You do not have any Nether Stones. | Du hast keine Nethersteine. |
 | 789 | You cannot crush this Nether Stone because it is locked.\n\nYou can unlock this Nether Stone from the Items menu. | Du kannst diesen Netherstein nicht zerbrechen, weil er gesperrt ist.\n\nDu kannst diesen Netherstein im Gegenstände-Menü entsperren. |

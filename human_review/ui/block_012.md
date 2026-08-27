@@ -66,10 +66,10 @@
 | 1163 | Brand: Give a name to one of your Artifacts. | Brandzeichen: Gib einem deiner Artefakte einen Namen. |
 | 1164 | Etch: Give a name to one of your Nether Stones. | Ätzen: Gib einem deiner Nethersteine einen Namen. |
 | 1165 | Nothing right now. | Nichts im Moment. |
-| 1166 | Rhea:\nGreetings, {PLAYERNAME}! I can craft and enchant Spell Gems for your creatures to use in battle.\n\nWhat would you like to do? | Rhea:\nSei gegrüßt, {PLAYERNAME}! Ich kann Zauberedelsteine für deine Kreaturen herstellen und verzaubern, die sie im Kampf einsetzen können.\n\nWas möchtest du tun? |
-| 1167 | Craft: Create a new Spell Gem. | Handwerk: Erschaffe einen neuen Zauberedelstein. |
+| 1166 | Rhea:\nGreetings, {PLAYERNAME}! I can craft and enchant Spell Gems for your creatures to use in battle.\n\nWhat would you like to do? | Rhea:\nSei gegrüßt, {PLAYERNAME}! Ich kann Zaubersteine für deine Kreaturen herstellen und verzaubern, die sie im Kampf einsetzen können.\n\nWas möchtest du tun? |
+| 1167 | Craft: Create a new Spell Gem. | Handwerk: Erschaffe einen neuen Zauberstein. |
 | 1168 | Enchant: Add new properties to a Spell Gem. | Verzauberung: Füge einem Zauberstein neue Eigenschaften hinzu. |
-| 1169 | Disenchant: Remove an existing property from a Spell Gem. | Entzaubern: Entferne eine vorhandene Eigenschaft von einem Zauberedelstein. |
+| 1169 | Disenchant: Remove an existing property from a Spell Gem. | Entzaubern: Entferne eine vorhandene Eigenschaft von einem Zauberstein. |
 | 1170 | Upgrade: Increase a Spell Gem's tier to make its properties more powerful. | Verbesserung: Erhöhe die Stufe eines Zaubersteins, um seine Eigenschaften mächtiger zu machen. |
 | 1171 | Nothing for now; I'll come back later. | Nichts für jetzt; ich komme später wieder. |
 | 1172 | Castor:\nMoo-ha-ha! Hello, {PLAYERNAME}. After years of careful research, I've devised a way to fuse two of your creatures into a new one! To get started, all you need are two creatures and 5000 {RES_ESSENCE}. Leave the rest to me! | Castor:\nMuh-ha-ha! Hallo, {PLAYERNAME}. Nach jahrelanger sorgfältiger Forschung habe ich einen Weg gefunden, zwei deiner Kreaturen zu einer neuen zu verschmelzen! Um zu beginnen, brauchst du nur zwei Kreaturen und 5000 {RES_ESSENCE}. Überlass den Rest mir! |

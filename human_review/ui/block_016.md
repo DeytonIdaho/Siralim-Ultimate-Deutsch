@@ -33,7 +33,7 @@
 | 1530 | Tartarith is preventing casting | Tartarith verhindert das Zauberwirken |
 | 1531 | Tartarith is preventing casting | Tartarith verhindert das Zauberwirken |
 | 1532 | Couldn't find the specified gem | Konnte den angegebenen Edelstein nicht finden |
-| 1533 | Gem was found, but the creature can't cast it (Trait) | Edelstein wurde gefunden, aber die Kreatur kann ihn nicht wirken (Eigenschaft) |
+| 1533 | Gem was found, but the creature can't cast it (Trait) | Edelstein wurde gefunden, aber die Kreatur kann ihn nicht wirken (Merkmal) |
 | 1534 | Gem was found, but the creature can't cast it | Ein Edelstein wurde gefunden, aber die Kreatur kann ihn nicht wirken |
 | 1535 | Gem was found, but the creature can't cast it manually (Booze Spell) | Ein Edelstein wurde gefunden, aber die Kreatur kann ihn nicht manuell wirken (Schnaps-Zauber) |
 | 1536 | Couldn't find any gems to use | Keine Edelsteine zum Benutzen gefunden |
@@ -80,11 +80,11 @@
 | 1577 | Intelligence | Intelligenz |
 | 1578 | Defense | Verteidigung |
 | 1579 | Speed | Geschwindigkeit |
-| 1580 | Innate Trait: | Angeborene Eigenschaft: |
-| 1581 | Fused Trait: | Fusionierte Eigenschaft: |
+| 1580 | Innate Trait: | Angeborene Merkmal: |
+| 1581 | Fused Trait: | Fusionierte Merkmal: |
 | 1582 | Artifact: | Artefakt: |
-| 1583 | Trait Slot: | Eigenschaftsplatz: |
-| 1584 | Spell Gems: | Zauber-Edelsteine: |
+| 1583 | Trait Slot: | Merkmalsplatz: |
+| 1584 | Spell Gems: | Zaubersteine: |
 | 1585 | Relic: | Relikt: |
 | 1586 | A strong defense is unnecessary when your foe is unable to strike you in the first place. Monks grant their creatures unmatched agility, enabling them to dodge incoming attacks and spells, and respond with devastating counter-attacks. | Eine starke Verteidigung ist unnötig, wenn dein Gegner dich gar nicht erst treffen kann. Mönche verleihen ihren Kreaturen unübertroffene Beweglichkeit, die es ihnen ermöglicht, eingehenden Angriffen und Zaubern auszuweichen und mit verheerenden Gegenangriffen zu antworten. |
 | 1587 | There's a fine line between genius and insanity, and it's difficult to say on what side of that line Animators reside. These fanatical magi spend their days perfecting their Animatus creations: unique creatures that grow more powerful as their master's dark experiments unveil new opportunities. | Es gibt einen schmalen Grat zwischen Genie und Wahnsinn, und es ist schwer zu sagen, auf welcher Seite dieses Grats die Animatoren stehen. Diese fanatischen Magier verbringen ihre Tage damit, ihre Animatus-Schöpfungen zu perfektionieren: einzigartige Kreaturen, die mächtiger werden, wenn die dunklen Experimente ihres Meisters neue Möglichkeiten enthüllen. |
@@ -98,7 +98,7 @@
 | 1595 | Many people foolishly mistake a Druid's introversion for weakness. These magi believe that quality always trumps quantity on the battlefield. Contrary to tradition, they are often seen with fewer than six creatures at their disposal, but the havoc their limited numbers wreak when augmented by Druidic magic is a sight to behold. | Viele Menschen verwechseln törichterweise die Introvertiertheit eines Druiden mit Schwäche. Diese Magier glauben, dass Qualität auf dem Schlachtfeld immer über Quantität siegt. Entgegen der Tradition sieht man sie oft mit weniger als sechs Kreaturen zu ihrer Verfügung, aber das Chaos, das ihre begrenzten Zahlen anrichten, wenn sie durch druidische Magie verstärkt werden, ist ein beeindruckender Anblick. |
 | 1596 | Strength in numbers. Tribalists prefer to use creatures that belong to the same race or class, and take full advantage of the synergy and camaraderie they offer each other. | Stärke in der Masse. Stammesanhänger bevorzugen Kreaturen, die derselben Rasse oder Klasse angehören, und nutzen die Synergie und Kameradschaft, die sie einander bieten, voll aus. |
 | 1597 | Sorcerers are masters of controlling the battlefield. Why worry about offense or defense when your enemies can't move to begin with? | Zauberer sind Meister darin, das Schlachtfeld zu kontrollieren. Warum sich um Angriff oder Verteidigung sorgen, wenn deine Feinde sich von vornherein nicht bewegen können? |
-| 1598 | Cabalists can conjure Spell Gems out of thin air to be used by their creatures at any given moment. These magi prefer to employ high-risk, high-reward battle strategies to ensure their victory. | Kabalisten können Zauberedelsteine aus dem Nichts beschwören, die von ihren Kreaturen jederzeit eingesetzt werden können. Diese Magier bevorzugen riskante Kampfstrategien mit hoher Belohnung, um ihren Sieg zu sichern. |
+| 1598 | Cabalists can conjure Spell Gems out of thin air to be used by their creatures at any given moment. These magi prefer to employ high-risk, high-reward battle strategies to ensure their victory. | Kabalisten können Zaubersteine aus dem Nichts beschwören, die von ihren Kreaturen jederzeit eingesetzt werden können. Diese Magier bevorzugen riskante Kampfstrategien mit hoher Belohnung, um ihren Sieg zu sichern. |
 | 1599 | Evokers are the ultimate spellcasters. They excel at casting enhanced versions of spells multiple times in a row to overwhelm their enemies before they can act. | Evoker sind die ultimativen Zauberwirker. Sie glänzen darin, verbesserte Versionen von Zaubern mehrmals hintereinander zu wirken, um ihre Feinde zu überwältigen, bevor diese handeln können. |
 | 1600 | Necromancers prefer to overwhelm their foes by summoning minions to aid their creatures in battle. Enemies are often so perplexed by the number of undead monstrosities charging at them from across the battlefield that they're dead long before they realize what even happened. | Nekromanten bevorzugen es, ihre Feinde zu überwältigen, indem sie Diener beschwören, um ihre Kreaturen im Kampf zu unterstützen. Feinde sind oft so verwirrt von der Anzahl der untoten Scheußlichkeiten, die über das Schlachtfeld auf sie zustürmen, dass sie längst tot sind, bevor sie überhaupt begreifen, was geschehen ist. |
 | 1601 | The Bloodmage is a deranged spellcaster who is willing to do anything to overcome his foes - even at the cost of his own creatures' lives. This menacing spellcaster is adept at manipulating the lifeforce of allies and foes alike in his endless pursuit for power. | Der Blutmagier ist ein wahnsinniger Zauberwirker, der bereit ist, alles zu tun, um seine Feinde zu besiegen - selbst auf Kosten des Lebens seiner eigenen Kreaturen. Dieser bedrohliche Zauberwirker ist geschickt darin, die Lebenskraft von Verbündeten und Feinden gleichermaßen zu manipulieren, in seinem endlosen Streben nach Macht. |

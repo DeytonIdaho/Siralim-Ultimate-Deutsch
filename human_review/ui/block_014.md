@@ -3,11 +3,11 @@
 | Row | English | German |
 |---:|---|---|
 | 1302 | All options have been reset to their default values. | Alle Optionen wurden auf ihre Standardwerte zurückgesetzt. |
-| 1303 | Trait: {1} | Eigenschaft: {1} |
+| 1303 | Trait: {1} | Merkmal: {1} |
 | 1304 | Spell: {1} | Zauber: {1} |
 | 1305 | (Empty Stat Slot) | (Leerer Statusplatz) |
 | 1306 | (Empty Trick Slot) | (Leerer Trick-Platz) |
-| 1307 | (Empty Trait Slot) | (Leerer Eigenschaftsplatz) |
+| 1307 | (Empty Trait Slot) | (Leerer Merkmalsplatz) |
 | 1308 | (Empty Spell Slot) | (Leerer Zauberplatz) |
 | 1309 | (Empty Nether Slot) | (Leerer Nether-Slot) |
 | 1310 | You've acquired enough {1} Cards to unlock a new bonus! | Du hast genug {1} Karten gesammelt, um einen neuen Bonus freizuschalten! |
@@ -41,9 +41,9 @@
 | 1338 | [realmprop_r_samerace] Enemies Belong To Same Race | [realmprop_r_samerace] Feinde gehören zur selben Rasse |
 | 1339 | [property_realm] Higher Card Drop Rate | [property_realm] Höhere Kartenabwurfrate |
 | 1340 | [property_realm] Extra Treasure Chests: {1} | [property_realm] Zusätzliche Schatztruhen: {1} |
-| 1341 | [realmprop_e_copygems] Copy Your Spell Gems | [realmprop_e_copygems] Kopiere deine Zauber-Edelsteine |
-| 1342 | [realmprop_e_copytraits] Copy Your Traits | [realmprop_e_copytraits] Kopiere deine Eigenschaften |
-| 1343 | [realmprop_e_extratraits] Extra Traits: {1} | [realmprop_e_extratraits] Zusätzliche Eigenschaften: {1} |
+| 1341 | [realmprop_e_copygems] Copy Your Spell Gems | [realmprop_e_copygems] Kopiere deine Zaubersteine |
+| 1342 | [realmprop_e_copytraits] Copy Your Traits | [realmprop_e_copytraits] Kopiere deine Merkmale |
+| 1343 | [realmprop_e_extratraits] Extra Traits: {1} | [realmprop_e_extratraits] Zusätzliche Merkmale: {1} |
 | 1344 | [property_realm] Dumpling Party! | [property_realm] Knödel-Party! |
 | 1345 | [property_realm] Extra Treasure Golems: {1} | [property_realm] Extra Schatzhüter: {1} |
 | 1346 | [realmprop_r_inhabitedrace] Inhabited By {1} Race | [realmprop_r_inhabitedrace] Bewohnt von {1} Volk |
@@ -76,7 +76,7 @@
 | 1373 | [realmprop_e_resistdebuffs] Resistant to Debuffs | [realmprop_e_resistdebuffs] Resistent gegen Debuffs |
 | 1374 | [realmprop_f_nogemgain] Can't Gain Gems | [realmprop_f_nogemgain] Keine Edelsteine erhältlich |
 | 1375 | [realmprop_f_noadditionalatkcast] No Additional Attacks/Casts | [realmprop_f_noadditionalatkcast] Keine zusätzlichen Angriffe/Zauber |
-| 1376 | [realmprop_f_notraitgain] Maximum Extra Traits: {1} | [realmprop_f_notraitgain] Maximale zusätzliche Eigenschaften: {1} |
+| 1376 | [realmprop_f_notraitgain] Maximum Extra Traits: {1} | [realmprop_f_notraitgain] Maximale zusätzliche Merkmale: {1} |
 | 1377 | [realmprop_f_maxbuffs] Maximum Buffs: {1} | [realmprop_f_maxbuffs] Maximale Buffs: {1} |
 | 1378 | [realmprop_f_nominions] Can't Have Minions | [realmprop_f_nominions] Keine Lakaien möglich |
 | 1379 | [realmprop_f_nodefendprovoke] Can't Manually Defend/Provoke | [realmprop_f_nodefendprovoke] Kann nicht manuell verteidigen/provozieren |

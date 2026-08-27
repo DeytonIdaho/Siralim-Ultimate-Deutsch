@@ -67,7 +67,7 @@
 | 264 | {CONDNAME_BUFF_REPELLING} creatures have a 50% chance to ignore damage from spells. | Kreaturen mit {CONDNAME_BUFF_REPELLING} haben eine 50% Chance, Schaden durch Zauber zu ignorieren. |
 | 265 | {CONDNAME_BUFF_PROFICIENT} creatures gain 30% more benefits from their Artifact's Stat Slots. | {CONDNAME_BUFF_PROFICIENT} Kreaturen erhalten 30% mehr Vorteile aus den Statusplätzen ihres Artefakts. |
 | 266 | At the start of a creature's turn, its {CONDNAME_DEBUFF_BOMB} detonates, dealing damage to the creature equal to 80% of the afflictor's {STAT_speed}. Then, this debuff is removed. | Zu Beginn des Zuges einer Kreatur detoniert ihre {CONDNAME_DEBUFF_BOMB} und fügt der Kreatur Schaden in Höhe von 80% der {STAT_speed} des Verursachers zu. Danach wird dieser Debuff entfernt. |
-| 267 | After the {CONDNAME_MINION_ANIMATEDGEM}'s master manually {ACTION_casts} a spell, this minion {ACTION_casts} one of its master's Spell Gems as well, chosen randomly. | Nachdem der Meister des {CONDNAME_MINION_ANIMATEDGEM} manuell einen Zauber {ACTION_casts}, {ACTION_casts} dieser Diener ebenfalls einen der Zauberedelsteine seines Meisters, der zufällig ausgewählt wird. |
+| 267 | After the {CONDNAME_MINION_ANIMATEDGEM}'s master manually {ACTION_casts} a spell, this minion {ACTION_casts} one of its master's Spell Gems as well, chosen randomly. | Nachdem der Meister des {CONDNAME_MINION_ANIMATEDGEM} manuell einen Zauber {ACTION_casts}, {ACTION_casts} dieser Diener ebenfalls einen der Zaubersteine seines Meisters, der zufällig ausgewählt wird. |
 | 268 | When the {CONDNAME_MINION_ANIMATEDWEAPON}'s master {ACTION_attacks}, it deals additional damage equal to the highest total stat from all of its Artifact's Stat Slots. | Wenn der Meister des {CONDNAME_MINION_ANIMATEDWEAPON} {ACTION_attacks}, verursacht er zusätzlichen Schaden in Höhe des höchsten Gesamtwerts aller Attributplätze seines Artefakts. |
 | 269 | After {CONDNAME_MINION_CONQUEST}'s master manually {ACTION_casts} a spell, it grants all your creatures a random buff. | Nach dem manuellen {ACTION_casts} eines Zaubers durch den Meister von {CONDNAME_MINION_CONQUEST} erhalten alle deine Kreaturen einen zufälligen Buff. |
 | 270 | At the start of {CONDNAME_MINION_DEATH}'s master's turn, it has a chance to kill the enemy with the lowest {STAT_health}. The chance is increased based on how low the enemy's {STAT_health} is. | Zu Beginn des Zuges des Meisters von {CONDNAME_MINION_DEATH} besteht eine Chance, den Gegner mit dem niedrigsten {STAT_health} zu töten. Die Chance erhöht sich abhängig davon, wie niedrig die {STAT_health} des Gegners ist. |
@@ -101,4 +101,4 @@
 | 298 | Sorcery Guild | Magiergilde |
 | 299 | Stat Slot | Statusplatz |
 | 300 | Trick Slot | Trickkarte |
-| 301 | Trait Slot | Eigenschaftsplatz |
+| 301 | Trait Slot | Merkmalsplatz |

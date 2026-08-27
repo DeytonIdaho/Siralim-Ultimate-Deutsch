@@ -32,7 +32,7 @@
 | 2629 | [swm_obelisk] Obelisks Grant a Random Buff | [swm_obelisk] Obelisken gewähren einen zufälligen Buff |
 | 2630 | [gpn_nemesisshrine] Nemesis Shrines Grant Emblem | [gpn_nemesisshrine] Nemesis-Schreine Gewähren Emblem |
 | 2631 | [rfm_bookshelf] Grimoire Shelves Drop Treasure | [rfm_bookshelf] Grimoire-Regale Lassen Schätze Fallen |
-| 2632 | [tol_giantgem] Giant Gems Grant 1 Ethereal Spell Gem | [tol_giantgem] Riesenkristalle Gewähren 1 Ätherischen Zauberedelstein |
+| 2632 | [tol_giantgem] Giant Gems Grant 1 Ethereal Spell Gem | [tol_giantgem] Riesenkristalle Gewähren 1 Ätherischen Zauberstein |
 | 2633 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Statuswertreduzierung durch Geysire |
 | 2634 | [cr_sewer] More Treasure From Caustic Reactor Boss Rooms | [cr_sewer] Mehr Schätze aus den Bossräumen des Ätzenden Reaktors |
 | 2635 | [tw_zits] Zits Decrease Enemies' Intelligence | [tw_zits] Pickel verringern die Intelligenz der Gegner |

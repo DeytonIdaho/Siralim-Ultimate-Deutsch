@@ -27,7 +27,7 @@
 | 2024 | At the start of the bearer's turn, it {ACTION_casts} [icons,1984]Crucifixion on a random enemy. | Zu Beginn des Zuges des Trägers {ACTION_casts} dieser [icons,1984]Kreuzigung auf einen zufälligen Gegner. |
 | 2025 | After the bearer {ACTION_attacks}, this relic {ACTION_attacks} the enemy as well. | Nachdem der Träger {ACTION_attacks}, greift diese Reliquie den Feind ebenfalls {ACTION_attacks} an. |
 | 2026 | After this relic {ACTION_attacks}, the bearer has a 35% chance to gain a random buff. | Nachdem diese Reliquie {ACTION_attacks}, hat der Träger eine 35% Chance, einen zufälligen Buff zu erhalten. |
-| 2027 | At the start of battle, the bearer gains 5 random Spell Gems, one from each class. | Zu Beginn des Kampfes erhält der Träger 5 zufällige Zauber-Edelsteine, einen von jeder Klasse. |
+| 2027 | At the start of battle, the bearer gains 5 random Spell Gems, one from each class. | Zu Beginn des Kampfes erhält der Träger 5 zufällige Zaubersteine, einen von jeder Klasse. |
 | 2028 | At the start of battle, the bearer gains a random trait that belongs to its race. | Zu Beginn des Kampfes erhält der Träger eine zufällige Eigenschaft, die seiner Rasse angehört. |
 | 2029 | After the bearer manually {ACTION_casts} a spell, this relic casts a copy of that spell as well. | Nachdem der Träger manuell einen Zauber {ACTION_casts}, wirkt diese Reliquie ebenfalls eine Kopie dieses Zaubers. |
 | 2030 | After this relic {ACTION_casts} a spell, a random enemy is afflicted with a random debuff. | Nachdem diese Reliquie einen Zauber {ACTION_casts}, wird ein zufälliger Gegner mit einem zufälligen Debuff belegt. |
@@ -71,7 +71,7 @@
 | 2068 | This relic and its bearer have 3% more {STAT_attack} for each time it and this relic have {ACTION_attacked} in the current battle. | Dieses Relikt und sein Träger haben 3% mehr {STAT_attack} für jedes Mal, das es und dieses Relikt im aktuellen Kampf {ACTION_attacked} haben. |
 | 2069 | The bearer deals 5% more damage with attacks for each time this relic has {ACTION_attacked} in the current battle. | Der Träger verursacht 5% mehr Schaden mit Angriffen für jedes Mal, das diese Reliquie in der aktuellen Schlacht {ACTION_attacked} hat. |
 | 2070 | If the bearer has {ACTION_attacked} at least 5 times in the current battle, it and this relic always deal critical damage with attacks. | Wenn der Träger im aktuellen Kampf mindestens 5 Mal {ACTION_attacked} hat, verursachen er und diese Reliquie immer kritischen Schaden mit Angriffen. |
-| 2071 | If the bearer has {ACTION_attacked} at least 5 times in the current battle, its Spell Gems do not consume any {STAT_charges}. | Wenn der Träger im aktuellen Kampf mindestens 5 Mal {ACTION_attacked} hat, verbrauchen seine Zaubergems keine {STAT_charges}. |
+| 2071 | If the bearer has {ACTION_attacked} at least 5 times in the current battle, its Spell Gems do not consume any {STAT_charges}. | Wenn der Träger im aktuellen Kampf mindestens 5 Mal {ACTION_attacked} hat, verbrauchen seine Zaubersteine keine {STAT_charges}. |
 | 2072 | The bearer takes 3% less damage for each time it and this relic have {ACTION_attacked} in the current battle. | Der Träger erleidet 3% weniger Schaden für jedes Mal, das er und diese Reliquie im aktuellen Kampf {ACTION_attacked} haben. |
 | 2073 | If the bearer has {ACTION_attacked} at least 10 times in the current battle, the potency of its spells is based on its {STAT_attack} rather than its {STAT_intelligence}. | Wenn der Träger im aktuellen Kampf mindestens 10 Mal {ACTION_attacked} hat, basiert die Wirksamkeit seiner Zauber auf seinem {STAT_attack} anstatt auf seiner {STAT_intelligence}. |
 | 2074 | At the start of the bearer's turn, this relic {ACTION_casts} [icons,1976]Fury Swipes on the bearer. | Zu Beginn des Zuges des Trägers {ACTION_casts} diese Reliquie [icons,1976]Furienschlag auf den Träger. |
@@ -83,7 +83,7 @@
 | 2080 | Nether Synthesis | Äthersynthese |
 | 2081 | Project completed: {1}! | Projekt abgeschlossen: {1}! |
 | 2082 | You can now upgrade your Artifacts to an even higher Tier than before! | Du kannst jetzt deine Artefakte auf eine noch höhere Stufe als zuvor verbessern! |
-| 2083 | You can now upgrade your Spell Gems to an even higher Tier than before! | Du kannst jetzt deine Zauberedelsteine auf eine noch höhere Stufe als zuvor aufwerten! |
+| 2083 | You can now upgrade your Spell Gems to an even higher Tier than before! | Du kannst jetzt deine Zaubersteine auf eine noch höhere Stufe als zuvor aufwerten! |
 | 2084 | You unlocked the Tavern Brawl Tables!\n\nYou can find them in your Decorations Menu under the "Utility/NPCs" category. | Du hast die Tavernenschlägerei-Tische freigeschaltet!\n\nDu findest sie in deinem Dekorationsmenü unter der Kategorie "Nützliches/NPCs". |
 | 2085 | You unlocked the Refinery!\n\nYou can find it in your Decorations Menu under the "Utility/NPCs" category. | Du hast die Raffinerie freigeschaltet!\n\nDu findest sie in deinem Dekorationsmenü unter der Kategorie "Nutzen/NPCs". |
 | 2086 | You unlocked the Gambling Dwarves!\n\nYou can find them in your Decorations Menu under the "Utility/NPCs" category. | Du hast die Glücksspiel-Zwerge freigeschaltet!\n\nDu findest sie in deinem Dekorationsmenü unter der Kategorie "Nützliches/NPCs". |

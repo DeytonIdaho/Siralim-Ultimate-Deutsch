@@ -1,8 +1,0 @@
-line,english,german,issues,reviewed,replacement
-2253,"[boost_lessgems] Next battle, enemies have -2 Spell Gems.",[boost_lessgems] Im nächsten Kampf haben Gegner -2 Zauber-Edelsteine.,TERM:Spell Gems->Zaubersteine,,
-2632,[tol_giantgem] Giant Gems Grant 1 Ethereal Spell Gem,[tol_giantgem] Riesenkristalle Gewähren 1 Ätherischen Zauberedelstein,TERM:Spell Gem->Zauberstein,,
-2712,[fe_moai] Altars Reduce Enemies' Spell Gem Count In Next Battle,[fe_moai] Altäre reduzieren die Anzahl der Zauberedelsteine der Gegner im nächsten Kampf,TERM:Spell Gem->Zauberstein,,
-2740,[ptd_tombstone] Tombstones Sometimes Grant Trait Materials,[ptd_tombstone] Grabsteine Gewähren Manchmal Eigenschaftsmaterialien,TERM:Trait->Merkmal,,
-2782,[rfm_phaseportal] Phase Portals Reduce Enemies' Spell Gems By 3 In Next Battle,[rfm_phaseportal] Phasenportale Reduzieren Zauberedelsteine der Gegner um 3 im nächsten Kampf,TERM:Spell Gems->Zaubersteine,,
-2868,[fe_starfish] Starfish Grant Random Spell Gem,[fe_starfish] Seestern Gewährt zufälligen Zauberedelstein,TERM:Spell Gem->Zauberstein,,
-2882,[fl_circuit] Schematics Grant Random Spell Gem,[fl_circuit] Schaltpläne gewähren zufälligen Zauberedelstein,TERM:Spell Gem->Zauberstein,,

@@ -86,11 +86,11 @@
 | 683 | Your current party has swapped with the creatures in the selected Menagerie Group. | Deine aktuelle Gruppe wurde mit den Kreaturen in der ausgewählten Menagerie-Gruppe getauscht. |
 | 684 | (Not Found) | (Not Found) |
 | 685 | The Artifact assigned to this item set could not be found in your inventory. | Das dem Gegenstandsset zugewiesene Artefakt konnte in deinem Inventar nicht gefunden werden. |
-| 686 | One or more of the Spell Gems assigned to this item set could not be found in your inventory. | Einer oder mehrere der diesem Gegenstandsset zugewiesenen Zauberedelsteine konnten in deinem Inventar nicht gefunden werden. |
+| 686 | One or more of the Spell Gems assigned to this item set could not be found in your inventory. | Einer oder mehrere der diesem Gegenstandsset zugewiesenen Zaubersteine konnten in deinem Inventar nicht gefunden werden. |
 | 687 | No items are assigned to this set. | Diesem Set sind keine Gegenstände zugewiesen. |
 | 688 | Choose a name for this item set. | Wähle einen Namen für dieses Gegenstandsset. |
 | 689 | Warning: some of the items that belong to this set were not found in your inventory, so they were not equipped to this creature. | Warnung: Einige der Gegenstände, die zu diesem Set gehören, wurden nicht in deinem Inventar gefunden, daher wurden sie nicht bei dieser Kreatur ausgerüstet. |
-| 690 | Warning: some of the Spell Gems that belong to this set cannot be equipped by this creature. | Warnung: Einige der Zauberedelsteine, die zu diesem Set gehören, können von dieser Kreatur nicht ausgerüstet werden. |
+| 690 | Warning: some of the Spell Gems that belong to this set cannot be equipped by this creature. | Warnung: Einige der Zaubersteine, die zu diesem Set gehören, können von dieser Kreatur nicht ausgerüstet werden. |
 | 691 | Your {1} equipped the items assigned to the selected item set. | Dein {1} hat die Gegenstände ausgerüstet, die dem ausgewählten Gegenstandsset zugewiesen sind. |
 | 692 | Your {1}'s equipment was assigned to the selected item set. | Deine {1}-Ausrüstung wurde dem ausgewählten Gegenstandsset zugewiesen. |
 | 693 | Select a God to summon and fight. | Wähle einen Gott aus, den du beschwören und bekämpfen willst. |

@@ -42,7 +42,7 @@
 | 2239 | [boost_intboost] +10% Intelligence | [boost_intboost] +10% Intelligenz |
 | 2240 | [boost_spdboost] +10% Speed | [boost_spdboost] +10% Geschwindigkeit |
 | 2241 | [boost_defboost] +10% Defense | [boost_defboost] +10% Verteidigung |
-| 2242 | [boost_etherealgem] +1 Ethereal Spell Gems | [boost_etherealgem] +1 Ätherische Zauberedelsteine |
+| 2242 | [boost_etherealgem] +1 Ethereal Spell Gems | [boost_etherealgem] +1 Ätherische Zaubersteine |
 | 2243 | [boost_alwayscrit] Next battle, your creatures always deal critical damage | [boost_alwayscrit] Im nächsten Kampf verursachen deine Kreaturen immer kritischen Schaden |
 | 2244 | [boost_alwaysdodge] Next battle, your creatures always dodge | [boost_alwaysdodge] Im nächsten Kampf weichen deine Kreaturen immer aus |
 | 2245 | [boost_infcharges] Next battle, your creatures do not consume Charges | [boost_infcharges] Im nächsten Kampf verbrauchen deine Kreaturen keine Ladungen |
@@ -53,7 +53,7 @@
 | 2250 | [boost_resistdebuffs] Next battle, your creatures are resistant to debuffs | [boost_resistdebuffs] Im nächsten Kampf sind deine Kreaturen resistent gegen Debuffs |
 | 2251 | [boost_extraattack] Next battle, you Attack +1 times | [boost_extraattack] Im nächsten Kampf greifst du +1 Mal zusätzlich an |
 | 2252 | [boost_extracast] Next battle, you cast +1 times | [boost_extracast] Im nächsten Kampf wirkst du +1 mal |
-| 2253 | [boost_lessgems] Next battle, enemies have -2 Spell Gems. | [boost_lessgems] Im nächsten Kampf haben Gegner -2 Zauber-Edelsteine. |
+| 2253 | [boost_lessgems] Next battle, enemies have -2 Spell Gems. | [boost_lessgems] Im nächsten Kampf haben Gegner -2 Zaubersteine. |
 | 2254 | [boost_killenemy] Next non-boss battle, a random enemy is killed | [boost_killenemy] Im nächsten Kampf gegen Nicht-Bosse wird ein zufälliger Gegner getötet |
 | 2255 | [boost_damagefoes] Enemies have been damaged | [boost_damagefoes] Feinde wurden verletzt |
 | 2256 | [boost_atkreduce] -5% Attack (Enemies) | [boost_atkreduce] -5% Angriff (Gegner) |

@@ -10,8 +10,8 @@
 | 1207 | Reorder: Change the order of the creatures in your party. | Umordnen: Ändere die Reihenfolge der Kreaturen in deiner Gruppe. |
 | 1208 | Remove Artifacts from all creatures at the Menagerie. | Entferne Artefakte von allen Kreaturen in der Menagerie. |
 | 1209 | Remove Artifacts from all creatures at the Menagerie that aren't in a Menagerie Group. | Entferne Artefakte von allen Kreaturen in der Menagerie, die nicht in einer Menagerie-Gruppe sind. |
-| 1210 | Remove Spell Gems from all creatures at the Menagerie. | Entferne Zauberedelsteine von allen Kreaturen in der Menagerie. |
-| 1211 | Remove Spell Gems from all creatures at the Menagerie that aren't in a Menagerie Group. | Entferne Zauberedelsteine von allen Kreaturen in der Menagerie, die nicht in einer Menagerie-Gruppe sind. |
+| 1210 | Remove Spell Gems from all creatures at the Menagerie. | Entferne Zaubersteine von allen Kreaturen in der Menagerie. |
+| 1211 | Remove Spell Gems from all creatures at the Menagerie that aren't in a Menagerie Group. | Entferne Zaubersteine von allen Kreaturen in der Menagerie, die nicht in einer Menagerie-Gruppe sind. |
 | 1212 | Farewell! | Leb wohl! |
 | 1213 | Assign: Create a new Menagerie Group using the creatures in my party. | Zuweisen: Erstelle eine neue Menagerie-Gruppe mit den Kreaturen in meiner Gruppe. |
 | 1214 | Swap: Replace my current party with the creatures in a Menagerie Group. | Tauschen: Ersetze meine aktuelle Gruppe mit den Kreaturen einer Menagerie-Gruppe. |
@@ -23,7 +23,7 @@
 | 1220 | Nortah:\nYou shouldn't bother with this for now, {PLAYERNAME}. Pay attention to your quest! | Nortah:\nDu solltest dich damit vorerst nicht befassen, {PLAYERNAME}. Konzentriere dich auf deine Quest! |
 | 1221 | Your creatures' Artifacts have been added to your inventory! | Deine Kreaturen-Artefakte wurden deinem Inventar hinzugefügt! |
 | 1222 | None of your creatures at the Menagerie have an Artifact equipped. | Keines deiner Kreaturen in der Menagerie hat ein Artefakt ausgerüstet. |
-| 1223 | Your creatures' Spell Gems have been added to your inventory! | Deine Kreaturen-Zauberedelsteine wurden deinem Inventar hinzugefügt! |
+| 1223 | Your creatures' Spell Gems have been added to your inventory! | Deine Kreaturen-Zaubersteine wurden deinem Inventar hinzugefügt! |
 | 1224 | None of your creatures at the Menagerie have a Spell Gem equipped. | Keines deiner Wesen in der Menagerie hat einen Zauberstein ausgerüstet. |
 | 1225 | Spirit of Elize:\nGreetings, {PLAYERNAME}. You can use this Reliquary to unlock and upgrade Relics of the Gods. These powerful items grant your creatures the power of the gods themselves.\n\nIn order to manipulate Relics, you must collect [menu_piety] Piety by completing Prophecies. | Spirit of Elize:\nSei gegrüßt, {PLAYERNAME}. Du kannst dieses Reliquiar nutzen, um Relikte der Götter freizuschalten und aufzuwerten. Diese mächtigen Gegenstände verleihen deinen Kreaturen die Macht der Götter selbst.\n\nUm Relikte zu manipulieren, musst du [menu_piety] Frömmigkeit sammeln, indem du Prophezeiungen erfüllst. |
 | 1226 | Prophecies: Turn in your Rune of Prophecies to receive rewards. | Prophezeiungen: Gib deine Rune der Prophezeiungen ab, um Belohnungen zu erhalten. |
@@ -32,9 +32,9 @@
 | 1229 | Unattune: Remove a Relic from a creature. | Entstimmen: Entferne eine Reliquie von einer Kreatur. |
 | 1230 | Enhance: Increase the strength of your Reliquary to make all your Relics more powerful. | Verstärken: Erhöhe die Stärke deines Reliquiars, um all deine Relikte mächtiger zu machen. |
 | 1231 | Step away from the Reliquary. | Tritt zurück vom Reliquiar. |
-| 1232 | The Refinery allows you to salvage your unwanted Artifacts, Spell Gems, and Nether Stones into various currencies.\n\nYou can also convert your resources into different ones. | Die Raffinerie ermöglicht es dir, unerwünschte Artefakte, Zauberedelsteine und Nethersteine in verschiedene Währungen umzuwandeln.\n\nDu kannst auch deine Ressourcen in andere umwandeln. |
+| 1232 | The Refinery allows you to salvage your unwanted Artifacts, Spell Gems, and Nether Stones into various currencies.\n\nYou can also convert your resources into different ones. | Die Raffinerie ermöglicht es dir, unerwünschte Artefakte, Zaubersteine und Nethersteine in verschiedene Währungen umzuwandeln.\n\nDu kannst auch deine Ressourcen in andere umwandeln. |
 | 1233 | Salvage: Destroy an Artifact and gain some resources. | Verwerten: Zerstöre ein Artefakt und erhalte einige Ressourcen. |
-| 1234 | Grind: Destroy a Spell Gem and gain some resources. | Mahlen: Zerstöre einen Zauberedelstein und erhalte einige Ressourcen. |
+| 1234 | Grind: Destroy a Spell Gem and gain some resources. | Mahlen: Zerstöre einen Zauberstein und erhalte einige Ressourcen. |
 | 1235 | Crush: Destroy a Nether Stone and gain some Piety. | Zermalmen: Zerstöre einen Netherstein und erhalte etwas Frömmigkeit. |
 | 1236 | Convert: Turn my resources into different ones. | Umwandeln: Verwandle meine Ressourcen in andere. |
 | 1237 | Not right now. | Jetzt nicht. |

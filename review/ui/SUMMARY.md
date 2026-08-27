@@ -2,6 +2,6 @@
 
 - Source: `ui.csv`
 - Rows: 3073
-- Flagged: 107
+- Flagged: 39
 - Chunk size: 100
-- Review files: 2
+- Review files: 1

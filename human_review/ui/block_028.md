@@ -12,7 +12,7 @@
 | 2709 | [um_gems] Gem Piles Grant 100% Critical Chance In Next Battle | [um_gems] Edelsteinhaufen gewähren 100% kritische Trefferchance im nächsten Kampf |
 | 2710 | [tc_rack] 25% Chance to Receive Emblem From Torture Devices | [tc_rack] 25% Chance, ein Emblem von Foltergeräten zu erhalten |
 | 2711 | [fc_campfire] Campfires Drop Treasure | [fc_campfire] Lagerfeuer lassen Schätze fallen |
-| 2712 | [fe_moai] Altars Reduce Enemies' Spell Gem Count In Next Battle | [fe_moai] Altäre reduzieren die Anzahl der Zauberedelsteine der Gegner im nächsten Kampf |
+| 2712 | [fe_moai] Altars Reduce Enemies' Spell Gem Count In Next Battle | [fe_moai] Altäre reduzieren die Anzahl der Zaubersteine der Gegner im nächsten Kampf |
 | 2713 | [bns_tent] Tents Grant 100% Dodge Chance In Next Battle | [bns_tent] Zelte gewähren 100% Ausweichchance im nächsten Kampf |
 | 2714 | [bg_tent] Tents Grant Timeline Priority In Next Battle | [bg_tent] Zelte gewähren Zeitlinienpriorität im nächsten Kampf |
 | 2715 | [su_statuemonarch] +1 Stat Boosts From King Statues | [su_statuemonarch] +1 Statusboosts von Königsstatuen |
@@ -40,7 +40,7 @@
 | 2737 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2738 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
 | 2739 | [ad_plasmaportal] More Treasure From Azure Dreams Boss Rooms | [ad_plasmaportal] Mehr Schätze aus den Bossräumen von Azure Dreams |
-| 2740 | [ptd_tombstone] Tombstones Sometimes Grant Trait Materials | [ptd_tombstone] Grabsteine Gewähren Manchmal Eigenschaftsmaterialien |
+| 2740 | [ptd_tombstone] Tombstones Sometimes Grant Trait Materials | [ptd_tombstone] Grabsteine Gewähren Manchmal Merkmalsmaterialien |
 | 2741 | [swm_temple] More Treasure From The Swamplands Boss Rooms | [swm_temple] Mehr Schätze aus den Bossräumen der Sumpfgebiete |
 | 2742 | [gpn_livingember] Living Embers Grant Attack Boost | [gpn_livingember] Lebende Glut gewährt Angriffsschub |
 | 2743 | [rfm_splat] Splat Pools Grant a Minion | [rfm_splat] Splat-Pools gewähren einen Diener |
@@ -82,7 +82,7 @@
 | 2779 | [ptd_skulls] 25% Chance to Receive Emblem From Skull Piles | [ptd_skulls] 25% Chance, ein Emblem aus Schädelhaufen zu erhalten |
 | 2780 | [swm_hunters] Receive Treasure From Hunter's Lodges | [swm_hunters] Schätze von Jägerlogen erhalten |
 | 2781 | [gpn_devilnest] Receive Treasure From Apocalypse Nests | [gpn_devilnest] Erhalte Schätze aus Apokalypse-Nestern |
-| 2782 | [rfm_phaseportal] Phase Portals Reduce Enemies' Spell Gems By 3 In Next Battle | [rfm_phaseportal] Phasenportale Reduzieren Zauberedelsteine der Gegner um 3 im nächsten Kampf |
+| 2782 | [rfm_phaseportal] Phase Portals Reduce Enemies' Spell Gems By 3 In Next Battle | [rfm_phaseportal] Phasenportale Reduzieren Zaubersteine der Gegner um 3 im nächsten Kampf |
 | 2783 | [tol_horseshoe] Receive Treasure From Horseshoe Battles | [tol_horseshoe] Erhalte Schätze aus Hufeisenkämpfen |
 | 2784 | [btv_shadowcage] Receive Treasure From Shadow Locker Battles | [btv_shadowcage] Erhalte Schätze aus Schattentruhen-Kämpfen |
 | 2785 | [cr_cache] Caches Kill Random Enemy In Next Battle | [cr_cache] Tötet zufälligen Gegner im nächsten Kampf |

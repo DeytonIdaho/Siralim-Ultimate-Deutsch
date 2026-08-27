@@ -22,12 +22,12 @@
 | 419 | Achievement Points: {1} | Erfolgs-Punkte: {1} |
 | 420 | Piety Bonus: {1} | Frömmigkeitsbonus: {1} |
 | 421 | Level {1} ({2}%) | Level {1} ({2}%) |
-| 422 | Trait(s): {1} of {2} | Eigenschaft(en): {1} von {2} |
+| 422 | Trait(s): {1} of {2} | Merkmal(e): {1} von {2} |
 | 423 | Toggle to next trait with {KEYE} | Wechsle zum nächsten Merkmal mit {KEYE} |
 | 424 | This creature does not have a macro assigned to it. | Dieser Kreatur ist kein Makro zugewiesen. |
 | 425 | This macro doesn't have any lines, so it won't do anything. | Dieses Makro hat keine Zeilen, daher wird es nichts bewirken. |
 | 426 | …and {1} more lines. | …und {1} weitere Zeilen. |
-| 427 | You can assign a creature's equipped Artifact and Spell Gems to an Item Set, and then automatically re-equip them later. | Du kannst das ausgerüstete Artefakt und die Zauber-Edelsteine einer Kreatur einem Ausrüstungsset zuweisen und sie später automatisch wieder ausrüsten. |
+| 427 | You can assign a creature's equipped Artifact and Spell Gems to an Item Set, and then automatically re-equip them later. | Du kannst das ausgerüstete Artefakt und die Zaubersteine einer Kreatur einem Ausrüstungsset zuweisen und sie später automatisch wieder ausrüsten. |
 | 428 | You can use this option to set your creature's default battle menu selection. | Du kannst diese Option nutzen, um die Standard-Kampfmenüauswahl deiner Kreatur festzulegen. |
 | 429 | This creature does not have a Relic attuned to it. | Dieses Wesen hat kein auf es abgestimmtes Relikt. |
 | 430 | Rank {1} | Rang {1} |
@@ -66,14 +66,14 @@
 | 463 | Utility/NPCs | Hilfsmittel/NPCs |
 | 464 | Decorations Menu | Dekorationsmenü |
 | 465 | Enter a name for your castle. | Gib einen Namen für deine Burg ein. |
-| 466 | Manage Spell Gems for your {1} | Verwalte Zauber-Edelsteine für dein {1} |
+| 466 | Manage Spell Gems for your {1} | Verwalte Zaubersteine für dein {1} |
 | 467 | You can equip a Spell Gem to this slot! | Du kannst einen Zauberstein in diesen Slot einsetzen! |
 | 468 | What do you want to do? | Was möchtest du tun? |
 | 469 | Unequip it. | Lege es ab. |
 | 470 | Make default selection. | Standardauswahl treffen. |
 | 471 | Remove as default selection. | Als Standardauswahl entfernen. |
 | 472 | Cancel. | Abbrechen. |
-| 473 | You cannot manage your creatures' Spell Gems while you are outside of {1}. | Du kannst die Zauber-Edelsteine deiner Kreaturen nicht verwalten, während du dich außerhalb von {1} befindest. |
+| 473 | You cannot manage your creatures' Spell Gems while you are outside of {1}. | Du kannst die Zaubersteine deiner Kreaturen nicht verwalten, während du dich außerhalb von {1} befindest. |
 | 474 | Favorite it. | Favorisieren. |
 | 475 | Un-favorite it. | Aus Favoriten entfernen. |
 | 476 | Favorite | Favorit |
@@ -83,9 +83,9 @@
 | 480 | You must be in your castle to cancel a Bounty. | Du musst in deiner Burg sein, um ein Kopfgeld abzubrechen. |
 | 481 | You cancelled the selected Project. | Du hast das ausgewählte Projekt abgebrochen. |
 | 482 | You cancelled the Bounty. | Du hast den Kopfgeld-Auftrag abgebrochen. |
-| 483 | This feature allows you to assign your creatures' Artifacts and Spell Gems to an "Item Set", then use that Item Set to equip these same items to a different creature later on. | Diese Funktion ermöglicht es dir, die Artefakte und Zaubergems deiner Kreaturen einem "Ausrüstungsset" zuzuweisen und dieses Ausrüstungsset später zu verwenden, um dieselben Gegenstände einer anderen Kreatur anzulegen. |
+| 483 | This feature allows you to assign your creatures' Artifacts and Spell Gems to an "Item Set", then use that Item Set to equip these same items to a different creature later on. | Diese Funktion ermöglicht es dir, die Artefakte und Zaubersteine deiner Kreaturen einem "Ausrüstungsset" zuzuweisen und dieses Ausrüstungsset später zu verwenden, um dieselben Gegenstände einer anderen Kreatur anzulegen. |
 | 484 | First, you need to assign a creatures' items to an Item Set. To do this, use the "Assign" option and then select the Item Set you want to store the creatures' items in. You can use the "Equip" option later on to equip these items to any creature you want. | Zunächst musst du die Gegenstände einer Kreatur einem Gegenstandsset zuweisen. Verwende dazu die Option "Zuweisen" und wähle dann das Gegenstandsset aus, in dem du die Gegenstände der Kreatur speichern möchtest. Du kannst später die Option "Ausrüsten" verwenden, um diese Gegenstände bei jeder beliebigen Kreatur anzulegen. |
-| 485 | If an item specified in an Item Set cannot be found in your inventory, it will be ignored when you try to equip them to a creature. Similarly, if a creature cannot equip certain Spell Gems (usually due to class constraints), those gems will be ignored as well. | Wenn ein in einem Gegenstandsset angegebener Gegenstand nicht in deinem Inventar gefunden werden kann, wird er ignoriert, wenn du versuchst, ihn einer Kreatur auszurüsten. Ebenso werden Zauberedelsteine, die eine Kreatur nicht ausrüsten kann (normalerweise aufgrund von Klassenbeschränkungen), ebenfalls ignoriert. |
+| 485 | If an item specified in an Item Set cannot be found in your inventory, it will be ignored when you try to equip them to a creature. Similarly, if a creature cannot equip certain Spell Gems (usually due to class constraints), those gems will be ignored as well. | Wenn ein in einem Gegenstandsset angegebener Gegenstand nicht in deinem Inventar gefunden werden kann, wird er ignoriert, wenn du versuchst, ihn einer Kreatur auszurüsten. Ebenso werden Zaubersteine, die eine Kreatur nicht ausrüsten kann (normalerweise aufgrund von Klassenbeschränkungen), ebenfalls ignoriert. |
 | 486 | Select the item set you want to equip to your {1}. | Wähle das Ausrüstungsset aus, das du für dein {1} ausrüsten möchtest. |
 | 487 | Select the item set you want to assign your {1}'s equipment to. | Wähle das Ausrüstungsset aus, dem du die Ausrüstung deines {1} zuweisen möchtest. |
 | 488 | Select the item set you want to clear. | Wähle das Itemset aus, das du löschen möchtest. |

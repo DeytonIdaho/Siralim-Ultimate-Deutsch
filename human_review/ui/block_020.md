@@ -16,15 +16,15 @@
 | 1913 | While the bearer has {CONDNAME_BUFF_ARCANE}, its spells that affect stats are 100% more potent. | Solange der Träger {CONDNAME_BUFF_ARCANE} hat, sind seine Zauber, die Statuswerte beeinflussen, 100% wirksamer. |
 | 1914 | After the bearer gains {CONDNAME_BUFF_ARCANE}, this relic {ACTION_casts} [icons,1976]Lightning Storm. | Nachdem der Träger {CONDNAME_BUFF_ARCANE} erhält, {ACTION_casts} diese Reliquie [icons,1976]Gewittersturm. |
 | 1915 | This relic and its bearer deal damage as if they are strong against the enemy's class. | Dieses Relikt und sein Träger verursachen Schaden, als wären sie stark gegen die Klasse des Gegners. |
-| 1916 | The bearer can equip {CLASS_Chaos} Spell Gems. | Der Träger kann {CLASS_Chaos}-Zauberedelsteine ausrüsten. |
+| 1916 | The bearer can equip {CLASS_Chaos} Spell Gems. | Der Träger kann {CLASS_Chaos}-Zaubersteine ausrüsten. |
 | 1917 | The bearer takes damage as if it is strong against the enemy's class. | Der Träger erleidet Schaden, als wäre er stark gegen die Klasse des Gegners. |
-| 1918 | The bearer can equip {CLASS_Life} Spell Gems. | Der Träger kann {CLASS_Life} Zauberedelsteine ausrüsten. |
+| 1918 | The bearer can equip {CLASS_Life} Spell Gems. | Der Träger kann {CLASS_Life} Zaubersteine ausrüsten. |
 | 1919 | After the bearer {ACTION_casts} a spell, this relic {ACTION_attacks} a random enemy. | Nachdem der Träger einen Zauber {ACTION_casts}, {ACTION_attacks} diese Reliquie einen zufälligen Gegner. |
-| 1920 | The bearer can equip {CLASS_Nature} Spell Gems. | Der Träger kann {CLASS_Nature} Zauberedelsteine ausrüsten. |
+| 1920 | The bearer can equip {CLASS_Nature} Spell Gems. | Der Träger kann {CLASS_Nature} Zaubersteine ausrüsten. |
 | 1921 | At the start of battle, the bearer's class is changed to that of the top-most Spell Gem it has equipped. | Zu Beginn des Kampfes wird die Klasse des Trägers zu der des obersten ausgerüsteten Zaubersteins geändert. |
-| 1922 | The bearer can equip {CLASS_Death} Spell Gems. | Der Träger kann {CLASS_Death} Zauberedelsteine ausrüsten. |
+| 1922 | The bearer can equip {CLASS_Death} Spell Gems. | Der Träger kann {CLASS_Death} Zaubersteine ausrüsten. |
 | 1923 | After the bearer {ACTION_casts} a spell, this relic has a 10% chance to {ACTION_cast} each of the bearer's permanent spells that do not belong to its class. | Nachdem der Träger einen Zauber {ACTION_casts}, hat diese Reliquie eine 10% Chance, jeden der permanenten Zauber des Trägers zu {ACTION_cast}, die nicht zu seiner Klasse gehören. |
-| 1924 | The bearer can equip {CLASS_Sorcery} Spell Gems. | Der Träger kann {CLASS_Sorcery}-Zauberedelsteine ausrüsten. |
+| 1924 | The bearer can equip {CLASS_Sorcery} Spell Gems. | Der Träger kann {CLASS_Sorcery}-Zaubersteine ausrüsten. |
 | 1925 | At the start of battle, this relic gives the bearer {CONDNAME_BUFF_INVISIBLE}. | Zu Beginn des Kampfes verleiht diese Reliquie dem Träger {CONDNAME_BUFF_INVISIBLE}. |
 | 1926 | After the bearer {ACTION_attacks} or {ACTION_casts} a single-target spell on an enemy, this relic {ACTION_attacks} the enemy. | Nachdem der Träger einen Feind {ACTION_attacks} oder einen Einzelziel-Zauber auf einen Feind {ACTION_casts}, {ACTION_attacks} diese Reliquie den Feind. |
 | 1927 | After this relic {ACTION_attacks}, the bearer has a 50% chance to gain {CONDNAME_BUFF_INVISIBLE}. | Nachdem diese Reliquie {ACTION_attacks}, hat der Träger eine 50% Chance, {CONDNAME_BUFF_INVISIBLE} zu erhalten. |
@@ -101,4 +101,4 @@
 | 1998 | This relic and its bearer have 5% more {STAT_intelligence} for each time it and this relic have {ACTION_cast} a spell in the current battle. | Dieses Relikt und sein Träger haben 5% mehr {STAT_intelligence} für jedes Mal, wenn es und dieses Relikt einen Zauber im aktuellen Kampf {ACTION_cast} haben. |
 | 1999 | The bearer's healing and stat-modifying spells have 10% more potency for each time this relic has {ACTION_cast} a spell in the current battle. | Der Träger erhält 10% mehr Wirksamkeit für Heilungs- und Statuswert-verändernde Zauber für jedes Mal, das diese Reliquie im aktuellen Kampf einen Zauber {ACTION_cast} hat. |
 | 2000 | After this relic {ACTION_casts} a spell, it also {ACTION_attacks} a random enemy. | Nachdem diese Reliquie einen Zauber {ACTION_casts}, {ACTION_attacks} sie auch einen zufälligen Gegner. |
-| 2001 | If the bearer has {ACTION_cast} spells at least 5 times in the current battle, its Spell Gems do not consume any {STAT_charges}. | Wenn der Träger im aktuellen Kampf mindestens 5 Mal {ACTION_cast} Zauber gewirkt hat, verbrauchen seine Zauberedelsteine keine {STAT_charges}. |
+| 2001 | If the bearer has {ACTION_cast} spells at least 5 times in the current battle, its Spell Gems do not consume any {STAT_charges}. | Wenn der Träger im aktuellen Kampf mindestens 5 Mal {ACTION_cast} Zauber gewirkt hat, verbrauchen seine Zaubersteine keine {STAT_charges}. |

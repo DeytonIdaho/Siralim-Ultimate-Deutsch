@@ -81,8 +81,8 @@
 | 978 | Projects | Projekte |
 | 979 | Fusion | Fusion |
 | 980 | Equipping Artifacts | Artefakte ausrüsten |
-| 981 | What Are Spell Gems? | Was sind Zauberedelsteine? |
-| 982 | Equipping Spell Gems | Zauberedelsteine ausrüsten |
+| 981 | What Are Spell Gems? | Was sind Zaubersteine? |
+| 982 | Equipping Spell Gems | Zaubersteine ausrüsten |
 | 983 | Nether Realms | Nether-Reiche |
 | 984 | Realm Instability | Reichsinstabilität |
 | 985 | Realms | Reiche |

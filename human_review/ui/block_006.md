@@ -16,7 +16,7 @@
 | 513 | Equip it. | Rüste es aus. |
 | 514 | Unlock it. | Schließe es auf. |
 | 515 | Lock it. | Verschließen. |
-| 516 | View Trait Details. | Eigenschaftsdetails anzeigen. |
+| 516 | View Trait Details. | Merkmalsdetails anzeigen. |
 | 517 | View Spell Details. | Zauberdetails anzeigen. |
 | 518 | Use it. | Benutzen. |
 | 519 | Nothing. | Nichts. |
@@ -24,7 +24,7 @@
 | 521 | This Nether Stone does not grant any spells. | Dieser Netherkristall gewährt keine Zauber. |
 | 522 | This Nether Stone is now unlocked and can be destroyed at the Arcane Refinery. | Dieser Netherkristall ist jetzt freigeschaltet und kann in der Arkanen Raffinerie zerstört werden. |
 | 523 | This Nether Stone is now locked and can no longer be destroyed at the Arcane Refinery. | Dieser Netherkristall ist nun gesperrt und kann nicht mehr in der Arkanen Raffinerie zerstört werden. |
-| 524 | This artifact does not have a material socketed in its Trait Slot. | Dieses Artefakt hat kein Material in seinem Eigenschaftsplatz eingesetzt. |
+| 524 | This artifact does not have a material socketed in its Trait Slot. | Dieses Artefakt hat kein Material in seinem Merkmalsplatz eingesetzt. |
 | 525 | This artifact does not have a gem socketed in its Spell Slot. | Dieses Artefakt hat keinen Edelstein in seinem Zauberplatz eingesetzt. |
 | 526 | This artifact does not have a Nether Stone socketed in its Nether Slot. | Dieses Artefakt hat keinen Netherkristall in seinem Netherschlitz eingesetzt. |
 | 527 | Choose a creature to fuse with your {1}. | Wähle eine Kreatur, die mit deinem {1} verschmolzen werden soll. |

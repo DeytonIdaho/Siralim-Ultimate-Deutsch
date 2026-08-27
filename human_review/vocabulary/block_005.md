@@ -80,5 +80,5 @@
 | 477 | Intelligence / Defense | Intelligenz / Verteidigung |
 | 478 | Intelligence / Speed | Intelligenz / Geschwindigkeit |
 | 479 | Defense / Speed | Verteidigung / Geschwindigkeit |
-| 480 | Trait | Eigenschaft |
+| 480 | Trait | Merkmal |
 | 481 | Cast Spell | Zauber wirken |

@@ -42,7 +42,7 @@
 | 1739 | Gather Emblems of any type from any source of loot. | Sammle Embleme jeder Art aus jeder Beutequelle. |
 | 1740 | Gather Stat Materials from any source of loot. | Sammle Statusmaterialien aus jeder Beutequelle. |
 | 1741 | Gather Trick Materials from any source of loot. | Sammle Trick-Materialien aus jeder Beutequelle. |
-| 1742 | Gather Trait Materials from any source of loot. | Sammle Eigenschaftsmaterialien aus jeder Beutequelle. |
+| 1742 | Gather Trait Materials from any source of loot. | Sammle Merkmalsmaterialien aus jeder Beutequelle. |
 | 1743 | Gather Spell Gem Materials from any source of loot. | Sammle Zauberstein-Materialien aus jeder Beutequelle. |
 | 1744 | Complete Missions of any type. | Schließe Missionen beliebigen Typs ab. |
 | 1745 | Complete Assassination Missions. | Schließe Attentatsmissionen ab. |

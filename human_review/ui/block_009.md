@@ -80,7 +80,7 @@
 | 877 | Tier: Design Nether Realm | Stufe: Design Nether Realm |
 | 878 | Tier: Design Creature | Stufe: Kreatur entwerfen |
 | 879 | Tier: Design Spell | Stufe: Design-Zauber |
-| 880 | Tier: Design Trait | Stufe: Design-Eigenschaft |
+| 880 | Tier: Design Trait | Stufe: Design-Merkmal |
 | 881 | Tier: Design Decoration | Stufe: Design-Dekoration |
 | 882 | Tier: Design Costume | Stufe: Kostüm entwerfen |
 | 883 | Tier: Design NPC | Stufe: Design-NPC |

@@ -34,7 +34,7 @@
 | 131 | Spells | Zauber |
 | 132 | Spell Gem Properties | Zauberstein-Eigenschaften |
 | 133 | Skins | Skins |
-| 134 | Traits | Eigenschaften |
+| 134 | Traits | Merkmale |
 | 135 | Artifacts | Artefakte |
 | 136 | Castle | Schloss |
 | 137 | Character | Charakter |
@@ -49,7 +49,7 @@
 | 146 | Nether Bosses | Nether-Bosse |
 | 147 | Realms | Reiche |
 | 148 | Relics | Relikte |
-| 149 | Spell Gems | Zauberedelsteine |
+| 149 | Spell Gems | Zaubersteine |
 | 150 | Status | Status |
 | 151 | Perks | Vorteile |
 | 152 | Anointments | Salbungen |
@@ -60,11 +60,11 @@
 | 157 | Guild Reputation | Gildenruf |
 | 158 | Achievements | Erfolge |
 | 159 | Creature Sheet | Kreaturenbogen |
-| 160 | Traits | Eigenschaften |
+| 160 | Traits | Merkmale |
 | 161 | View/Unequip Artifact | Artefakt ansehen/ablegen |
 | 162 | Equip Artifact | Artefakt ausrüsten |
 | 163 | Relic | Relikt |
-| 164 | Manage Spell Gems | Zauberedelsteine verwalten |
+| 164 | Manage Spell Gems | Zaubersteine verwalten |
 | 165 | Manage Item Sets | Ausrüstungssets verwalten |
 | 166 | Strategy ({1}) | Strategie ({1}) |
 | 167 | Attack | Angriff |
