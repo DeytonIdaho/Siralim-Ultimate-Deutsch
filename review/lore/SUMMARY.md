@@ -2,6 +2,6 @@
 
 - Source: `lore.csv`
 - Rows: 1376
-- Flagged: 155
+- Flagged: 3
 - Chunk size: 100
-- Review files: 2
+- Review files: 1
