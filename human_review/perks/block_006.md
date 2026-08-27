@@ -7,7 +7,7 @@
 | 504 | Kindle the Flame | Entfache die Flamme |
 | 505 | Your creatures' spells that interact with {CONDNAME_DEBUFF_BURNED} do not consume {STAT_charges}. | Zauber deiner Kreaturen, die mit {CONDNAME_DEBUFF_BURNED} interagieren, verbrauchen keine {STAT_charges}. |
 | 506 | Immolation | Verbrennung |
-| 507 | Your creatures' spells that interact with {CONDNAME_DEBUFF_BURNED} have <5>% more potency. | Eure Kreaturen-Zauber, die mit {CONDNAME_DEBUFF_BURNED} interagieren, haben <5>% mehr Zaubermacht. |
+| 507 | Your creatures' spells that interact with {CONDNAME_DEBUFF_BURNED} have <5>% more potency. | Deine Kreaturen-Zauber, die mit {CONDNAME_DEBUFF_BURNED} interagieren, haben <5>% mehr Zaubermacht. |
 | 508 | Hot Streak | Glückssträhne |
 | 509 | After your creatures are damaged or healed by {CONDNAME_DEBUFF_BURNED}, the potency of all creatures' {CONDNAME_DEBUFF_BURNED} debuffs increases by <2>%. | Nachdem deine Kreaturen durch {CONDNAME_DEBUFF_BURNED} Schaden erlitten oder geheilt wurden, erhöht sich die Effektstärke aller {CONDNAME_DEBUFF_BURNED}-Debuff der Kreaturen um <2>%. |
 | 510 | Combustion | Verbrennung |

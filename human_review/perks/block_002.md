@@ -15,7 +15,7 @@
 | 112 | Blazing Soul | Flammende Seele |
 | 113 | When your creatures afflict enemies with {CONDNAME_DEBUFF_BURNED}, their {STAT_attack} is used to determine the potency of this debuff if it is higher than their {STAT_intelligence}.\n\n{CONDDESC_DEBUFF_BURNED} | Wenn deine Kreaturen Feinde mit {CONDNAME_DEBUFF_BURNED} belegen, wird ihr {STAT_attack} verwendet, um die Stärke dieses Debuffs zu bestimmen, falls dieser höher ist als ihre {STAT_intelligence}.\n\n{CONDDESC_DEBUFF_BURNED} |
 | 114 | Dreadnaught | Schlachtschiff |
-| 115 | Your creatures' attacks cannot be dodged. | Angriffe deiner Kreaturen können nicht ausgewichen werden. |
+| 115 | Your creatures' attacks cannot be dodged. | Den Angriffen deiner Kreaturen kann nicht ausgewichen werden. |
 | 116 | Indomitable | Unbezwingbar |
 | 117 | Your creatures are immune to {CONDNAME_DEBUFF_SCORN}.\n\n{CONDDESC_DEBUFF_SCORN} | Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_SCORN}.\n\n{CONDDESC_DEBUFF_SCORN} |
 | 118 | Bolster | Stärken |

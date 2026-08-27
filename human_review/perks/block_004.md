@@ -79,15 +79,15 @@
 | 376 | Shimmer | Schimmer |
 | 377 | Your creatures take <1>% less damage for each [temporary]Ethereal Spell Gem they have equipped. | Deine Kreaturen erleiden <1>% weniger Schaden für jeden [temporary]Ätherischen Zauberstein, den sie ausgerüstet haben. |
 | 378 | Quickdraw | Schnellziehen |
-| 379 | After your creatures gain [temporary]Ethereal Spell Gems, they have a <5>% chance to cast them. Only gems that are acquired after start-of-battle effects can be cast in this manner. | Nachdem deine Kreaturen [temporary]Ätherische Zaubersteine erhalten haben, besteht eine <5>% Chance, dass sie diese wirken. Nur Edelsteine, die nach den Effekten zu Kampfbeginn erworben wurden, können auf diese Weise gewirkt werden. |
+| 379 | After your creatures gain [temporary]Ethereal Spell Gems, they have a <5>% chance to cast them. Only gems that are acquired after start-of-battle effects can be cast in this manner. | Nachdem deine Kreaturen [temporary]Ätherische Zaubersteine erhalten haben, besteht eine <5>% Chance, dass sie diese wirken. Nur Zaubersteine, die nach den Effekten zu Kampfbeginn erworben wurden, können auf diese Weise gewirkt werden. |
 | 380 | Hand of the Magi | Hand des Magiers |
-| 381 | Your creatures' [temporary] Ethereal Spell Gems have <2>% more potency. | Deine Kreaturen' [temporary] Ätherische Zaubersteine haben <2>% mehr Zaubermacht. |
+| 381 | Your creatures' [temporary] Ethereal Spell Gems have <2>% more potency. | Deine Kreaturen [temporary] Ätherische Zaubersteine haben <2>% mehr Zaubermacht. |
 | 382 | Battle Mage | Kampfmagier |
 | 383 | After your creatures {ACTION_attack}, they have a <2>% chance to cast one of their [temporary] Ethereal Spell Gems. | Nachdem deine Kreaturen {ACTION_attack}, haben sie eine <2>% Chance, einen ihrer [temporary] Ätherischen Zaubersteine zu wirken. |
 | 384 | Unshackled | Entfesselt |
 | 385 | Your creatures are immune to {CONDNAME_DEBUFF_SILENCE}.\n\n{CONDDESC_DEBUFF_SILENCE} | Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_SILENCE}.\n\n{CONDDESC_DEBUFF_SILENCE} |
 | 386 | Spellslinger | Zauberwerfer |
-| 387 | Your creatures' [temporary] Ethereal Spell Gems cast 1 additional time. | Deine Kreaturen' [temporary] Ätherische Zaubersteine wirken 1 zusätzliches Mal. |
+| 387 | Your creatures' [temporary] Ethereal Spell Gems cast 1 additional time. | Deine Kreaturen [temporary] Ätherische Zaubersteine wirken 1 zusätzliches Mal. |
 | 388 | Incantation | Zauberspruch |
 | 389 | After your creatures {ACTION_defend} or {ACTION_provoke}, they cast one of their [temporary]Ethereal Spell Gems. | Nachdem deine Kreaturen {ACTION_defend} oder {ACTION_provoke}, wirken sie einen ihrer [temporary]Ätherischen Zaubersteine. |
 | 390 | Prism | Prisma |

@@ -9,7 +9,7 @@
 | 906 | Godforged | Gottgeschmiedet |
 | 907 | Your {RACE_Avatar}s have 50% more benefit from the Godforge. | Deine {RACE_Avatar}e erhalten 50% mehr Nutzen aus der Götterschmiede. |
 | 908 | Fertility | Fruchtbarkeit |
-| 909 | Your Herbling evolves 50% faster. | Dein Kräutling entwickelt sich 50% schneller. |
+| 909 | Your Herbling evolves 50% faster. | Dein Herbling entwickelt sich 50% schneller. |
 | 910 | Hellion | Hellion |
 | 911 | Your creatures deal 5% more damage with attacks for each time they’ve {ACTION_attacked} in the current battle. | Deine Kreaturen verursachen 5% mehr Schaden mit Angriffen für jedes Mal, das sie in der aktuellen Schlacht {ACTION_attacked} haben. |
 | 912 | Judgment Day | Jüngster Tag |
@@ -53,7 +53,7 @@
 | 950 | Blood Offering | Blutopfer |
 | 951 | At the start of battle, your creatures grant each other Maximum {STAT_health} equal to 10% of their Maximum {STAT_health}. | Zu Beginn des Kampfes gewähren sich deine Kreaturen gegenseitig maximale {STAT_health} in Höhe von 10% ihrer maximalen {STAT_health}. |
 | 952 | Embrace the Arcane | Umarme das Arkane |
-| 953 | Your creatures’ spells that are {ACTION_cast} automatically have a 10% chance to be treated as manual casts. | Eure Kreaturen-Zauber, die {ACTION_cast} werden, haben automatisch eine 10% Chance, als manuelle Zauber behandelt zu werden. |
+| 953 | Your creatures’ spells that are {ACTION_cast} automatically have a 10% chance to be treated as manual casts. | Deine Kreaturen-Zauber, die {ACTION_cast} werden, haben automatisch eine 10% Chance, als manuelle Zauber behandelt zu werden. |
 | 954 | Death's Due | Tribut des Todes |
 | 955 | Your creatures deal additional damage with attacks and spells equal to the amount of their highest stat they have greater than the target’s highest stat. | Deine Kreaturen verursachen zusätzlichen Schaden mit Angriffen und Zaubern in Höhe der Differenz zwischen ihrem höchsten Wert und dem höchsten Wert des Ziels, wenn dieser größer ist. |
 | 956 | Holy Burst | Heiliger Ausbruch |
@@ -69,7 +69,7 @@
 | 966 | Bioassay | Bioassay |
 | 967 | Your creatures' spells that interact with {CONDNAME_DEBUFF_POISON} do not consume {STAT_charges}. | Zauber deiner Kreaturen, die mit {CONDNAME_DEBUFF_POISON} interagieren, verbrauchen keine {STAT_charges}. |
 | 968 | Confounding Factors | Verwirrende Faktoren |
-| 969 | Your creatures' spells that interact with {CONDNAME_DEBUFF_POISON} have <20>% more potency. | Eure Kreaturen-Zauber, die mit {CONDNAME_DEBUFF_POISON} interagieren, haben <20>% mehr Effektstärke. |
+| 969 | Your creatures' spells that interact with {CONDNAME_DEBUFF_POISON} have <20>% more potency. | Deine Kreaturen-Zauber, die mit {CONDNAME_DEBUFF_POISON} interagieren, haben <20>% mehr Effektstärke. |
 | 970 | Carcinogen | Karzinogen |
 | 971 | Enemies always have {CONDNAME_DEBUFF_POISON}.\n\n{CONDDESC_DEBUFF_POISON} | Gegner haben immer {CONDNAME_DEBUFF_POISON}.\n\n{CONDDESC_DEBUFF_POISON} |
 | 972 | Teratogen | Teratogen |

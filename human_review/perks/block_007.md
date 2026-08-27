@@ -7,7 +7,7 @@
 | 604 | Dark Covenant | Dunkler Pakt |
 | 605 | Your dead creatures have <5>% more stats. | Deine toten Kreaturen haben <5>% mehr Werte. |
 | 606 | Never Forgotten | Niemals Vergessen |
-| 607 | Your creatures' stat changes persist through death. | Statusänderungen deiner Kreaturen bleiben auch nach dem Tod bestehen. |
+| 607 | Your creatures' stat changes persist through death. | Attributsänderungen deiner Kreaturen bleiben auch nach dem Tod bestehen. |
 | 608 | Destiny Bond | Schicksalsbund |
 | 609 | Your creatures' buffs and minions persist through death. | Deine Kreaturen behalten ihre Verstärkungen und Diener auch nach dem Tod bei. |
 | 610 | Designated Survivor | Auserwählter Überlebender |
@@ -21,15 +21,15 @@
 | 618 | Misery | Elend |
 | 619 | After your creatures are killed, one of your other creatures casts [icons,1984]Murder of Crows. | Nachdem deine Kreaturen getötet wurden, wirkt eine deiner anderen Kreaturen [icons,1984]Krähenschwarm. |
 | 620 | Ultima | Ultima |
-| 621 | All {RACE_Avatar}s' {SPELL_ultimate} Gems have <1>  additional {STAT_charges}. | Alle {RACE_Avatar}s' {SPELL_ultimate} Edelsteine haben <1> zusätzliche {STAT_charges}. |
+| 621 | All {RACE_Avatar}s' {SPELL_ultimate} Gems have <1>  additional {STAT_charges}. | Alle {RACE_Avatar}s' {SPELL_ultimate} Zaubersteine haben <1> zusätzliche {STAT_charges}. |
 | 622 | Pact of the Gods | Pakt der Götter |
-| 623 | At the start of battle, your {RACE_Avatar}s' {SPELL_ultimate} Gems gain the "Generous" property. | Zu Beginn des Kampfes erhalten die {SPELL_ultimate}-Edelsteine deiner {RACE_Avatar}s die Eigenschaft "Großzügig". |
+| 623 | At the start of battle, your {RACE_Avatar}s' {SPELL_ultimate} Gems gain the "Generous" property. | Zu Beginn des Kampfes erhalten die {SPELL_ultimate}-Zaubersteine deiner {RACE_Avatar}s die Eigenschaft "Großzügig". |
 | 624 | Army of Gods | Armee der Götter |
 | 625 | You can have <1>  additional {RACE_Avatar} creature(s) in your party. | Du kannst <1> zusätzliche {RACE_Avatar}-Kreatur(en) in deiner Gruppe haben. |
 | 626 | Unstoppable Force | Unaufhaltsame Kraft |
-| 627 | {SPELL_ultimate} Gems cannot be Sealed. | {SPELL_ultimate} Edelsteine können nicht versiegelt werden. |
+| 627 | {SPELL_ultimate} Gems cannot be Sealed. | {SPELL_ultimate} Zaubersteine können nicht versiegelt werden. |
 | 628 | Multitheism | Polytheismus |
-| 629 | At the start of battle, your {RACE_Godspawn} creatures gain their respective {RACE_Avatar}'s trait. | Zu Beginn des Kampfes erhalten deine {RACE_Godspawn}-Kreaturen die Merkmal ihres jeweiligen {RACE_Avatar}s. |
+| 629 | At the start of battle, your {RACE_Godspawn} creatures gain their respective {RACE_Avatar}'s trait. | Zu Beginn des Kampfes erhalten deine {RACE_Godspawn}-Kreaturen das Merkmal ihres jeweiligen {RACE_Avatar}s. |
 | 630 | Otherworldly | Übernatürlich |
 | 631 | Your {RACE_Avatar}s are resistant to debuffs. | Deine {RACE_Avatar}s sind resistent gegen Debuffs. |
 | 632 | Martyr | Märtyrer |
@@ -37,9 +37,9 @@
 | 634 | Prophecy | Prophezeiung |
 | 635 | After your {RACE_Godspawn} {ACTION_attack}, they have a <1>% chance to {ACTION_cast} their respective {RACE_Avatar}'s {SPELL_ultimate}. | Nach deinem {RACE_Godspawn} {ACTION_attack} haben sie eine <1>% Chance, das {SPELL_ultimate} ihres jeweiligen {RACE_Avatar}s zu {ACTION_cast}. |
 | 636 | Deified Armaments | Göttliche Rüstungen |
-| 637 | Your creatures' {SPELL_ultimate} Gems have <10>% more potency. | Deine Kreaturen' {SPELL_ultimate} Edelsteine haben <10>% mehr Zaubermacht. |
+| 637 | Your creatures' {SPELL_ultimate} Gems have <10>% more potency. | Deine Kreaturen {SPELL_ultimate} Zaubersteine haben <10>% mehr Zaubermacht. |
 | 638 | Nirvana | Nirvana |
-| 639 | At the start of battle, your {RACE_Avatar}s gain <1>  random {SPELL_ultimate} Gem(s). | Zu Beginn des Kampfes erhalten deine {RACE_Avatar}s <1> zufällige(n) {SPELL_ultimate}-Edelstein(e). |
+| 639 | At the start of battle, your {RACE_Avatar}s gain <1>  random {SPELL_ultimate} Gem(s). | Zu Beginn des Kampfes erhalten deine {RACE_Avatar}s <1> zufällige(n) {SPELL_ultimate}-Zauberstein(e). |
 | 640 | Transcendence | Transzendenz |
 | 641 | After your {RACE_Godspawn} {ACTION_cast} a spell, they have a <1>% chance to {ACTION_cast} their respective {RACE_Avatar}'s {SPELL_ultimate}. | Nachdem dein {RACE_Godspawn} einen Zauber {ACTION_cast}, hat er eine <1>% Chance, das {SPELL_ultimate} seines jeweiligen {RACE_Avatar}s zu {ACTION_cast}. |
 | 642 | Apostle | Apostel |
@@ -53,7 +53,7 @@
 | 650 | Photosynthesis | Photosynthese |
 | 651 | Your Herbling has 3% more stats (other than {STAT_health}) for each time it has received healing, gained stats, received buffs or minions, or has been resurrected in battle. Every 15% stats earned through this perk causes the Herbling to evolve to a higher Tier at the start of its turn. | Dein Herbling hat 3% mehr Attribute (außer {STAT_health}) für jedes Mal, wenn er Heilung erhalten, Attribute gewonnen, Buffs oder Diener erhalten hat oder im Kampf wiederbelebt wurde. Für jeweils 15% Attribute, die durch diesen Vorteil erworben wurden, entwickelt sich der Herbling zu Beginn seines Zuges zu einer höheren Stufe. |
 | 652 | Synthetic Resin | Synthetisches Harz |
-| 653 | Your Herbling {ACTION_casts} 1 additional time for each Tier it has. | Dein Kräutling {ACTION_casts} 1 zusätzliches Mal für jede Stufe, die er hat. |
+| 653 | Your Herbling {ACTION_casts} 1 additional time for each Tier it has. | Dein Herbling {ACTION_casts} 1 zusätzliches Mal für jede Stufe, die er hat. |
 | 654 | Biodegradation | Biologischer Abbau |
 | 655 | Your Herbling {ACTION_attacks} 1 additional time for each Tier it has. | Dein Herbling {ACTION_attacks} 1 zusätzliches Mal für jede Stufe, die er hat. |
 | 656 | Cultivation | Kultivierung |
@@ -73,7 +73,7 @@
 | 670 | Defensins | Defensine |
 | 671 | Your Herbling is resistant to debuffs. Your Herbling is unable to be afflicted with debuffs while it is at Tier 3 or higher. | Dein Herbling ist resistent gegen Debuffs. Dein Herbling kann nicht von Debuffs betroffen werden, solange er Stufe 3 oder höher erreicht hat. |
 | 672 | Symbiosis | Symbiose |
-| 673 | At the end of your creatures' turns, your Herbling gains 1 stack of {CONDNAME_MINION_SPIDERLING}.\n\n{CONDDESC_MINION_SPIDERLING} | Am Ende der Züge deiner Kreaturen erhält dein Kräutling 1 Stapel {CONDNAME_MINION_SPIDERLING}.\n\n{CONDDESC_MINION_SPIDERLING} |
+| 673 | At the end of your creatures' turns, your Herbling gains 1 stack of {CONDNAME_MINION_SPIDERLING}.\n\n{CONDDESC_MINION_SPIDERLING} | Am Ende der Züge deiner Kreaturen erhält dein Herbling 1 Stapel {CONDNAME_MINION_SPIDERLING}.\n\n{CONDDESC_MINION_SPIDERLING} |
 | 674 | Deep Roots | Tiefe Wurzeln |
 | 675 | If your Herbling is the first creature in your party, it {ACTION_provokes} at the end of its turn. If your Herbling is the sixth creature in your party, it {ACTION_defends} at the end of its turn. | Wenn dein Herbling die erste Kreatur in deiner Gruppe ist, {ACTION_provokes} es am Ende seines Zuges. Wenn dein Herbling die sechste Kreatur in deiner Gruppe ist, {ACTION_defends} es am Ende seines Zuges. |
 | 676 | Offense Mechanism | Offensivmechanismus |

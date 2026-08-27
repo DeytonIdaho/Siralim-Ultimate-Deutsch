@@ -63,19 +63,19 @@
 | 1160 | Total Deprivation | Totale Entbehrung |
 | 1161 | Your creatures' Fused traits are ignored. You cannot use Avatar creatures. Your creatures' Relic effects are ignored. This perk is always active while your specialization is {SPEC_DEPRIVED}, even if you haven't allocated any Perk Points to it. | Die Verschmolzenen Merkmale deiner Kreaturen werden ignoriert. Du kannst keine Avatar-Kreaturen verwenden. Die Relikt-Effekte deiner Kreaturen werden ignoriert. Dieser Vorteil ist immer aktiv, während deine Spezialisierung {SPEC_DEPRIVED} ist, selbst wenn du keine Vorteilspunkte dafür aufgewendet hast. |
 | 1162 | Simple Life | Einfaches Leben |
-| 1163 | You have a 100% increased chance to find Skins. This perk is always active, even if your specialization is not {SPEC_DEPRIVED}. | Du hast eine um 100% erhöhte Chance, Häute zu finden. Dieser Vorteil ist immer aktiv, auch wenn deine Spezialisierung nicht {SPEC_DEPRIVED} ist. |
+| 1163 | You have a 100% increased chance to find Skins. This perk is always active, even if your specialization is not {SPEC_DEPRIVED}. | Du hast eine um 100% erhöhte Chance, Skins zu finden. Dieser Vorteil ist immer aktiv, auch wenn deine Spezialisierung nicht {SPEC_DEPRIVED} ist. |
 | 1164 | Elbow Grease | Ellbogenschmalz |
 | 1165 | Your creatures gain 50% more benefit from their Artifact's [slot_stat] Stat Slots. | Deine Kreaturen erhalten 50% mehr Nutzen aus den [slot_stat]-Attributplätzen ihrer Artefakte. |
 | 1166 | Blacksmith's Boon | Schmiedesegen |
 | 1167 | Your creatures' [slot_trick] Trick Slots that apply buffs and debuffs have a 35% greater chance to activate. | Deine Kreaturen haben eine 35% höhere Chance, [slot_trick] Trick-Slots zu aktivieren, die Buffs und Debuffs anwenden. |
 | 1168 | Double Time | Doppelzeit |
-| 1169 | Your creatures' [slot_trick] Trick Slots that apply buffs and debuffs affect 1 additional creature. | Deine Kreaturen-[slot_trick]-Trickkarten, die Buffs und Debuffs anwenden, betreffen 1 zusätzliche Kreatur. |
+| 1169 | Your creatures' [slot_trick] Trick Slots that apply buffs and debuffs affect 1 additional creature. | Die [slot_trick]-Trick-Slots deiner Kreaturen, die Buffs und Debuffs anwenden, betreffen 1 zusätzliche Kreatur. |
 | 1170 | Grip of the Gods | Griff der Götter |
 | 1171 | Your creatures are immune to {CONDNAME_DEBUFF_DISARMED}.\n\n{CONDDESC_DEBUFF_DISARMED} | Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_DISARMED}.\n\n{CONDDESC_DEBUFF_DISARMED} |
 | 1172 | Nether Imbuement | Nether-Imprägnierung |
 | 1173 | Your creatures' Nether Stones are <5>% more powerful. This perk does not affect a Nether Stone's traits, spells, or any [slot_trick] Trick Slots that increase a creature's maximum number of Spell Gem slots. | Deine Kreaturen-Nethersteine sind <5>% mächtiger. Dieser Vorteil wirkt sich nicht auf die Merkmale eines Nethersteins, Zauber oder [slot_trick] Trick-Slots aus, die die maximale Anzahl an Zauberstein-Slots einer Kreatur erhöhen. |
 | 1174 | It's Called a Lance | Es wird Lanze genannt |
-| 1175 | After your creatures manually {ACTION_cast} an {SPELL_equipment}, they {ACTION_cast} a Living Lance spell. The type of Living Lance spell is based on the caster's class. | Nachdem deine Kreaturen manuell ein {SPELL_equipment} {ACTION_cast}, {ACTION_cast} sie einen Lebende Lanze-Zauber. Die Art des Lebende Lanze-Zaubers basiert auf der Klasse des Zauberwirkers. |
+| 1175 | After your creatures manually {ACTION_cast} an {SPELL_equipment}, they {ACTION_cast} a Living Lance spell. The type of Living Lance spell is based on the caster's class. | Nachdem deine Kreaturen manuell ein {SPELL_equipment} {ACTION_cast}, {ACTION_cast} sie einen Zauber der Lebenden Lanze. Die Art des Zaubers der Lebenden Lanze richtet sich nach der Klasse des Zauberwirkers. |
 | 1176 | Acclimated Armaments | Akklimatisierte Bewaffnung |
 | 1177 | Your creatures' {SPELL_equipment}s are 5% more potent for each time they've {ACTION_cast} an {SPELL_equipment} in the current battle. | Deine Kreaturen {SPELL_equipment}s sind 5% wirksamer für jedes Mal, das sie ein {SPELL_equipment} im aktuellen Kampf {ACTION_cast} haben. |
 | 1178 | War Paint | Kriegsbemalung |

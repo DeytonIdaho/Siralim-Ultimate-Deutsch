@@ -15,7 +15,7 @@
 | 12 | Dampen Harm | Schaden dämpfen |
 | 13 | When your creatures would receive fatal damage, they have a chance to prevent that damage equal to their chance to dodge. | Wenn deine Kreaturen tödlichen Schaden erleiden würden, haben sie eine Chance, diesen Schaden zu verhindern, die ihrer Ausweichchance entspricht. |
 | 14 | Fortified Spirit | Gestärkter Geist |
-| 15 | After your creatures dodge, they gain <1>% {STAT_defense} for each time they've {ACTION_attacked} with [nature_monk_kaze] Celerity in the current battle. | Nachdem deine Kreaturen ausweichen, erhalten sie <1>% {STAT_defense} für jedes Mal, das sie mit [nature_monk_kaze] Schnelligkeit in der aktuellen Schlacht {ACTION_attacked} haben. |
+| 15 | After your creatures dodge, they gain <1>% {STAT_defense} for each time they've {ACTION_attacked} with [nature_monk_kaze] Celerity in the current battle. | Nachdem deine Kreaturen ausweichen, erhalten sie <1>% {STAT_defense} für jedes Mal, das sie im aktuellen Kampf mit [nature_monk_kaze] Schnelligkeit {ACTION_attacked} haben. |
 | 16 | Blurred Strikes | Verschwommene Schläge |
 | 17 | After your creatures {ACTION_attack} with [nature_monk_kaze] Celerity, they have a <2.5>% chance to {ACTION_attack} an additional time. This effect can occur repeatedly until it fails. | Nachdem deine Kreaturen mit [nature_monk_kaze] Behändigkeit {ACTION_attack}, haben sie eine <2.5>%-Chance, ein weiteres Mal {ACTION_attack}. Dieser Effekt kann wiederholt auftreten, bis er fehlschlägt. |
 | 18 | Ride the Wind | Reite den Wind |
@@ -45,7 +45,7 @@
 | 42 | Death and Decay | Tod und Verfall |
 | 43 | After an enemy is killed, your Animatus casts [icons,1984]Corpse Explosion. This spell deals 50% more damage for each dead enemy. | Nachdem ein Feind getötet wurde, wirkt dein Animatus [icons,1984]Leichenexplosion. Dieser Zauber verursacht 50% mehr Schaden für jeden toten Feind. |
 | 44 | Damnation's Edge | Verdammnis-Klinge |
-| 45 | At the start of battle, your Animatus gains a copy of your fifth creature's innate trait. | Zu Beginn des Kampfes erhält dein Animatus eine Kopie der angeborenen Merkmal deiner fünften Kreatur. |
+| 45 | At the start of battle, your Animatus gains a copy of your fifth creature's innate trait. | Zu Beginn des Kampfes erhält dein Animatus eine Kopie des angeborenen Merkmals deiner fünften Kreatur. |
 | 46 | Molecular Betrayal | Molekularer Verrat |
 | 47 | At the start of battle, your Animatus gains <1>% of your third creature's stats. | Zu Beginn des Kampfes erhält dein Animatus <1>% der Werte deiner dritten Kreatur. |
 | 48 | Forged by Pain | Geschmiedet durch Schmerz |
@@ -95,7 +95,7 @@
 | 92 | Enduring Rage | Anhaltende Wut |
 | 93 | Your creatures {ACTION_attack} 1 additional time. | Deine Kreaturen {ACTION_attack} 1 zusätzliches Mal. |
 | 94 | Massacre | Massaker |
-| 95 | Your creatures' {CONDNAME_BUFF_SPLASH} buffs now deal damage to all enemies.\n\n{CONDDESC_BUFF_SPLASH} | Eure Kreaturen-{CONDNAME_BUFF_SPLASH}-Buffs fügen nun allen Feinden Schaden zu.\n\n{CONDDESC_BUFF_SPLASH} |
+| 95 | Your creatures' {CONDNAME_BUFF_SPLASH} buffs now deal damage to all enemies.\n\n{CONDDESC_BUFF_SPLASH} | Deine Kreaturen-{CONDNAME_BUFF_SPLASH}-Buffs fügen nun allen Feinden Schaden zu.\n\n{CONDDESC_BUFF_SPLASH} |
 | 96 | Reckless Abandon | Tollkühne Hingabe |
 | 97 | Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes them to have a 100% chance to deal critical damage.\n\n{CONDDESC_BUFF_SAVAGE} | Deine Kreaturen haben durch den Buff {CONDNAME_BUFF_SAVAGE} nun eine 100%ige Chance, kritischen Schaden zu verursachen.\n\n{CONDDESC_BUFF_SAVAGE} |
 | 98 | Death Sentence | Todesurteil |

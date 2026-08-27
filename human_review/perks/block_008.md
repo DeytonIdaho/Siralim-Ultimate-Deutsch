@@ -6,7 +6,7 @@
 | 703 | Your creatures have <5>% more {STAT_attack}, {STAT_intelligence}, {STAT_defense}, and {STAT_speed} for each [infusion_chaos]Chaos, [infusion_sorcery]Sorcery, [infusion_death]Death, or [infusion_nature]Nature Infusion you have. Your creatures take <1>% less damage for each [infusion_life]Life Infusion you have. | Deine Kreaturen haben <5>% mehr {STAT_attack}, {STAT_intelligence}, {STAT_defense} und {STAT_speed} für jede [infusion_chaos]Chaos-, [infusion_sorcery]Zauber-, [infusion_death]Todes- oder [infusion_nature]Naturinfusion, die du besitzt. Deine Kreaturen erleiden <1>% weniger Schaden für jede [infusion_life]Lebensinfusion, die du besitzt. |
 | 704 | Infinity | Unendlichkeit |
 | 705 | After your creatures have collectively {ACTION_cast} Colorwave at least 5 times, they can continue to {ACTION_cast} it for the rest of the battle and it consumes no Infusions. | Nachdem deine Kreaturen gemeinsam mindestens 5 Mal Farbwelle {ACTION_cast} haben, können sie sie für den Rest des Kampfes weiterhin {ACTION_cast}, ohne Infusionen zu verbrauchen. |
-| 706 | Inspirited Gems | Beseelte Edelsteine |
+| 706 | Inspirited Gems | Beseelte Zaubersteine |
 | 707 | Your creatures' "Cast On..." properties have a <1>% additional chance to activate. | Deine Kreaturen haben eine <1>% höhere Chance, ihre "Wirken bei..."-Eigenschaften zu aktivieren. |
 | 708 | Prismatic Barrier | Prismatische Barriere |
 | 709 | While you have at least 1 Infusion that matches your creatures' classes, those creatures are resistant to debuffs. | Solange du mindestens 1 Infusion hast, die mit den Klassen deiner Kreaturen übereinstimmt, sind diese Kreaturen resistent gegen Debuffs. |

@@ -73,7 +73,7 @@
 | 870 | Derivation | Ableitung |
 | 871 | After your creatures gain stats other than {STAT_speed}, they gain {STAT_speed} equal to <3>% of the amount gained. | Nachdem deine Kreaturen andere Werte als {STAT_speed} erhalten, erhalten sie {STAT_speed} in Höhe von <3>% der erhaltenen Menge. |
 | 872 | Retention | Beibehaltung |
-| 873 | Your creatures' stats are no longer reset after they're killed. | Deine Kreaturen verlieren ihre Attribute nicht mehr, nachdem sie getötet wurden. |
+| 873 | Your creatures' stats are no longer reset after they're killed. | Die Attribute deiner Kreaturen werden nach ihrem Tod nicht mehr zurückgesetzt. |
 | 874 | Inertia | Trägheit |
 | 875 | Your creatures cannot lose stats. | Deine Kreaturen können keine Werte verlieren. |
 | 876 | Propulsion | Antrieb |

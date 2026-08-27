@@ -11,7 +11,7 @@
 | 1308 | Abandoned Altar | Verlassener Altar |
 | 1309 | Your creatures' Relics gain 100% more benefit from Reliquary Upgrades. | Deine Kreaturen-Relikte erhalten 100% mehr Nutzen von Reliquiar-Verbesserungen. |
 | 1310 | Idolatry | Götzendienst |
-| 1311 | At the start of battle, your creatures gain their Relic's corresponding {SPELL_ultimate} Gem. | Zu Beginn des Kampfes erhalten deine Kreaturen den entsprechenden {SPELL_ultimate}-Edelstein ihres Relikts. |
+| 1311 | At the start of battle, your creatures gain their Relic's corresponding {SPELL_ultimate} Gem. | Zu Beginn des Kampfes erhalten deine Kreaturen den entsprechenden {SPELL_ultimate}-Zauberstein ihres Relikts. |
 | 1312 | Derelict Blockade | Verlassene Blockade |
 | 1313 | Your creatures have a 1% chance (up to 35%) to avoid debuffs for every 3 ranks their Relics have. If your creatures' Relics are Rank 150 or more, they are resistant to debuffs. | Deine Kreaturen haben eine 1%ige Chance (bis zu 35%), Debuffs zu vermeiden, für jeweils 3 Ränge ihrer Relikte. Wenn die Relikte deiner Kreaturen Rang 150 oder höher sind, sind sie resistent gegen Debuffs. |
 | 1314 | Corrupted Warhammer | Verderbter Kriegshammer |

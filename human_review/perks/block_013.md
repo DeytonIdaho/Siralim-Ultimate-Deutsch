@@ -11,7 +11,7 @@
 | 1208 | Experimental Cocktail | Experimenteller Cocktail |
 | 1209 | At the start of battle, your creatures gain all {SPELL_alcohol}s that belong to their class. | Zu Beginn des Kampfes erhalten deine Kreaturen alle {SPELL_alcohol}s, die zu ihrer Klasse gehören. |
 | 1210 | Autograt | Autotrinkgeld |
-| 1211 | After start-of-battle effects are determined, your creatures' [temporary] Ethereal {SPELL_alcohol}s gain the 'Chance to Attack', 'Chance to Defend', and 'Chance to Provoke' properties. | Nach der Bestimmung der Kampfbeginn-Effekte erhalten die [temporary] Ätherischen {SPELL_alcohol}s deiner Kreaturen die Eigenschaften 'Chance auf Angriff |
+| 1211 | After start-of-battle effects are determined, your creatures' [temporary] Ethereal {SPELL_alcohol}s gain the 'Chance to Attack', 'Chance to Defend', and 'Chance to Provoke' properties. | Nachdem die Effekte zu Kampfbeginn bestimmt wurden, erhalten die [temporary] Ätherischen {SPELL_alcohol}s deiner Kreaturen die Eigenschaften 'Chance auf Angriff', 'Chance auf Verteidigung' und 'Chance auf Provokation'. |
 | 1212 | Straight Up | Geradeaus |
 | 1213 | Creatures' {SPELL_alcohol}s cannot be Sealed. | Kreaturen-{SPELL_alcohol}s können nicht Versiegelt werden. |
 | 1214 | Muddle | Verwirren |
@@ -47,7 +47,7 @@
 | 1244 | Sensory Deprivation | Sensorische Deprivation |
 | 1245 | Enemies with {CONDNAME_DEBUFF_BLIND} can only {ACTION_cast} single-target spells manually in non-boss battles, and have a 20% chance for their spells to fizzle in boss battles. | Gegner mit {CONDNAME_DEBUFF_BLIND} können in Nicht-Boss-Kämpfen nur manuell Einzelziel-Zauber {ACTION_cast}, und in Boss-Kämpfen besteht eine 20% Chance, dass ihre Zauber fehlschlagen. |
 | 1246 | Traumatism | Traumatismus |
-| 1247 | After your creatures are killed, one of your other creatures casts the top-most [icons,1980]Dark Crystal Spell Gem they have equipped. | Nachdem deine Kreaturen getötet wurden, wirkt eine deiner anderen Kreaturen das oberste [icons,1980]Dunkle Kristall-Zauberstein, das sie ausgerüstet hat. |
+| 1247 | After your creatures are killed, one of your other creatures casts the top-most [icons,1980]Dark Crystal Spell Gem they have equipped. | Nachdem eine deiner Kreaturen getötet wurde, wirkt eine deiner anderen Kreaturen den obersten ausgerüsteten [icons,1980]Dunkler-Kristall-Zauberstein. |
 | 1248 | Gestalt Intelligence | Gestalt-Intelligenz |
 | 1249 | At the start of battle, your creatures gain [icons,1980]Dark Crystal. In addition, your creatures' [icons,1980]Dark Crystal now targets all allies with matching Trick Slots on their Artifacts. | Zu Beginn des Kampfes erhalten deine Kreaturen [icons,1980]Dunkler Kristall. Zusätzlich zielt der [icons,1980]Dunkle Kristall deiner Kreaturen jetzt auf alle Verbündeten mit passenden Trick-Slots auf ihren Artefakten. |
 | 1250 | Psychometry | Psychometrie |

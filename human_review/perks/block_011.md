@@ -51,7 +51,7 @@
 | 1048 | Worldbreaker | Weltenzerstörer |
 | 1049 | Enemies take 100% more damage from {CONDNAME_DEBUFF_BLIGHT}. | Feinde erleiden 100% mehr Schaden durch {CONDNAME_DEBUFF_BLIGHT}. |
 | 1050 | Harrow | Harrow |
-| 1051 | Enemies gain 50% less benefit from stat-boosting effects. | Gegner erhalten 50% weniger Nutzen aus statussteigernden Effekten. |
+| 1051 | Enemies gain 50% less benefit from stat-boosting effects. | Gegner erhalten 50% weniger Nutzen aus attributssteigernden Effekten. |
 | 1052 | Endwalker | Endwalker |
 | 1053 | If an enemy dies while it is afflicted with {CONDNAME_DEBUFF_BLIGHT}, it cannot be resurrected. | Wenn ein Feind stirbt, während er von {CONDNAME_DEBUFF_BLIGHT} betroffen ist, kann er nicht wiederbelebt werden. |
 | 1054 | Somnus | Somnus |
@@ -67,7 +67,7 @@
 | 1064 | Heart That Thrives | Herz, das gedeiht |
 | 1065 | The first 3 times your creatures are resurrected, they gain 25%, 50%, and 100% Maximum {STAT_health}. | Die ersten 3 Male, wenn deine Kreaturen wiederbelebt werden, erhalten sie 25%, 50% und 100% maximales {STAT_health}. |
 | 1066 | Eternal Legacy | Ewiges Vermächtnis |
-| 1067 | The first 3 times your creatures are resurrected, they gain a random trait that belongs to their race. | Die ersten 3 Male, wenn deine Kreaturen wiederbelebt werden, erhalten sie eine zufällige Merkmal, die zu ihrer Rasse gehört. |
+| 1067 | The first 3 times your creatures are resurrected, they gain a random trait that belongs to their race. | Die ersten 3 Male, wenn deine Kreaturen wiederbelebt werden, erhalten sie ein zufälliges Merkmal ihrer Rasse. |
 | 1068 | Mortal Vessel | Sterbliches Gefäß |
 | 1069 | Your creatures deal 50% more damage with attacks and spells for each time they've been resurrected in the current battle. | Deine Kreaturen verursachen 50% mehr Schaden mit Angriffen und Zaubern für jedes Mal, das sie in der aktuellen Schlacht wiederbelebt wurden. |
 | 1070 | Dread Covenant | Schreckensvertrag |
@@ -79,7 +79,7 @@
 | 1076 | Unnatural Causes | Unnatürliche Ursachen |
 | 1077 | Your creatures that have been resurrected at least 1 time are resistant to debuffs. Your creatures that have been resurrected at least 3 times always have {CONDNAME_BUFF_IMMUNITY}.\n\n{CONDDESC_BUFF_IMMUNITY} | Deine Kreaturen, die mindestens 1 Mal wiederbelebt wurden, sind resistent gegen Debuffs. Deine Kreaturen, die mindestens 3 Mal wiederbelebt wurden, haben immer {CONDNAME_BUFF_IMMUNITY}.\n\n{CONDDESC_BUFF_IMMUNITY} |
 | 1078 | Past Life Regression | Rückführung in frühere Leben |
-| 1079 | Your creatures' stat changes persist through death. | Statusänderungen deiner Kreaturen bleiben auch nach dem Tod bestehen. |
+| 1079 | Your creatures' stat changes persist through death. | Attributsänderungen deiner Kreaturen bleiben auch nach dem Tod bestehen. |
 | 1080 | Visitors From Before | Besucher aus der Vergangenheit |
 | 1081 | Your creatures' buffs and minions persist through death. | Deine Kreaturen behalten ihre Verstärkungen und Diener auch nach dem Tod bei. |
 | 1082 | Graveborn Bargain | Grabgeborener Handel |

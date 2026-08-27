@@ -10,7 +10,7 @@
 | 407 | Your creatures' extra casts no longer consume additional {STAT_charges}. | Zusätzliche Beschwörungen deiner Kreaturen verbrauchen keine zusätzlichen {STAT_charges} mehr. |
 | 408 | Spell Power | Zauberkraft |
 | 409 | Your creatures' spells deal <1>% more damage. | Deine Kreaturen verursachen mit Zaubern <1>% mehr Schaden. |
-| 410 | Spell Mending | Zauberflickerei |
+| 410 | Spell Mending | Zauberheilung |
 | 411 | Your creatures' spells heal <1>% more {STAT_health}. | Deine Kreaturen-Zauber heilen <1>% mehr {STAT_health}. |
 | 412 | Spell Corruption | Zauberkorruption |
 | 413 | Your creatures' spells affect stats <1>% more. | Deine Kreaturen-Zauber beeinflussen Werte um <1>% mehr. |
@@ -73,7 +73,7 @@
 | 470 | Voracity | Gefräßigkeit |
 | 471 | Your creatures deal additional damage with attacks and spells equal to <2>% of their Current {STAT_health}. | Deine Kreaturen verursachen zusätzlichen Schaden mit Angriffen und Zaubern in Höhe von <2>% ihrer aktuellen {STAT_health}. |
 | 472 | Deathrattle | Todesröcheln |
-| 473 | Your creatures' stats are no longer reset after they're killed. | Deine Kreaturen verlieren ihre Attribute nicht mehr, nachdem sie getötet wurden. |
+| 473 | Your creatures' stats are no longer reset after they're killed. | Die Attribute deiner Kreaturen werden nach ihrem Tod nicht mehr zurückgesetzt. |
 | 474 | Bloodrage | Blutrausch |
 | 475 | Your creatures' damage with attacks is based on 50% of their Maximum {STAT_health} instead of their {STAT_attack}. | Deine Kreaturen verursachen Schaden mit Angriffen basierend auf 50% ihrer maximalen {STAT_health} anstatt ihres {STAT_attack}. |
 | 476 | Bloodthirst | Blutdurst |
