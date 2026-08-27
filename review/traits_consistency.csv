@@ -1,3 +1,1 @@
 line,check,english,german
-3426,POTENCY,"This creature is healed instead of damaged by {CONDNAME_DEBUFF_BLEED} and {CONDNAME_DEBUFF_BURNED}, but at 50% effectiveness.","Diese Kreatur wird durch {CONDNAME_DEBUFF_BLEED} und {CONDNAME_DEBUFF_BURNED} geheilt statt Schaden zu erleiden, jedoch nur mit 50% Wirksamkeit."
-3514,POTENCY,Increases the effectiveness of this creature's first Stat Slot by 400%.,Erhöht die Wirksamkeit des ersten Statusplatzes dieser Kreatur um 400%.
