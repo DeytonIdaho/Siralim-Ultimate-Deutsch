@@ -1,0 +1,39 @@
+name: Translation QA
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-review-queue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout translation branch
+        uses: actions/checkout@v4
+        with:
+          ref: translation-work
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate review queues
+        run: |
+          rm -rf review/perks review/traits
+          python tools/translation_pipeline.py perks.csv --out review/perks --chunk-size 100
+          python tools/translation_pipeline.py traits.csv --out review/traits --chunk-size 100
+
+      - name: Commit generated review files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review
+          if git diff --cached --quiet; then
+            echo "No review changes to commit."
+          else
+            git commit -m "Generate translation QA review queues"
+            git push origin HEAD:translation-work
+          fi
