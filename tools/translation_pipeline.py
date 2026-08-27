@@ -1,69 +1,64 @@
 #!/usr/bin/env python3
-"""Siralim Ultimate German translation QA and safe-fix helper."""
+"""Siralim Ultimate German translation QA and reviewed trait fix helper."""
 from __future__ import annotations
 import argparse,csv,re
 from collections import Counter
 from pathlib import Path
 TOKEN_RE=re.compile(r"(?:\{[^{}]+\}|\[[^\[\]]+\]|<[^<>]+>|%\w|\\n)")
-DEFAULT_TERMS={"Defense":"Verteidigung","Speed":"Geschwindigkeit","Intelligence":"Intelligenz","Creature":"Kreatur","Creatures":"Kreaturen","Trait":"Merkmal","Traits":"Merkmale","Minion":"Diener","Spell Gem":"Zauberstein","Spell Gems":"Zaubersteine"}
-SAFE_REPLACEMENTS=[
-(r"\bDieses Wesen\b","Diese Kreatur"),(r"\bdieses Wesen\b","diese Kreatur"),(r"\bDieses Wesens\b","Dieser Kreatur"),
-(r"\bdeinen Wesen\b","deinen Kreaturen"),(r"\bdeiner Wesen\b","deiner Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),(r"\banderes Wesen\b","andere Kreatur"),
-(r"(\{(?:CLASS|RACE)_[^}]+\})-Wesen",r"\1-Kreaturen"),
-(r"\bDiese Merkmal\b","Dieses Merkmal"),(r"\bEigenschaft ist nicht stapelbar\b","Merkmal ist nicht kumulativ"),
-(r"\bDiese Eigenschaft\b","Dieses Merkmal"),(r"\bdiese Eigenschaft\b","dieses Merkmal"),
-(r"\bangeborenen Eigenschaften\b","angeborenen Merkmale"),(r"\bangeborene Eigenschaften\b","angeborene Merkmale"),(r"\bangeborene Eigenschaft\b","angeborenes Merkmal"),
-(r"\bWesenszüge\b","Merkmale"),(r"\bWesenszug\b","Merkmal"),(r"\bStatuswerte\b","Attribute"),(r"\bStatuswert\b","Attribut"),
-(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZaubergems\b","Zaubersteine"),(r"\bZaubergem\b","Zauberstein"),(r"\bZauberperle\b","Zauberstein"),(r"\bZauber-Juwel\b","Zauberstein"),
-(r"\bHandlanger\b","Diener"),(r"\bLakaien\b","Diener"),(r"\bLakai\b","Diener"),(r"\bSchergen\b","Diener"),(r"\bSchergenmeister\b","Dienermeister"),
-(r"\bSchwächungseffekt\b","Debuff"),(r"\bStärkungseffekt\b","Buff"),(r"\baktuellen Schlacht\b","aktuellen Kampf"),(r"\beinen Attribut\b","ein Attribut")]
-EXACT_REPLACEMENTS={
-"Diese Kreatur hat 50% mehr Werte (außer {STAT_health}) für jeden Zug, den es während des Kampfes erhalten hat.":"Diese Kreatur hat 50% mehr Attribute (außer {STAT_health}) für jedes Merkmal, das sie während des Kampfes erhalten hat.",
-"Wenn diese Kreatur {ACTION_attacks}, greift stattdessen eine deiner anderen Kreaturen mit 50% mehr Schaden an. Dieses Merkmal funktioniert nicht, wenn eine deiner anderen Kreaturen sie ebenfalls besitzt.":"Wenn diese Kreatur {ACTION_attacks}, {ACTION_attacks} stattdessen eine deiner anderen Kreaturen mit 50% mehr Schaden. Dieses Merkmal funktioniert nicht, wenn eine deiner anderen Kreaturen es ebenfalls besitzt.",
-"Nach einem kritischen Treffer erhalten angrenzende Verbündete dieser Kreatur 30% {STAT_attack} und {STAT_speed}. Diese Kreatur hat immer {CONDNAME_BUFF_SAVAGE}.":"Nachdem diese Kreatur kritischen Schaden verursacht, erhalten ihre angrenzenden Verbündeten 30% {STAT_attack} und {STAT_speed}. Diese Kreatur hat immer {CONDNAME_BUFF_SAVAGE}.",
-"Nachdem diese Kreatur {ACTION_attacks} wirkt sie [icons,1976] Metamorphose auf das Ziel.":"Nachdem diese Kreatur {ACTION_attacks}, {ACTION_casts} sie [icons,1976] Metamorphose auf das Ziel.",
-"Eigenschaft deaktiviert":"Merkmal deaktiviert","Die Eigenschaft dieser Kreatur wurde deaktiviert.":"Das Merkmal dieser Kreatur wurde deaktiviert.",
-"Dieses Wesens Zaubersteine haben 100% mehr Wirksamkeit, sind jedoch nach dem {ACTION_cast} Versiegelt.":"Die Zaubersteine dieser Kreatur haben 100% mehr Zaubermacht, werden jedoch versiegelt, nachdem sie {ACTION_cast} wurden.",
-"Zu Beginn des Kampfes erhält diese Kreatur 5 zufällige Eigenschaften.":"Zu Beginn des Kampfes erhält diese Kreatur 5 zufällige Merkmale.",
-"Zu Beginn des Kampfes erhält diese Kreatur 10 zufällige Eigenschaften.":"Zu Beginn des Kampfes erhält diese Kreatur 10 zufällige Merkmale.",
-"Zu Beginn des Kampfes erhält diese Kreatur eine zufällige {RACE_Avatar}-Eigenschaft.":"Zu Beginn des Kampfes erhält diese Kreatur ein zufälliges {RACE_Avatar}-Merkmal.",
-"DIESE EIGENSCHAFT STAPELT SICH NICHT, WAS ZUR HÖLLE DAS AUCH BEDEUTEN MAG.":"DIESES MERKMAL IST NICHT KUMULATIV, WAS ZUR HÖLLE DAS AUCH BEDEUTEN MAG."
-}
+DEFAULT_TERMS={"Creature":"Kreatur","Creatures":"Kreaturen","Trait":"Merkmal","Traits":"Merkmale","Minion":"Diener","Spell Gem":"Zauberstein","Spell Gems":"Zaubersteine"}
+SAFE=[
+(r"\bDieses Wesen\b","Diese Kreatur"),(r"\bdieses Wesen\b","diese Kreatur"),(r"\bDieses Wesens\b","Dieser Kreatur"),(r"\bdas Wesen\b","die Kreatur"),(r"\bdem Wesen\b","der Kreatur"),(r"\bvom Wesen\b","von der Kreatur"),(r"\balle Wesen\b","alle Kreaturen"),(r"\bvon allen Wesen\b","von allen Kreaturen"),(r"\banderen Wesen\b","anderen Kreaturen"),(r"\bdeinen Wesen\b","deinen Kreaturen"),(r"\bdeiner Wesen\b","deiner Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),
+(r"\bDiese Merkmal\b","Dieses Merkmal"),(r"\bEigenschaft ist nicht stapelbar\b","Merkmal ist nicht kumulativ"),(r"\bDieser Effekt ist nicht stapelbar\b","Dieses Merkmal ist nicht kumulativ"),
+(r"\bangeborenen Eigenschaften\b","angeborenen Merkmale"),(r"\bangeborene Eigenschaften\b","angeborene Merkmale"),(r"\bangeborene Eigenschaft\b","angeborenes Merkmal"),(r"\bExtraeigenschaften\b","zusätzlichen Merkmale"),
+(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bHeilungszauber-Edelsteine\b","Heilungszaubersteine"),(r"\bSchwächungszauber-Edelsteine\b","Debuff-Zaubersteine"),
+(r"\bin der aktuellen Kampf\b","im aktuellen Kampf")]
+
 def norm(s):return(s or"").strip()
 def tokens(s):return Counter(TOKEN_RE.findall(s or""))
-def detect_columns(fields):
- low={f.lower():f for f in fields}
- def pick(ns):
+def cols(fs):
+ low={f.lower():f for f in fs}
+ def p(ns):
   for n in ns:
    if n in low:return low[n]
- src=pick(["english","en","source","original","text_en","description_en"]);de=pick(["german","de","deutsch","translation","text_de","description_de"])
- if not src or not de:raise SystemExit(f"Could not detect EN/DE columns. Columns: {fields}")
- return src,de
-def apply_safe_fixes(text):
- out=text or""
- if out in EXACT_REPLACEMENTS:out=EXACT_REPLACEMENTS[out]
- for pat,repl in SAFE_REPLACEMENTS:out=re.sub(pat,repl,out)
- # Trait-specific phrases reviewed as safe; do not touch generic Spell Gem properties.
- out=re.sub(r"\bKopie der Eigenschaft des Ziels\b","Kopie des Merkmals des Ziels",out)
- out=re.sub(r"\bKopie ihrer Eigenschaft\b","Kopie ihres Merkmals",out)
- out=re.sub(r"\bmit der Eigenschaft ([A-ZÄÖÜ][^,.]+)",r"mit dem Merkmal \1",out)
+ a=p(["english","en","source","original","text_en","description_en"]);b=p(["german","de","deutsch","translation","text_de","description_de"])
+ if not a or not b:raise SystemExit("EN/DE columns not found")
+ return a,b
+
+def fix(en,de):
+ out=de or""
+ for p,r in SAFE:out=re.sub(p,r,out)
+ # Apply Eigenschaft -> Merkmal only when the English row is actually about traits.
+ # Preserve German Eigenschaft for English 'property/properties'.
+ if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):
+  out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
+ # Explicit mixed rows: properties remain Eigenschaften, only the non-stack sentence is a trait.
+ if re.search(r"\bpropert(?:y|ies)\b",en,re.I) and re.search(r"This trait does not stack",en,re.I):
+  out=re.sub(r"Dieser Effekt ist nicht stapelbar\.","Dieses Merkmal ist nicht kumulativ.",out)
+ # Known token repair.
+ if "[icons,1976] Metamorphose" in out and "{ACTION_casts}" not in out:
+  out=out.replace("wirkt sie [icons,1976] Metamorphose","{ACTION_casts} sie [icons,1976] Metamorphose")
+ # ALL-CAPS joke line: keep tone, normalize only terminology/non-stack wording.
+ out=out.replace("DIESE EIGENSCHAFT STAPELT SICH NICHT","DIESES MERKMAL IST NICHT KUMULATIV")
  return out
+
 def main():
- ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");args=ap.parse_args();out=Path(args.out);out.mkdir(parents=True,exist_ok=True)
- with open(args.csv_file,encoding="utf-8-sig",newline="") as f:rd=csv.DictReader(f);fields=rd.fieldnames or[];src_col,de_col=detect_columns(fields);rows=list(rd)
- if args.apply_safe_fixes:
-  for r in rows:r[de_col]=apply_safe_fixes(r.get(de_col,""))
-  with Path(args.fixed_file or args.csv_file).open("w",encoding="utf-8",newline="") as f:w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(rows)
- findings=[]
- for i,r in enumerate(rows,start=2):
-  en,de=norm(r.get(src_col)),norm(r.get(de_col));issues=[]
+ ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
+ with open(a.csv_file,encoding="utf-8-sig",newline="")as f:rd=csv.DictReader(f);fs=rd.fieldnames or[];ec,dc=cols(fs);rows=list(rd)
+ if a.apply_safe_fixes:
+  for r in rows:r[dc]=fix(r.get(ec,""),r.get(dc,""))
+  with Path(a.fixed_file or a.csv_file).open("w",encoding="utf-8",newline="")as f:w=csv.DictWriter(f,fieldnames=fs);w.writeheader();w.writerows(rows)
+ found=[]
+ for i,r in enumerate(rows,2):
+  en,de=norm(r.get(ec)),norm(r.get(dc));issues=[]
   if en and not de:issues.append("MISSING_TRANSLATION")
   if tokens(en)!=tokens(de):issues.append("TOKEN_MISMATCH")
   for term,want in DEFAULT_TERMS.items():
+   # Properties are deliberately allowed to use Eigenschaft(en).
+   if term in ("Trait","Traits") and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
    if re.search(r"\b"+re.escape(term)+r"\b",en,re.I) and want.lower() not in de.lower():issues.append(f"TERM:{term}->{want}")
-  if issues:findings.append((i,en,de,"; ".join(issues)))
- headers=["line","english","german","issues","reviewed","replacement"]
- for n,start in enumerate(range(0,len(findings),args.chunk_size),1):
-  with(out/f"review_{n:03d}.csv").open("w",encoding="utf-8",newline="")as f:w=csv.writer(f);w.writerow(headers);[w.writerow([line,en,de,issues,"",""])for line,en,de,issues in findings[start:start+args.chunk_size]]
- (out/"SUMMARY.md").write_text(f"# Translation QA summary\n\n- Source: `{args.csv_file}`\n- Rows: {len(rows)}\n- Flagged: {len(findings)}\n- Chunk size: {args.chunk_size}\n- Review files: {(len(findings)+args.chunk_size-1)//args.chunk_size}\n",encoding="utf-8");print(f"Checked {len(rows)} rows; flagged {len(findings)}")
+  if issues:found.append((i,en,de,"; ".join(issues)))
+ h=["line","english","german","issues","reviewed","replacement"]
+ for n,s in enumerate(range(0,len(found),a.chunk_size),1):
+  with(o/f"review_{n:03d}.csv").open("w",encoding="utf-8",newline="")as f:w=csv.writer(f);w.writerow(h);[w.writerow([ln,en,de,iss,"",""])for ln,en,de,iss in found[s:s+a.chunk_size]]
+ (o/"SUMMARY.md").write_text(f"# Translation QA summary\n\n- Source: `{a.csv_file}`\n- Rows: {len(rows)}\n- Flagged: {len(found)}\n- Chunk size: {a.chunk_size}\n- Review files: {(len(found)+a.chunk_size-1)//a.chunk_size}\n",encoding="utf-8");print(f"Checked {len(rows)} rows; flagged {len(found)}")
 if __name__=="__main__":main()
