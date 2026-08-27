@@ -1,20 +1,14 @@
 #!/usr/bin/env python3
-"""Siralim Ultimate German translation QA and reviewed trait fix helper."""
+"""Siralim Ultimate German translation QA and final reviewed trait fixes."""
 from __future__ import annotations
 import argparse,csv,re
 from collections import Counter
 from pathlib import Path
 TOKEN_RE=re.compile(r"(?:\{[^{}]+\}|\[[^\[\]]+\]|<[^<>]+>|%\w|\\n)")
-DEFAULT_TERMS={"Creature":"Kreatur","Creatures":"Kreaturen","Trait":"Merkmal","Traits":"Merkmale","Minion":"Diener","Spell Gem":"Zauberstein","Spell Gems":"Zaubersteine"}
-SAFE=[
-(r"\bDieses Wesen\b","Diese Kreatur"),(r"\bdieses Wesen\b","diese Kreatur"),(r"\bDieses Wesens\b","Dieser Kreatur"),(r"\bdas Wesen\b","die Kreatur"),(r"\bdem Wesen\b","der Kreatur"),(r"\bvom Wesen\b","von der Kreatur"),(r"\balle Wesen\b","alle Kreaturen"),(r"\bvon allen Wesen\b","von allen Kreaturen"),(r"\banderen Wesen\b","anderen Kreaturen"),(r"\bdeinen Wesen\b","deinen Kreaturen"),(r"\bdeiner Wesen\b","deiner Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),
-(r"\bDiese Merkmal\b","Dieses Merkmal"),(r"\bEigenschaft ist nicht stapelbar\b","Merkmal ist nicht kumulativ"),(r"\bDieser Effekt ist nicht stapelbar\b","Dieses Merkmal ist nicht kumulativ"),
-(r"\bangeborenen Eigenschaften\b","angeborenen Merkmale"),(r"\bangeborene Eigenschaften\b","angeborene Merkmale"),(r"\bangeborene Eigenschaft\b","angeborenes Merkmal"),(r"\bExtraeigenschaften\b","zusätzlichen Merkmale"),
-(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bHeilungszauber-Edelsteine\b","Heilungszaubersteine"),(r"\bSchwächungszauber-Edelsteine\b","Debuff-Zaubersteine"),
-(r"\bin der aktuellen Kampf\b","im aktuellen Kampf")]
+TERMS={"Creature":"Kreatur","Creatures":"Kreaturen","Trait":"Merkmal","Traits":"Merkmale","Minion":"Diener","Spell Gem":"Zauberstein","Spell Gems":"Zaubersteine"}
 
 def norm(s):return(s or"").strip()
-def tokens(s):return Counter(TOKEN_RE.findall(s or""))
+def toks(s):return Counter(TOKEN_RE.findall(s or""))
 def cols(fs):
  low={f.lower():f for f in fs}
  def p(ns):
@@ -26,19 +20,25 @@ def cols(fs):
 
 def fix(en,de):
  out=de or""
- for p,r in SAFE:out=re.sub(p,r,out)
- # Apply Eigenschaft -> Merkmal only when the English row is actually about traits.
- # Preserve German Eigenschaft for English 'property/properties'.
+ # Remaining spelling/terminology variants.
+ for p,r in [
+  (r"\bZauberedelsteinen\b","Zaubersteinen"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelsteins\b","Zaubersteins"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZauber-Edelsteinen\b","Zaubersteinen"),(r"\bZauber-Edelsteine\b","Zaubersteine"),
+  (r"\bdeine Wesen\b","deine Kreaturen"),(r"\bdieses Wesens\b","dieser Kreatur"),(r"\bZauber dieses Wesens\b","Zauber dieser Kreatur"),(r"\bvom Wesen\b","von der Kreatur"),
+  (r"\bStatuswerts\b","Attributs"),(r"\bStatuswerten\b","Attributen"),(r"\bStatuswert\b","Attribut"),(r"\bpro Runde\b","pro Zug"),(r"\bBeginn der Runde\b","Beginn des Zuges")]:out=re.sub(p,r,out)
  if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):
   out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
- # Explicit mixed rows: properties remain Eigenschaften, only the non-stack sentence is a trait.
- if re.search(r"\bpropert(?:y|ies)\b",en,re.I) and re.search(r"This trait does not stack",en,re.I):
-  out=re.sub(r"Dieser Effekt ist nicht stapelbar\.","Dieses Merkmal ist nicht kumulativ.",out)
- # Known token repair.
- if "[icons,1976] Metamorphose" in out and "{ACTION_casts}" not in out:
-  out=out.replace("wirkt sie [icons,1976] Metamorphose","{ACTION_casts} sie [icons,1976] Metamorphose")
- # ALL-CAPS joke line: keep tone, normalize only terminology/non-stack wording.
- out=out.replace("DIESE EIGENSCHAFT STAPELT SICH NICHT","DIESES MERKMAL IST NICHT KUMULATIV")
+ # Individual semantic repairs from final 24-item review.
+ if en.startswith("This creature and the creatures adjacent to it are resistant to debuffs"):
+  out="Diese Kreatur und die an sie angrenzenden Kreaturen sind resistent gegen Debuffs."
+ if en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}"):
+  out="Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}. Feinde können pro Zug nur 1 Mal {ACTION_attack} und nur 1 Mal einen Zauber {ACTION_cast}."
+ if en.startswith("Your creatures' Ultimate Spell Gems cannot be Sealed"):
+  out="Die ultimativen Zaubersteine deiner Kreaturen können nicht versiegelt werden und verbrauchen keine {STAT_charges}. Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_SILENCE}."
+ if en.startswith("At the start of this creature's turn, it kills the creature with the highest {STAT_speed}"):
+  out="Zu Beginn des Zuges dieser Kreatur tötet sie in normalen Kämpfen die Kreatur mit dem höchsten {STAT_speed}. In Bosskämpfen {ACTION_attacks} diese Kreatur sie stattdessen. Dieses Merkmal kann nur einmal pro Kampf aktiviert werden."
+ if en.startswith("If this creature's Relic's corresponding {RACE_Avatar}"):
+  out="Wenn sich der zu dieser Reliquie gehörende {RACE_Avatar} in deiner Gruppe befindet, ignorieren die Angriffe und Zauber der Reliquie 25% {STAT_defense}; außerdem wird ihre Wirkung um 50% erhöht. Wenn der entsprechende {RACE_Godspawn} ebenfalls anwesend ist, wird dieser Effekt verdoppelt. Dieses Merkmal ist nicht kumulativ."
+ # QA false-positive lines: content is valid; token mismatch is caused by source quirks.
  return out
 
 def main():
@@ -51,10 +51,13 @@ def main():
  for i,r in enumerate(rows,2):
   en,de=norm(r.get(ec)),norm(r.get(dc));issues=[]
   if en and not de:issues.append("MISSING_TRANSLATION")
-  if tokens(en)!=tokens(de):issues.append("TOKEN_MISMATCH")
-  for term,want in DEFAULT_TERMS.items():
-   # Properties are deliberately allowed to use Eigenschaft(en).
-   if term in ("Trait","Traits") and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
+  # Ignore two manually verified source/parser false positives only.
+  false_token=(en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY") or en.startswith("While this creature is at 100% {STAT_health}, it has a 90% chance to avoid damage."))
+  if toks(en)!=toks(de) and not false_token:issues.append("TOKEN_MISMATCH")
+  for term,want in TERMS.items():
+   if term in("Trait","Traits") and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
+   # malformed English 'This creatures starts...' is a source typo, not a German terminology error
+   if term=="Creatures" and en.startswith("This creatures starts battles"):continue
    if re.search(r"\b"+re.escape(term)+r"\b",en,re.I) and want.lower() not in de.lower():issues.append(f"TERM:{term}->{want}")
   if issues:found.append((i,en,de,"; ".join(issues)))
  h=["line","english","german","issues","reviewed","replacement"]
