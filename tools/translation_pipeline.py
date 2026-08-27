@@ -20,7 +20,36 @@ def fix(en,de):
  for p,r in [(r"Zauberjuwel","Zauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein")]:out=re.sub(p,r,out)
  if "Trait Material" in en:out=out.replace("Eigenschaftsmaterialien","Merkmalsmaterialien").replace("Eigenschaftsmaterial","Merkmalsmaterial")
  if en.startswith("The most ambitious project was directed by Zonte's master"):out=out.replace("Der ehrgeizigste Projekt","Das ehrgeizigste Projekt")
- # Fully reconstruct truncated Lore entries from their complete English source.
+ # Reviewed perk-language fixes. Keep debatable perk names for the later naming pass.
+ perk_exact={
+ "After your creatures dodge, they gain <1>% {STAT_defense} for each time they've {ACTION_attacked} with [nature_monk_kaze] Celerity in the current battle.":"Nachdem deine Kreaturen ausweichen, erhalten sie <1>% {STAT_defense} für jedes Mal, das sie im aktuellen Kampf mit [nature_monk_kaze] Schnelligkeit {ACTION_attacked} haben.",
+ "Your creatures' attacks cannot be dodged.":"Den Angriffen deiner Kreaturen kann nicht ausgewichen werden.",
+ "Your creatures' stat changes persist through death.":"Attributsänderungen deiner Kreaturen bleiben auch nach dem Tod bestehen.",
+ "Your creatures' stats are no longer reset after they're killed.":"Die Attribute deiner Kreaturen werden nach ihrem Tod nicht mehr zurückgesetzt.",
+ "At the start of battle, your Animatus gains a copy of your fifth creature's innate trait.":"Zu Beginn des Kampfes erhält dein Animatus eine Kopie des angeborenen Merkmals deiner fünften Kreatur.",
+ "At the start of battle, your {RACE_Godspawn} creatures gain their respective {RACE_Avatar}'s trait.":"Zu Beginn des Kampfes erhalten deine {RACE_Godspawn}-Kreaturen das Merkmal ihres jeweiligen {RACE_Avatar}s.",
+ "The first 3 times your creatures are resurrected, they gain a random trait that belongs to their race.":"Die ersten 3 Male, wenn deine Kreaturen wiederbelebt werden, erhalten sie ein zufälliges Merkmal ihrer Rasse.",
+ "You have a 100% increased chance to find Skins. This perk is always active, even if your specialization is not {SPEC_DEPRIVED}.":"Du hast eine um 100% erhöhte Chance, Skins zu finden. Dieser Vorteil ist immer aktiv, auch wenn deine Spezialisierung nicht {SPEC_DEPRIVED} ist.",
+ "Your creatures' [slot_trick] Trick Slots that apply buffs and debuffs affect 1 additional creature.":"Die [slot_trick]-Trick-Slots deiner Kreaturen, die Buffs und Debuffs anwenden, betreffen 1 zusätzliche Kreatur.",
+ "After your creatures manually {ACTION_cast} an {SPELL_equipment}, they {ACTION_cast} a Living Lance spell. The type of Living Lance spell is based on the caster's class.":"Nachdem deine Kreaturen manuell ein {SPELL_equipment} {ACTION_cast}, {ACTION_cast} sie einen Zauber der Lebenden Lanze. Die Art des Zaubers der Lebenden Lanze richtet sich nach der Klasse des Zauberwirkers.",
+ "After start-of-battle effects are determined, your creatures' [temporary] Ethereal {SPELL_alcohol}s gain the 'Chance to Attack', 'Chance to Defend', and 'Chance to Provoke' properties.":"Nachdem die Effekte zu Kampfbeginn bestimmt wurden, erhalten die [temporary] Ätherischen {SPELL_alcohol}s deiner Kreaturen die Eigenschaften 'Chance auf Angriff', 'Chance auf Verteidigung' und 'Chance auf Provokation'.",
+ "After your creatures are killed, one of your other creatures casts the top-most [icons,1980]Dark Crystal Spell Gem they have equipped.":"Nachdem eine deiner Kreaturen getötet wurde, wirkt eine deiner anderen Kreaturen den obersten ausgerüsteten [icons,1980]Dunkler-Kristall-Zauberstein.",
+ }
+ if en in perk_exact:out=perk_exact[en]
+ # Safe systematic language cleanup in mechanical perk text.
+ if Path(getattr(fix,'current_file','')).stem=='perks':
+  out=out.replace("Eure Kreaturen","Deine Kreaturen").replace("eure Kreaturen","deine Kreaturen")
+  out=out.replace("Kräutling","Herbling")
+  out=out.replace("Statusänderungen","Attributsänderungen")
+  out=out.replace("statussteigernden","attributssteigernden")
+  out=out.replace("Kreaturen'","Kreaturen")
+  out=out.replace("Trickkarten","Trick-Slots")
+  # Ultimate gems are still Spell Gems in game terminology.
+  if "{SPELL_ultimate}" in en:out=out.replace("Edelsteine","Zaubersteine").replace("Edelstein(e)","Zauberstein(e)").replace("Edelstein","Zauberstein")
+  # English Gem references in perk mechanics are spell gems, not generic jewels.
+  if re.search(r'\b(?:Spell )?Gems?\b',en):out=out.replace("Edelsteine","Zaubersteine").replace("Edelstein(e)","Zauberstein(e)").replace("Edelstein","Zauberstein")
+  out=out.replace("Zauberflickerei","Zauberheilung")
+ # Lore repairs retained.
  if en.startswith("At the dawn of civilization, the Amaranths fell from the sky."):
   out='Zu Beginn der Zivilisation fielen die Amaranthe vom Himmel. Yseros eilte zum Ende der Ewigkeit und traf dort Vertraag. "Warst du das?", fragte sie. "Nein", antwortete der Gott der Zeit. Ein Lächeln erschien auf seinem Gesicht. "Es war niemand. Sie waren bereits hier."\\n\\nWenn ein Zauber den Enklaven-Amaranth trifft, prallt ein Teil der Magie von seinem Körper ab und bewegt sich auf den Zaubernden zu. Nach einer Naturkatastrophe findet man häufig Gruppen dieser Wesen, die schweigend die Schäden betrachten.'
  if en.startswith("The Goddess of Earth has multiple 'granddaughters' shaped from the stone and dirt and given life"):
@@ -40,7 +69,7 @@ def exception(path,en,term):
  return False
 def false_token(en):return en.startswith("A random enemy recovers a large amount of {STAT_health}")
 def main():
- ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
+ ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True);fix.current_file=a.csv_file
  with open(a.csv_file,encoding="utf-8-sig",newline="")as f:rd=csv.DictReader(f);fs=rd.fieldnames or[];ec,dc=cols(fs);rows=list(rd)
  if a.apply_safe_fixes:
   for r in rows:r[dc]=fix(r.get(ec,""),r.get(dc,""))
