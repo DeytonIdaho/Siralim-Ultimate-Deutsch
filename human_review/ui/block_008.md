@@ -2,7 +2,7 @@
 
 | Row | English | German |
 |---:|---|---|
-| 702 | You cannot challenge the gods because two or more of your creatures have the same Relic attuned to them at the same time. | Du kannst die Götter nicht herausfordern, weil zwei oder mehr deiner Kreaturen gleichzeitig mit derselben Reliquie verbunden sind. |
+| 702 | You cannot challenge the gods because two or more of your creatures have the same Relic attuned to them at the same time. | Du kannst die Götter nicht herausfordern, weil zwei oder mehr deiner Kreaturen gleichzeitig mit derselben Relikt verbunden sind. |
 | 703 | You cannot challenge the gods because you have more Avatar creatures in your party than you're allowed. | Du kannst die Götter nicht herausfordern, weil du mehr Avatar-Kreaturen in deiner Gruppe hast, als erlaubt sind. |
 | 704 | Choose an Artifact to forge. Cost: 1000 {RES_BRIMSTONE} | Wähle ein Artefakt zum Schmieden. Kosten: 1000 {RES_BRIMSTONE} |
 | 705 | Boots increase a creature's {STAT_speed}. | Stiefel erhöhen die {STAT_speed} einer Kreatur. |

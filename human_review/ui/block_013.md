@@ -27,9 +27,9 @@
 | 1224 | None of your creatures at the Menagerie have a Spell Gem equipped. | Keines deiner Wesen in der Menagerie hat einen Zauberstein ausgerüstet. |
 | 1225 | Spirit of Elize:\nGreetings, {PLAYERNAME}. You can use this Reliquary to unlock and upgrade Relics of the Gods. These powerful items grant your creatures the power of the gods themselves.\n\nIn order to manipulate Relics, you must collect [menu_piety] Piety by completing Prophecies. | Spirit of Elize:\nSei gegrüßt, {PLAYERNAME}. Du kannst dieses Reliquiar nutzen, um Relikte der Götter freizuschalten und aufzuwerten. Diese mächtigen Gegenstände verleihen deinen Kreaturen die Macht der Götter selbst.\n\nUm Relikte zu manipulieren, musst du [menu_piety] Frömmigkeit sammeln, indem du Prophezeiungen erfüllst. |
 | 1226 | Prophecies: Turn in your Rune of Prophecies to receive rewards. | Prophezeiungen: Gib deine Rune der Prophezeiungen ab, um Belohnungen zu erhalten. |
-| 1227 | Awaken/Empower: Unlock a new Relic or upgrade one you've already unlocked before. | Erwecken/Verstärken: Schalte eine neue Reliquie frei oder verbessere eine, die du bereits freigeschaltet hast. |
-| 1228 | Attune: Allow a creature to equip a Relic so it can gain the benefits from it. | Abstimmen: Erlaubt einer Kreatur, eine Reliquie auszurüsten, um deren Vorteile zu erhalten. |
-| 1229 | Unattune: Remove a Relic from a creature. | Entstimmen: Entferne eine Reliquie von einer Kreatur. |
+| 1227 | Awaken/Empower: Unlock a new Relic or upgrade one you've already unlocked before. | Erwecken/Verstärken: Schalte eine neue Relikt frei oder verbessere eine, die du bereits freigeschaltet hast. |
+| 1228 | Attune: Allow a creature to equip a Relic so it can gain the benefits from it. | Abstimmen: Erlaubt einer Kreatur, eine Relikt auszurüsten, um deren Vorteile zu erhalten. |
+| 1229 | Unattune: Remove a Relic from a creature. | Entstimmen: Entferne eine Relikt von einer Kreatur. |
 | 1230 | Enhance: Increase the strength of your Reliquary to make all your Relics more powerful. | Verstärken: Erhöhe die Stärke deines Reliquiars, um all deine Relikte mächtiger zu machen. |
 | 1231 | Step away from the Reliquary. | Tritt zurück vom Reliquiar. |
 | 1232 | The Refinery allows you to salvage your unwanted Artifacts, Spell Gems, and Nether Stones into various currencies.\n\nYou can also convert your resources into different ones. | Die Raffinerie ermöglicht es dir, unerwünschte Artefakte, Zaubersteine und Nethersteine in verschiedene Währungen umzuwandeln.\n\nDu kannst auch deine Ressourcen in andere umwandeln. |

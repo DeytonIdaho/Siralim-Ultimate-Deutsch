@@ -53,13 +53,13 @@
 | 2150 | All creatures {ACTION_attack} 1 additional time. | Alle Kreaturen {ACTION_attack} 1 zusätzliches Mal. |
 | 2151 | All creatures {ACTION_cast} spells 1 additional time. | Alle Kreaturen {ACTION_cast} Zauber 1 zusätzliches Mal. |
 | 2152 | All creatures in the draft belong to the same race as the first one you choose. | Alle Kreaturen im Draft gehören derselben Rasse an wie die erste, die du wählst. |
-| 2153 | Creatures take damage equal to 30% of their Maximum {STAT_health} at the start of their turns. | Kreaturen erleiden zu Beginn ihres Zuges Schaden in Höhe von 30% ihrer maximalen {STAT_health}. |
+| 2153 | Creatures take damage equal to 30% of their Maximum {STAT_health} at the start of their turns. | Kreaturen erleiden zu Beginn ihres Zuges schaden in Höhe von 30% ihrer maximalen {STAT_health}. |
 | 2154 | At the start of battle, all creatures are Fused with a random creature. | Zu Beginn des Kampfes werden alle Kreaturen mit einer zufälligen Kreatur Fusioniert. |
 | 2155 | False God afflicts 7 debuffs at start of battle | Falscher Gott verursacht 7 Debuffs zu Beginn des Kampfes |
 | 2156 | False God always deals critical damage | Falscher Gott verursacht immer kritischen Schaden |
-| 2157 | False God has 35% chance to avoid damage | Falscher Gott hat 35% Chance, Schaden zu vermeiden |
-| 2158 | False God can't take more damage than 5% of Health | Falscher Gott kann nicht mehr als 5% der Gesundheit Schaden erleiden |
-| 2159 | False God deals damage to your creatures equal to 75% Health over time | Falscher Gott fügt deinen Kreaturen Schaden in Höhe von 75% Gesundheit über Zeit zu |
+| 2157 | False God has 35% chance to avoid damage | Falscher Gott hat 35% Chance, schaden zu vermeiden |
+| 2158 | False God can't take more damage than 5% of Health | Falscher Gott kann nicht mehr als 5% der Gesundheit schaden erleiden |
+| 2159 | False God deals damage to your creatures equal to 75% Health over time | Falscher Gott fügt deinen Kreaturen schaden in Höhe von 75% Gesundheit über Zeit zu |
 | 2160 | False God deals 150% more damage | Falscher Gott verursacht 150% mehr Schaden |
 | 2161 | False God is immune to attack damage | Falscher Gott ist immun gegen Angriffsschaden |
 | 2162 | False God is immune to spell damage | Falscher Gott ist immun gegen Zauberschaden |
@@ -88,17 +88,17 @@
 | 2185 | Creature has additional {STAT_intelligence}. | Kreatur hat zusätzliche {STAT_intelligence}. |
 | 2186 | Creature has additional {STAT_defense}. | Kreatur hat zusätzliche {STAT_defense}. |
 | 2187 | Creature has additional {STAT_speed}. | Kreatur hat zusätzliche {STAT_speed}. |
-| 2188 | Creature has additional Spell Gem slots. | Kreatur hat zusätzliche Zauberstein-Plätze. |
-| 2189 | Creature takes less damage from all sources. | Kreatur erleidet weniger Schaden aus allen Quellen. |
-| 2190 | Creature deals more damage with attacks. | Kreatur verursacht mehr Schaden mit Angriffen. |
+| 2188 | Creature has additional Spell Gem slots. | Kreatur hat zusätzliche Zaubersteinplätze. |
+| 2189 | Creature takes less damage from all sources. | Kreatur erleidet weniger schaden aus allen Quellen. |
+| 2190 | Creature deals more damage with attacks. | Kreatur verursacht mehr schaden mit Angriffen. |
 | 2191 | Creature's spells are more potent. | Kreaturen-Zauber sind mächtiger. |
 | 2192 | Creature has an increased chance to dodge. | Die Kreatur hat eine erhöhte Chance auszuweichen. |
-| 2193 | Creature has an increased chance to deal critical damage. | Kreatur hat eine erhöhte Chance, kritischen Schaden zu verursachen. |
+| 2193 | Creature has an increased chance to deal critical damage. | Kreatur hat eine erhöhte Chance, kritischen schaden zu verursachen. |
 | 2194 | Creature gains an additional trait. | Kreatur erhält ein zusätzliches Merkmal. |
-| 2195 | Creature deals more damage to, and takes less damage from {CLASS_Chaos} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Chaos}-Kreaturen und erleidet weniger Schaden von ihnen. |
-| 2196 | Creature deals more damage to, and takes less damage from {CLASS_Death} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Death} Kreaturen und erleidet weniger Schaden von ihnen. |
-| 2197 | Creature deals more damage to, and takes less damage from {CLASS_Life} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Life} Kreaturen und erleidet weniger Schaden von ihnen. |
-| 2198 | Creature deals more damage to, and takes less damage from {CLASS_Nature} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Nature}-Kreaturen und erleidet weniger Schaden von ihnen. |
-| 2199 | Creature deals more damage to, and takes less damage from {CLASS_Sorcery} creatures. | Kreatur verursacht mehr Schaden an {CLASS_Sorcery}-Kreaturen und erleidet weniger Schaden von ihnen. |
-| 2200 | Creature has a chance to gain {CONDNAME_BUFF_SAVAGE} when it deals damage with attacks or spells. | Kreatur hat eine Chance, {CONDNAME_BUFF_SAVAGE} zu erhalten, wenn sie mit Angriffen oder Zaubern Schaden verursacht. |
-| 2201 | Creature has a chance to gain {CONDNAME_BUFF_BERSERK} when it deals damage with attacks or spells. | Kreatur hat eine Chance, {CONDNAME_BUFF_BERSERK} zu erhalten, wenn sie mit Angriffen oder Zaubern Schaden verursacht. |
+| 2195 | Creature deals more damage to, and takes less damage from {CLASS_Chaos} creatures. | Kreatur verursacht mehr schaden an {CLASS_Chaos}-Kreaturen und erleidet weniger schaden von ihnen. |
+| 2196 | Creature deals more damage to, and takes less damage from {CLASS_Death} creatures. | Kreatur verursacht mehr schaden an {CLASS_Death} Kreaturen und erleidet weniger schaden von ihnen. |
+| 2197 | Creature deals more damage to, and takes less damage from {CLASS_Life} creatures. | Kreatur verursacht mehr schaden an {CLASS_Life} Kreaturen und erleidet weniger schaden von ihnen. |
+| 2198 | Creature deals more damage to, and takes less damage from {CLASS_Nature} creatures. | Kreatur verursacht mehr schaden an {CLASS_Nature}-Kreaturen und erleidet weniger schaden von ihnen. |
+| 2199 | Creature deals more damage to, and takes less damage from {CLASS_Sorcery} creatures. | Kreatur verursacht mehr schaden an {CLASS_Sorcery}-Kreaturen und erleidet weniger schaden von ihnen. |
+| 2200 | Creature has a chance to gain {CONDNAME_BUFF_SAVAGE} when it deals damage with attacks or spells. | Kreatur hat eine Chance, {CONDNAME_BUFF_SAVAGE} zu erhalten, wenn sie mit Angriffen oder Zaubern schaden verursacht. |
+| 2201 | Creature has a chance to gain {CONDNAME_BUFF_BERSERK} when it deals damage with attacks or spells. | Kreatur hat eine Chance, {CONDNAME_BUFF_BERSERK} zu erhalten, wenn sie mit Angriffen oder Zaubern schaden verursacht. |

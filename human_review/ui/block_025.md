@@ -3,21 +3,21 @@
 | Row | English | German |
 |---:|---|---|
 | 2402 | [bns_treasure] +50% Treasure From Buried Treasure | [bns_treasure] +50% Schatz aus vergrabenem Schatz |
-| 2403 | [bg_trap] +50% Favor From Traps | [bg_trap] +50% Gunst durch Fallen |
+| 2403 | [bg_trap] +50% Favor From Traps | [bg_trap] +50% Gunst durch fallen |
 | 2404 | [su_statueangel] +1 Buffs From Angel Statues | [su_statueangel] +1 Buffs von Engelstatuen |
 | 2405 | [cj_treeo] +1 Buffs From Orange Fruit Trees | [cj_treeo] +1 Buffs von Orangenfruchtbäumen |
 | 2406 | [an_shrine] +1 Debuffs From Spider Shrines | [an_shrine] +1 Debuffs von Spinnenschreinen |
 | 2407 | [wdsd_shipwreck] +50% Resources From Shipwrecks | [wdsd_shipwreck] +50% Ressourcen aus Schiffswracks |
-| 2408 | [kh_arms] Coats of Arms Grant a Random Stat Boost | [kh_arms] Wappen Gewähren einen zufälligen Statusboost |
+| 2408 | [kh_arms] Coats of Arms Grant a Random Stat Boost | [kh_arms] Wappen gewähren einen zufälligen Attributsbonus |
 | 2409 | [ee_spire] Spires Afflict Enemies With a Debuff | [ee_spire] Türme belegen Feinde mit einer Schwächung |
 | 2410 | [dmr_clock] +1 Clocks Spawn | [dmr_clock] +1 Uhren erscheinen |
 | 2411 | [lobab_book] Bookshelves are Pre-Revealed at Start of Realm | [lobab_book] Bücherregale werden zu Beginn des Reiches bereits aufgedeckt |
 | 2412 | [ot_statue] Pristine Statues Drop Resources | [ot_statue] Makellose Statuen lassen Ressourcen fallen |
-| 2413 | [ag_portal] +50% Favor From Portal Bosses | [ag_portal] +50% Gunst von Portalsbossen |
+| 2413 | [ag_portal] +50% Favor From Portal Bosses | [ag_portal] +50% Gunst von Portalbossen |
 | 2414 | [gh_gamewheel] +50% Favor From Portal Bosses | [gh_gamewheel] +50% Gunst von Portalbosse |
 | 2415 | [fl_robohead] +50% Favor From Robot Assembly | [fl_robohead] +50% Gunst von Robotermontage |
 | 2416 | [fae_fae] +50% Favor From Fae | [fae_fae] +50% Gunst von Fae |
-| 2417 | [amg_redrune] Red Runestones Grant Knowledge | [amg_redrune] Rote Runensteine Gewähren Wissen |
+| 2417 | [amg_redrune] Red Runestones Grant Knowledge | [amg_redrune] Rote Runensteine gewähren Wissen |
 | 2418 | [fdp_wormpit] +50% Favor From Pit Worm Pits | [fdp_wormpit] +50% Gunst aus Grubenwurm-Gruben |
 | 2419 | [moreemblems] +1 Emblems Spawn | [moreemblems] +1 Embleme erscheinen |
 | 2420 | [chancedumpling] +50% Dumpling Spawn Chance | [chancedumpling] +50% Knödel-Erscheinungschance |
@@ -29,10 +29,10 @@
 | 2426 | [gpn_nemesisshrine] +1 Nemesis Spawns From Nemesis Shrines | [gpn_nemesisshrine] +1 Nemesis erscheint aus Nemesis-Schreinen |
 | 2427 | [rfm_bookshelf] +50% Favor From Grimoire Shelves | [rfm_bookshelf] +50% Gunst von Grimoire-Regalen |
 | 2428 | [tol_giantgem] +50% Favor From Giant Gems | [tol_giantgem] +50% Gunst von Riesenjuwelen |
-| 2429 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Statuswertreduzierung durch Geysire |
+| 2429 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2430 | [cr_sewer] +50% Favor From Sewers | [cr_sewer] +50% Gunst aus Abwasserkanälen |
 | 2431 | [tw_zits] Zits Afflict Enemies With a Debuff | [tw_zits] Pickel belegen Gegner mit einem Debuff |
-| 2432 | [um_pinwheel] Pinwheels Reduce Enemies' Stats | [um_pinwheel] Windrädchen reduzieren die Werte der Gegner |
+| 2432 | [um_pinwheel] Pinwheels Reduce Enemies' Stats | [um_pinwheel] Windrädchen reduzieren die Attribute der Gegner |
 | 2433 | [tc_well] Wells Afflict Enemies With a Debuff | [tc_well] Brunnen belegen Feinde mit einer Schwächung |
 | 2434 | [fc_diamond] +50% Favor From Diamonds | [fc_diamond] +50% Gunst durch Diamanten |
 | 2435 | [fe_starfish] Starfish Grant a Speed Boost | [fe_starfish] Seesterne gewähren einen Geschwindigkeitsschub |
@@ -58,10 +58,10 @@
 | 2455 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
 | 2456 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
 | 2457 | [ad_mirrorball] Mirrorballs Grant a Buff | [ad_mirrorball] Spiegelkugeln gewähren einen Buff |
-| 2458 | [ptd_mushrooms] Mushrooms Sometimes Refill Spell Gem Charges | [ptd_mushrooms] Pilze Füllen Manchmal Zauberstein-Ladungen Nach |
+| 2458 | [ptd_mushrooms] Mushrooms Sometimes Refill Spell Gem Charges | [ptd_mushrooms] Pilze füllen manchmal Zauberstein-Ladungen nach |
 | 2459 | [swm_treasure] 25% Chance to Receive Emblem From Treasure Piles | [swm_treasure] 25% Chance, ein Emblem aus Schatzhaufen zu erhalten |
 | 2460 | [gpn_rock] Rocks Grant Additional Resources | [gpn_rock] Steine gewähren zusätzliche Ressourcen |
-| 2461 | [rfm_potion] Potions Grant More Damage In Next Battle | [rfm_potion] Tränke gewähren mehr Schaden im nächsten Kampf |
+| 2461 | [rfm_potion] Potions Grant More Damage In Next Battle | [rfm_potion] Tränke gewähren mehr schaden im nächsten Kampf |
 | 2462 | [tol_bigtreasure] Keys Are No Longer Required to Open Large Treasure Chests | [tol_bigtreasure] Schlüssel werden nicht mehr benötigt, um große Schatztruhen zu öffnen |
 | 2463 | [btv_relic] Void Relics Grant a Buff | [btv_relic] Leerenreliquien gewähren einen Buff |
 | 2464 | [cr_valve] Valves Grant a Buff | [cr_valve] Ventile gewähren einen Buff |
@@ -72,7 +72,7 @@
 | 2469 | [fe_imphut] 35% Chance to Receive Emblem From Imp Huts | [fe_imphut] 35% Chance, ein Emblem von Kobold-Hütten zu erhalten |
 | 2470 | [bns_quicksand] More Treasure From The Barrens Boss Rooms | [bns_quicksand] Mehr Schätze aus den Bossräumen der Ödlande |
 | 2471 | [bg_squash] Vomiting Squash Is More Rewarding | [bg_squash] Kotzender Kürbis ist lohnender |
-| 2472 | [su_statuemonarch] Additional Stat Reduction From King Shrines | [su_statuemonarch] Zusätzliche Statusreduktion durch Königsschreine |
+| 2472 | [su_statuemonarch] Additional Stat Reduction From King Shrines | [su_statuemonarch] Zusätzliche Attributssenkung durch Königsschreine |
 | 2473 | [cj_treep] +1 Stat Boosts From Pink Fruit Trees | [cj_treep] +1 Statuswert-Verstärkungen von rosa Fruchtbäumen |
 | 2474 | [an_eggs] 25% Chance to Receive Emblem From Spider Eggs | [an_eggs] 25% Chance, ein Emblem aus Spinneneiern zu erhalten |
 | 2475 | [wdsd_treasure] Keys Are No Longer Required to Open Large Treasure Chests | [wdsd_treasure] Schlüssel werden nicht mehr benötigt, um große Schatztruhen zu öffnen |
@@ -84,7 +84,7 @@
 | 2481 | [ag_masochist] Masochist Statues Grant +1 Attacks In Next Battle | [ag_masochist] Masochistische Statuen gewähren +1 Angriffe im nächsten Kampf |
 | 2482 | [gh_bigslots] +1 Tickets From Large Slot Machines | [gh_bigslots] +1 Tickets von großen Spielautomaten |
 | 2483 | [fl_modrons] 35% Chance to Receive Emblem From Inactive Modrons | [fl_modrons] 35% Chance, ein Emblem von inaktiven Modrons zu erhalten |
-| 2484 | [fae_fountain] Additional Stat Reduction From Fae Fountains | [fae_fountain] Zusätzliche Statuswertreduzierung durch Feenbrunnen |
+| 2484 | [fae_fountain] Additional Stat Reduction From Fae Fountains | [fae_fountain] Zusätzliche Attributssenkung durch Feenbrunnen |
 | 2485 | [amg_brazier] 35% Chance to Receive Emblem From Neon Braziers | [amg_brazier] 35% Chance, ein Emblem von Neon-Kohlenbecken zu erhalten |
 | 2486 | [fdp_musiccrystals] Music Crystals Are More Rewarding | [fdp_musiccrystals] Musiksteine Sind Lohnender |
 | 2487 | [chancetgolem] +50% Treasure Golem Spawn Chance | [chancetgolem] +50% Schatzgolem-Erscheinungschance |
@@ -95,10 +95,10 @@
 | 2492 | [ptd_rock] Rocks Grant Additional Resources | [ptd_rock] Steine gewähren zusätzliche Ressourcen |
 | 2493 | [swm_flower] Flowers Grant 100% Critical Chance In Next Battle | [swm_flower] Blumen gewähren 100% kritische Trefferchance im nächsten Kampf |
 | 2494 | [gpn_minivolcano] Mini Volcanoes Decrease Enemies' Defense | [gpn_minivolcano] Mini-Vulkane verringern die Verteidigung der Feinde |
-| 2495 | [rfm_telescope] Telescopes Sometimes Refill Spell Gem Charges | [rfm_telescope] Teleskope Füllen Manchmal Zauberstein-Ladungen Nach |
+| 2495 | [rfm_telescope] Telescopes Sometimes Refill Spell Gem Charges | [rfm_telescope] Teleskope füllen manchmal Zauberstein-Ladungen nach |
 | 2496 | [tol_rainbowwell] 25% Chance to Receive Emblem From Rainbow Wells | [tol_rainbowwell] 25% Chance, ein Emblem aus Regenbogenbrunnen zu erhalten |
 | 2497 | [btv_portal] More Treasure From Bastion of the Void Boss Rooms | [btv_portal] Mehr Schätze aus den Bossräumen der Bastion der Leere |
-| 2498 | [cr_parchment] Parchment Grants Intelligence Boost | [cr_parchment] Pergament Gewährt Intelligenzbonus |
-| 2499 | [tw_effigy] Effigies Grant a Minion | [tw_effigy] Effigien Gewähren einen Diener |
+| 2498 | [cr_parchment] Parchment Grants Intelligence Boost | [cr_parchment] Pergament gewährt Intelligenzbonus |
+| 2499 | [tw_effigy] Effigies Grant a Minion | [tw_effigy] Effigien gewähren einen Diener |
 | 2500 | [um_gems] 25% Chance to Receive Emblem From Gem Piles | [um_gems] 25% Chance, ein Emblem aus Edelsteinhaufen zu erhalten |
 | 2501 | [tc_rack] Torture Devices Drop Treasure | [tc_rack] Foltergeräte lassen Schätze fallen |

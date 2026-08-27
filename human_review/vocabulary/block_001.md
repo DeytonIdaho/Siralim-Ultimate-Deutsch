@@ -38,7 +38,7 @@
 | 35 | Necromancer | Nekromant |
 | 36 | Defiler | Schänder |
 | 37 | Paladin | Paladin |
-| 38 | Reaver | Plünderer |
+| 38 | Reaver | Reaver |
 | 39 | Sorcerer | Zauberer |
 | 40 | Tribalist | Stammesanhänger |
 | 41 | Trickster | Trickster |

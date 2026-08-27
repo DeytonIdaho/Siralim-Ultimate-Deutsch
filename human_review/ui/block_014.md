@@ -34,7 +34,7 @@
 | 1331 | [realmprop_e_lessdmgtaken] Less Damage Taken: {1}% | [realmprop_e_lessdmgtaken] Weniger erlittener Schaden: {1}% |
 | 1332 | [realmprop_e_alwayscrit] Always Critical Damage | [realmprop_e_alwayscrit] Immer kritischer Schaden |
 | 1333 | [realmprop_e_dodgechance] Chance to Dodge: {1}% | [realmprop_e_dodgechance] Ausweich-Chance: {1}% |
-| 1334 | [realmprop_e_reflectdmg] Reflect Damage Taken: {1}% | [realmprop_e_reflectdmg] Erlittenen Schaden reflektieren: {1}% |
+| 1334 | [realmprop_e_reflectdmg] Reflect Damage Taken: {1}% | [realmprop_e_reflectdmg] Erlittenen schaden reflektieren: {1}% |
 | 1335 | [realmprop_e_additionalcast] Cast Additional Times: {1} | [realmprop_e_additionalcast] Zusätzliche Zauberanzahl: {1} |
 | 1336 | [realmprop_e_additionalattack] Attack Additional Times: {1} | [realmprop_e_additionalattack] Zusätzliche Angriffe: {1} |
 | 1337 | [realmprop_r_extranemesis] Extra Nemesis Creatures | [realmprop_r_extranemesis] Zusätzliche Nemesis-Kreaturen |
@@ -56,7 +56,7 @@
 | 1353 | [realmprop_f_lessindirectdmg] Less Indirect Damage: {1}% | [realmprop_f_lessindirectdmg] Weniger indirekter Schaden: {1}% |
 | 1354 | [realmprop_f_lessatkdmg] Less Attack Damage: {1}% | [realmprop_f_lessatkdmg] Weniger Angriffsschaden: {1}% |
 | 1355 | [realmprop_f_lessspellpotency] Less Spell Potency: {1}% | [realmprop_f_lessspellpotency] Geringere Zauberwirksamkeit: {1}% |
-| 1356 | [realmprop_f_dmgeveryturn] Damage Every Turn: {1}% Health | [realmprop_f_dmgeveryturn] Schaden pro Runde: {1}% Gesundheit |
+| 1356 | [realmprop_f_dmgeveryturn] Damage Every Turn: {1}% Health | [realmprop_f_dmgeveryturn] schaden pro Runde: {1}% Gesundheit |
 | 1357 | [realmprop_e_turnhealing] Heal Every Turn: {1}% Health | [realmprop_e_turnhealing] Heilung jede Runde: {1}% Gesundheit |
 | 1358 | [realmprop_e_extraatk] Extra Attack: {1}% | [realmprop_e_extraatk] Extraangriff: {1}% |
 | 1359 | [realmprop_e_extradef] Extra Defense: {1}% | [realmprop_e_extradef] Zusätzliche Verteidigung: {1}% |

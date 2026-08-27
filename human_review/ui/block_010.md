@@ -3,11 +3,11 @@
 | Row | English | German |
 |---:|---|---|
 | 902 | +60% Critical Damage | +60% kritischer Schaden |
-| 903 | +25% Stat Reduction Given\n-25% Stat Reduction Received | +25% Verursachte Statusreduktion\n-25% Erhaltene Statusreduktion |
+| 903 | +25% Stat Reduction Given\n-25% Stat Reduction Received | +25% Verursachte Attributssenkung\n-25% Erhaltene Attributssenkung |
 | 904 | +25% {STAT_health} | +25% {STAT_health} |
 | 905 | +25% Stat Increase Given\n+25% Stat Increase Received | +25% Statuswert-Erhöhung Gegeben\n+25% Statuswert-Erhöhung Erhalten |
 | 906 | +25% {STAT_intelligence} | +25% {STAT_intelligence} |
-| 907 | +3 Spell Gem Slots | +3 Zauberstein-Plätze |
+| 907 | +3 Spell Gem Slots | +3 Zaubersteinplätze |
 | 908 | +30% Attack Damage | +30% Angriffsschaden |
 | 909 | +30% Spell Gem Charges | +30% Zauberstein-Ladungen |
 | 910 | +50% Dodge Chance | +50% Ausweichchance |
@@ -16,15 +16,15 @@
 | 913 | +50% Buff/Debuff Potency | +50% Buff/Debuff-Wirksamkeit |
 | 914 | +30% Spell Gem Potency | +30% Zauberstein-Wirksamkeit |
 | 915 | -30% Indirect Damage Taken | -30% Erlittener indirekter Schaden |
-| 916 | +30% Damage to Death\n-30% Damage From Death | +30% Schaden gegen Tod\n-30% Schaden von Tod |
+| 916 | +30% Damage to Death\n-30% Damage From Death | +30% schaden gegen Tod\n-30% schaden von Tod |
 | 917 | +2 Additional Attacks | +2 Zusätzliche Angriffe |
 | 918 | +2 Additional Casts | +2 Zusätzliche Zauber |
 | 919 | -30% Attack Damage Taken | -30% erlittener Angriffsschaden |
-| 920 | +30% Damage to Sorcery\n-30% Damage From Sorcery | +30% Schaden gegen Zauberei\n-30% Schaden durch Zauberei |
-| 921 | +30% Damage to Nature\n-30% Damage From Nature | +30% Schaden gegen Natur\n-30% Schaden von Natur |
+| 920 | +30% Damage to Sorcery\n-30% Damage From Sorcery | +30% schaden gegen Zauberei\n-30% schaden durch Zauberei |
+| 921 | +30% Damage to Nature\n-30% Damage From Nature | +30% schaden gegen Natur\n-30% schaden von Natur |
 | 922 | -30% Spell Damage Taken | -30% erlittener Zauberschaden |
-| 923 | +30% Damage to Life\n-30% Damage From Life | +30% Schaden gegen Leben\n-30% Schaden von Leben |
-| 924 | +30% Damage to Chaos\n-30% Damage From Chaos | +30% Schaden gegen Chaos\n-30% Schaden von Chaos |
+| 923 | +30% Damage to Life\n-30% Damage From Life | +30% schaden gegen Leben\n-30% schaden von Leben |
+| 924 | +30% Damage to Chaos\n-30% Damage From Chaos | +30% schaden gegen Chaos\n-30% schaden von Chaos |
 | 925 | Godforge Upgrade: | Gottesschmiede-Aufwertung: |
 | 926 | You've already purchased this upgrade for this creature. | Du hast dieses Upgrade für diese Kreatur bereits gekauft. |
 | 927 | Requirements | Anforderungen |

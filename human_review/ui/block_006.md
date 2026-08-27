@@ -55,7 +55,7 @@
 | 552 | Creature Mastery | Kreaturenbeherrschung |
 | 553 | (Mastery: {1}) | (Meisterschaft: {1}) |
 | 554 | Mastery Trait: {1} | Meisterschaftsmerkmal: {1} |
-| 555 | You've unlocked the following bonuses for this race:\n\n+{1}% damage dealt to creatures of this race\n-{2}% damage taken from creatures of this race\n+{3}% damage dealt by your creatures of this race\n-{4}% damage taken by your creatures of this race | Du hast die folgenden Boni für diese Rasse freigeschaltet:\n\n+{1}% Schaden gegen Kreaturen dieser Rasse\n-{2}% erlittener Schaden von Kreaturen dieser Rasse\n+{3}% verursachter Schaden deiner Kreaturen dieser Rasse\n-{4}% erlittener Schaden deiner Kreaturen dieser Rasse |
+| 555 | You've unlocked the following bonuses for this race:\n\n+{1}% damage dealt to creatures of this race\n-{2}% damage taken from creatures of this race\n+{3}% damage dealt by your creatures of this race\n-{4}% damage taken by your creatures of this race | Du hast die folgenden Boni für diese Rasse freigeschaltet:\n\n+{1}% schaden gegen Kreaturen dieser Rasse\n-{2}% erlittener schaden von Kreaturen dieser Rasse\n+{3}% verursachter schaden deiner Kreaturen dieser Rasse\n-{4}% erlittener schaden deiner Kreaturen dieser Rasse |
 | 556 | Choose a Reliquary Enhancement to increase. | Wähle eine Reliquienverstärkung zum Erhöhen. |
 | 557 | Rank: {1} | Rang: {1} |
 | 558 | Cost to upgrade: [menu_piety] {1} | Kosten für Aufwertung: [menu_piety] {1} |
@@ -70,20 +70,20 @@
 | 567 | Increases the damage your relics deal with attacks by 1% per rank. | Erhöht den Schaden, den deine Relikte mit Angriffen verursachen, um 1% pro Rang. |
 | 568 | Increases the amount of healing your relics grant by 1% per rank. | Erhöht die Heilung durch deine Relikte um 1% pro Rang. |
 | 569 | Increases the damage your relics deal with spells by 1% per rank. | Erhöht den Schaden, den deine Relikte mit Zaubern verursachen, um 1% pro Rang. |
-| 570 | Increases the amount of stats your relics reduce by 1% per rank. | Erhöht die Menge an Statuswerten, die deine Relikte reduzieren, um 1% pro Rang. |
-| 571 | Increases the amount of stats your relics increase by 1% per rank. | Erhöht die Menge an Statuswerten, die deine Relikte steigern, um 1% pro Rang. |
+| 570 | Increases the amount of stats your relics reduce by 1% per rank. | Erhöht die Menge an Attributen, die deine Relikte reduzieren, um 1% pro Rang. |
+| 571 | Increases the amount of stats your relics increase by 1% per rank. | Erhöht die Menge an Attributen, die deine Relikte steigern, um 1% pro Rang. |
 | 572 | Increases your relics' stats by 1% per rank. | Erhöht die Werte deiner Relikte um 1% pro Rang. |
 | 573 | Your creatures gain 1% per rank of your relics' Stat Bonuses even when they're not attuned to a creature. | Deine Kreaturen erhalten 1% pro Rang der Statusboni deiner Relikte, auch wenn diese nicht an eine Kreatur gebunden sind. |
 | 574 | Press {KEYE} to increase this Enhancement's rank. | Drücke {KEYE}, um den Rang dieser Verbesserung zu erhöhen. |
 | 575 | Current Bonus: {1}% | Aktueller Bonus: {1}% |
-| 576 | Choose a Relic to unlock or enhance. | Wähle eine Reliquie zum Freischalten oder Verbessern. |
-| 577 | Choose the Relic you want to attune to one of your creatures. | Wähle die Reliquie aus, mit der du eine deiner Kreaturen verbinden möchtest. |
+| 576 | Choose a Relic to unlock or enhance. | Wähle eine Relikt zum Freischalten oder Verbessern. |
+| 577 | Choose the Relic you want to attune to one of your creatures. | Wähle die Relikt aus, mit der du eine deiner Kreaturen verbinden möchtest. |
 | 578 | Stat Bonus: {1} | Statusbonus: {1} |
 | 579 | Rank {1}  ({2} Bonus: {3}%) | Rang {1}  ({2} Bonus: {3}%) |
-| 580 | Unlock this Relic for [menu_piety] {1}. | Schalte diese Reliquie für [menu_piety] {1} frei. |
-| 581 | Increase this Relic's rank for [menu_piety] {1}. | Erhöhe den Rang dieser Reliquie für [menu_piety] {1}. |
+| 580 | Unlock this Relic for [menu_piety] {1}. | Schalte diese Relikt für [menu_piety] {1} frei. |
+| 581 | Increase this Relic's rank for [menu_piety] {1}. | Erhöhe den Rang dieser Relikt für [menu_piety] {1}. |
 | 582 | Toggle Relic Power pages. | Reliktmacht-Seiten umschalten. |
-| 583 | You have not unlocked this Relic yet. | Du hast diese Reliquie noch nicht freigeschaltet. |
+| 583 | You have not unlocked this Relic yet. | Du hast diese Relikt noch nicht freigeschaltet. |
 | 584 | You attuned the {1} to your {2}. | Du hast {1} auf dein {2} abgestimmt. |
 | 585 | What would you like to do with your {1}? | Was möchtest du mit deinem {1} tun? |
 | 586 | Remove it from my castle. | Entferne es aus meiner Burg. |

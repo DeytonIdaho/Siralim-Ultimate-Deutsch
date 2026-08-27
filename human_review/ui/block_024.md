@@ -24,14 +24,14 @@
 | 2321 | [fl_cog] +1 Shiny Cogs Spawn | [fl_cog] +1 Glänzende Zahnräder erscheinen |
 | 2322 | [fae_dreamcatch] Dream Catchers Grant a Minion | [fae_dreamcatch] Traumfänger Gewähre einen Diener |
 | 2323 | [amg_roses] +50% Favor From Neon Roses | [amg_roses] +50% Gunst von Neon Roses |
-| 2324 | [fdp_redmagnet] Red Magnetic Stones Decrease Enemies' Attack | [fdp_redmagnet] Rote Magnetsteine Verringern die Angriffskraft der Feinde |
+| 2324 | [fdp_redmagnet] Red Magnetic Stones Decrease Enemies' Attack | [fdp_redmagnet] Rote Magnetsteine verringern die Angriffskraft der Feinde |
 | 2325 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
-| 2326 | [ad_plasmaportal] +50% Favor From Portal Bosses | [ad_plasmaportal] +50% Gunst von Portal-Bossen |
+| 2326 | [ad_plasmaportal] +50% Favor From Portal Bosses | [ad_plasmaportal] +50% Gunst von Portalbossen |
 | 2327 | [ptd_tombstone] 25% Chance to Receive Emblem From Tombstones | [ptd_tombstone] 25% Chance, ein Emblem von Grabsteinen zu erhalten |
 | 2328 | [swm_temple] +50% Favor From Temple Bosses | [swm_temple] +50% Gunst von Tempelbossen |
 | 2329 | [gpn_livingember] +50% Favor From Living Embers | [gpn_livingember] +50% Gunst von Lebenden Gluten |
 | 2330 | [rfm_splat] +50% Favor From Splat Pools | [rfm_splat] +50% Gunst aus Splat-Pools |
-| 2331 | [tol_portal] +50% Favor From Portal Bosses | [tol_portal] +50% Gunst von Portalsbossen |
+| 2331 | [tol_portal] +50% Favor From Portal Bosses | [tol_portal] +50% Gunst von Portalbossen |
 | 2332 | [btv_cache] 25% Chance to Receive Emblem From Caches | [btv_cache] 25% Chance, ein Emblem aus Caches zu erhalten |
 | 2333 | [cr_potion] +1 Debuffs From Potions | [cr_potion] +1 Debuffs durch Tränke |
 | 2334 | [tw_bones] +50% Favor From Charred Bones | [tw_bones] +50% Gunst von verkohlten Knochen |
@@ -45,7 +45,7 @@
 | 2342 | [cj_fruito] Vomiting Fruit Is More Rewarding | [cj_fruito] Kotzende Früchte sind lohnenswerter |
 | 2343 | [an_webs] Victims Grant Health Boost | [an_webs] Opfer gewähren Gesundheitsschub |
 | 2344 | [wdsd_mask] +50% Favor From Masks | [wdsd_mask] +50% Gunst von Masken |
-| 2345 | [kh_potions] Potion Shelves Grant a Random Stat Boost | [kh_potions] Trankregale gewähren zufälligen Statusboost |
+| 2345 | [kh_potions] Potion Shelves Grant a Random Stat Boost | [kh_potions] Trankregale gewähren zufälligen Attributsbonus |
 | 2346 | [ee_orbsun] +50% Favor From Sun Orbs | [ee_orbsun] +50% Gunst von Sonnenorbs |
 | 2347 | [dmr_generator] 25% Chance to Receive Emblem From Generators | [dmr_generator] 25% Chance, ein Emblem von Generatoren zu erhalten |
 | 2348 | [lobab_scaleright] +1 Debuff From Right-Tipping Scales | [lobab_scaleright] +1 Debuff durch rechtslastige Waage |
@@ -65,7 +65,7 @@
 | 2362 | [tol_horseshoe] +50% Favor From Horseshoe Battles | [tol_horseshoe] +50% Gunst aus Hufeisen-Kämpfen |
 | 2363 | [btv_shadowcage] 35% Chance to Receive Emblem From Shadow Lockers | [btv_shadowcage] 35% Chance, ein Emblem aus Schattenspinden zu erhalten |
 | 2364 | [cr_cache] 25% Chance to Receive Emblem From Caches | [cr_cache] 25% Chance, ein Emblem aus Caches zu erhalten |
-| 2365 | [tw_geyser] Additional Stat Reduction From Geysers | [tw_geyser] Zusätzliche Statuswertreduzierung durch Geysire |
+| 2365 | [tw_geyser] Additional Stat Reduction From Geysers | [tw_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2366 | [um_totem] +50% Favor From Corrupted Totems | [um_totem] +50% Gunst von korrumpierten Totems |
 | 2367 | [tc_paper] +1 Knowledge Items From Parchment | [tc_paper] +1 Wissensgegenstand aus Pergament |
 | 2368 | [fc_yeti] +50% Favor From Frozen Yetis | [fc_yeti] +50% Gunst von gefrorenen Yetis |
@@ -77,8 +77,8 @@
 | 2374 | [an_ichor] +1 Buffs From Ichor | [an_ichor] +1 Buffs durch Ichor |
 | 2375 | [wdsd_jellyfish] Jellyfish Afflict Enemies With a Debuff | [wdsd_jellyfish] Quallen belegen Feinde mit einem Debuff |
 | 2376 | [kh_knight] Knights Decrease Enemies' Spell Gem Count In Next Battle | [kh_knight] Ritter verringern die Zauberstein-Anzahl der Gegner im nächsten Kampf |
-| 2377 | [ee_orbarcane] Arcane Orbs Grant an Emblem | [ee_orbarcane] Arkane Kugeln Gewähren ein Emblem |
-| 2378 | [dmr_portal] +50% Favor From Portal Bosses | [dmr_portal] +50% Gunst von Portalsbossen |
+| 2377 | [ee_orbarcane] Arcane Orbs Grant an Emblem | [ee_orbarcane] Arkane Kugeln gewähren ein Emblem |
+| 2378 | [dmr_portal] +50% Favor From Portal Bosses | [dmr_portal] +50% Gunst von Portalbossen |
 | 2379 | [lobab_tarot] Tarot Card Collection Is More Rewarding | [lobab_tarot] Tarot-Kartensammlung ist lohnenswerter |
 | 2380 | [ot_bookshelf] 35% Chance to Receive Emblem From Bookshelves | [ot_bookshelf] 35% Chance, ein Emblem von Bücherregalen zu erhalten |
 | 2381 | [ag_paintbrush] +50% Favor From Animated Paintbrushes | [ag_paintbrush] +50% Gunst von animierten Pinseln |
@@ -99,6 +99,6 @@
 | 2396 | [cr_slime] 35% Chance to Receive Emblem From Concoctions | [cr_slime] 35% Chance, ein Emblem aus Gebräuen zu erhalten |
 | 2397 | [tw_bloodwell] +50% Favor From Blood Wells | [tw_bloodwell] +50% Gunst von Blutquellen |
 | 2398 | [um_effigy] Effigies Afflict Enemies With a Debuff | [um_effigy] Effigies belegen Feinde mit einem Debuff |
-| 2399 | [tc_scroll] Scrolls Reduce Enemies' Stats | [tc_scroll] Schriftrollen verringern die Werte der Gegner |
+| 2399 | [tc_scroll] Scrolls Reduce Enemies' Stats | [tc_scroll] Schriftrollen verringern die Attribute der Gegner |
 | 2400 | [fc_grave] Mummy Graves Afflict Enemies With a Debuff | [fc_grave] Mumien-Gräber Belegen Feinde Mit Einem Debuff |
-| 2401 | [fe_crab] Crabs Damage Enemies | [fe_crab] Krabben Schaden Feinden |
+| 2401 | [fe_crab] Crabs Damage Enemies | [fe_crab] Krabben schaden Feinden |

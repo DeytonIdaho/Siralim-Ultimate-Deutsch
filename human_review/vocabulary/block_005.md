@@ -31,7 +31,7 @@
 | 428 | Savage On Damage | Wilder bei Schaden |
 | 429 | Berserk On Damage | Berserker bei Schaden |
 | 430 | Warded On Damage | Wächter bei Schaden |
-| 431 | Shelled On Damage | Bei Schaden abgeschirmt |
+| 431 | Shelled On Damage | Bei schaden abgeschirmt |
 | 432 | Invisible On Damage | Unsichtbar bei Schaden |
 | 433 | Mending On Damage | Heilung bei Schaden |
 | 434 | Leeching On Damage | Lebensentzug bei Schaden |
@@ -51,10 +51,10 @@
 | 448 | Blind On Damage | Blind bei Schaden |
 | 449 | Burning On Damage | Brennen bei Schaden |
 | 450 | Confused On Damage | Verwirrt bei Schaden |
-| 451 | Snared On Damage | In Schaden Verstrickt |
+| 451 | Snared On Damage | In schaden Verstrickt |
 | 452 | Frozen On Damage | Eingefroren bei Schaden |
 | 453 | Poisoned On Damage | Vergiftet bei Schaden |
-| 454 | Scorned On Damage | Bei Schaden Verhöhnt |
+| 454 | Scorned On Damage | Bei schaden Verhöhnt |
 | 455 | Silenced On Damage | Verstummt bei Schaden |
 | 456 | Sleep On Damage | Schlaf bei Schaden |
 | 457 | Stone On Damage | Stein bei Schaden |

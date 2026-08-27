@@ -3,7 +3,7 @@
 | Row | English | German |
 |---:|---|---|
 | 3002 | [menu_donothing] Do nothing. | [menu_donothing] Nichts tun. |
-| 3003 | Casting Sound Effect | Zaubereffekt |
+| 3003 | Casting Sound Effect | Zauber-Soundeffekt |
 | 3004 | Random | Zufällig |
 | 3005 | Always | Immer |
 | 3006 | Never | Niemals |
@@ -19,7 +19,7 @@
 | 3016 | This option allows you to toggle between several different screen effects. Most of them are just for fun, but options are available for colorblind players as well. | Diese Option ermöglicht es dir, zwischen verschiedenen Bildschirmeffekten zu wechseln. Die meisten davon sind nur zum Spaß, aber es gibt auch Optionen für farbenblinde Spieler. |
 | 3017 | Achievements | Erfolge |
 | 3018 | Anointments | Salbungen |
-| 3019 | History (Battle) | Geschichte (Kampf) |
+| 3019 | History (Battle) | Kampfchronik |
 | 3020 | Bestiary | Bestiarium |
 | 3021 | Bounties | Kopfgelder |
 | 3022 | Cards | Karten |
@@ -48,7 +48,7 @@
 | 3045 | Confirm Reset | Zurücksetzen bestätigen |
 | 3046 | Menagerie Duel: I want to fight against one of my Menagerie Groups! | Menagerie-Duell: Ich möchte gegen eine meiner Menagerie-Gruppen kämpfen! |
 | 3047 | Choose the Menagerie Group you want to fight against. | Wähle die Menagerie-Gruppe aus, gegen die du kämpfen möchtest. |
-| 3048 | Menagerie Duel Settings | Menagerie Duell Einstellungen |
+| 3048 | Menagerie Duel Settings | Menagerie-Duell-Einstellungen |
 | 3049 | Reset to Default | Auf Standard zurücksetzen |
 | 3050 | Nortah:\nThe Menagerie Duel is about to begin!\n\nReady? Fight! | Nortah:\nDas Menagerie-Duell beginnt gleich!\n\nBereit? Kämpft! |
 | 3051 | Infinite Health | Unendliche Gesundheit |
@@ -73,5 +73,5 @@
 | 3070 | M | M |
 | 3071 | B | B |
 | 3072 | T | T |
-| 3073 | You can forcefully forfeit the battle at any time by holding {KEYQ}, {KEYE}, and {KEYF} for a few seconds. | Du kannst den Kampf jederzeit gewaltsam aufgeben, indem du {KEYQ}, {KEYE} und {KEYF} für einige Sekunden gedrückt hältst. |
+| 3073 | You can forcefully forfeit the battle at any time by holding {KEYQ}, {KEYE}, and {KEYF} for a few seconds. | Du kannst einen Kampf jederzeit sofort aufgeben, indem du {KEYQ}, {KEYE} und {KEYF} einige Sekunden lang gedrückt hältst. |
 | 3074 | Privacy Policy | Datenschutzrichtlinie |

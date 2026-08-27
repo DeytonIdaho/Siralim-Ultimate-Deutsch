@@ -78,7 +78,7 @@
 | 475 | Un-favorite it. | Aus Favoriten entfernen. |
 | 476 | Favorite | Favorit |
 | 477 | You must be in your castle to use this option. | Du musst in deiner Burg sein, um diese Option zu nutzen. |
-| 478 | You unattuned the relic equipped to your {1}. | Du hast die Verbindung zur Reliquie aufgehoben, die an deinem {1} ausgerüstet war. |
+| 478 | You unattuned the relic equipped to your {1}. | Du hast die Verbindung zur Relikt aufgehoben, die an deinem {1} ausgerüstet war. |
 | 479 | You can only unattune a relic while you're in your castle. | Du kannst ein Relikt nur in deiner Burg abstimmen. |
 | 480 | You must be in your castle to cancel a Bounty. | Du musst in deiner Burg sein, um ein Kopfgeld abzubrechen. |
 | 481 | You cancelled the selected Project. | Du hast das ausgewählte Projekt abgebrochen. |

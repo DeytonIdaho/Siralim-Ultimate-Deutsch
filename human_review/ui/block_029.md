@@ -17,8 +17,8 @@
 | 2814 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
 | 2815 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
 | 2816 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
-| 2817 | [ad_fruitoflife] Fruit of Life Grants Defense Boost | [ad_fruitoflife] Frucht des Lebens Gewährt Verteidigungsbonus |
-| 2818 | [ptd_flower] Death Blossoms Grant Defense Boost | [ptd_flower] Todesblüten Gewähren Verteidigungsschub |
+| 2817 | [ad_fruitoflife] Fruit of Life Grants Defense Boost | [ad_fruitoflife] Frucht des Lebens gewährt Verteidigungsbonus |
+| 2818 | [ptd_flower] Death Blossoms Grant Defense Boost | [ptd_flower] Todesblüten gewähren Verteidigungsschub |
 | 2819 | [swm_ims] Receive Treasure From Im Caves | [swm_ims] Schatz aus den Im-Höhlen erhalten |
 | 2820 | [gpn_magmaball] Magma Orbs Grant Attack Boost | [gpn_magmaball] Magma-Kugeln gewähren Angriffsbonus |
 | 2821 | [rfm_alchemy] Alchemy Experiments Are More Rewarding | [rfm_alchemy] Alchemie-Experimente sind lohnender |
@@ -30,14 +30,14 @@
 | 2827 | [tc_scroll] Scrolls Grant Knowledge | [tc_scroll] Schriftrollen gewähren Wissen |
 | 2828 | [fc_grave] Mummy Graves Drop Treasure | [fc_grave] Mumien-Gräber lassen Schätze fallen |
 | 2829 | [fe_crab] Crabs Decrease Enemies' Defense | [fe_crab] Krabben verringern die Verteidigung der Gegner |
-| 2830 | [bns_treasure] Buried Treasure Grants Treasure Chest After Next Battle | [bns_treasure] Vergrabener Schatz Gewährt Schatztruhe nach dem nächsten Kampf |
-| 2831 | [bg_trap] Traps Damage Enemies | [bg_trap] Fallen schaden Feinden |
-| 2832 | [su_obelisk] Obelisks Grant a Minion | [su_obelisk] Obelisken Gewähren einen Diener |
+| 2830 | [bns_treasure] Buried Treasure Grants Treasure Chest After Next Battle | [bns_treasure] Vergrabener Schatz gewährt Schatztruhe nach dem nächsten Kampf |
+| 2831 | [bg_trap] Traps Damage Enemies | [bg_trap] fallen schaden Feinden |
+| 2832 | [su_obelisk] Obelisks Grant a Minion | [su_obelisk] Obelisken gewähren einen Diener |
 | 2833 | [cj_fruity] Vomiting Fruit Is More Rewarding | [cj_fruity] Früchte Erbrechen Ist Lohnender |
-| 2834 | [an_shrine] Spider Shrines Spawn a Nemesis Creature | [an_shrine] Spinnenschreine Beschwören eine Nemesis-Kreatur |
+| 2834 | [an_shrine] Spider Shrines Spawn a Nemesis Creature | [an_shrine] Spinnenschreine beschwören eine Nemesis-Kreatur |
 | 2835 | [wdsd_shipwreck] 50% Chance to Receive Double Resources From Shipwrecks | [wdsd_shipwreck] 50% Chance auf doppelte Ressourcen aus Schiffswracks |
 | 2836 | [kh_arms] Coats of Arms Drop Treasure | [kh_arms] Wappen lassen Schätze fallen |
-| 2837 | [ee_spire] Spires Grant a Random Stat Boost | [ee_spire] Türme gewähren zufälligen Statusboost |
+| 2837 | [ee_spire] Spires Grant a Random Stat Boost | [ee_spire] Türme gewähren zufälligen Attributsbonus |
 | 2838 | [dmr_clock] +1 Clocks Spawn | [dmr_clock] +1 Uhren erscheinen |
 | 2839 | [lobab_book] +50% Treasure From Bookshelves | [lobab_book] +50% Schätze aus Bücherregalen |
 | 2840 | [ot_statue] Pristine Statues Decrease Enemies' Speed | [ot_statue] Makellose Statuen verringern die Geschwindigkeit der Feinde |
@@ -46,7 +46,7 @@
 | 2843 | [fl_robohead] 15% Chance for Robot Assembly to Spawn a Treasure Golem | [fl_robohead] 15% Chance, dass Robotermontage einen Schatzgolem erschafft |
 | 2844 | [fae_fae] Fae Drop Treasure | [fae_fae] Feenschatz |
 | 2845 | [amg_redrune] Red Runestones Kill Random Enemy In Next Battle | [amg_redrune] Rote Runensteine töten zufälligen Gegner im nächsten Kampf |
-| 2846 | [fdp_wormpit] Pit Worm Pits Drop Treasure | [fdp_wormpit] Grubenwurm-Gruben Lassen Schätze Fallen |
+| 2846 | [fdp_wormpit] Pit Worm Pits Drop Treasure | [fdp_wormpit] Grubenwurm-Gruben lassen Schätze fallen |
 | 2847 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2848 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
 | 2849 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
@@ -56,35 +56,35 @@
 | 2853 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
 | 2854 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2855 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
-| 2856 | [ad_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [ad_obelisk] Obelisken Füllen Manchmal Zauberstein-Ladungen Auf |
-| 2857 | [ptd_skullcandle] Illuminated Candles Damage Enemies | [ptd_skullcandle] Leuchtende Kerzen fügen Feinden Schaden zu |
-| 2858 | [swm_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [swm_obelisk] Obelisken Füllen Manchmal Zauberstein-Ladungen Auf |
-| 2859 | [gpn_nemesisshrine] Nemesis Shrines Kill Random Enemy In Next Battle | [gpn_nemesisshrine] Nemesis-Schreine Töten Zufälligen Feind Im Nächsten Kampf |
-| 2860 | [rfm_bookshelf] Grimoire Shelves Grant Intelligence Boost | [rfm_bookshelf] Grimoire-Regale Gewähren Intelligenz-Bonus |
-| 2861 | [tol_giantgem] Giant Gems Sometimes Refill Spell Gem Charges | [tol_giantgem] Riesenkristalle Füllen Manchmal Zauberstein-Ladungen Auf |
-| 2862 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Statuswertreduzierung durch Geysire |
+| 2856 | [ad_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [ad_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen Auf |
+| 2857 | [ptd_skullcandle] Illuminated Candles Damage Enemies | [ptd_skullcandle] Leuchtende Kerzen fügen Feinden schaden zu |
+| 2858 | [swm_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [swm_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen Auf |
+| 2859 | [gpn_nemesisshrine] Nemesis Shrines Kill Random Enemy In Next Battle | [gpn_nemesisshrine] Nemesis-Schreine töten Zufälligen Feind Im Nächsten Kampf |
+| 2860 | [rfm_bookshelf] Grimoire Shelves Grant Intelligence Boost | [rfm_bookshelf] Grimoire-Regale gewähren Intelligenz-Bonus |
+| 2861 | [tol_giantgem] Giant Gems Sometimes Refill Spell Gem Charges | [tol_giantgem] Riesenkristalle füllen manchmal Zauberstein-Ladungen Auf |
+| 2862 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2863 | [cr_sewer] 35% chance to Receive Emblem From Sewers | [cr_sewer] 35% Chance, ein Emblem aus der Kanalisation zu erhalten |
 | 2864 | [tw_zits] Zits Grant 100% Dodge Chance In Next Battle | [tw_zits] Pickel gewähren 100% Ausweich-Chance im nächsten Kampf |
 | 2865 | [um_pinwheel] Pinwheels Grant Timeline Priority In Next Battle | [um_pinwheel] Windrädchen gewähren Zeitlinienpriorität im nächsten Kampf |
 | 2866 | [tc_well] Wells Decrease Enemies' Defense | [tc_well] Brunnen verringern die Verteidigung der Feinde |
 | 2867 | [fc_diamond] Diamonds Decrease Enemies' Defense | [fc_diamond] Diamanten verringern die Verteidigung der Gegner |
-| 2868 | [fe_starfish] Starfish Grant Random Spell Gem | [fe_starfish] Seestern Gewährt zufälligen Zauberstein |
-| 2869 | [bns_shrine] Sand Shrines Decrease Enemies' Stats | [bns_shrine] Sandschreine Verringern die Werte der Feinde |
+| 2868 | [fe_starfish] Starfish Grant Random Spell Gem | [fe_starfish] Seestern gewährt zufälligen Zauberstein |
+| 2869 | [bns_shrine] Sand Shrines Decrease Enemies' Stats | [bns_shrine] Sandschreine verringern die Werte der Feinde |
 | 2870 | [bg_mushroom] 30% Chance to Receive Emblem From Mushrooms | [bg_mushroom] 30% Chance auf Emblem von Pilzen |
-| 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten Schaden Feinde |
-| 2872 | [cj_cairn] Cairns Grant Increased Damage In Next Battle | [cj_cairn] Cairns gewähren erhöhten Schaden im nächsten Kampf |
+| 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten schaden Feinde |
+| 2872 | [cj_cairn] Cairns Grant Increased Damage In Next Battle | [cj_cairn] Cairns gewähren erhöhten schaden im nächsten Kampf |
 | 2873 | [an_scroll] +1 Knowledge From Scrolls | [an_scroll] +1 Wissen aus Schriftrollen |
 | 2874 | [wdsd_relic] Relics Decrease Enemies' Stats | [wdsd_relic] Relikte verringern die Werte der Feinde |
-| 2875 | [kh_satchel] Caches Grant Random Stat Boost | [kh_satchel] Verstecke gewähren zufälligen Statusboost |
+| 2875 | [kh_satchel] Caches Grant Random Stat Boost | [kh_satchel] Verstecke gewähren zufälligen Attributsbonus |
 | 2876 | [ee_meteor] Meteors Grant An Additional Effect | [ee_meteor] Meteore gewähren einen zusätzlichen Effekt |
-| 2877 | [dmr_biggears] Giant Gears Decrease Enemies' Intelligence | [dmr_biggears] Riesige Zahnräder Verringern die Intelligenz der Feinde |
+| 2877 | [dmr_biggears] Giant Gears Decrease Enemies' Intelligence | [dmr_biggears] Riesige Zahnräder verringern die Intelligenz der Feinde |
 | 2878 | [lobab_horse] Figurines Grant Speed Boost | [lobab_horse] Figuren gewähren Geschwindigkeitsschub |
 | 2879 | [ot_vines] Snaptrap Vines Drop Treasure | [ot_vines] Schnapphafenranken lassen Schätze fallen |
 | 2880 | [ag_bigtreasure] +1 Large Treasure Chests Spawn | [ag_bigtreasure] +1 Große Schatztruhen erscheinen |
 | 2881 | [gh_housecards] Houses of Cards Drop Treasure | [gh_housecards] Kartenhäuser lassen Schätze fallen |
 | 2882 | [fl_circuit] Schematics Grant Random Spell Gem | [fl_circuit] Schaltpläne gewähren zufälligen Zauberstein |
 | 2883 | [fae_orb] Orbs Decrease Enemies' Speed | [fae_orb] Kugeln verringern die Geschwindigkeit der Feinde |
-| 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine Schaden an Feinden |
+| 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine schaden an Feinden |
 | 2885 | [fdp_bughive] Waspid Hives Grant 100% Dodge Chance In Next Battle | [fdp_bughive] Wespidnester gewähren 100% Ausweichchance im nächsten Kampf |
 | 2886 | Relaxed | Entspannt |
 | 2887 | Normal | Normal |
