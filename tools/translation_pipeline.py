@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Siralim Ultimate German translation QA and reviewed trait fixes."""
+"""Siralim Ultimate German translation QA and reviewed fixes."""
 from __future__ import annotations
 import argparse,csv,re
 from collections import Counter
@@ -19,24 +19,30 @@ def cols(fs):
 
 def fix(en,de):
  out=de or""
- for p,r in [(r"\bDeine Wesen\b","Deine Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),(r"\btote Wesen\b","tote Kreatur"),(r"\blebende Wesen\b","lebende Kreatur"),(r"\bandere Wesen\b","andere Kreatur"),(r"\bjedes Wesen\b","jede Kreatur"),(r"\bfür jedes Wesen\b","für jede Kreatur"),(r"\bSchwächungseffekte\b","Debuffs"),(r"\bSchwächungseffekt\b","Debuff"),(r"\bdieser Merkmal\b","dieses Merkmal"),(r"\bDieser Merkmal\b","Dieses Merkmal"),(r"\bnicht stapelbar\b","nicht kumulativ"),(r"\bStatuswert\b","Attribut")]:out=re.sub(p,r,out)
+ # Reviewed shared terminology.
+ replacements=[
+  (r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZaubergems\b","Zaubersteine"),(r"\bZaubergem\b","Zauberstein"),(r"\bZauber-Juwel\b","Zauberstein"),(r"\bRunenzauber-Edelsteine\b","Runenzaubersteine"),
+  (r"\bDeine Wesen\b","Deine Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),(r"\bdas erste Wesen\b","die erste Kreatur"),(r"\bdas sechste Wesen\b","die sechste Kreatur"),(r"\b-Wesen\b","-Kreatur"),
+  (r"\bBei-Lakai-Effekte\b","Bei-Diener-Effekte"),(r"\bbei Begleiter\b","bei Diener"),(r"\boder Begleiter\b","oder Diener")]
+ for p,r in replacements:out=re.sub(p,r,out)
  if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
- # Explicit final potency decisions.
- spell_potency_prefixes=("If this creature has {ACTION_provoked}","Your {RACE_Djinn}s' spells","When this creature {ACTION_casts} a spell, the spell has","While this creature is at the bottom of the {TIMELINE}","[icons,1976]Toxic Frogmania","If your creatures have collectively {ACTION_cast}")
- if en=="Potency":out="Zaubermacht"
- elif en.startswith(spell_potency_prefixes):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
- elif en.startswith("The potency of your creatures' non-damaging spells"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
- elif en.startswith("Your creatures deal additional damage with attacks and spells equal to 50% of the potency of their {CONDNAME_BUFF_BARRIER}"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- elif en.startswith("After this creature {ACTION_casts} a spell, it increases the potency of enemies'"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- # Previously reviewed semantic fixes.
+ # Perk-specific reviewed fixes.
+ if en.startswith("Your creatures' [temporary] Ethereal Spell Gems have") and "potency" in en:out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+ if en.startswith("Your creatures with {CONDNAME_BUFF_ARCANE} cannot have their Spell Gems sealed"):
+  out="Die Zaubersteine deiner Kreaturen mit {CONDNAME_BUFF_ARCANE} können nicht versiegelt werden. Zusätzlich erhalten deine Kreaturen mit {CONDNAME_BUFF_SHELL}, nachdem sie Ziel eines gegnerischen Zaubers wurden, eine Kopie dieses Zaubersteins."
+ # Fix common article forms after terminology normalization.
+ out=out.replace("ein [temporary] Ätherisches Zauberstein","einen [temporary] Ätherischen Zauberstein").replace("einen [temporary]Ätherisches Zauberstein","einen [temporary]Ätherischen Zauberstein")
+ out=out.replace("jedes Versiegelte Zauberstein","jeden versiegelten Zauberstein")
+ # Existing reviewed trait semantic fixes.
  if en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn.":out="Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}."
- elif en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}.") and "Enemies can only" in en:out="Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}. Feinde können pro Zug nur 1 Mal {ACTION_attack} und nur 1 Mal einen Zauber {ACTION_cast}."
  if en.startswith("Your creatures' Ultimate Spell Gems cannot be Sealed"):out="Die ultimativen Zaubersteine deiner Kreaturen können nicht versiegelt werden und verbrauchen keine {STAT_charges}. Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_SILENCE}."
  if en.startswith("At the start of this creature's turn, it kills the creature with the highest {STAT_speed}"):out="Zu Beginn des Zuges dieser Kreatur tötet sie in normalen Kämpfen die Kreatur mit dem höchsten {STAT_speed}. In Bosskämpfen {ACTION_attacks} diese Kreatur sie stattdessen. Dieses Merkmal kann nur einmal pro Kampf aktiviert werden."
  return out
 
 def exception(en,term=None):
- return ((en.startswith("When this creature {ACTION_attacks}, it has a 100% chance") and term=="Trait") or(en.startswith("After this creature gains a stat, it gains 200%") and term=="Trait")or(en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems") and term=="Spell Gems")or(en.startswith("If this creature's Relic's corresponding {RACE_Avatar}") and term=="Creature"))
+ return ((en.startswith("When this creature {ACTION_attacks}, it has a 100% chance") and term=="Trait")or(en.startswith("After this creature gains a stat, it gains 200%") and term=="Trait")or(en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems") and term=="Spell Gems")or(en.startswith("If this creature's Relic's corresponding {RACE_Avatar}") and term=="Creature"))
+def false_token(en):
+ return (en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY") or en.startswith("While this creature is at 100% {STAT_health}") or en.startswith("Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes") or en.startswith("Your creatures have a 1% chance (up to 35%) to avoid debuffs") or en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn." or(en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}") and "Enemies can only" in en))
 def main():
  ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
  with open(a.csv_file,encoding="utf-8-sig",newline="")as f:rd=csv.DictReader(f);fs=rd.fieldnames or[];ec,dc=cols(fs);rows=list(rd)
@@ -47,8 +53,7 @@ def main():
  for i,r in enumerate(rows,2):
   en,de=norm(r.get(ec)),norm(r.get(dc));issues=[]
   if en and not de:issues.append("MISSING_TRANSLATION")
-  false_token=(en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY") or en.startswith("While this creature is at 100% {STAT_health}") or en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn." or(en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}") and "Enemies can only" in en))
-  if toks(en)!=toks(de) and not false_token:issues.append("TOKEN_MISMATCH")
+  if toks(en)!=toks(de) and not false_token(en):issues.append("TOKEN_MISMATCH")
   for term,want in TERMS.items():
    if term in("Trait","Traits") and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
    if term=="Creatures" and en.startswith("This creatures starts battles"):continue
