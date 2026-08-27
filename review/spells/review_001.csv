@@ -1,5 +1,0 @@
-line,english,german,issues,reviewed,replacement
-43,Target's Spell Gems are Sealed for the rest of the battle.,Zielzauberedelsteine sind für den Rest des Kampfes versiegelt.,TERM:Spell Gems->Zaubersteine,,
-509,"Each of the caster's other, permanent Spell Gems have a 30% chance to be {ACTION_cast}. Maximum of 3 spells can be {ACTION_cast}.","Jeder andere, permanente Zauberstein des Zauberwirkers hat eine 30% Chance, {ACTION_cast} zu werden. Maximal 3 Zauber können {ACTION_cast} werden.",TERM:Spell Gems->Zaubersteine,,
-963,Target's Spell Gems' {STAT_charges} are set to 35%.,Zielzauber-Edelsteine {STAT_charges} werden auf 35% gesetzt.,TERM:Spell Gems->Zaubersteine,,
-1465,"A random enemy recovers a large amount of {STAT_health}. This spell cannot be cast manually, but has a 100% chance to be cast after its owner is forcibly moved to the bottom of the {TIMELINE}.","Ein zufälliger Gegner erhält eine große Menge an {STAT_health} zurück. Dieser Zauber kann nicht manuell gewirkt werden, hat aber eine 100%ige Chance, gewirkt zu werden, nachdem sein Besitzer zwangsweise ans Ende der {TIMELINE} verschoben wurde.",TOKEN_MISMATCH,,
