@@ -18,30 +18,28 @@ def cols(fs):
 def fix(en,de):
  out=de or""
  for p,r in [(r"Zauberjuwel","Zauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein")]:out=re.sub(p,r,out)
- # Mechanical trait terminology only when the source actually means the game Trait concept.
  if "Trait Material" in en:out=out.replace("Eigenschaftsmaterial","Merkmalsmaterial")
  if en.startswith("Everett:\\nWhen you Fuse two creatures together"):out=out.replace("Eigenschaften beider","Merkmale beider").replace("seine Werte","seine Attribute").replace("Durchschnitt der Werte","Durchschnitt der Attribute")
- # Mechanical creature references in tutorial/UI text.
  if en.startswith("This creature has already used 15 scrolls."):out=out.replace("Dieses Wesen","Diese Kreatur")
  if en.startswith("You can now Transmogrify your character"):out=out.replace("jedes Wesen der","jede Kreatur der")
  if en.startswith("You should bring along at least one creature before using the Teleportation Shrine."):out="Du solltest mindestens eine Kreatur mitnehmen, bevor du den Teleportationsschrein benutzt."
  if en.startswith("Nortah:\\nYou can return to the Menagerie"):out=out.replace("ein Wesen aus deiner Gruppe","eine Kreatur aus deiner Gruppe")
- # Decoration/UI names are strict terminology.
  if en=="Spell Gems":out="Zaubersteine"
  if en=="Abnormal Spell Gems":out="Abnormale Zaubersteine"
  if en=="Customizable Creature":out="Anpassbare Kreatur"
- # Missing proper names are intentionally unchanged in German.
  if en in("Scylla","Charybdis") and not out:out=en
- # Existing content decisions.
- if en=="Doubles the potency of these effects.":out="Verdoppelt die Effektstärke dieser Effekte."
+ # Personality: here 'trait' is ordinary prose, not the game mechanic.
+ if en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":out="(Es scheint übermäßig selbstsicher zu sein. Immer eine gute Eigenschaft für ein Wesen.)"
+ if en=="NEW HOBBY. WANT TO EAT YOUR SPELL GEMS NOW.":out="NEUES HOBBY. WILL JETZT DEINE ZAUBERSTEINE FRESSEN."
  return out
 
 def narrative_file(path):return Path(path).stem in {"personality","dialog","dialog_story"}
 def exception(path,en,term):
- # In narrative/flavour prose, creature may naturally be Wesen/Geschöpf/Viech etc.
  if narrative_file(path) and term in("Creature","Creatures"):
   mechanical=(en.startswith("This creature has already used 15 scrolls.") or en.startswith("You can now Transmogrify your character") or en.startswith("You should bring along at least one creature before using the Teleportation Shrine.") or en.startswith("Nortah:\\nYou can return to the Menagerie"))
   return not mechanical
+ # Narrative English 'trait' can mean ordinary characteristic rather than Trait mechanic.
+ if Path(path).stem=="personality" and term in("Trait","Traits") and en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":return True
  return False
 def false_token(en):return en.startswith("A random enemy recovers a large amount of {STAT_health}")
 def main():
