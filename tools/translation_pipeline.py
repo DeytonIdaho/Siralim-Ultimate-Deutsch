@@ -18,7 +18,10 @@ def cols(fs):
 def fix(en,de):
  out=de or""
  for p,r in [(r"Zauberjuwel","Zauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein")]:out=re.sub(p,r,out)
- if "Trait Material" in en:out=out.replace("Eigenschaftsmaterial","Merkmalsmaterial")
+ if "Trait Material" in en:out=out.replace("Eigenschaftsmaterialien","Merkmalsmaterialien").replace("Eigenschaftsmaterial","Merkmalsmaterial")
+ # Small obvious language cleanup surfaced in Lore.
+ if en.startswith("The most ambitious project was directed by Zonte's master"):out=out.replace("Der ehrgeizigste Projekt","Das ehrgeizigste Projekt")
+ # Existing reviewed context-sensitive fixes.
  if en.startswith("Everett:\\nWhen you Fuse two creatures together"):out=out.replace("Eigenschaften beider","Merkmale beider").replace("seine Werte","seine Attribute").replace("Durchschnitt der Werte","Durchschnitt der Attribute")
  if en.startswith("This creature has already used 15 scrolls."):out=out.replace("Dieses Wesen","Diese Kreatur")
  if en.startswith("You can now Transmogrify your character"):out=out.replace("jedes Wesen der","jede Kreatur der")
@@ -28,18 +31,20 @@ def fix(en,de):
  if en=="Abnormal Spell Gems":out="Abnormale Zaubersteine"
  if en=="Customizable Creature":out="Anpassbare Kreatur"
  if en in("Scylla","Charybdis") and not out:out=en
- # Personality: here 'trait' is ordinary prose, not the game mechanic.
  if en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":out="(Es scheint übermäßig selbstsicher zu sein. Immer eine gute Eigenschaft für ein Wesen.)"
  if en=="NEW HOBBY. WANT TO EAT YOUR SPELL GEMS NOW.":out="NEUES HOBBY. WILL JETZT DEINE ZAUBERSTEINE FRESSEN."
  return out
 
-def narrative_file(path):return Path(path).stem in {"personality","dialog","dialog_story"}
+def narrative_file(path):return Path(path).stem in {"personality","dialog","dialog_story","lore"}
 def exception(path,en,term):
+ stem=Path(path).stem
+ # Lore and flavour prose may freely use Wesen/Geschöpf/Bestie etc. for creature.
  if narrative_file(path) and term in("Creature","Creatures"):
   mechanical=(en.startswith("This creature has already used 15 scrolls.") or en.startswith("You can now Transmogrify your character") or en.startswith("You should bring along at least one creature before using the Teleportation Shrine.") or en.startswith("Nortah:\\nYou can return to the Menagerie"))
   return not mechanical
- # Narrative English 'trait' can mean ordinary characteristic rather than Trait mechanic.
- if Path(path).stem=="personality" and term in("Trait","Traits") and en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":return True
+ if stem=="personality" and term in("Trait","Traits") and en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":return True
+ # In Lore, ordinary prose 'trait' should not be forced to the mechanical term unless explicitly a game term.
+ if stem=="lore" and term in("Trait","Traits") and "Trait Material" not in en:return True
  return False
 def false_token(en):return en.startswith("A random enemy recovers a large amount of {STAT_health}")
 def main():
