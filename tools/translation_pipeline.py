@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Siralim Ultimate German translation QA and final reviewed trait fixes."""
+"""Siralim Ultimate German translation QA and reviewed trait fixes."""
 from __future__ import annotations
 import argparse,csv,re
 from collections import Counter
@@ -19,8 +19,22 @@ def cols(fs):
 
 def fix(en,de):
  out=de or""
- for p,r in [(r"\bZauberedelsteinen\b","Zaubersteinen"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelsteins\b","Zaubersteins"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZauber-Edelsteinen\b","Zaubersteinen"),(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bDeine Wesen\b","Deine Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),(r"\bdieses Wesens\b","dieser Kreatur"),(r"\bStatuswerts\b","Attributs"),(r"\bStatuswerten\b","Attributen"),(r"\bStatuswert\b","Attribut")]:out=re.sub(p,r,out)
+ # Unambiguous terminology/grammar cleanup from final consistency scan.
+ for p,r in [
+  (r"\bZauberedelstein\w*\b","Zauberstein"),(r"\bZauber-Edelstein\w*\b","Zauberstein"),
+  (r"\bDeine Wesen\b","Deine Kreaturen"),(r"\bdeine Wesen\b","deine Kreaturen"),(r"\btote Wesen\b","tote Kreatur"),(r"\blebende Wesen\b","lebende Kreatur"),(r"\bandere Wesen\b","andere Kreatur"),
+  (r"\bSchwächungseffekte\b","Debuffs"),(r"\bSchwächungseffekt\b","Debuff"),(r"\bStärkungseffekte\b","Buffs"),(r"\bStärkungseffekt\b","Buff"),
+  (r"\bSchwächungen\b","Debuffs"),(r"\bSchwächungszauber\b","Debuffs"),
+  (r"\bdieser Merkmal\b","dieses Merkmal"),(r"\bDieser Merkmal\b","Dieses Merkmal"),(r"\bnicht stapelbar\b","nicht kumulativ"),
+  (r"\bStatuswerts\b","Attributs"),(r"\bStatuswerten\b","Attributen"),(r"\bStatuswert\b","Attribut"),(r"\bWerte \(außer","Attribute (außer")]:out=re.sub(p,r,out)
  if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
+ # Potency: spell potency = Zaubermacht. Buff/debuff/barrier potency = Effektstärke.
+ if re.search(r"\bpotency\b",en,re.I):
+  effect_context=bool(re.search(r"(?:DEBUFF|BUFF|Barrier|debuff|buff).*potency|potency.*(?:DEBUFF|BUFF|Barrier|debuff|buff)",en,re.I))
+  spell_context=bool(re.search(r"spell(?:'s|s')? potency|potency of .*spells|spells?.{0,40}potency|potency.{0,40}spells?",en,re.I))
+  if effect_context and not spell_context:out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+  elif spell_context and not effect_context:out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+ # Preserve already reviewed individual semantic fixes.
  if en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn.":out="Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}."
  elif en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}.") and "Enemies can only" in en:out="Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}. Feinde können pro Zug nur 1 Mal {ACTION_attack} und nur 1 Mal einen Zauber {ACTION_cast}."
  if en.startswith("Your creatures' Ultimate Spell Gems cannot be Sealed"):out="Die ultimativen Zaubersteine deiner Kreaturen können nicht versiegelt werden und verbrauchen keine {STAT_charges}. Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_SILENCE}."
@@ -29,12 +43,7 @@ def fix(en,de):
  return out
 
 def exception(en,term=None):
- if en.startswith("When this creature {ACTION_attacks}, it has a 100% chance") and term=="Trait":return True
- if en.startswith("After this creature gains a stat, it gains 200%") and term=="Trait":return True
- if en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems") and term=="Spell Gems":return True
- if en.startswith("If this creature's Relic's corresponding {RACE_Avatar}") and term=="Creature":return True
- return False
-
+ return ((en.startswith("When this creature {ACTION_attacks}, it has a 100% chance") and term=="Trait") or (en.startswith("After this creature gains a stat, it gains 200%") and term=="Trait") or (en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems") and term=="Spell Gems") or (en.startswith("If this creature's Relic's corresponding {RACE_Avatar}") and term=="Creature"))
 def main():
  ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
  with open(a.csv_file,encoding="utf-8-sig",newline="")as f:rd=csv.DictReader(f);fs=rd.fieldnames or[];ec,dc=cols(fs);rows=list(rd)
