@@ -21,19 +21,16 @@ def fix(en,de):
  out=de or""
  for p,r in [(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZaubergems\b","Zaubersteine"),(r"\bZaubergem\b","Zauberstein"),(r"\bZauber-Juwel\b","Zauberstein"),(r"\bRunenzauber-Edelsteine\b","Runenzaubersteine"),(r"\bStatuswerte\b","Attribute"),(r"\bStatuswert\b","Attribut"),(r"\bSchwächungszaubers\b","Debuffs"),(r"\bSchwächungszauber\b","Debuff"),(r"\bSchergen\b","Diener"),(r"\bLakaien\b","Diener"),(r"\bLakai\b","Diener"),(r"\bDieser Effekt stapelt sich mehrmals hintereinander\b","Dieser Effekt ist mehrfach hintereinander kumulativ")]:out=re.sub(p,r,out)
  if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
- # Potency classification: spells/gems => Zaubermacht; debuffs/effects => Effektstärke.
  if re.search(r"\b(?:potency|potent)\b",en,re.I):
-  spell=bool(re.search(r"(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s).{0,60}(?:potency|potent)|(?:potency|potent).{0,60}(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s)",en,re.I))
-  effect=bool(re.search(r"(?:debuff|effects?|CONDNAME_DEBUFF).{0,80}(?:potency|potent)|(?:potency|potent).{0,80}(?:debuff|effects?|CONDNAME_DEBUFF)",en,re.I))
+  spell=bool(re.search(r"(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s).{0,60}(?:potency|potent)|(?:potency|potent).{0,60}(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s)",en,re.I));effect=bool(re.search(r"(?:debuff|effects?|CONDNAME_DEBUFF).{0,80}(?:potency|potent)|(?:potency|potent).{0,80}(?:debuff|effects?|CONDNAME_DEBUFF)",en,re.I))
   if spell and not effect:out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
   elif effect and not spell:out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- # Explicit ambiguous cases reviewed from perk consistency scan.
- if en.startswith("Increases the potency of your creatures' effects that increase their stats"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- if en.startswith("Increases the potency of your creatures' effects that decrease enemies' stats"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- if en.startswith("Decreases the potency of enemies' effects that increase their stats"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- if en.startswith("50% of the potency of your creatures' {SPELL_equipment}s"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
- if en.startswith("Your creatures' Relics' spells have"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
- # Previously reviewed semantic fixes.
+ # Final manually classified mixed-context potency cases.
+ if en.startswith("Your creatures' spells that interact with {CONDNAME_DEBUFF_BURNED}"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
+ if en.startswith("Your creatures deal additional damage with attacks and spells equal to <1>% of the enemy’s {CONDNAME_DEBUFF_INVERTED} potency"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ if en.startswith("Your creatures deal additional damage with attacks and spells equal to <4>% of the potency of their {CONDNAME_DEBUFF_POISON}"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ if en.startswith("Increases the potency of your creatures' effects")or en.startswith("Decreases the potency of enemies' effects"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
+ if en.startswith("50% of the potency of your creatures' {SPELL_equipment}s")or en.startswith("Your creatures' Relics' spells have"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
  if en.startswith("Your creatures with {CONDNAME_BUFF_ARCANE} cannot have their Spell Gems sealed"):out="Die Zaubersteine deiner Kreaturen mit {CONDNAME_BUFF_ARCANE} können nicht versiegelt werden. Zusätzlich erhalten deine Kreaturen mit {CONDNAME_BUFF_SHELL}, nachdem sie Ziel eines gegnerischen Zaubers wurden, eine Kopie dieses Zaubersteins."
  if en.strip()=="You can have <1>  additional {RACE_Avatar} creature(s) in your party.":out="Du kannst <1> zusätzliche {RACE_Avatar}-Kreatur(en) in deiner Gruppe haben."
  return out
