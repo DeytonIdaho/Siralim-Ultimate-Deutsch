@@ -19,31 +19,23 @@ def fix(en,de):
  out=de or""
  for p,r in [(r"Zauberjuwel","Zauberstein"),(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein")]:out=re.sub(p,r,out)
  if "Trait Material" in en:out=out.replace("Eigenschaftsmaterialien","Merkmalsmaterialien").replace("Eigenschaftsmaterial","Merkmalsmaterial")
- # Small obvious language cleanup surfaced in Lore.
  if en.startswith("The most ambitious project was directed by Zonte's master"):out=out.replace("Der ehrgeizigste Projekt","Das ehrgeizigste Projekt")
- # Existing reviewed context-sensitive fixes.
- if en.startswith("Everett:\\nWhen you Fuse two creatures together"):out=out.replace("Eigenschaften beider","Merkmale beider").replace("seine Werte","seine Attribute").replace("Durchschnitt der Werte","Durchschnitt der Attribute")
- if en.startswith("This creature has already used 15 scrolls."):out=out.replace("Dieses Wesen","Diese Kreatur")
- if en.startswith("You can now Transmogrify your character"):out=out.replace("jedes Wesen der","jede Kreatur der")
- if en.startswith("You should bring along at least one creature before using the Teleportation Shrine."):out="Du solltest mindestens eine Kreatur mitnehmen, bevor du den Teleportationsschrein benutzt."
- if en.startswith("Nortah:\\nYou can return to the Menagerie"):out=out.replace("ein Wesen aus deiner Gruppe","eine Kreatur aus deiner Gruppe")
- if en=="Spell Gems":out="Zaubersteine"
- if en=="Abnormal Spell Gems":out="Abnormale Zaubersteine"
- if en=="Customizable Creature":out="Anpassbare Kreatur"
- if en in("Scylla","Charybdis") and not out:out=en
- if en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":out="(Es scheint übermäßig selbstsicher zu sein. Immer eine gute Eigenschaft für ein Wesen.)"
- if en=="NEW HOBBY. WANT TO EAT YOUR SPELL GEMS NOW.":out="NEUES HOBBY. WILL JETZT DEINE ZAUBERSTEINE FRESSEN."
+ # Fully reconstruct truncated Lore entries from their complete English source.
+ if en.startswith("At the dawn of civilization, the Amaranths fell from the sky."):
+  out='Zu Beginn der Zivilisation fielen die Amaranthe vom Himmel. Yseros eilte zum Ende der Ewigkeit und traf dort Vertraag. "Warst du das?", fragte sie. "Nein", antwortete der Gott der Zeit. Ein Lächeln erschien auf seinem Gesicht. "Es war niemand. Sie waren bereits hier."\\n\\nWenn ein Zauber den Enklaven-Amaranth trifft, prallt ein Teil der Magie von seinem Körper ab und bewegt sich auf den Zaubernden zu. Nach einer Naturkatastrophe findet man häufig Gruppen dieser Wesen, die schweigend die Schäden betrachten.'
+ if en.startswith("The Goddess of Earth has multiple 'granddaughters' shaped from the stone and dirt and given life"):
+  out="Die Erdgöttin hat mehrere 'Enkelinnen', die aus Stein und Erde geformt und zum Leben erweckt wurden und ihr dabei helfen, das Gleichgewicht in den Verbotenen Tiefen zu bewahren. Obwohl es nur neun von ihnen gibt, ist Thana unter ihnen eine lebende Legende, da sie einen Weg gefunden hat, das Siegel der Verbotenen Tiefen zu umgehen. Von Zeit zu Zeit taucht sie sogar in Vulcanars Reich auf und richtet im Herrschaftsgebiet des Feuergottes Chaos an.\\n\\nAus ferner Vergangenheit gibt es Aufzeichnungen darüber, dass Thana die Oberfläche sogar einmal für kurze Zeit besuchte. Da sie jedoch keine der Sprachen Rodias sprechen kann, hielten die Menschen Thana für ein schreckliches Monster und griffen sie an. Schwer verletzt zog sich Thana in die Verbotenen Tiefen zurück und hegt seither einen tiefen, gewaltsamen Hass auf die Menschheit, dem sie bislang jedoch nicht nachgegeben hat. Das bereitet Anneltha große Sorge, weshalb sie Thana nur jenen anvertraut, von denen sie glaubt, dass sie ihr hoffnungsvollere Sichtweisen vermitteln können."
+ if en.startswith("These dragons can emit a flashing light once a day through their horns"):
+  out="Diese Drachen können einmal am Tag über ihre Hörner ein blitzendes Licht aussenden, das ihre Feinde für mehrere Sekunden blendet. Sie nutzen diese Fähigkeit häufig, wenn sie umzingelt sind, wodurch ihnen die Flucht gelingt ... meistens jedenfalls. Einige Wesen, etwa Imps, haben gelernt, ihre Augen genau in dem Moment zu schließen, in dem ein Kirin aufblitzt, und verschiedene Strategien perfektioniert, um sie zu fangen. Jeder, selbst ein Imp, weiß, dass das Horn eines Kirins nicht blitzen kann, wenn es vom Körper getrennt wurde. Der Besitz eines solchen Horns verleiht dem Imp-Clan, der es besitzt, jedoch Ansehen. Kirins finden das verständlicherweise nicht amüsant: Selbst wenn sie dabei nie getötet werden und ihre Hörner nachwachsen, leiden sie beim Fang und bei der Entfernung der Hörner. Deshalb haben sie begonnen, nachts Häuser der Imps zu zerstören und die gestohlenen Hörner mit ihren Hufen zu zertrümmern – als Rache und Warnung."
  return out
 
 def narrative_file(path):return Path(path).stem in {"personality","dialog","dialog_story","lore"}
 def exception(path,en,term):
  stem=Path(path).stem
- # Lore and flavour prose may freely use Wesen/Geschöpf/Bestie etc. for creature.
  if narrative_file(path) and term in("Creature","Creatures"):
   mechanical=(en.startswith("This creature has already used 15 scrolls.") or en.startswith("You can now Transmogrify your character") or en.startswith("You should bring along at least one creature before using the Teleportation Shrine.") or en.startswith("Nortah:\\nYou can return to the Menagerie"))
   return not mechanical
  if stem=="personality" and term in("Trait","Traits") and en=="(It seems to be excessively confident in itself. Always a good trait to have in a creature.)":return True
- # In Lore, ordinary prose 'trait' should not be forced to the mechanical term unless explicitly a game term.
  if stem=="lore" and term in("Trait","Traits") and "Trait Material" not in en:return True
  return False
 def false_token(en):return en.startswith("A random enemy recovers a large amount of {STAT_health}")
