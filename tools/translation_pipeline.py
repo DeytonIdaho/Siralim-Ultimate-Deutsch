@@ -13,22 +13,24 @@ DEFAULT_TERMS = {
     "Minion": "Diener", "Spell Gem": "Zauberstein", "Spell Gems": "Zaubersteine",
 }
 
-# Only replacements that are unambiguous in mechanical descriptions.
+# Only replacements confirmed as unambiguous during trait review.
 SAFE_REPLACEMENTS = [
     (r"\bDieses Wesen\b", "Diese Kreatur"),
     (r"\bdieses Wesen\b", "diese Kreatur"),
-    (r"\bDieses Wesens\b", "Das Merkmal dieser Kreatur"), # reviewed manually after QA if grammar differs
-    (r"\bWesen\b", "Kreaturen"),
     (r"\bEigenschaft ist nicht stapelbar\b", "Merkmal ist nicht kumulativ"),
     (r"\bDiese Eigenschaft\b", "Dieses Merkmal"),
     (r"\bdiese Eigenschaft\b", "dieses Merkmal"),
     (r"\bStatuswerte\b", "Attribute"),
     (r"\bStatuswert\b", "Attribut"),
     (r"\bZauber-Edelsteine\b", "Zaubersteine"),
+    (r"\bZauber-Edelstein\b", "Zauberstein"),
     (r"\bZauberedelsteine\b", "Zaubersteine"),
     (r"\bZauberedelstein\b", "Zauberstein"),
     (r"\bZauber-Juwel\b", "Zauberstein"),
     (r"\bHandlanger\b", "Diener"),
+    (r"\bSchergen\b", "Diener"),
+    (r"\bSchwächungseffekt\b", "Debuff"),
+    (r"\bStärkungseffekt\b", "Buff"),
     (r"\baktuellen Schlacht\b", "aktuellen Kampf"),
 ]
 
