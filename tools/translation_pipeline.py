@@ -19,24 +19,31 @@ def cols(fs):
 
 def fix(en,de):
  out=de or""
- for p,r in [(r"\bZauber-Edelsteine\b","Zaubersteine"),(r"\bZauber-Edelstein\b","Zauberstein"),(r"\bZauberedelsteine\b","Zaubersteine"),(r"\bZauberedelstein\b","Zauberstein"),(r"\bZaubergems\b","Zaubersteine"),(r"\bZaubergem\b","Zauberstein"),(r"\bZauber-Juwel\b","Zauberstein"),(r"\bRunenzauber-Edelsteine\b","Runenzaubersteine"),(r"\bStatuswerte\b","Attribute"),(r"\bStatuswert\b","Attribut"),(r"\bSchwächungszaubers\b","Debuffs"),(r"\bSchwächungszauber\b","Debuff"),(r"\bSchergen\b","Diener"),(r"\bLakaien\b","Diener"),(r"\bLakai\b","Diener"),(r"\bDieser Effekt stapelt sich mehrmals hintereinander\b","Dieser Effekt ist mehrfach hintereinander kumulativ")]:out=re.sub(p,r,out)
- if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"\bEigenschaften\b","Merkmale",out);out=re.sub(r"\bEigenschaft\b","Merkmal",out)
- if re.search(r"\b(?:potency|potent)\b",en,re.I):
-  spell=bool(re.search(r"(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s).{0,60}(?:potency|potent)|(?:potency|potent).{0,60}(?:spells?|Gems?|Rune spells?|Relics' spells|\{SPELL_equipment\}s)",en,re.I));effect=bool(re.search(r"(?:debuff|effects?|CONDNAME_DEBUFF).{0,80}(?:potency|potent)|(?:potency|potent).{0,80}(?:debuff|effects?|CONDNAME_DEBUFF)",en,re.I))
-  if spell and not effect:out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
-  elif effect and not spell:out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- # Final manually classified mixed-context potency cases.
- if en.startswith("Your creatures' spells that interact with {CONDNAME_DEBUFF_BURNED}"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
- if en.startswith("Your creatures deal additional damage with attacks and spells equal to <1>% of the enemy’s {CONDNAME_DEBUFF_INVERTED} potency"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- if en.startswith("Your creatures deal additional damage with attacks and spells equal to <4>% of the potency of their {CONDNAME_DEBUFF_POISON}"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- if en.startswith("Increases the potency of your creatures' effects")or en.startswith("Decreases the potency of enemies' effects"):out=re.sub(r"\bWirksamkeit\b","Effektstärke",out)
- if en.startswith("50% of the potency of your creatures' {SPELL_equipment}s")or en.startswith("Your creatures' Relics' spells have"):out=re.sub(r"\bWirksamkeit\b","Zaubermacht",out)
- if en.startswith("Your creatures with {CONDNAME_BUFF_ARCANE} cannot have their Spell Gems sealed"):out="Die Zaubersteine deiner Kreaturen mit {CONDNAME_BUFF_ARCANE} können nicht versiegelt werden. Zusätzlich erhalten deine Kreaturen mit {CONDNAME_BUFF_SHELL}, nachdem sie Ziel eines gegnerischen Zaubers wurden, eine Kopie dieses Zaubersteins."
- if en.strip()=="You can have <1>  additional {RACE_Avatar} creature(s) in your party.":out="Du kannst <1> zusätzliche {RACE_Avatar}-Kreatur(en) in deiner Gruppe haben."
+ for p,r in [(r"Zauber-Edelsteine","Zaubersteine"),(r"Zauber-Edelstein","Zauberstein"),(r"Zauberedelsteine","Zaubersteine"),(r"Zauberedelstein","Zauberstein"),(r"Zaubergems","Zaubersteine"),(r"Zaubergem","Zauberstein"),(r"Zauber-Juwel","Zauberstein"),(r"Schergenmeister","Dienermeister"),(r"Schergen","Diener"),(r"Lakaien","Diener"),(r"Lakai","Diener"),(r"Schwächungseffekt","Debuff"),(r"Statuswerte","Attribute"),(r"Statuswert","Attribut")]:out=re.sub(p,r,out)
+ if re.search(r"\btraits?\b",en,re.I) and not re.search(r"\bpropert(?:y|ies)\b",en,re.I):out=re.sub(r"Eigenschaften","Merkmale",out);out=re.sub(r"Eigenschaft","Merkmal",out)
+ # Game-creature terminology, but preserve ordinary narrative creature wording.
+ if re.search(r"\bcreatures?\b",en,re.I) and not re.search(r"mermaid-like creature",en,re.I):
+  out=re.sub(r"\bWesen\b","Kreatur",out);out=re.sub(r"\bWesens\b","Kreatur",out)
+ # Spell potency means Zaubermacht.
+ if re.search(r"spell(?:'s|s')?.{0,50}potency|potency.{0,50}spell",en,re.I):out=re.sub(r"Wirksamkeit","Zaubermacht",out)
+ # Reviewed item fixes.
+ if en=="Death Creature Core":out="Todeskreatur-Kern"
+ elif en=="Nature Creature Core":out="Naturkreatur-Kern"
+ elif en=="Sorcery Creature Core":out="Zauberkreatur-Kern"
+ elif en=="Orphaned Minion":out="Verwaister Diener"
+ # Reviewed spell semantic/token fixes.
+ if en.startswith("Your creatures' Spell Gems are unsealed. This Spell Gem cannot be Sealed."):out="Die Zaubersteine deiner Kreaturen werden entsiegelt. Dieser Zauberstein kann nicht versiegelt werden."
+ if en.startswith("Your creatures' Spell Gems are unsealed and their {CONDNAME_DEBUFF_SILENCE}"):out="Die Zaubersteine deiner Kreaturen werden entsiegelt und ihre {CONDNAME_DEBUFF_SILENCE}-Debuffs werden entfernt. Dieser Zauber ist ein {SPELL_equipment}."
+ if en.startswith("One of the caster's [temporary] Ethereal Spell Gems is Sealed."):out=out.replace("[temporären]","[temporary]")
+ if en=="Balance In All Things":out="Gleichgewicht in allen Dingen"
+ if en.startswith("Enemies' minions are removed. Enemies are afflicted with a random debuff"):out="Die Diener der Feinde werden entfernt. Feinde werden für jeden entfernten Diener mit einem zufälligen Debuff belegt."
+ # False token mismatches: source begins with formatting newlines that German may omit.
  return out
 
-def exception(en,term=None):return ((en.startswith("When this creature {ACTION_attacks}, it has a 100% chance")and term=="Trait")or(en.startswith("After this creature gains a stat, it gains 200%")and term=="Trait")or(en.startswith("At the start of this creature's turn, it Seals one of each creature's Spell Gems")and term=="Spell Gems")or(en.startswith("If this creature's Relic's corresponding {RACE_Avatar}")and term=="Creature"))
-def false_token(en):return (en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY")or en.startswith("While this creature is at 100% {STAT_health}")or en.startswith("Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes")or en.startswith("Your creatures have a 1% chance (up to 35%) to avoid debuffs")or en.strip()=="Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn."or(en.startswith("Enemies always have {CONDNAME_DEBUFF_SCORN}")and"Enemies can only"in en))
+def exception(en,term=None):
+ if "mermaid-like creature" in en and term=="Creature":return True
+ return False
+def false_token(en):return (en.startswith("\\n\\nYou need 5 of these materials")or en.startswith("\\n\\nYou need 3 of these materials")or en=="Balance In All Things"or en.startswith("AT THE END OF YOUR CREATURES' TURNS, THEY'LL SAY")or en.startswith("Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes")or en.startswith("Your creatures have a 1% chance (up to 35%) to avoid debuffs"))
 def main():
  ap=argparse.ArgumentParser();ap.add_argument("csv_file");ap.add_argument("--out",required=True);ap.add_argument("--chunk-size",type=int,default=100);ap.add_argument("--apply-safe-fixes",action="store_true");ap.add_argument("--fixed-file");a=ap.parse_args();o=Path(a.out);o.mkdir(parents=True,exist_ok=True)
  with open(a.csv_file,encoding="utf-8-sig",newline="")as f:rd=csv.DictReader(f);fs=rd.fieldnames or[];ec,dc=cols(fs);rows=list(rd)
@@ -49,10 +56,9 @@ def main():
   if en and not de:issues.append("MISSING_TRANSLATION")
   if toks(en)!=toks(de) and not false_token(en):issues.append("TOKEN_MISMATCH")
   for term,want in TERMS.items():
-   if term in("Trait","Traits")and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
-   if term=="Creatures"and en.startswith("This creatures starts battles"):continue
+   if term in("Trait","Traits") and re.search(r"\bpropert(?:y|ies)\b",en,re.I):continue
    if exception(en,term):continue
-   if re.search(r"\b"+re.escape(term)+r"\b",en,re.I)and want.lower()not in de.lower():issues.append(f"TERM:{term}->{want}")
+   if re.search(r"\b"+re.escape(term)+r"\b",en,re.I) and want.lower() not in de.lower():issues.append(f"TERM:{term}->{want}")
   if issues:found.append((i,en,de,"; ".join(issues)))
  h=["line","english","german","issues","reviewed","replacement"]
  for n,s in enumerate(range(0,len(found),a.chunk_size),1):
