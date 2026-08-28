@@ -3,7 +3,7 @@
 - Localization rows scanned: 37568
 - Exact English strings with multiple German variants: 2
 - Token mismatch candidates: 68
-- Number/percentage mismatch candidates: 17
+- Number/percentage mismatch candidates: 16
 - Explicit suspect-term occurrences: 25
 - trait focused outliers: 41
 - buff focused outliers: 0
