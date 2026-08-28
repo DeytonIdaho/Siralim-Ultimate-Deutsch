@@ -27,9 +27,10 @@ jobs:
             python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100 --apply-safe-fixes --fixed-file "$file"
           done
 
-      - name: Apply reviewed achievement package
+      - name: Apply reviewed packages
         run: |
           python tools/apply_achievement_review.py
+          python tools/apply_ui_review.py
 
       - name: Generate fresh QA queues
         run: |
@@ -45,14 +46,11 @@ jobs:
           python - <<'PY'
           import csv
           from pathlib import Path
-
           BLOCK = 100
           root = Path('.')
           outroot = Path('human_review')
-
           def esc(value):
               return (value or '').replace('|', '\\|').replace('\n', '\\n').replace('\r', '')
-
           for src in sorted(root.glob('*.csv')):
               with src.open(encoding='utf-8-sig', newline='') as f:
                   reader = csv.DictReader(f)
@@ -64,23 +62,18 @@ jobs:
                       print(f'Skipping {src}: EN/DE columns not found')
                       continue
                   rows = list(reader)
-
               target = outroot / src.stem
               target.mkdir(parents=True, exist_ok=True)
+              block_no = 0
               for block_no, start in enumerate(range(0, len(rows), BLOCK), 1):
                   chunk = rows[start:start+BLOCK]
                   first = start + 1
                   last = start + len(chunk)
-                  lines = [
-                      f'# Human review: {src.name} — {first}-{last}',
-                      '',
-                      '| Row | English | German |',
-                      '|---:|---|---|',
-                  ]
+                  lines = [f'# Human review: {src.name} — {first}-{last}','','| Row | English | German |','|---:|---|---|']
                   for offset, row in enumerate(chunk, start=first+1):
                       lines.append(f'| {offset} | {esc(row.get(en_col))} | {esc(row.get(de_col))} |')
                   (target / f'block_{block_no:03d}.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
-              print(f'{src.name}: {len(rows)} rows -> {block_no if rows else 0} blocks')
+              print(f'{src.name}: {len(rows)} rows -> {block_no} blocks')
           PY
 
       - name: Commit corrected files and review data
