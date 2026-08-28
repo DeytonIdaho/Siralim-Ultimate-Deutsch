@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Final cross-file consistency QA plus ACTION-token inventory."""
+"""Final cross-file consistency QA plus ACTION-token/source inventory."""
 import csv,re
 from pathlib import Path
 from collections import Counter,defaultdict
 ROOT=Path('.');OUT=Path('consistency_review');EN_COLS=('english','en','source','original','text_en','description_en');DE_COLS=('german','de','deutsch','translation','text_de','description_de')
 TOKEN=re.compile(r'\{[^{}]+\}|<\d+>|\[[^\[\]]+\]');ACTION=re.compile(r'\{ACTION_[^{}]+\}',re.I);RAWNUM=re.compile(r'(?<![\w])\d+(?:[.,]\d+)*(?:%)?')
-RULES={'buff':('Buff','Buffs','buffen','Buffe','bufft','gebufft'),'debuff':('Debuff','Debuffs','debuffen','Debuffe','debufft','gedebufft'),'minion':('Diener','Dienern','Dienermeister','Dienerschaden'),'perk':('Talent','Talente','Talenten','Talentpunkt','Talentpunkte','Talentrang')}
+ACTION_WORDS={'Attack','Attacks','Attacked','Attacking','Cast','Casts','Casting','Defend','Defends','Defended','Defending','Provoke','Provokes','Provoked','Provoking','Charge','Charges'}
 FOCUSED={'buff':(re.compile(r'\bbuffs?\b',re.I),re.compile(r'\bbuff(?:s|e|en|t|te|ten)?\b|\bgebufft\b',re.I)),'debuff':(re.compile(r'\bdebuffs?\b',re.I),re.compile(r'\bdebuff(?:s|e|en|t|te|ten)?\b|\bgedebufft\b',re.I)),'minion':(re.compile(r'\bminions?\b',re.I),re.compile(r'\bdiener',re.I)),'perk':(re.compile(r'\bperks?\b|\bperk[ -](?:points?|ranks?|menu|screen|list|tree)\b',re.I),re.compile(r'\b(?:spezialisierungs)?talent',re.I))}
 ALLOWED_MULTI={'Attack','Casting','Provoking','Dice'}
 def cols(fs):
@@ -38,10 +38,11 @@ def main():
    r=csv.DictReader(f);e,d=cols(r.fieldnames or [])
    if not e or not d:continue
    for line,row in enumerate(r,2):rows.append((p.name,line,row.get(e,'') or '',row.get(d,'') or ''))
- exact=defaultdict(Counter);examples=defaultdict(lambda:defaultdict(list));tm=[];nm=[];focused={k:[] for k in FOCUSED};action_rows=[];action_counts=Counter()
+ exact=defaultdict(Counter);examples=defaultdict(lambda:defaultdict(list));tm=[];nm=[];focused={k:[] for k in FOCUSED};action_rows=[];action_counts=Counter();source_rows=[]
  for fn,line,en,de in rows:
   ne,nd=norm(en),norm(de)
   if ne:exact[ne][nd]+=1;examples[ne][nd].append(f'{fn}:{line}')
+  if en.strip() in ACTION_WORDS:source_rows.append((en.strip(),fn,line,de))
   et,dt=Counter(TOKEN.findall(en)),Counter(TOKEN.findall(de))
   if et!=dt and not reviewed_token(en,de):tm.append((fn,line,en,de,str(dict(et)),str(dict(dt))))
   ev,dv=nums(en),nums(de)
@@ -61,6 +62,7 @@ def main():
  for k,v in focused.items():dump(f'{k}_outliers.csv',['file','line','english','german'],v)
  dump('action_token_inventory.csv',['action_token','file','row','english_count','german_count','english','german'],action_rows)
  dump('action_token_counts.csv',['action_token','occurrences'],sorted(action_counts.items(),key=lambda x:(x[0].lower(),x[0])))
- summary=f'# Final Global Consistency QA\n\n- Localization rows scanned: {len(rows)}\n- Unique ACTION tokens: {len(action_counts)}\n- ACTION token occurrences: {sum(action_counts.values())}\n- Unreviewed duplicate groups: {len(set(x[0] for x in multirows))}\n- Unreviewed token mismatches: {len(tm)}\n- Unreviewed number/percentage mismatches: {len(nm)}\n'+''.join(f'- {k} terminology outliers: {len(v)}\n' for k,v in focused.items())+'\nACTION inventory: `action_token_counts.csv` and `action_token_inventory.csv`.\nReviewed known exceptions are filtered from this final report.\n'
- (OUT/'SUMMARY.md').write_text(summary,encoding='utf-8');print(summary);print('ACTION tokens:',dict(sorted(action_counts.items())))
+ dump('action_source_words.csv',['english','file','row','german'],sorted(source_rows,key=lambda x:(x[0].lower(),x[1],x[2])))
+ summary=f'# Final Global Consistency QA\n\n- Localization rows scanned: {len(rows)}\n- Unique ACTION tokens: {len(action_counts)}\n- ACTION token occurrences: {sum(action_counts.values())}\n- Exact action/charge source-word rows: {len(source_rows)}\n- Unreviewed duplicate groups: {len(set(x[0] for x in multirows))}\n- Unreviewed token mismatches: {len(tm)}\n- Unreviewed number/percentage mismatches: {len(nm)}\n'+''.join(f'- {k} terminology outliers: {len(v)}\n' for k,v in focused.items())+'\nACTION reports: `action_token_counts.csv`, `action_token_inventory.csv`, `action_source_words.csv`.\nReviewed known exceptions are filtered from this final report.\n'
+ (OUT/'SUMMARY.md').write_text(summary,encoding='utf-8');print(summary)
 if __name__=='__main__':main()
