@@ -52,7 +52,7 @@
 | 2749 | [tc_maiden] 5% Chance for Iron Maidens to Spawn a Dumpling | [tc_maiden] 5% Chance für Eiserne Jungfrauen, einen Knödel zu spawnen |
 | 2750 | [fc_igloo] Igloos Grant 100% Critical Chance In Next Battle | [fc_igloo] Iglus gewähren 100% kritische Trefferchance im nächsten Kampf |
 | 2751 | [fe_pineapple] 20% Chance to Receive Emblem From Pineapples | [fe_pineapple] 20% Chance, ein Emblem von Ananas zu erhalten |
-| 2752 | [bns_relic] Relics Damage Enemies | [bns_relic] Relikte fügen Gegnern Schaden zu |
+| 2752 | [bns_relic] Relics Damage Enemies | [bns_relic] Relikte fügen Feinden Schaden zu |
 | 2753 | [bg_flute] Flutes Grant +1 Attacks In Next Battle | [bg_flute] Flöten gewähren +1 Angriffe im nächsten Kampf |
 | 2754 | [su_brain] Brains Drop Treasure | [su_brain] Gehirne lassen Schätze fallen |
 | 2755 | [cj_totem] Totems Decrease Enemies' Stats | [cj_totem] Totems verringern die Werte der Feinde |
@@ -60,12 +60,12 @@
 | 2757 | [wdsd_mask] Masks Decrease Enemies' Stats | [wdsd_mask] Masken verringern die Attribute der Gegner |
 | 2758 | [kh_potions] Potion Shelves Decrease Enemies' Stats | [kh_potions] Trankregale verringern die Attribute der Gegner |
 | 2759 | [ee_orbsun] Sun Orbs Drop Treasure | [ee_orbsun] Sonnen-Kugeln lassen Schätze fallen |
-| 2760 | [dmr_generator] Generators Damage Enemies | [dmr_generator] Generatoren Schaden Gegnern |
+| 2760 | [dmr_generator] Generators Damage Enemies | [dmr_generator] Generatoren fügen Feinden Schaden zu |
 | 2761 | [lobab_scaleright] 50% Chance to Receive Treasure From Right-Tipping Scales | [lobab_scaleright] 50% Chance, Schätze von rechts kippenden Waagen zu erhalten |
 | 2762 | [ot_altar] Bloodstained Altars Grant Speed Boost | [ot_altar] Blutbefleckte Altäre gewähren Geschwindigkeitsschub |
 | 2763 | [ag_sculpture] +2 Sculptures Spawn | [ag_sculpture] +2 Skulpturen erscheinen |
 | 2764 | [gh_cards] Decks of Cards Grant Treasure Chest After Next Battle | [gh_cards] Kartendecks gewähren Schatztruhe nach dem nächsten Kampf |
-| 2765 | [fl_weapons] Weapon Piles Damage Enemies | [fl_weapons] Waffenhaufen fügen Gegnern Schaden zu |
+| 2765 | [fl_weapons] Weapon Piles Damage Enemies | [fl_weapons] Waffenhaufen fügen Feinden Schaden zu |
 | 2766 | [fae_fairy] -1 Mischievous Fae Chase Time | [fae_fairy] -1 Zeit der Verfolgung durch schelmische Feen |
 | 2767 | [amg_eyeportal] Eyes of T'mere M'rgo Grant Timeline Priority In Next Battle | [amg_eyeportal] Augen von T'mere M'rgo gewähren Zeitlinienpriorität im nächsten Kampf |
 | 2768 | [fdp_bluemagnet] Blue Magnetic Stones Grant a Random Stat Boost | [fdp_bluemagnet] Blaue Magnetsteine gewähren einen zufälligen Attributsbonus |
@@ -94,7 +94,7 @@
 | 2791 | [bns_oasis] Oases Are More Rewarding | [bns_oasis] Oasen sind lohnender |
 | 2792 | [bg_cave] Cove Boss Battles Grant +1 Casts In Next Battle | [bg_cave] Höhlenbosskämpfe gewähren +1 Anwendungen im nächsten Kampf |
 | 2793 | [su_mirror] Mirrors Grant Increased Damage In Next Battle | [su_mirror] Spiegel gewähren erhöhten Schaden im nächsten Kampf |
-| 2794 | [cj_imphut] Imp Huts Damage Enemies | [cj_imphut] Wichtelhütten Schaden Feinde |
+| 2794 | [cj_imphut] Imp Huts Damage Enemies | [cj_imphut] Wichtelhütten fügen Feinden Schaden zu |
 | 2795 | [an_ichor] 5% Chance For Ichor To Spawn a Dumpling | [an_ichor] 5% Chance, dass Ichor einen Knödel erschafft |
 | 2796 | [wdsd_jellyfish] Jellyfish Grant Resources | [wdsd_jellyfish] Quallen gewähren Ressourcen |
 | 2797 | [kh_knight] Knights Kill Random Enemy In Next Battle | [kh_knight] Ritter töten zufälligen Gegner im nächsten Kampf |

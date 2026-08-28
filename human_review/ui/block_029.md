@@ -33,7 +33,7 @@
 | 2830 | [bns_treasure] Buried Treasure Grants Treasure Chest After Next Battle | [bns_treasure] Vergrabener Schatz gewährt Schatztruhe nach dem nächsten Kampf |
 | 2831 | [bg_trap] Traps Damage Enemies | [bg_trap] Fallen fügen Feinden Schaden zu |
 | 2832 | [su_obelisk] Obelisks Grant a Minion | [su_obelisk] Obelisken gewähren einen Diener |
-| 2833 | [cj_fruity] Vomiting Fruit Is More Rewarding | [cj_fruity] Früchte Erbrechen ist Lohnender |
+| 2833 | [cj_fruity] Vomiting Fruit Is More Rewarding | [cj_fruity] Erbrechende Früchte sind lohnender |
 | 2834 | [an_shrine] Spider Shrines Spawn a Nemesis Creature | [an_shrine] Spinnenschreine beschwören eine Nemesis-Kreatur |
 | 2835 | [wdsd_shipwreck] 50% Chance to Receive Double Resources From Shipwrecks | [wdsd_shipwreck] 50% Chance auf doppelte Ressourcen aus Schiffswracks |
 | 2836 | [kh_arms] Coats of Arms Drop Treasure | [kh_arms] Wappen lassen Schätze fallen |
@@ -71,7 +71,7 @@
 | 2868 | [fe_starfish] Starfish Grant Random Spell Gem | [fe_starfish] Seestern gewährt zufälligen Zauberstein |
 | 2869 | [bns_shrine] Sand Shrines Decrease Enemies' Stats | [bns_shrine] Sandschreine verringern die Werte der Feinde |
 | 2870 | [bg_mushroom] 30% Chance to Receive Emblem From Mushrooms | [bg_mushroom] 30% Chance auf Emblem von Pilzen |
-| 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten Schaden Feinde |
+| 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten fügen Feinden Schaden zu |
 | 2872 | [cj_cairn] Cairns Grant Increased Damage In Next Battle | [cj_cairn] Cairns gewähren erhöhten Schaden im nächsten Kampf |
 | 2873 | [an_scroll] +1 Knowledge From Scrolls | [an_scroll] +1 Wissen aus Schriftrollen |
 | 2874 | [wdsd_relic] Relics Decrease Enemies' Stats | [wdsd_relic] Relikte verringern die Werte der Feinde |
@@ -79,12 +79,12 @@
 | 2876 | [ee_meteor] Meteors Grant An Additional Effect | [ee_meteor] Meteore gewähren einen zusätzlichen Effekt |
 | 2877 | [dmr_biggears] Giant Gears Decrease Enemies' Intelligence | [dmr_biggears] Riesige Zahnräder verringern die Intelligenz der Feinde |
 | 2878 | [lobab_horse] Figurines Grant Speed Boost | [lobab_horse] Figuren gewähren Geschwindigkeitsschub |
-| 2879 | [ot_vines] Snaptrap Vines Drop Treasure | [ot_vines] Schnapphafenranken lassen Schätze fallen |
+| 2879 | [ot_vines] Snaptrap Vines Drop Treasure | [ot_vines] Schnappfallen-Ranken lassen Schätze fallen |
 | 2880 | [ag_bigtreasure] +1 Large Treasure Chests Spawn | [ag_bigtreasure] +1 Große Schatztruhen erscheinen |
 | 2881 | [gh_housecards] Houses of Cards Drop Treasure | [gh_housecards] Kartenhäuser lassen Schätze fallen |
 | 2882 | [fl_circuit] Schematics Grant Random Spell Gem | [fl_circuit] Schaltpläne gewähren zufälligen Zauberstein |
 | 2883 | [fae_orb] Orbs Decrease Enemies' Speed | [fae_orb] Kugeln verringern die Geschwindigkeit der Feinde |
-| 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine Schaden an Feinden |
+| 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine fügen Feinden Schaden zu |
 | 2885 | [fdp_bughive] Waspid Hives Grant 100% Dodge Chance In Next Battle | [fdp_bughive] Wespidnester gewähren 100% Ausweichchance im nächsten Kampf |
 | 2886 | Relaxed | Entspannt |
 | 2887 | Normal | Normal |

@@ -10,7 +10,7 @@
 | 2607 | [bg_trap] Traps Grant Essence | [bg_trap] Fallen gewähren Essenz |
 | 2608 | [su_tithe] Tithes Grant Granite | [su_tithe] Zehnt gewährt Granit |
 | 2609 | [cj_cairn] 25% Chance to Receive Emblem From Cairns | [cj_cairn] 25% Chance, ein Emblem aus Steinhügeln zu erhalten |
-| 2610 | [an_shrine] Spider Shrines Damage Enemies | [an_shrine] Spinnenschreine Schaden Feinden |
+| 2610 | [an_shrine] Spider Shrines Damage Enemies | [an_shrine] Spinnenschreine fügen Feinden Schaden zu |
 | 2611 | [wdsd_shipwreck] Shipwrecks Grant 1 Additional Resource Type | [wdsd_shipwreck] Schiffswracks gewähren 1 zusätzlichen Ressourcentyp |
 | 2612 | [kh_arms] +2 Coats of Arms Spawn | [kh_arms] +2 Wappen erscheinen |
 | 2613 | [ee_spire] Spires Decrease Enemies' Stats | [ee_spire] Türme verringern die Werte der Feinde |
@@ -18,7 +18,7 @@
 | 2615 | [lobab_book] Bookshelves Spawn Closer to You | [lobab_book] Bücherregale erscheinen näher bei dir |
 | 2616 | [ot_statue] Pristine Statues Grant Health Boost | [ot_statue] Makellose Statuen gewähren Gesundheitsschub |
 | 2617 | [ag_portal] Portal Bosses Drop an Emblem | [ag_portal] Portalbosse lassen ein Emblem fallen |
-| 2618 | [gh_gamewheel] Portal Bosses Damage Enemies | [gh_gamewheel] Portalbosse fügen Gegnern Schaden zu |
+| 2618 | [gh_gamewheel] Portal Bosses Damage Enemies | [gh_gamewheel] Portalbosse fügen Feinden Schaden zu |
 | 2619 | [fl_robohead] Robot Assembly Grants All Stats Boost | [fl_robohead] Robotermontage gewährt Bonus auf alle Attribute |
 | 2620 | [fae_fae] 35% Chance to Receive Emblem From Fae | [fae_fae] 35% Chance, ein Emblem von Fae zu erhalten |
 | 2621 | [amg_redrune] +1 Red Runestones Spawn | [amg_redrune] +1 Rote Runensteine erscheinen |

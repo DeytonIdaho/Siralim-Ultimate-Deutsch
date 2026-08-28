@@ -101,4 +101,4 @@
 | 2398 | [um_effigy] Effigies Afflict Enemies With a Debuff | [um_effigy] Effigies belegen Feinde mit einem Debuff |
 | 2399 | [tc_scroll] Scrolls Reduce Enemies' Stats | [tc_scroll] Schriftrollen verringern die Attribute der Gegner |
 | 2400 | [fc_grave] Mummy Graves Afflict Enemies With a Debuff | [fc_grave] Mumiengräber belegen Feinde mit einem Debuff |
-| 2401 | [fe_crab] Crabs Damage Enemies | [fe_crab] Krabben Schaden Feinden |
+| 2401 | [fe_crab] Crabs Damage Enemies | [fe_crab] Krabben fügen Feinden Schaden zu |
