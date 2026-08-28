@@ -1,0 +1,104 @@
+# Human review: creatures.csv — 1-100
+
+| Row | English | German |
+|---:|---|---|
+| 2 | Denizen | Bewohner |
+| 3 | Apocalypse | Apokalypse |
+| 4 | Asura | Asura |
+| 5 | Automaton | Automat |
+| 6 | Basilisk | Basilisk |
+| 7 | Bat | Fledermaus |
+| 8 | Carver | Carver |
+| 9 | Cerberus | Zerberus |
+| 10 | Clutcher | Greifer |
+| 11 | Cockatrice | Cockatrice |
+| 12 | Concoction | Gebräu |
+| 13 | Devil | Teufel |
+| 14 | Diabolic Horde | Diabolische Horde |
+| 15 | Doom Fortress | Festung des Untergangs |
+| 16 | Doomguard | Doomgarde |
+| 17 | Fiend | Unhold |
+| 18 | Gargoyle | Gargoyle |
+| 19 | Harpy | Harpyie |
+| 20 | Maniac | Wahnsinniger |
+| 21 | Manticore | Mantikor |
+| 22 | Minotaur | Minotaurus |
+| 23 | Salamander | Salamander |
+| 24 | Smog | Smog |
+| 25 | Tanukrook | Tanukrook |
+| 26 | Toxdweller | Giftbewohner |
+| 27 | Wyvern | Wyvern |
+| 28 | Abomination | Abscheulichkeit |
+| 29 | Banshee | Banshee |
+| 30 | Carnage | Gemetzel |
+| 31 | Forsaken | Verlassen |
+| 32 | Ghoul | Ghul |
+| 33 | Hemomancer | Blutmagier |
+| 34 | Hound | Hund |
+| 35 | Leech | Aussauger |
+| 36 | Leper | Aussätziger |
+| 37 | Lich | Lich |
+| 38 | Mummy | Mumie |
+| 39 | Nix | Nichts |
+| 40 | Ossein | Ossein |
+| 41 | Pit Worm | Grubenkreatur |
+| 42 | Pit Wraith | Grubengeist |
+| 43 | Reaper | Sensenmann |
+| 44 | Revenant | Wiedergänger |
+| 45 | Shade | Schatten |
+| 46 | Sea Shambler | Meeresschlurfer |
+| 47 | Sin | Sünde |
+| 48 | Skeleton | Skelett |
+| 49 | Spectre | Gespenst |
+| 50 | Wight | Gruftschrat |
+| 51 | Amaranth | Amaranth |
+| 52 | Amphisbaena | Amphisbaena |
+| 53 | Angel | Engel |
+| 54 | Apis | Apis |
+| 55 | Crusader | Kreuzritter |
+| 56 | Demigod | Halbgott |
+| 57 | Griffon | Greif |
+| 58 | Koloss | Koloss |
+| 59 | Soulflayer | Seelenschinder |
+| 60 | Ophan | Ophan |
+| 61 | Paragon | Paragon |
+| 62 | Priest | Priester |
+| 63 | Rift Dancer | Dimensionsläufer |
+| 64 | Sanctus | Sanctus |
+| 65 | Seraph | Seraph |
+| 66 | Siren | Sirene |
+| 67 | Sphinx | Sphinx |
+| 68 | Spirit | Geist |
+| 69 | Stag | Hirsch |
+| 70 | Unguided | Ungeführt |
+| 71 | Unicorn | Einhorn |
+| 72 | Valkyrie | Walküre |
+| 73 | Vulpes | Vulpes |
+| 74 | Arachnalisk | Arachnalisk |
+| 75 | Aspect | Aspekt |
+| 76 | Brownie | Brownie |
+| 77 | Centaur | Zentaur |
+| 78 | Dryad | Dryade |
+| 79 | Eft | Eft |
+| 80 | Ent | Ent |
+| 81 | Elf | Elf |
+| 82 | Gargantuan | Gigantisch |
+| 83 | Giant | Riese |
+| 84 | Hunter | Jäger |
+| 85 | Imler | Imler |
+| 86 | Imling | Imling |
+| 87 | Imp | Kobold |
+| 88 | Inquisitor | Inquisitor |
+| 89 | Mite | Milbe |
+| 90 | Pilwiz | Pilwiz |
+| 91 | Satyr | Satyr |
+| 92 | Snaptrap | Schnappfalle |
+| 93 | Storm | Sturm |
+| 94 | Tremor | Beben |
+| 95 | Troll | Troll |
+| 96 | Waspid | Wespid |
+| 97 | Wolpertinger | Wolpertinger |
+| 98 | Bard | Barde |
+| 99 | Djinn | Djinn |
+| 100 | Dragon | Drache |
+| 101 | Efreet | Efreet |
