@@ -1,0 +1,64 @@
+english_rule_term,german_variant,count
+creature,Kreatur,4789
+creature,Wesen,223
+creature,<none>,23
+trait,Merkmal,1018
+trait,<none>,13
+trait,Eigenschaft,4
+stat,<none>,1373
+stat,Wert,291
+stat,Attribut,266
+stat,Status,51
+stat,Eigenschaft,15
+spell gem,Zauberstein,516
+artifact,Artefakt,210
+artifact,<none>,1
+relic,<none>,343
+relic,Relikt,252
+relic,Reliquie,20
+buff,Buff,1582
+buff,<none>,95
+buff,Verbesserung,2
+debuff,Debuff,1045
+debuff,<none>,26
+debuff,Schwächung,25
+minion,Diener,157
+minion,Minion,79
+minion,<none>,17
+charge,<none>,208
+charge,Ladung,52
+maximum,maximal,210
+maximum,Maximum,23
+maximum,<none>,5
+current,aktuell,277
+current,<none>,37
+current,derzeitig,5
+current,gegenwärtig,1
+additional,zusätzlich,347
+additional,weiter,9
+additional,<none>,4
+independent,unabhängig,45
+manually,manuell,92
+instead,statt,164
+instead,<none>,42
+once per turn,einmal pro Zug,9
+for each,für jede,510
+for each,<none>,4
+for each,pro ,1
+cannot,<none>,152
+cannot,können nicht,37
+cannot,kann nicht,32
+always,immer,263
+always,<none>,76
+before,bevor,202
+before,vor ,78
+before,<none>,35
+after,nachdem,1209
+after,nach ,301
+after,<none>,58
+start of,zu Beginn,538
+start of,<none>,9
+start of,am Anfang,1
+end of,am Ende,132
+end of,<none>,32
+end of,zum Ende,5

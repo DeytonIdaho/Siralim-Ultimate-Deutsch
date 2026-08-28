@@ -1,0 +1,70 @@
+file,line,english,german,english_tokens,german_tokens
+achievements.csv,8662,Earning Mutatias,{RELIC_ALEXANDRIA} freischalten,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,8664,Earning Ribcracker,{RELIC_ARIAMAKI} freischalten,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,8666,Earning Brambleskin,{RELIC_GENAROS} freischalten,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,8668,Earning Ripplevein,{RELIC_MUSE} freischalten,{},{'{RELIC_MUSE}': 1}
+achievements.csv,8672,Earning 5740-NG,{RELIC_ROBO} freischalten,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9400,Empowering Mutatias I,{RELIC_ALEXANDRIA} verstärken I,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9402,Empowering Mutatias II,{RELIC_ALEXANDRIA} verstärken II,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9404,Empowering Mutatias III,{RELIC_ALEXANDRIA} verstärken III,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9406,Empowering Mutatias IV,{RELIC_ALEXANDRIA} verstärken IV,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9408,Empowering Mutatias V,{RELIC_ALEXANDRIA} verstärken V,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9410,Empowering Mutatias VI,{RELIC_ALEXANDRIA} verstärken VI,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9412,Empowering Mutatias VII,{RELIC_ALEXANDRIA} verstärken VII,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9414,Empowering Mutatias VIII,{RELIC_ALEXANDRIA} verstärken VIII,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9416,Empowering Mutatias IX,{RELIC_ALEXANDRIA} verstärken IX,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9418,Empowering Mutatias X,{RELIC_ALEXANDRIA} verstärken X,{},{'{RELIC_ALEXANDRIA}': 1}
+achievements.csv,9420,Empowering Ribcracker I,{RELIC_ARIAMAKI} verstärken I,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9422,Empowering Ribcracker II,{RELIC_ARIAMAKI} verstärken II,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9424,Empowering Ribcracker III,{RELIC_ARIAMAKI} verstärken III,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9426,Empowering Ribcracker IV,{RELIC_ARIAMAKI} verstärken IV,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9428,Empowering Ribcracker V,{RELIC_ARIAMAKI} verstärken V,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9430,Empowering Ribcracker VI,{RELIC_ARIAMAKI} verstärken VI,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9432,Empowering Ribcracker VII,{RELIC_ARIAMAKI} verstärken VII,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9434,Empowering Ribcracker VIII,{RELIC_ARIAMAKI} verstärken VIII,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9436,Empowering Ribcracker IX,{RELIC_ARIAMAKI} verstärken IX,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9438,Empowering Ribcracker X,{RELIC_ARIAMAKI} verstärken X,{},{'{RELIC_ARIAMAKI}': 1}
+achievements.csv,9440,Empowering Brambleskin I,{RELIC_GENAROS} verstärken I,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9442,Empowering Brambleskin II,{RELIC_GENAROS} verstärken II,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9444,Empowering Brambleskin III,{RELIC_GENAROS} verstärken III,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9446,Empowering Brambleskin IV,{RELIC_GENAROS} verstärken IV,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9448,Empowering Brambleskin V,{RELIC_GENAROS} verstärken V,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9450,Empowering Brambleskin VI,{RELIC_GENAROS} verstärken VI,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9452,Empowering Brambleskin VII,{RELIC_GENAROS} verstärken VII,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9454,Empowering Brambleskin VIII,{RELIC_GENAROS} verstärken VIII,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9456,Empowering Brambleskin IX,{RELIC_GENAROS} verstärken IX,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9458,Empowering Brambleskin X,{RELIC_GENAROS} verstärken X,{},{'{RELIC_GENAROS}': 1}
+achievements.csv,9460,Empowering Ripplevein I,{RELIC_MUSE} verstärken I,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9462,Empowering Ripplevein II,{RELIC_MUSE} verstärken II,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9464,Empowering Ripplevein III,{RELIC_MUSE} verstärken III,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9466,Empowering Ripplevein IV,{RELIC_MUSE} verstärken IV,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9468,Empowering Ripplevein V,{RELIC_MUSE} verstärken V,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9470,Empowering Ripplevein VI,{RELIC_MUSE} verstärken VI,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9472,Empowering Ripplevein VII,{RELIC_MUSE} verstärken VII,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9474,Empowering Ripplevein VIII,{RELIC_MUSE} verstärken VIII,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9476,Empowering Ripplevein IX,{RELIC_MUSE} verstärken IX,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9478,Empowering Ripplevein X,{RELIC_MUSE} verstärken X,{},{'{RELIC_MUSE}': 1}
+achievements.csv,9480,Empowering Fatum and Fortuna I,{RELIC_RECLUSA} verstärken I,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9482,Empowering Fatum and Fortuna II,{RELIC_RECLUSA} verstärken II,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9484,Empowering Fatum and Fortuna III,{RELIC_RECLUSA} verstärken III,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9486,Empowering Fatum and Fortuna IV,{RELIC_RECLUSA} verstärken IV,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9488,Empowering Fatum and Fortuna V,{RELIC_RECLUSA} verstärken V,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9490,Empowering Fatum and Fortuna VI,{RELIC_RECLUSA} verstärken VI,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9492,Empowering Fatum and Fortuna VII,{RELIC_RECLUSA} verstärken VII,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9494,Empowering Fatum and Fortuna VIII,{RELIC_RECLUSA} verstärken VIII,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9496,Empowering Fatum and Fortuna IX,{RELIC_RECLUSA} verstärken IX,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9498,Empowering Fatum and Fortuna X,{RELIC_RECLUSA} verstärken X,{},{'{RELIC_RECLUSA}': 1}
+achievements.csv,9500,Empowering 5740-NG I,{RELIC_ROBO} verstärken I,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9502,Empowering 5740-NG II,{RELIC_ROBO} verstärken II,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9504,Empowering 5740-NG III,{RELIC_ROBO} verstärken III,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9506,Empowering 5740-NG IV,{RELIC_ROBO} verstärken IV,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9508,Empowering 5740-NG V,{RELIC_ROBO} verstärken V,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9510,Empowering 5740-NG VI,{RELIC_ROBO} verstärken VI,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9512,Empowering 5740-NG VII,{RELIC_ROBO} verstärken VII,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9514,Empowering 5740-NG VIII,{RELIC_ROBO} verstärken VIII,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9516,Empowering 5740-NG IX,{RELIC_ROBO} verstärken IX,{},{'{RELIC_ROBO}': 1}
+achievements.csv,9518,Empowering 5740-NG X,{RELIC_ROBO} verstärken X,{},{'{RELIC_ROBO}': 1}
+traits.csv,1183,Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn.,Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}.,"{'{CONDNAME_DEBUFF_SCORN}': 1, '{CONDNAME_DEBUFF_SILENCE}': 1}","{'{CONDNAME_DEBUFF_SCORN}': 2, '{CONDNAME_DEBUFF_SILENCE}': 1}"
+traits.csv,2716,Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn. Enemies can only {ACTION_attack} and {ACTION_cast} spells 1 time per turn.,Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}. Feinde können pro Zug nur 1 Mal {ACTION_attack} und nur 1 Mal einen Zauber {ACTION_cast}.,"{'{CONDNAME_DEBUFF_SCORN}': 1, '{CONDNAME_DEBUFF_SILENCE}': 1, '{ACTION_attack}': 1, '{ACTION_cast}': 1}","{'{CONDNAME_DEBUFF_SCORN}': 2, '{CONDNAME_DEBUFF_SILENCE}': 1, '{ACTION_attack}': 1, '{ACTION_cast}': 1}"
+ui.csv,654,[[Macro Editor],Makro-Editor,{'[Macro Editor]': 1},{}
+vocabulary.csv,238,{CONDNAME_DEBUFF_CONFUSED} creatures have a 50% chance to {ACTION_attack} or {ACTION_cast} harmful spells on their allies.,"Verwirrte Kreaturen haben eine 50% Chance, ihre Verbündeten zu {ACTION_attack} oder schädliche Zauber auf sie zu {ACTION_cast}.","{'{CONDNAME_DEBUFF_CONFUSED}': 1, '{ACTION_attack}': 1, '{ACTION_cast}': 1}","{'{ACTION_attack}': 1, '{ACTION_cast}': 1}"
