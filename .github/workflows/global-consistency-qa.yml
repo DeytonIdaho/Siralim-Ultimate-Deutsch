@@ -7,15 +7,15 @@ jobs:
   consistency:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout translation branch
+      - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: translation-work
+          ref: main
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Run cross-file terminology and rules QA
+      - name: Run cross-file terminology, rules, and action-token QA
         run: |
           rm -rf consistency_review
           python tools/global_consistency_qa.py
@@ -24,4 +24,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add consistency_review
-          if git diff --cached --quiet; then echo "No report changes."; else git commit -m "Rebuild global consistency QA report"; git push origin HEAD:translation-work; fi
+          if git diff --cached --quiet; then echo "No report changes."; else git commit -m "Rebuild global consistency QA report"; git push origin HEAD:main; fi
