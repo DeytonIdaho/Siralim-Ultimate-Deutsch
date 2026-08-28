@@ -10,7 +10,7 @@
 | 3307 | Minions First | Diener zuerst |
 | 3308 | This creature has a 20% chance to take an additional turn for each minion it has. This trait can only activate once per turn. | Diese Kreatur hat eine 20% Chance, einen zusätzlichen Zug zu erhalten, für jeden Diener, den sie besitzt. Dieses Merkmal kann nur einmal pro Zug aktiviert werden. |
 | 3309 | Hive | Schwarm |
-| 3310 | This creature has 15% more stats (other than {STAT_health}) for each other creature with this trait fighting on your side. | Diese Kreatur hat 15% mehr Attribute (außer {STAT_health}) für jedes andere Kreatur mit dieses Merkmal, das an deiner Seite kämpft. |
+| 3310 | This creature has 15% more stats (other than {STAT_health}) for each other creature with this trait fighting on your side. | Diese Kreatur hat 15% mehr Attribute (außer {STAT_health}) für jede andere Kreatur mit diesem Merkmal, die an deiner Seite kämpft. |
 | 3311 | Ninetails's Trickery | Täuschung des Neunschwanzes |
 | 3312 | At the start of battle, this creature gains a copy of each enemy's first Spell Gem. This trait does not stack. | Zu Beginn des Kampfes erhält diese Kreatur eine Kopie des ersten Zaubersteins jedes Gegners. Dieses Merkmal ist nicht kumulativ. |
 | 3313 | Adaptive Tactics | Adaptive Taktiken |
@@ -52,7 +52,7 @@
 | 3349 | Hoarding | Horten |
 | 3350 | This creature has 50% more {STAT_intelligence} for each different class of Spell Gem it has equipped. | Diese Kreatur hat 50% mehr {STAT_intelligence} für jede unterschiedliche Klasse von Zauberstein, die es ausgerüstet hat. |
 | 3351 | Chaotic Disposition | Chaotische Gesinnung |
-| 3352 | After an enemy is afflicted with a debuff, this creature has a 10% chance to {ACTION_cast} [icons,1968]Debilitating Blast. | Nachdem ein Feind mit einem Debuffs belegt wurde, hat diese Kreatur eine 10% Chance, {ACTION_cast} [icons,1968]Schwächender Schlag zu wirken. |
+| 3352 | After an enemy is afflicted with a debuff, this creature has a 10% chance to {ACTION_cast} [icons,1968]Debilitating Blast. | Nachdem ein Feind mit einem Debuff belegt wurde, hat diese Kreatur eine 10% Chance, {ACTION_cast} [icons,1968]Schwächender Schlag zu wirken. |
 | 3353 | At Peace | In Frieden |
 | 3354 | After your creatures are resurrected, they gain a {CONDNAME_BUFF_BARRIER} equal to 100% of the amount of {STAT_health} they resurrected with. This trait does not stack. | Nachdem deine Kreaturen wiederbelebt wurden, erhalten sie einen {CONDNAME_BUFF_BARRIER} in Höhe von 100% des {STAT_health}-Wertes, mit dem sie wiederbelebt wurden. Dieses Merkmal ist nicht kumulativ. |
 | 3355 | Hidden Potential | Verborgenes Potenzial |

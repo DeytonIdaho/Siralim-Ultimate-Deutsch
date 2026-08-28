@@ -60,7 +60,7 @@
 | 3457 | Ninetails's Revenge | Rache des Neunschwänzigen |
 | 3458 | After your creatures are {ACTION_attacked}, they gain {STAT_attack} equal to 20% of the damage received. This trait does not stack. | Nachdem deine Kreaturen {ACTION_attacked} wurden, erhalten sie {STAT_attack} in Höhe von 20% des erlittenen Schadens. Dieses Merkmal ist nicht kumulativ. |
 | 3459 | Gambler's Game | Glücksspiel des Spielers |
-| 3460 | At the start of each creature's turn, it has a 50% chance to gain a random buff. Otherwise, it gains a random trait. This trait does not stack. | Zu Beginn jedes Zuges einer Kreatur hat diese eine 50% Chance, einen zufälligen Buff zu erhalten. Andernfalls erhält sie eine zufällige Merkmal. Dieses Merkmal ist nicht kumulativ. |
+| 3460 | At the start of each creature's turn, it has a 50% chance to gain a random buff. Otherwise, it gains a random trait. This trait does not stack. | Zu Beginn jedes Zuges einer Kreatur hat diese eine 50% Chance, einen zufälligen Buff zu erhalten. Andernfalls erhält sie ein zufälliges Merkmal. Dieses Merkmal ist nicht kumulativ. |
 | 3461 | Undead Legion | Untote Legion |
 | 3462 | Your creatures can have 5 additional stacks of {CONDNAME_MINION_ZOMBIE}. This trait does not stack. | Deine Kreaturen können 5 zusätzliche Stapel von {CONDNAME_MINION_ZOMBIE} haben. Dieses Merkmal ist nicht kumulativ. |
 | 3463 | Consecrated Ground | Geweihter Boden |
@@ -68,7 +68,7 @@
 | 3465 | Improbable Catapult | Unwahrscheinliches Katapult |
 | 3466 | At the start of this creature's turn, enemies gain a copy of its innate trait. This trait can only activate once per side. | Zu Beginn des Zuges dieser Kreatur erhalten Feinde eine Kopie ihrer angeborenen Merkmal. Dieses Merkmal kann nur einmal pro Seite aktiviert werden. |
 | 3467 | Forced Momentum | Erzwungener Schwung |
-| 3468 | At the start of your creatures' turns, they have a 35% chance to gain a random trait. This trait does not stack. | Zu Beginn der Züge deiner Kreaturen haben sie eine 35% Chance, eine zufällige Merkmal zu erhalten. Dieses Merkmal ist nicht kumulativ. |
+| 3468 | At the start of your creatures' turns, they have a 35% chance to gain a random trait. This trait does not stack. | Zu Beginn der Züge deiner Kreaturen haben sie eine 35% Chance, ein zufälliges Merkmal zu erhalten. Dieses Merkmal ist nicht kumulativ. |
 | 3469 | Spin the Wheel | Dreh das Rad |
 | 3470 | Whenever it is an enemy's turn, any random effects that fail to occur are re-rolled an additional time. This trait does not stack. | Immer wenn ein Feind am Zug ist, werden zufällige Effekte, die nicht eintreten, ein weiteres Mal neu gewürfelt. Dieses Merkmal ist nicht kumulativ. |
 | 3471 | Perfectly Balanced | Perfekt ausbalanciert |

@@ -9,7 +9,7 @@
 | 506 | Immolation | Verbrennung |
 | 507 | Your creatures' spells that interact with {CONDNAME_DEBUFF_BURNED} have <5>% more potency. | Deine Kreaturen-Zauber, die mit {CONDNAME_DEBUFF_BURNED} interagieren, haben <5>% mehr Zaubermacht. |
 | 508 | Hot Streak | Glückssträhne |
-| 509 | After your creatures are damaged or healed by {CONDNAME_DEBUFF_BURNED}, the potency of all creatures' {CONDNAME_DEBUFF_BURNED} debuffs increases by <2>%. | Nachdem deine Kreaturen durch {CONDNAME_DEBUFF_BURNED} Schaden erlitten oder geheilt wurden, erhöht sich die Effektstärke aller {CONDNAME_DEBUFF_BURNED}-Debuff der Kreaturen um <2>%. |
+| 509 | After your creatures are damaged or healed by {CONDNAME_DEBUFF_BURNED}, the potency of all creatures' {CONDNAME_DEBUFF_BURNED} debuffs increases by <2>%. | Nachdem deine Kreaturen durch {CONDNAME_DEBUFF_BURNED} Schaden erlitten oder geheilt wurden, erhöht sich die Effektstärke aller {CONDNAME_DEBUFF_BURNED}-Debuffs der Kreaturen um <2>%. |
 | 510 | Combustion | Verbrennung |
 | 511 | After an enemy takes damage from {CONDNAME_DEBUFF_BURNED}, they have a <1>% chance to be sent to the bottom of the {TIMELINE}. | Nachdem ein Feind Schaden durch {CONDNAME_DEBUFF_BURNED} erlitten hat, besteht eine <1>% Chance, dass er ans Ende der {TIMELINE} geschickt wird. |
 | 512 | Burn Their Corpses | Verbrennt Ihre Leichen |

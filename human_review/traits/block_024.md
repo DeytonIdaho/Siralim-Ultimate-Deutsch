@@ -55,7 +55,7 @@
 | 2352 | Obelisk | Obelisk |
 | 2353 | Your creatures' [temporary] Ethereal Spell Gems have the same number of {STAT_charges} they'd have if they weren't Ethereal. | Deine Kreaturen' [temporary] Ätherische Zaubersteine haben die gleiche Anzahl an {STAT_charges}, die sie hätten, wenn sie nicht Ätherisch wären. |
 | 2354 | Neodymium | Neodymium |
-| 2355 | Your creatures' Spell Gems with the "Magnetic" property act as if 3 more of those Spell Gems exist. This trait does not stack. | Deine Kreaturen mit Zaubersteinen, die die Merkmal "Magnetisch" haben, wirken so, als ob 3 weitere dieser Zaubersteine existieren würden. Dieses Merkmal ist nicht kumulativ. |
+| 2355 | Your creatures' Spell Gems with the "Magnetic" property act as if 3 more of those Spell Gems exist. This trait does not stack. | Deine Kreaturen mit Zaubersteinen, die das Merkmal "Magnetisch" haben, wirken so, als ob 3 weitere dieser Zaubersteine existieren würden. Dieses Merkmal ist nicht kumulativ. |
 | 2356 | Quality Over Quantity | Qualität vor Quantität |
 | 2357 | Your creatures' Spell Gems with the "Singular" property have 100% more {STAT_charges} if they only have one permanent Spell Gem equipped. This trait does not stack. | Deine Kreaturen-Zaubersteine mit der Merkmal "Singular" haben 100% mehr {STAT_charges}, wenn sie nur ein permanentes Zauberstein ausgerüstet haben. Dieses Merkmal ist nicht kumulativ. |
 | 2358 | Tumble | Taumeln |
@@ -91,7 +91,7 @@
 | 2388 | The Wishing Stick | Der Wunschstab |
 | 2389 | At the start of this creature's turn, it casts a random spell that belongs to its class. | Zu Beginn des Zuges dieser Kreatur wirkt sie einen zufälligen Zauber, der zu ihrer Klasse gehört. |
 | 2390 | Stolen by Damnation's Edge | Von der Verdammniskante gestohlen |
-| 2391 | This creature's innate trait has been stolen by your Animatus! | Dieser Kreatur wurde ihre angeborenes Merkmal von deinem Animatus gestohlen! |
+| 2391 | This creature's innate trait has been stolen by your Animatus! | Dieser Kreatur wurde ihr angeborenes Merkmal von deinem Animatus gestohlen! |
 | 2392 | Anathema | Anathema |
 | 2393 | After an enemy is killed, this creature gains {CONDNAME_BUFF_REBIRTH}. | Nachdem ein Feind getötet wurde, erhält diese Kreatur {CONDNAME_BUFF_REBIRTH}. |
 | 2394 | Cornered | In die Enge getrieben |

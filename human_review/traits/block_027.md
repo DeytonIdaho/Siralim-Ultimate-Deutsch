@@ -44,9 +44,9 @@
 | 2641 | Who Am I? None Of Your Business | Wer bin ich? Geht dich nichts an |
 | 2642 | After this creature is killed, it transforms into one of the enemy creatures. | Nachdem diese Kreatur getötet wurde, verwandelt sie sich in eine der feindlichen Kreaturen. |
 | 2643 | Who Am I? None Of Your Business | Wer bin ich? Geht dich nichts an |
-| 2644 | After this creature is killed, it transforms into one of the enemy creatures and gains a random trait that belongs to that creature's race. | Nachdem diese Kreatur getötet wurde, verwandelt sie sich in eine der feindlichen Kreaturen und erhält eine zufällige Merkmal, die zur Rasse dieser Kreatur gehört. |
+| 2644 | After this creature is killed, it transforms into one of the enemy creatures and gains a random trait that belongs to that creature's race. | Nachdem diese Kreatur getötet wurde, verwandelt sie sich in eine der feindlichen Kreaturen und erhält ein zufälliges Merkmal, die zur Rasse dieser Kreatur gehört. |
 | 2645 | Who Am I? None Of Your Business | Wer bin ich? Geht dich nichts an |
-| 2646 | After this creature is killed, it transforms into one of the enemy creatures and gains a random trait that belongs to that creature's race. | Nachdem diese Kreatur getötet wurde, verwandelt sie sich in eine der feindlichen Kreaturen und erhält eine zufällige Merkmal, die zur Rasse dieser Kreatur gehört. |
+| 2646 | After this creature is killed, it transforms into one of the enemy creatures and gains a random trait that belongs to that creature's race. | Nachdem diese Kreatur getötet wurde, verwandelt sie sich in eine der feindlichen Kreaturen und erhält ein zufälliges Merkmal, die zur Rasse dieser Kreatur gehört. |
 | 2647 | Shadows Converge | Schatten vereinen sich |
 | 2648 | After your creatures take damage during their turn, this creature deals the same amount of damage to a random enemy. | Nachdem deine Kreaturen während ihres Zuges Schaden erleiden, fügt diese Kreatur einem zufälligen Gegner die gleiche Menge an Schaden zu. |
 | 2649 | Shadows Converge | Schatten vereinen sich |
@@ -100,5 +100,5 @@
 | 2697 | Waking the Fallen | Erweckung der Gefallenen |
 | 2698 | At the start of battle, this creature and its allies gain {CONDNAME_MINION_CONQUEST}, {CONDNAME_MINION_DEATH}, {CONDNAME_MINION_FAMINE}, and {CONDNAME_MINION_WAR}. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Zu Beginn des Kampfes erhalten diese Kreatur und ihre Verbündeten {CONDNAME_MINION_CONQUEST}, {CONDNAME_MINION_DEATH}, {CONDNAME_MINION_FAMINE} und {CONDNAME_MINION_WAR}. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} sie [icons,1984] Entrückung. |
 | 2699 | Waking the Fallen | Erweckung der Gefallenen |
-| 2700 | This creature and its allies always have an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Diese Kreatur und seine Verbündeten haben stets eine Armee von Diener. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} es [icons,1984] Verzückung. |
+| 2700 | This creature and its allies always have an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Diese Kreatur und seine Verbündeten haben stets eine Armee von Dienern. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} es [icons,1984] Verzückung. |
 | 2701 | Mirror Blades | Spiegelklingen |

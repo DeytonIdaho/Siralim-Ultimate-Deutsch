@@ -61,7 +61,7 @@
 | 1158 | Curse of Jimly | Fluch des Jimly |
 | 1159 | Enemies are afflicted with a random debuff for every 3 stacks of {CONDNAME_MINION_ZOMBIE} the caster has. | Feinde werden mit einem zufälligen Debuff belegt für jeweils 3 Stapel {CONDNAME_MINION_ZOMBIE}, die der Zauberwirker besitzt. |
 | 1160 | Master's Hand | Meisterhand |
-| 1161 | Target takes a small amount of damage, plus 20% more damage for each time the caster has {ACTION_attacked} in the current battle. | Ziel erleidet einen geringen Schaden, plus 20% mehr Schaden für jedes Mal, das der Zauberwirker in der aktuellen Schlacht {ACTION_attacked} hat. |
+| 1161 | Target takes a small amount of damage, plus 20% more damage for each time the caster has {ACTION_attacked} in the current battle. | Ziel erleidet einen geringen Schaden, plus 20% mehr Schaden für jedes Mal, wenn der Zauberwirker in der aktuellen Schlacht {ACTION_attacked} hat. |
 | 1162 | Dream Stomp | Traumstampfer |
 | 1163 | Target takes a small amount of damage, or a massive amount of damage if they are afflicted with {CONDNAME_DEBUFF_SLEEP}. | Ziel erleidet einen geringen Schaden oder einen massiven Schaden, wenn es von {CONDNAME_DEBUFF_SLEEP} betroffen ist. |
 | 1164 | Indiscriminate Summoning | Wahllose Beschwörung |
@@ -91,7 +91,7 @@
 | 1188 | Pumpkin King's Wrath | Zorn des Kürbiskönigs |
 | 1189 | Enemies take a moderate amount of damage 2 times. | Gegner erleiden zweimal moderaten Schaden. |
 | 1190 | Erratium | Erratium |
-| 1191 | Your creatures gain a random trait and are afflicted with {CONDNAME_DEBUFF_DISARMED}. | Deine Kreaturen erhalten eine zufällige Merkmal und werden mit {CONDNAME_DEBUFF_DISARMED} belegt. |
+| 1191 | Your creatures gain a random trait and are afflicted with {CONDNAME_DEBUFF_DISARMED}. | Deine Kreaturen erhalten ein zufälliges Merkmal und werden mit {CONDNAME_DEBUFF_DISARMED} belegt. |
 | 1192 | Graveyard Shift | Nachtschicht auf dem Friedhof |
 | 1193 | Your creatures gain 1 stack of {CONDNAME_MINION_ZOMBIE}. | Deine Kreaturen erhalten 1 Stapel {CONDNAME_MINION_ZOMBIE}. |
 | 1194 | Internal Combustion | Innere Verbrennung |

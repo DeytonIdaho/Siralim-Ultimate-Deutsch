@@ -30,7 +30,7 @@
 | 2827 | Master of Giants | Meister der Riesen |
 | 2828 | Your {RACE_Giant}s start battles with 30% more {STAT_health} for each {RACE_Giant} fighting on your side. This trait does not stack. | Deine {RACE_Giant}s beginnen Kämpfe mit 30% mehr {STAT_health} für jeden {RACE_Giant}, der auf deiner Seite kämpft. Dieses Merkmal ist nicht kumulativ. |
 | 2829 | Master of Golems | Meister der Golems |
-| 2830 | At the start of battle, your {RACE_Golem}s gain the Triple Take trait. If they already have this trait, they gain the Chip Off The Block trait instead. | Zu Beginn des Kampfes erhalten deine {RACE_Golem}s die Merkmal Dreifacher Angriff. Falls sie dieses Merkmal bereits besitzen, erhalten sie stattdessen die Merkmal Vom gleichen Schlag. |
+| 2830 | At the start of battle, your {RACE_Golem}s gain the Triple Take trait. If they already have this trait, they gain the Chip Off The Block trait instead. | Zu Beginn des Kampfes erhalten deine {RACE_Golem}s das Merkmal Dreifacher Angriff. Falls sie dieses Merkmal bereits besitzen, erhalten sie stattdessen das Merkmal Vom gleichen Schlag. |
 | 2831 | Master of Gorgons | Meister der Gorgonen |
 | 2832 | Your {RACE_Gorgon}s deal 35% more damage to enemies with {CONDNAME_DEBUFF_STONE} for each {RACE_Gorgon} fighting on your side. This trait does not stack. | Deine {RACE_Gorgon}en verursachen 35% mehr Schaden an Gegnern mit {CONDNAME_DEBUFF_STONE} für jede {RACE_Gorgon}e, die an deiner Seite kämpft. Dieses Merkmal ist nicht kumulativ. |
 | 2833 | Master of Griffons | Meister der Greifen |
@@ -96,7 +96,7 @@
 | 2893 | Master of Pit Wraiths | Meister der Grubengeister |
 | 2894 | If all the creatures in your party are {RACE_Pit Wraith}s, they are resistant to debuffs. | Wenn alle Kreaturen in deiner Gruppe {RACE_Pit Wraith}s sind, sind sie resistent gegen Debuffs. |
 | 2895 | Master of Plague Doctors | Meister der Pestärzte |
-| 2896 | If all the creatures in your party are {RACE_Plague Doctor}s, they gain the Drained trait at the start of battle. | Wenn alle Kreaturen in deiner Gruppe {RACE_Plague Doctor}s sind, erhalten sie zu Beginn des Kampfes die Merkmal Ausgelaugt. |
+| 2896 | If all the creatures in your party are {RACE_Plague Doctor}s, they gain the Drained trait at the start of battle. | Wenn alle Kreaturen in deiner Gruppe {RACE_Plague Doctor}s sind, erhalten sie zu Beginn des Kampfes das Merkmal Ausgelaugt. |
 | 2897 | Master of Priests | Meister der Priester |
 | 2898 | If all the creatures in your party belong to the {RACE_Priest} race, their innate traits activate an additional time. This trait does not stack. | Wenn alle Kreaturen in deiner Gruppe zur Rasse {RACE_Priest} gehören, aktivieren sich ihre angeborenen Merkmale ein zusätzliches Mal. Dieses Merkmal ist nicht kumulativ. |
 | 2899 | Master of Ravens | Meister der Raben |

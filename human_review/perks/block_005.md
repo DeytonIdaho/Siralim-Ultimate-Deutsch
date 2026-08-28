@@ -7,7 +7,7 @@
 | 404 | Echo | Echo |
 | 405 | Your creatures {ACTION_cast} spells 1 additional time. | Deine Kreaturen {ACTION_cast} Zauber 1 zusätzliches Mal. |
 | 406 | Efficiency | Effizienz |
-| 407 | Your creatures' extra casts no longer consume additional {STAT_charges}. | Zusätzliche Beschwörungen deiner Kreaturen verbrauchen keine zusätzlichen {STAT_charges} mehr. |
+| 407 | Your creatures' extra casts no longer consume additional {STAT_charges}. | Zusätzliche Zauberwirkungen deiner Kreaturen verbrauchen keine zusätzlichen {STAT_charges} mehr. |
 | 408 | Spell Power | Zauberkraft |
 | 409 | Your creatures' spells deal <1>% more damage. | Deine Kreaturen verursachen mit Zaubern <1>% mehr Schaden. |
 | 410 | Spell Mending | Zauberheilung |

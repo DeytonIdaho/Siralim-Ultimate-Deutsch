@@ -57,7 +57,7 @@
 | 654 | Biodegradation | Biologischer Abbau |
 | 655 | Your Herbling {ACTION_attacks} 1 additional time for each Tier it has. | Dein Herbling {ACTION_attacks} 1 zusätzliches Mal für jede Stufe, die er hat. |
 | 656 | Cultivation | Kultivierung |
-| 657 | At the start of your Herbling's turn, it gains <1>% of each stat for each Tier it has. | Zu Beginn des Zuges deines Herblings erhält es <1>% jeder Eigenschaft für jede Stufe, die es hat. |
+| 657 | At the start of your Herbling's turn, it gains <1>% of each stat for each Tier it has. | Zu Beginn des Zuges deines Herblings erhält es <1>% jedes Attributs für jede Stufe, die es hat. |
 | 658 | Strangler | Würger |
 | 659 | At the start of your Herbling's turn, enemies lose stats equal to <1>% of your Herbling's stats for each Tier it has. | Zu Beginn des Zuges deines Herblings verlieren Feinde Attribute in Höhe von <1>% der Attribute deines Herblings für jede Stufe, die es hat. |
 | 660 | Parasitic Fertilization | Parasitäre Befruchtung |

@@ -6,9 +6,9 @@
 | 3103 | Farsight | Weitsicht |
 | 3104 | After your creatures gain a buff, they {ACTION_cast} a random spell. This trait can only activate once per turn. This trait does not stack. | Nachdem deine Kreaturen einen Buff erhalten, {ACTION_cast} sie einen zufälligen Zauber. Dieses Merkmal kann nur einmal pro Zug aktiviert werden. Dieses Merkmal ist nicht kumulativ. |
 | 3105 | Diamond Hands | Diamantenhände |
-| 3106 | This creature takes 4% less damage and deals 20% more damage for each trait it has gained in the current battle. | Diese Kreatur erleidet 4% weniger Schaden und verursacht 20% mehr Schaden für jede Merkmal, die es im aktuellen Kampf erlangt hat. |
+| 3106 | This creature takes 4% less damage and deals 20% more damage for each trait it has gained in the current battle. | Diese Kreatur erleidet 4% weniger Schaden und verursacht 20% mehr Schaden für jedes Merkmal, die es im aktuellen Kampf erlangt hat. |
 | 3107 | Squall | Sturm |
-| 3108 | After an enemy is afflicted with a debuff, this creature {ACTION_casts} a random spell. This trait can only activate once per turn. | Nachdem ein Feind mit einem Debuffs belegt wurde, {ACTION_casts} diese Kreatur einen zufälligen Zauber. Dieses Merkmal kann nur einmal pro Zug aktiviert werden. |
+| 3108 | After an enemy is afflicted with a debuff, this creature {ACTION_casts} a random spell. This trait can only activate once per turn. | Nachdem ein Feind mit einem Debuff belegt wurde, {ACTION_casts} diese Kreatur einen zufälligen Zauber. Dieses Merkmal kann nur einmal pro Zug aktiviert werden. |
 | 3109 | Watch of the Buried | Uhr der Begrabenen |
 | 3110 | When this creature gains a minion, that minion's number of stacks is set to the maximum amount, excluding effects that increase the maximum stack count. | Wenn diese Kreatur einen Diener erhält, wird die Anzahl der Stapel dieses Diener auf den Maximalwert gesetzt, ausgenommen Effekte, die die maximale Stapelanzahl erhöhen. |
 | 3111 | Inner Force | Innere Kraft |

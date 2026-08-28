@@ -69,9 +69,9 @@
 | 1066 | Eternal Legacy | Ewiges Vermächtnis |
 | 1067 | The first 3 times your creatures are resurrected, they gain a random trait that belongs to their race. | Die ersten 3 Male, wenn deine Kreaturen wiederbelebt werden, erhalten sie ein zufälliges Merkmal ihrer Rasse. |
 | 1068 | Mortal Vessel | Sterbliches Gefäß |
-| 1069 | Your creatures deal 50% more damage with attacks and spells for each time they've been resurrected in the current battle. | Deine Kreaturen verursachen 50% mehr Schaden mit Angriffen und Zaubern für jedes Mal, das sie in der aktuellen Schlacht wiederbelebt wurden. |
+| 1069 | Your creatures deal 50% more damage with attacks and spells for each time they've been resurrected in the current battle. | Deine Kreaturen verursachen 50% mehr Schaden mit Angriffen und Zaubern für jedes Mal, wenn sie in der aktuellen Schlacht wiederbelebt wurden. |
 | 1070 | Dread Covenant | Schreckensvertrag |
-| 1071 | Your creatures take 25% less damage for each time they've been resurrected in the current battle. | Deine Kreaturen erleiden 25% weniger Schaden für jedes Mal, das sie in der aktuellen Schlacht wiederbelebt wurden. |
+| 1071 | Your creatures take 25% less damage for each time they've been resurrected in the current battle. | Deine Kreaturen erleiden 25% weniger Schaden für jedes Mal, wenn sie in der aktuellen Schlacht wiederbelebt wurden. |
 | 1072 | Death's Bane | Todesfluch |
 | 1073 | The first 3 times your creatures are resurrected, they {ACTION_attack} random enemies 1, 2, and 3 times. | Die ersten 3 Male, wenn deine Kreaturen wiederbelebt werden, {ACTION_attack} sie zufällige Feinde 1, 2 und 3 Mal. |
 | 1074 | Death's Echo | Todesecho |

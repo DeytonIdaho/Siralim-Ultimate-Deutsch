@@ -3,7 +3,7 @@
 | Row | English | German |
 |---:|---|---|
 | 1202 | Numb the Pain | Betäube den Schmerz |
-| 1203 | Your creatures have a 5% chance (up to 80%) to avoid damage for each time they've been affected by a {SPELL_alcohol} in the current battle. | Deine Kreaturen haben eine 5% Chance (bis zu 80%), Schaden zu vermeiden, für jedes Mal, das sie von einem {SPELL_alcohol} in der aktuellen Schlacht betroffen wurden. |
+| 1203 | Your creatures have a 5% chance (up to 80%) to avoid damage for each time they've been affected by a {SPELL_alcohol} in the current battle. | Deine Kreaturen haben eine 5% Chance (bis zu 80%), Schaden zu vermeiden, für jedes Mal, wenn sie von einem {SPELL_alcohol} in der aktuellen Schlacht betroffen wurden. |
 | 1204 | Speed Rail | Schnellbahn |
 | 1205 | Your creatures {ACTION_cast} 1 additional time (up to 3) for every 5 {SPELL_alcohol}s they've {ACTION_cast} in the current battle. | Deine Kreaturen {ACTION_cast} 1 zusätzliches Mal (bis zu 3) für jeweils 5 {SPELL_alcohol}s, die sie in der aktuellen Schlacht {ACTION_cast} haben. |
 | 1206 | Chaser | Verfolger |
@@ -21,7 +21,7 @@
 | 1218 | Brewmaster's Handshake | Braumeisterhandschlag |
 | 1219 | Your creatures can {ACTION_cast} {SPELL_alcohol}s manually. | Deine Kreaturen können {ACTION_cast} {SPELL_alcohol}s manuell ausführen. |
 | 1220 | Liquid Courage | Flüssiger Mut |
-| 1221 | Your creatures deal 3% more damage for each time they've {ACTION_cast} an {SPELL_alcohol} in the current battle. | Deine Kreaturen verursachen 3% mehr Schaden für jedes Mal, das sie ein {SPELL_alcohol} im aktuellen Kampf {ACTION_cast} haben. |
+| 1221 | Your creatures deal 3% more damage for each time they've {ACTION_cast} an {SPELL_alcohol} in the current battle. | Deine Kreaturen verursachen 3% mehr Schaden für jedes Mal, wenn sie ein {SPELL_alcohol} im aktuellen Kampf {ACTION_cast} haben. |
 | 1222 | Highball | Highball |
 | 1223 | Your creatures' {SPELL_alcohol}s count 50% less against their per-turn Casting limit. | Die {SPELL_alcohol}s deiner Kreaturen zählen 50% weniger gegen ihr Zauber-Limit pro Zug. |
 | 1224 | Nightcap | Schlummertrunk |
@@ -77,7 +77,7 @@
 | 1274 | Rising Tide Raises All Boats | Steigende Flut hebt alle Boote |
 | 1275 | All creatures receive additional healing equal to 30% of the damage your {RACE_Guardian} has taken. | Alle Kreaturen erhalten zusätzliche Heilung in Höhe von 30% des Schadens, den dein {RACE_Guardian} erlitten hat. |
 | 1276 | So Happy I Could Die | So glücklich, dass ich sterben könnte |
-| 1277 | Enemies have reduced stats (other than {STAT_health}) equal to 30% of the amount of healing they've received. | Gegner haben reduzierte Werte (außer {STAT_health}), die 30% der erhaltenen Heilung entsprechen. |
+| 1277 | Enemies have reduced stats (other than {STAT_health}) equal to 30% of the amount of healing they've received. | Gegner haben reduzierte Attribute (außer {STAT_health}), die 30% der erhaltenen Heilung entsprechen. |
 | 1278 | Taste For Treasure | Geschmack für Schätze |
 | 1279 | Your {RACE_Guardian} can equip 5 additional Spell Gems. | Dein {RACE_Guardian} kann 5 zusätzliche Zaubersteine ausrüsten. |
 | 1280 | Welcome Gift | Willkommensgeschenk |
@@ -87,7 +87,7 @@
 | 1284 | Hums Of Encouragement | Ermutigende Melodien |
 | 1285 | After your creatures reach the bottom of the {TIMELINE}, your {RACE_Guardian} {ACTION_casts} [icons,1972]Words of Encouragement on them. | Nachdem deine Kreaturen das Ende der {TIMELINE} erreichen, {ACTION_casts} dein {RACE_Guardian} [icons,1972]Ermutigende Worte auf sie. |
 | 1286 | Happy As A Clam | Glücklich wie eine Muschel |
-| 1287 | Your creatures take 5% less damage for each time they've been healed. | Deine Kreaturen erleiden 5% weniger Schaden für jedes Mal, das sie geheilt wurden. |
+| 1287 | Your creatures take 5% less damage for each time they've been healed. | Deine Kreaturen erleiden 5% weniger Schaden für jedes Mal, wenn sie geheilt wurden. |
 | 1288 | Bountiful Seas | Reiche Meere |
 | 1289 | All creatures ignore the effects of {CONDNAME_DEBUFF_BLIGHT}. | Alle Kreaturen ignorieren die Effekte von {CONDNAME_DEBUFF_BLIGHT}. |
 | 1290 | Jubilation | Jubel |

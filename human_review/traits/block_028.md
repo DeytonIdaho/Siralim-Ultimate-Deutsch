@@ -2,9 +2,9 @@
 
 | Row | English | German |
 |---:|---|---|
-| 2702 | After this creature takes damage from an enemy's attack or spell, all other creatures with this trait {ACTION_attack} the enemy who afflicted that damage. | Nachdem diese Kreatur Schaden durch den Angriff oder Zauber eines Feindes erleidet, {ACTION_attack} alle anderen Kreaturen mit dieses Merkmal den Feind, der diesen Schaden verursacht hat. |
+| 2702 | After this creature takes damage from an enemy's attack or spell, all other creatures with this trait {ACTION_attack} the enemy who afflicted that damage. | Nachdem diese Kreatur Schaden durch den Angriff oder Zauber eines Feindes erleidet, {ACTION_attack} alle anderen Kreaturen mit diesem Merkmal den Feind, der diesen Schaden verursacht hat. |
 | 2703 | Mirror Blades | Spiegelklingen |
-| 2704 | After this creature takes damage from an enemy's attack or spell, all other creatures with this trait {ACTION_attack} the enemy who afflicted that damage 3 times. These attacks always deal critical damage and cannot be dodged. | Nachdem diese Kreatur Schaden durch den Angriff oder Zauber eines Feindes erleidet, {ACTION_attack} alle anderen Kreaturen mit dieses Merkmal den Feind, der diesen Schaden verursacht hat, 3 Mal. Diese Angriffe verursachen immer kritischen Schaden und können nicht ausgewichen werden. |
+| 2704 | After this creature takes damage from an enemy's attack or spell, all other creatures with this trait {ACTION_attack} the enemy who afflicted that damage 3 times. These attacks always deal critical damage and cannot be dodged. | Nachdem diese Kreatur Schaden durch den Angriff oder Zauber eines Feindes erleidet, {ACTION_attack} alle anderen Kreaturen mit diesem Merkmal den Feind, der diesen Schaden verursacht hat, 3 Mal. Diese Angriffe verursachen immer kritischen Schaden und können nicht ausgewichen werden. |
 | 2705 | Unjustified Expectations | Unbegründete Erwartungen |
 | 2706 | At the start of this creature's turn, it transforms into a different type of {RACE_Slime}. Each type of {RACE_Slime} is immune to damage from attacks, spells, or both. | Zu Beginn des Zuges dieser Kreatur verwandelt sie sich in einen anderen Typ von {RACE_Slime}. Jeder Typ von {RACE_Slime} ist immun gegen Schaden durch Angriffe, Zauber oder beides. |
 | 2707 | Unjustified Expectations | Unbegründete Erwartungen |
@@ -42,7 +42,7 @@
 | 2739 | Master of Angels | Meister der Engel |
 | 2740 | Your {RACE_Angel}s' attacks apply all the debuffs that your other {RACE_Angel}s' innate traits apply as well. | Die Angriffe deiner {RACE_Angel} wenden alle Debuffs an, die auch die angeborenen Merkmale deiner anderen {RACE_Angel} anwenden. |
 | 2741 | Master of Apises | Meister der Apises |
-| 2742 | At the start of battle, your {RACE_Apis}es gain the Long Live trait. | Zu Beginn des Kampfes erhalten deine {RACE_Apis} die Merkmal Langes Leben. |
+| 2742 | At the start of battle, your {RACE_Apis}es gain the Long Live trait. | Zu Beginn des Kampfes erhalten deine {RACE_Apis} das Merkmal Langes Leben. |
 | 2743 | Master of Apocalypses | Meister der Apokalypsen |
 | 2744 | Your {RACE_Apocalypse}s act as if they take 1 additional turn. This trait does not stack. | Deine {RACE_Apocalypse}s handeln, als würden sie 1 zusätzlichen Zug erhalten. Dieses Merkmal ist nicht kumulativ. |
 | 2745 | Master of Arachnalisks | Meister der Arachnalisken |

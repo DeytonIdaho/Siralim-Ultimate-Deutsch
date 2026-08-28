@@ -99,6 +99,6 @@
 | 496 | Ancient Prayer | Uraltes Gebet |
 | 497 | Your creatures gain copies of all the target's buffs. | Deine Kreaturen erhalten Kopien aller Stärkungen des Ziels. |
 | 498 | Ascension | Aufstieg |
-| 499 | Caster gains a random trait. This spell cannot be cast manually, but has a 50% chance to cast when the caster {ACTION_defends} or {ACTION_provokes}. | Der Zaubernde erhält eine zufällige Merkmal. Dieser Zauber kann nicht manuell gewirkt werden, hat aber eine 50% Chance, ausgelöst zu werden, wenn der Zaubernde {ACTION_defends} oder {ACTION_provokes}. |
+| 499 | Caster gains a random trait. This spell cannot be cast manually, but has a 50% chance to cast when the caster {ACTION_defends} or {ACTION_provokes}. | Der Zaubernde erhält ein zufälliges Merkmal. Dieser Zauber kann nicht manuell gewirkt werden, hat aber eine 50% Chance, ausgelöst zu werden, wenn der Zaubernde {ACTION_defends} oder {ACTION_provokes}. |
 | 500 | Chastise | Tadeln |
 | 501 | Target takes a small amount of damage. | Ziel erleidet geringen Schaden. |

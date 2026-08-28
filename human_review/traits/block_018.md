@@ -5,7 +5,7 @@
 | 1702 | Lingering Incantation | Anhaltende Beschwörung |
 | 1703 | After your creatures {ACTION_cast} a {CLASS_Sorcery} spell, 3 random enemies are afflicted with a random debuff. This trait does not stack. | Nachdem deine Kreaturen einen {CLASS_Sorcery}-Zauber {ACTION_cast}, werden 3 zufällige Feinde mit einem zufälligen Debuff belegt. Dieses Merkmal ist nicht kumulativ. |
 | 1704 | Worship | Anbetung |
-| 1705 | After your creatures manually {ACTION_cast} a {CLASS_Life} spell, they gain a random trait. This trait does not stack. | Nachdem deine Kreaturen manuell einen {CLASS_Life}-Zauber {ACTION_cast}, erhalten sie eine zufällige Merkmal. Dieses Merkmal ist nicht kumulativ. |
+| 1705 | After your creatures manually {ACTION_cast} a {CLASS_Life} spell, they gain a random trait. This trait does not stack. | Nachdem deine Kreaturen manuell einen {CLASS_Life}-Zauber {ACTION_cast}, erhalten sie ein zufälliges Merkmal. Dieses Merkmal ist nicht kumulativ. |
 | 1706 | Amethyst Attunement | Amethyst-Abstimmung |
 | 1707 | All creatures' [temporary] Ethereal Spell Gems are created with only 1 {STAT_charge}. | Alle Kreaturen' [temporary] Ätherische Zaubersteine werden mit nur 1 {STAT_charge} erschaffen. |
 | 1708 | Opal Attunement | Opal-Abstimmung |
@@ -93,7 +93,7 @@
 | 1790 | Ditto | Ditto |
 | 1791 | After one of your creatures manually {ACTION_casts} a Scourge spell, this creature {ACTION_casts} the same Scourge spell. | Nachdem eine deiner Kreaturen manuell eine Geißel-Zauberformel {ACTION_casts}, {ACTION_casts} diese Kreatur dieselbe Geißel-Zauberformel. |
 | 1792 | Kismet | Kismet |
-| 1793 | After an enemy afflicts your creatures with a debuff, this creature afflicts the enemy with that debuff as well. | Nachdem ein Feind deine Kreaturen mit einem Debuffs belegt, belegt diese Kreatur den Feind ebenfalls mit diesem Debuffs. |
+| 1793 | After an enemy afflicts your creatures with a debuff, this creature afflicts the enemy with that debuff as well. | Nachdem ein Feind deine Kreaturen mit einem Debuff belegt, belegt diese Kreatur den Feind ebenfalls mit diesem Debuffs. |
 | 1794 | Winter Has Come | Der Winter ist gekommen |
 | 1795 | At the start of battle, this creature afflicts 2 random enemies with {CONDNAME_DEBUFF_FROZEN}. | Zu Beginn des Kampfes belegt diese Kreatur 2 zufällige Gegner mit {CONDNAME_DEBUFF_FROZEN}. |
 | 1796 | Soul Eater | Seelenfresser |

@@ -27,7 +27,7 @@
 | 2224 | Heartstopper | Herzensbrecher |
 | 2225 | After this creature {ACTION_attacks}, it steals 20% of the target's {STAT_speed} and gives it to your creatures. | Nachdem diese Kreatur {ACTION_attacks}, stiehlt sie 20% der {STAT_speed} des Ziels und gibt sie deinen Kreaturen. |
 | 2226 | From Hero To Zero | Von Held zu Niemand |
-| 2227 | After this creature {ACTION_attacks}, it removes the target's traits that it didn't start with in battle and gives them to your creatures. | Nachdem diese Kreatur {ACTION_attacks}, entfernt sie die Merkmale des Ziels, die es zu Beginn des Kampfes nicht hatte, und überträgt sie auf deine Kreaturen. |
+| 2227 | After this creature {ACTION_attacks}, it removes the target's traits that it didn't start with in battle and gives them to your creatures. | Nachdem diese Kreatur {ACTION_attacks}, entfernt sie das Merkmale des Ziels, die es zu Beginn des Kampfes nicht hatte, und überträgt sie auf deine Kreaturen. |
 | 2228 | World Domination | Weltherrschaft |
 | 2229 | Your {RACE_Hemomancer}s' innate traits now activate when they are {ACTION_attacked} as well. | Deine {RACE_Hemomancer} angeborenen Merkmale aktivieren sich jetzt auch, wenn sie {ACTION_attacked} werden. |
 | 2230 | Forbearance | Nachsicht |

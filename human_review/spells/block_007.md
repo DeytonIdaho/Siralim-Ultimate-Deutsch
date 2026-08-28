@@ -19,7 +19,7 @@
 | 616 | Reverse Polarity | Polarität umkehren |
 | 617 | Target's debuffs are converted to random buffs. | Debuffs des Ziels werden in zufällige Buffs umgewandelt. |
 | 618 | Stellar Flare | Sternenflamme |
-| 619 | Enemies take a small amount of damage, plus 10% more damage for each time the caster has {ACTION_defended} and {ACTION_provoked} in the current battle. | Feinde erleiden einen geringen Schaden, plus 10% mehr Schaden für jedes Mal, das der Zauberwirker in der aktuellen Schlacht {ACTION_defended} und {ACTION_provoked} hat. |
+| 619 | Enemies take a small amount of damage, plus 10% more damage for each time the caster has {ACTION_defended} and {ACTION_provoked} in the current battle. | Feinde erleiden einen geringen Schaden, plus 10% mehr Schaden für jedes Mal, wenn der Zauberwirker in der aktuellen Schlacht {ACTION_defended} und {ACTION_provoked} hat. |
 | 620 | Abundance | Überfluss |
 | 621 | Your creatures recover a small amount of {STAT_health} and gain a small amount of {STAT_attack}, {STAT_intelligence}, {STAT_defense}, and {STAT_speed}. | Deine Kreaturen regenerieren eine kleine Menge {STAT_health} und erhalten eine kleine Menge {STAT_attack}, {STAT_intelligence}, {STAT_defense} und {STAT_speed}. |
 | 622 | Stone Ward | Steinwache |
@@ -45,7 +45,7 @@
 | 642 | Godly Gin | Göttlicher Gin |
 | 643 | Your creatures gain {CONDNAME_BUFF_IMMUNITY}. This spell is a {SPELL_alcohol}. | Deine Kreaturen erhalten {CONDNAME_BUFF_IMMUNITY}. Dieser Zauber ist ein {SPELL_alcohol}. |
 | 644 | Merry Malt | Fröhliches Malz |
-| 645 | Caster gains a random trait that belongs to its race. This spell is a {SPELL_alcohol}. | Zaubernder erhält eine zufällige Merkmal, die seiner Rasse angehört. Dieser Zauber ist ein {SPELL_alcohol}. |
+| 645 | Caster gains a random trait that belongs to its race. This spell is a {SPELL_alcohol}. | Zaubernder erhält ein zufälliges Merkmal, die seiner Rasse angehört. Dieser Zauber ist ein {SPELL_alcohol}. |
 | 646 | Golden Stout | Goldenes Starkbier |
 | 647 | Caster {ACTION_casts} the Spell Gem in its Artifact's Spell Slot. This spell is a {SPELL_alcohol}. | Zaubernde {ACTION_casts} den Zauberstein im Zauberplatz des Artefakts. Dieser Zauber ist ein {SPELL_alcohol}. |
 | 648 | Riotous Rum | Aufständischer Rum |

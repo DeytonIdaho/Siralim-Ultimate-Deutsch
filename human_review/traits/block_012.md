@@ -5,7 +5,7 @@
 | 1102 | Crucify Me | Kreuzige Mich |
 | 1103 | This being is more powerful than any human, creature, or god. | Diese Kreatur ist mächtiger als jeder Mensch, jedes Geschöpf oder jeder Gott. |
 | 1104 | Mirror Blades | Spiegelklingen |
-| 1105 | After this creature takes damage from an attack or spell, all other creatures with this trait attack the enemy who afflicted that damage. | Nachdem diese Kreatur Schaden durch einen Angriff oder Zauber erleidet, greifen alle anderen Kreaturen mit dieses Merkmal den Feind an, der diesen Schaden verursacht hat. |
+| 1105 | After this creature takes damage from an attack or spell, all other creatures with this trait attack the enemy who afflicted that damage. | Nachdem diese Kreatur Schaden durch einen Angriff oder Zauber erleidet, greifen alle anderen Kreaturen mit diesem Merkmal den Feind an, der diesen Schaden verursacht hat. |
 | 1106 | Stupify | Betäuben |
 | 1107 | This creature starts battles with 100% more {STAT_intelligence} and {STAT_defense}, but loses 25% {STAT_intelligence} and {STAT_defense} at the end of its turn. | Diese Kreatur beginnt Kämpfe mit 100% mehr {STAT_intelligence} und {STAT_defense}, verliert jedoch 25% {STAT_intelligence} und {STAT_defense} am Ende seines Zuges. |
 | 1108 | Ceaseless Flame | Unaufhörliche Flamme |
@@ -71,9 +71,9 @@
 | 1168 | Undying | Unsterblich |
 | 1169 | After your creatures take damage, they gain {CONDNAME_BUFF_SHELL}. This creature intercepts all damage dealt to its allies. This creature starts battles with {CONDNAME_BUFF_REBIRTH}. | Nachdem deine Kreaturen Schaden erleiden, erhalten sie {CONDNAME_BUFF_SHELL}. Diese Kreatur fängt allen Schaden ab, der ihren Verbündeten zugefügt wird. Diese Kreatur beginnt Kämpfe mit {CONDNAME_BUFF_REBIRTH}. |
 | 1170 | Waking the Fallen | Erweckung der Gefallenen |
-| 1171 | At the start of battle, this creature and its allies gain an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Zu Beginn des Kampfes erhält diese Kreatur und ihre Verbündeten eine Armee von Diener. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} sie [icons,1984] Verzückung. |
+| 1171 | At the start of battle, this creature and its allies gain an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Zu Beginn des Kampfes erhält diese Kreatur und ihre Verbündeten eine Armee von Dienern. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} sie [icons,1984] Verzückung. |
 | 1172 | Mirror Blades | Spiegelklingen |
-| 1173 | After this creature takes damage from an enemy's attack or spell, all other creatures with this trait {ACTION_attack} the enemy who afflicted that damage. This attack always deals critical damage and cannot be dodged. | Nachdem diese Kreatur Schaden durch den Angriff oder Zauber eines Feindes erleidet, {ACTION_attack} alle anderen Kreaturen mit dieses Merkmal den Feind, der diesen Schaden verursacht hat. Dieser Angriff verursacht immer kritischen Schaden und kann nicht ausgewichen werden. |
+| 1173 | After this creature takes damage from an enemy's attack or spell, all other creatures with this trait {ACTION_attack} the enemy who afflicted that damage. This attack always deals critical damage and cannot be dodged. | Nachdem diese Kreatur Schaden durch den Angriff oder Zauber eines Feindes erleidet, {ACTION_attack} alle anderen Kreaturen mit diesem Merkmal den Feind, der diesen Schaden verursacht hat. Dieser Angriff verursacht immer kritischen Schaden und kann nicht ausgewichen werden. |
 | 1174 | Unjustified Expectations | Unbegründete Erwartungen |
 | 1175 | At the start of this creature's turn, it transforms into a different type of {RACE_Slime}. Each type of {RACE_Slime} is immune to damage from attacks, spells, or both. This creature is immune to indirect damage. | Zu Beginn des Zuges dieser Kreatur verwandelt sie sich in einen anderen Typ von {RACE_Slime}. Jeder Typ von {RACE_Slime} ist immun gegen Schaden durch Angriffe, Zauber oder beides. Diese Kreatur ist immun gegen indirekten Schaden. |
 | 1176 | Shackler's Revenge | Rache des Fesslers |

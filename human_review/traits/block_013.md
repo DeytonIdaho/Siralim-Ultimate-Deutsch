@@ -11,7 +11,7 @@
 | 1208 | Expanded Power | Erweiterte Macht |
 | 1209 | Your creatures' damaging spells that have "small", "moderate", or "large" potency now have "massive" potency. | Eure Kreaturen mit schadenverursachenden Zaubern, die "geringe |
 | 1210 | Brothel | Bordell |
-| 1211 | At the start of battle, your other creatures with the same class as this creature share their innate trait with the creatures adjacent to them. This trait does not stack. | Zu Beginn des Kampfes teilen deine anderen Kreaturen mit derselben Klasse wie diese Kreatur ihre angeborenes Merkmal mit den Kreaturen, die an sie angrenzen. Dieses Merkmal ist nicht kumulativ. |
+| 1211 | At the start of battle, your other creatures with the same class as this creature share their innate trait with the creatures adjacent to them. This trait does not stack. | Zu Beginn des Kampfes teilen deine anderen Kreaturen mit derselben Klasse wie diese Kreatur ihr angeborenes Merkmal mit den Kreaturen, die an sie angrenzen. Dieses Merkmal ist nicht kumulativ. |
 | 1212 | Perfect Imperfection | Perfekte Unvollkommenheit |
 | 1213 | Your creatures deal 40% more damage and take 10% less damage for each turn they've taken in the current battle. At the start of battle, your creatures gain the [icons,1980] Timewalk spell. This trait does not stack. | Deine Kreaturen verursachen 40% mehr Schaden und erleiden 10% weniger Schaden für jede Runde, die sie im aktuellen Kampf absolviert haben. Zu Beginn des Kampfes erhalten deine Kreaturen den [icons,1980] Zeitsprung-Zauber. Dieses Merkmal ist nicht kumulativ. |
 | 1214 | I HATE YOU !@#$ING ALL | ICH HASSE EUCH ALLE VERDAMMT NOCH MAL |

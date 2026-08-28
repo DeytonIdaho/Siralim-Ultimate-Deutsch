@@ -91,7 +91,7 @@
 | 388 | Dark Tranquility | Dunkle Ruhe |
 | 389 | If the target has less than 85% {STAT_health}, its {STAT_health} is inverted. | Wenn das Ziel weniger als 85% {STAT_health} hat, wird sein {STAT_health} invertiert. |
 | 390 | Shadow Crash | Schatteneinschlag |
-| 391 | Enemies take damage equal to 10% of the caster's {STAT_intelligence} for each time they've cast a spell in the current battle. | Feinde erleiden Schaden in Höhe von 10% der {STAT_intelligence} des Zaubernden für jedes Mal, das sie in der aktuellen Schlacht einen Zauber gewirkt haben. |
+| 391 | Enemies take damage equal to 10% of the caster's {STAT_intelligence} for each time they've cast a spell in the current battle. | Feinde erleiden Schaden in Höhe von 10% der {STAT_intelligence} des Zaubernden für jedes Mal, wenn sie in der aktuellen Schlacht einen Zauber gewirkt haben. |
 | 392 | Lingering Insanity | Anhaltender Wahnsinn |
 | 393 | Enemies take a small amount of damage. 100% of the damage is based on the enemies' {STAT_intelligence} instead of the caster's. | Feinde erleiden eine geringe Menge Schaden. 100% des Schadens basiert auf der {STAT_intelligence} der Feinde anstatt der des Zaubernden. |
 | 394 | Madness | Wahnsinn |

@@ -41,7 +41,7 @@
 | 338 | Greed | Gier |
 | 339 | At the start of battle, this creature steals 15% of your other creatures' {STAT_attack}, {STAT_intelligence}, {STAT_defense}, and {STAT_speed}. | Zu Beginn des Kampfes stiehlt diese Kreatur 15% des {STAT_attack}, {STAT_intelligence}, {STAT_defense} und {STAT_speed} deiner anderen Kreaturen. |
 | 340 | Lust | Lust |
-| 341 | At the start of battle, this creature gains copies of up to 3 of the enemies' permanent Spell Gems. This trait ignores other creatures with this trait. | Zu Beginn des Kampfes erhält diese Kreatur Kopien von bis zu 3 permanenten Zaubersteinen der Feinde. Dieses Merkmal ignoriert andere Kreaturen mit dieses Merkmal. |
+| 341 | At the start of battle, this creature gains copies of up to 3 of the enemies' permanent Spell Gems. This trait ignores other creatures with this trait. | Zu Beginn des Kampfes erhält diese Kreatur Kopien von bis zu 3 permanenten Zaubersteinen der Feinde. Dieses Merkmal ignoriert andere Kreaturen mit diesem Merkmal. |
 | 342 | Envy | Neid |
 | 343 | At the start of battle, set this creature's {STAT_attack}, {STAT_intelligence}, {STAT_defense}, {STAT_speed}, and {STAT_health}, to the highest of your other creatures' respective base stats. | Zu Beginn des Kampfes werden {STAT_attack}, {STAT_intelligence}, {STAT_defense}, {STAT_speed} und {STAT_health} dieser Kreatur auf die höchsten entsprechenden Basiswerte deiner anderen Kreaturen gesetzt. |
 | 344 | Gluttony | Völlerei |

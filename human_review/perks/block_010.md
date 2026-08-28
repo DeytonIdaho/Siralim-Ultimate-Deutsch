@@ -11,7 +11,7 @@
 | 908 | Fertility | Fruchtbarkeit |
 | 909 | Your Herbling evolves 50% faster. | Dein Herbling entwickelt sich 50% schneller. |
 | 910 | Hellion | Hellion |
-| 911 | Your creatures deal 5% more damage with attacks for each time they’ve {ACTION_attacked} in the current battle. | Deine Kreaturen verursachen 5% mehr Schaden mit Angriffen für jedes Mal, das sie in der aktuellen Schlacht {ACTION_attacked} haben. |
+| 911 | Your creatures deal 5% more damage with attacks for each time they’ve {ACTION_attacked} in the current battle. | Deine Kreaturen verursachen 5% mehr Schaden mit Angriffen für jedes Mal, wenn sie in der aktuellen Schlacht {ACTION_attacked} haben. |
 | 912 | Judgment Day | Jüngster Tag |
 | 913 | Your creatures deal 150% more damage and take 65% less damage as a result of their class strength. | Deine Kreaturen verursachen 150% mehr Schaden und erleiden 65% weniger Schaden aufgrund ihrer Klassenstärke. |
 | 914 | Windwalker | Windwandler |
@@ -73,11 +73,11 @@
 | 970 | Carcinogen | Karzinogen |
 | 971 | Enemies always have {CONDNAME_DEBUFF_POISON}.\n\n{CONDDESC_DEBUFF_POISON} | Gegner haben immer {CONDNAME_DEBUFF_POISON}.\n\n{CONDDESC_DEBUFF_POISON} |
 | 972 | Teratogen | Teratogen |
-| 973 | After a creature takes damage from {CONDNAME_DEBUFF_POISON}, the potency of all enemies' {CONDNAME_DEBUFF_POISON} debuffs is increased by <5>%. | Nachdem eine Kreatur Schaden durch {CONDNAME_DEBUFF_POISON} erleidet, wird die Effektstärke aller {CONDNAME_DEBUFF_POISON}-Debuff der Feinde um <5>% erhöht. |
+| 973 | After a creature takes damage from {CONDNAME_DEBUFF_POISON}, the potency of all enemies' {CONDNAME_DEBUFF_POISON} debuffs is increased by <5>%. | Nachdem eine Kreatur Schaden durch {CONDNAME_DEBUFF_POISON} erleidet, wird die Effektstärke aller {CONDNAME_DEBUFF_POISON}-Debuffs der Feinde um <5>% erhöht. |
 | 974 | Neurotoxicity | Neurotoxizität |
-| 975 | Enemies take 1% more damage from attacks and spells for each time each enemy has taken damage from {CONDNAME_DEBUFF_POISON} in the current battle. | Feinde erleiden 1% mehr Schaden durch Angriffe und Zauber für jedes Mal, das jeder Feind Schaden durch {CONDNAME_DEBUFF_POISON} in der aktuellen Schlacht erlitten hat. |
+| 975 | Enemies take 1% more damage from attacks and spells for each time each enemy has taken damage from {CONDNAME_DEBUFF_POISON} in the current battle. | Feinde erleiden 1% mehr Schaden durch Angriffe und Zauber für jedes Mal, wenn jeder Feind Schaden durch {CONDNAME_DEBUFF_POISON} in der aktuellen Schlacht erlitten hat. |
 | 976 | Inoculate | Impfen |
-| 977 | Your creatures take 10% less damage from attacks and spells for each time they've taken damage from {CONDNAME_DEBUFF_POISON} in the current battle. | Deine Kreaturen erleiden 10% weniger Schaden durch Angriffe und Zauber für jedes Mal, das sie in der aktuellen Schlacht Schaden durch {CONDNAME_DEBUFF_POISON} erlitten haben. |
+| 977 | Your creatures take 10% less damage from attacks and spells for each time they've taken damage from {CONDNAME_DEBUFF_POISON} in the current battle. | Deine Kreaturen erleiden 10% weniger Schaden durch Angriffe und Zauber für jedes Mal, wenn sie in der aktuellen Schlacht Schaden durch {CONDNAME_DEBUFF_POISON} erlitten haben. |
 | 978 | Breath of Death | Hauch des Todes |
 | 979 | If an enemy dies while it is afflicted with {CONDNAME_DEBUFF_POISON}, all other enemies take damage equal to 50% of the potency of this debuff. | Wenn ein Feind stirbt, während er von {CONDNAME_DEBUFF_POISON} betroffen ist, erleiden alle anderen Feinde Schaden in Höhe von 50% der Effektstärke dieses Debuffs. |
 | 980 | Addictive Effect | Suchtwirkung |
@@ -89,7 +89,7 @@
 | 986 | Dispersing Plague | Verstreuende Seuche |
 | 987 | After your creatures take damage from {CONDNAME_DEBUFF_POISON}, they have a 20% chance to {ACTION_cast} [icons,1984]Virus. | Nachdem deine Kreaturen Schaden durch {CONDNAME_DEBUFF_POISON} erlitten haben, besteht eine 20% Chance, dass sie [icons,1984]Virus {ACTION_cast}. |
 | 988 | Toxic Absorption | Toxische Absorption |
-| 989 | After your creatures take damage from {CONDNAME_DEBUFF_POISON}, they gain stats (other than {STAT_health}) equal to 50% of the damage received. | Nachdem deine Kreaturen Schaden durch {CONDNAME_DEBUFF_POISON} erlitten haben, erhalten sie Werte (außer {STAT_health}) in Höhe von 50% des erlittenen Schadens. |
+| 989 | After your creatures take damage from {CONDNAME_DEBUFF_POISON}, they gain stats (other than {STAT_health}) equal to 50% of the damage received. | Nachdem deine Kreaturen Schaden durch {CONDNAME_DEBUFF_POISON} erlitten haben, erhalten sie Attribute (außer {STAT_health}) in Höhe von 50% des erlittenen Schadens. |
 | 990 | Pressure | Druck |
 | 991 | The first time an enemy {ACTION_attacks} each turn, one of your creatures {ACTION_attacks} a random enemy. | Das erste Mal, wenn ein Feind {ACTION_attacks} in jedem Zug, {ACTION_attacks} eine deiner Kreaturen einen zufälligen Feind. |
 | 992 | Imitation | Nachahmung |
@@ -99,6 +99,6 @@
 | 996 | Pull the Rope | Zieh am Seil |
 | 997 | When an enemy afflicts your creatures with a debuff, a random enemy is afflicted with that debuff as well. | Wenn ein Feind deine Kreaturen mit einem Debuff belegt, wird auch ein zufälliger Feind mit diesem Debuff belegt. |
 | 998 | The Lean | Die Lehne |
-| 999 | Your creatures deal 5% more damage with attacks and spells for each time an enemy has {ACTION_attacked} in the current battle. | Deine Kreaturen verursachen 5% mehr Schaden mit Angriffen und Zaubern für jedes Mal, das ein Gegner im aktuellen Kampf {ACTION_attacked} hat. |
+| 999 | Your creatures deal 5% more damage with attacks and spells for each time an enemy has {ACTION_attacked} in the current battle. | Deine Kreaturen verursachen 5% mehr Schaden mit Angriffen und Zaubern für jedes Mal, wenn ein Gegner im aktuellen Kampf {ACTION_attacked} hat. |
 | 1000 | Stationary Walk | Stationärer Gang |
 | 1001 | Your creatures take 5% less damage for each time an enemy has {ACTION_cast} a spell in the current battle. | Deine Kreaturen erleiden 5% weniger Schaden für jedes Mal, wenn ein Gegner im aktuellen Kampf einen Zauber {ACTION_cast} hat. |

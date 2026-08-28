@@ -17,7 +17,7 @@
 | 814 | Cyclone Strike | Zyklon-Schlag |
 | 815 | Target and all enemies take a devastating amount of damage. The damage is split amongst all enemies. | Ziel und alle Feinde erleiden verheerenden Schaden. Der Schaden wird unter allen Feinden aufgeteilt. |
 | 816 | Transcendence | Transzendenz |
-| 817 | Target gains a random trait that belongs to a creature from its race. | Ziel erhält eine zufällige Merkmal, die einer Kreatur seiner Rasse gehört. |
+| 817 | Target gains a random trait that belongs to a creature from its race. | Ziel erhält ein zufälliges Merkmal, die einer Kreatur seiner Rasse gehört. |
 | 818 | Downburst | Fallböe |
 | 819 | Target and the creatures adjacent to it take a moderate amount of damage. | Ziel und die Kreaturen, die an es angrenzen, erleiden eine moderate Menge Schaden. |
 | 820 | Adrenaline Rush | Adrenalinschub |
@@ -57,7 +57,7 @@
 | 854 | Gem Bomb | Edelsteinbombe |
 | 855 | One of the caster's [temporary] Ethereal Spell Gems is Sealed. Then, enemies take damage equal to 5% of the caster's highest stat for each {STAT_charge} the Spell Gem has. This spell is an {SPELL_ultimate}. | Einer der [temporary] Ätherischen Zaubersteine des Zauberwirkers wird Versiegelt. Dann erleiden Feinde Schaden in Höhe von 5% des höchsten Wertes des Zauberwirkers für jede {STAT_charge}, die der Zauberstein besitzt. Dieser Zauber ist ein {SPELL_ultimate}. |
 | 856 | Hungering Void | Hungernde Leere |
-| 857 | Enemies take a moderate amount of damage, plus 30% for each time this spell has been {ACTION_cast} in the current battle. This spell is an {SPELL_ultimate}. | Feinde erleiden eine moderate Menge Schaden, plus 30% für jedes Mal, das dieser Zauber im aktuellen Kampf {ACTION_cast} wurde. Dieser Zauber ist ein {SPELL_ultimate}. |
+| 857 | Enemies take a moderate amount of damage, plus 30% for each time this spell has been {ACTION_cast} in the current battle. This spell is an {SPELL_ultimate}. | Feinde erleiden eine moderate Menge Schaden, plus 30% für jedes Mal, wenn dieser Zauber im aktuellen Kampf {ACTION_cast} wurde. Dieser Zauber ist ein {SPELL_ultimate}. |
 | 858 | Afterlife | Jenseits |
 | 859 | Your creatures' on-resurrect and on-death effects activate. This spell is an {SPELL_ultimate}. | Deine Kreaturen aktivieren ihre Effekte bei Wiederbelebung und Tod. Dieser Zauber ist ein {SPELL_ultimate}. |
 | 860 | Bloodwave | Blutwelle |
@@ -87,9 +87,9 @@
 | 884 | Awakened Nether Orbs | Erweckte Nether-Kugeln |
 | 885 | One of the five Nether Orbs (chosen randomly) is awakened to cast a powerful spell. This spell is an {SPELL_ultimate}. | Einer der fünf Nether-Orbs (zufällig ausgewählt) erwacht, um einen mächtigen Zauber zu wirken. Dieser Zauber ist ein {SPELL_ultimate}. |
 | 886 | Chaos Blades | Chaosklingen |
-| 887 | Target takes a small amount of damage, plus 5% more damage for each time your creatures have {ACTION_attacked} in the current battle. | Ziel erleidet einen geringen Schaden, plus 5% mehr Schaden für jedes Mal, das deine Kreaturen in der aktuellen Schlacht {ACTION_attacked} haben. |
+| 887 | Target takes a small amount of damage, plus 5% more damage for each time your creatures have {ACTION_attacked} in the current battle. | Ziel erleidet einen geringen Schaden, plus 5% mehr Schaden für jedes Mal, wenn deine Kreaturen in der aktuellen Schlacht {ACTION_attacked} haben. |
 | 888 | Blow Mind | Geistesschlag |
-| 889 | Enemies take a small amount of damage, plus 20% more damage for each time enemies have {ACTION_cast} a spell in the current battle. | Feinde erleiden einen geringen Schaden, plus 20% mehr Schaden für jedes Mal, das Feinde im aktuellen Kampf einen Zauber {ACTION_cast} haben. |
+| 889 | Enemies take a small amount of damage, plus 20% more damage for each time enemies have {ACTION_cast} a spell in the current battle. | Feinde erleiden einen geringen Schaden, plus 20% mehr Schaden für jedes Mal, wenn Feinde im aktuellen Kampf einen Zauber {ACTION_cast} haben. |
 | 890 | Knife's Edge | Messerschneide |
 | 891 | Target takes a large amount of damage, plus 5% more damage for every 1% {STAT_health} the caster is missing. | Ziel erleidet eine große Menge Schaden, plus 5% mehr Schaden für jedes 1% {STAT_health}, das dem Zauberwirker fehlt. |
 | 892 | Bladestorm | Klingensturm |

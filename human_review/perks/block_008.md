@@ -63,7 +63,7 @@
 | 760 | Graceful Spirit | Anmutiger Geist |
 | 761 | At the start of your creatures' turns, they gain a {CONDNAME_BUFF_BARRIER} that absorbs damage equal to <1>% of their Maximum {STAT_health}.\n\n{CONDDESC_BUFF_BARRIER} | Zu Beginn der Runden deiner Kreaturen erhalten sie eine {CONDNAME_BUFF_BARRIER}, die Schaden in Höhe von <1>% ihrer maximalen {STAT_health} absorbiert.\n\n{CONDDESC_BUFF_BARRIER} |
 | 762 | Nature's Boon | Segen der Natur |
-| 763 | Your creatures have <1>% more stats (other than {STAT_health}) for each buff they have. | Deine Kreaturen haben <1>% mehr Werte (außer {STAT_health}) für jeden Buff, den sie besitzen. |
+| 763 | Your creatures have <1>% more stats (other than {STAT_health}) for each buff they have. | Deine Kreaturen haben <1>% mehr Attribute (außer {STAT_health}) für jeden Buff, den sie besitzen. |
 | 764 | Spirit Shield | Geisterschild |
 | 765 | Your creatures deal <2>% more damage and take <1>% less damage for each buff they have. | Deine Kreaturen verursachen <2>% mehr Schaden und erleiden <1>% weniger Schaden für jeden Buff, den sie haben. |
 | 766 | Earthen Frenzy | Erdenfuror |

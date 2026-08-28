@@ -3,7 +3,7 @@
 | Row | English | German |
 |---:|---|---|
 | 1002 | Kindle | Entzünden |
-| 1003 | Target takes a large amount of damage, plus 5% more damage for each time the caster has {ACTION_attacked} in the current battle. | Ziel erleidet eine große Menge Schaden, plus 5% mehr Schaden für jedes Mal, das der Zauberwirker in der aktuellen Schlacht {ACTION_attacked} hat. |
+| 1003 | Target takes a large amount of damage, plus 5% more damage for each time the caster has {ACTION_attacked} in the current battle. | Ziel erleidet eine große Menge Schaden, plus 5% mehr Schaden für jedes Mal, wenn der Zauberwirker in der aktuellen Schlacht {ACTION_attacked} hat. |
 | 1004 | Flameheart | Flammenherz |
 | 1005 | Your creatures gain a {CONDNAME_BUFF_BARRIER} that absorbs damage equal to the amount of damage they've taken in the current battle. | Deine Kreaturen erhalten eine {CONDNAME_BUFF_BARRIER}, die Schaden in Höhe des Schadens absorbiert, den sie in der aktuellen Schlacht erlitten haben. |
 | 1006 | Overcharge | Überladung |

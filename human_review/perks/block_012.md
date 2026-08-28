@@ -29,11 +29,11 @@
 | 1126 | Renewable Armaments | Erneuerbare Bewaffnung |
 | 1127 | After an enemy's {CONDNAME_DEBUFF_BOMB} detonates, it has a 35% chance to be afflicted with {CONDNAME_DEBUFF_BOMB} again. | Nachdem die {CONDNAME_DEBUFF_BOMB} eines Gegners detoniert, besteht eine 35% Chance, dass er erneut mit {CONDNAME_DEBUFF_BOMB} belegt wird. |
 | 1128 | Extrusion | Extrusion |
-| 1129 | Enemies' {CONDNAME_DEBUFF_BOMB} debuffs deal 50% more damage for each time they've been damaged by this debuff in the current battle. | Feinde mit {CONDNAME_DEBUFF_BOMB}-Debuffs erleiden 50% mehr Schaden für jedes Mal, das sie durch diesen Debuff im aktuellen Kampf Schaden erlitten haben. |
+| 1129 | Enemies' {CONDNAME_DEBUFF_BOMB} debuffs deal 50% more damage for each time they've been damaged by this debuff in the current battle. | Feinde mit {CONDNAME_DEBUFF_BOMB}-Debuffs erleiden 50% mehr Schaden für jedes Mal, wenn sie durch diesen Debuff im aktuellen Kampf Schaden erlitten haben. |
 | 1130 | Dimensional Stability | Dimensionale Stabilität |
 | 1131 | Enemies' {CONDNAME_DEBUFF_BOMB} debuffs detonate <1>  additional time. | Feinde {CONDNAME_DEBUFF_BOMB} Debuffs detonieren <1> zusätzliches Mal. |
 | 1132 | Dismantlement | Demontage |
-| 1133 | Enemies deal 5% less damage for each time they've been damaged by {CONDNAME_DEBUFF_BOMB} in the current battle. | Feinde verursachen 5% weniger Schaden für jedes Mal, das sie durch {CONDNAME_DEBUFF_BOMB} im aktuellen Kampf Schaden erlitten haben. |
+| 1133 | Enemies deal 5% less damage for each time they've been damaged by {CONDNAME_DEBUFF_BOMB} in the current battle. | Feinde verursachen 5% weniger Schaden für jedes Mal, wenn sie durch {CONDNAME_DEBUFF_BOMB} im aktuellen Kampf Schaden erlitten haben. |
 | 1134 | Pinpoint | Präzisionsschlag |
 | 1135 | Your creatures deal <5>% more damage to enemies with {CONDNAME_DEBUFF_BOMB}. | Deine Kreaturen verursachen <5>% mehr Schaden an Gegnern mit {CONDNAME_DEBUFF_BOMB}. |
 | 1136 | Annealment | Härtung |
@@ -57,11 +57,11 @@
 | 1154 | Chain Reaction | Kettenreaktion |
 | 1155 | After an enemy takes damage from {CONDNAME_DEBUFF_BOMB}, all other enemies take this damage as well. | Nachdem ein Gegner Schaden durch {CONDNAME_DEBUFF_BOMB} erleidet, erleiden alle anderen Gegner diesen Schaden ebenfalls. |
 | 1156 | Introversion | Introvertiertheit |
-| 1157 | You can only use 3 creatures at a time. Your {SPEC_DRUID} anointments are ignored. This perk is always active while your specialization is {SPEC_PARIAH}, even if you haven't allocated any Perk Points to it. | Du kannst nur 3 Kreaturen gleichzeitig einsetzen. Deine {SPEC_DRUID}-Salbungen werden ignoriert. Dieser Vorteil ist immer aktiv, während deine Spezialisierung {SPEC_PARIAH} ist, selbst wenn du keine Vorteilspunkte dafür aufgewendet hast. |
+| 1157 | You can only use 3 creatures at a time. Your {SPEC_DRUID} anointments are ignored. This perk is always active while your specialization is {SPEC_PARIAH}, even if you haven't allocated any Perk Points to it. | Du kannst nur 3 Kreaturen gleichzeitig einsetzen. Deine {SPEC_DRUID}-Salbungen werden ignoriert. Dieser Vorteil ist immer aktiv, während deine Spezialisierung {SPEC_PARIAH} ist, selbst wenn du keine Talentpunkte dafür aufgewendet hast. |
 | 1158 | Lifelong Respite | Lebenslange Ruhepause |
 | 1159 | You have a 25% increased chance to find Nether Stones. This perk is always active, even if your specialization is not {SPEC_PARIAH}. | Du hast eine 25% erhöhte Chance, Nethersteine zu finden. Dieser Vorteil ist immer aktiv, auch wenn deine Spezialisierung nicht {SPEC_PARIAH} ist. |
 | 1160 | Total Deprivation | Totale Entbehrung |
-| 1161 | Your creatures' Fused traits are ignored. You cannot use Avatar creatures. Your creatures' Relic effects are ignored. This perk is always active while your specialization is {SPEC_DEPRIVED}, even if you haven't allocated any Perk Points to it. | Die Verschmolzenen Merkmale deiner Kreaturen werden ignoriert. Du kannst keine Avatar-Kreaturen verwenden. Die Relikt-Effekte deiner Kreaturen werden ignoriert. Dieser Vorteil ist immer aktiv, während deine Spezialisierung {SPEC_DEPRIVED} ist, selbst wenn du keine Vorteilspunkte dafür aufgewendet hast. |
+| 1161 | Your creatures' Fused traits are ignored. You cannot use Avatar creatures. Your creatures' Relic effects are ignored. This perk is always active while your specialization is {SPEC_DEPRIVED}, even if you haven't allocated any Perk Points to it. | Die Verschmolzenen Merkmale deiner Kreaturen werden ignoriert. Du kannst keine Avatar-Kreaturen verwenden. Die Relikt-Effekte deiner Kreaturen werden ignoriert. Dieser Vorteil ist immer aktiv, während deine Spezialisierung {SPEC_DEPRIVED} ist, selbst wenn du keine Talentpunkte dafür aufgewendet hast. |
 | 1162 | Simple Life | Einfaches Leben |
 | 1163 | You have a 100% increased chance to find Skins. This perk is always active, even if your specialization is not {SPEC_DEPRIVED}. | Du hast eine um 100% erhöhte Chance, Skins zu finden. Dieser Vorteil ist immer aktiv, auch wenn deine Spezialisierung nicht {SPEC_DEPRIVED} ist. |
 | 1164 | Elbow Grease | Ellbogenschmalz |
@@ -77,9 +77,9 @@
 | 1174 | It's Called a Lance | Es wird Lanze genannt |
 | 1175 | After your creatures manually {ACTION_cast} an {SPELL_equipment}, they {ACTION_cast} a Living Lance spell. The type of Living Lance spell is based on the caster's class. | Nachdem deine Kreaturen manuell ein {SPELL_equipment} {ACTION_cast}, {ACTION_cast} sie einen Zauber der Lebenden Lanze. Die Art des Zaubers der Lebenden Lanze richtet sich nach der Klasse des Zauberwirkers. |
 | 1176 | Acclimated Armaments | Akklimatisierte Bewaffnung |
-| 1177 | Your creatures' {SPELL_equipment}s are 5% more potent for each time they've {ACTION_cast} an {SPELL_equipment} in the current battle. | Deine Kreaturen {SPELL_equipment}s sind 5% wirksamer für jedes Mal, das sie ein {SPELL_equipment} im aktuellen Kampf {ACTION_cast} haben. |
+| 1177 | Your creatures' {SPELL_equipment}s are 5% more potent for each time they've {ACTION_cast} an {SPELL_equipment} in the current battle. | Deine Kreaturen {SPELL_equipment}s sind 5% wirksamer für jedes Mal, wenn sie ein {SPELL_equipment} im aktuellen Kampf {ACTION_cast} haben. |
 | 1178 | War Paint | Kriegsbemalung |
-| 1179 | Your creatures have 10% more stats (other than {STAT_health}) for each permanent {SPELL_equipment} they have equipped. | Deine Kreaturen haben 10% mehr Werte (außer {STAT_health}) für jedes permanente {SPELL_equipment}, das sie ausgerüstet haben. |
+| 1179 | Your creatures have 10% more stats (other than {STAT_health}) for each permanent {SPELL_equipment} they have equipped. | Deine Kreaturen haben 10% mehr Attribute (außer {STAT_health}) für jedes permanente {SPELL_equipment}, das sie ausgerüstet haben. |
 | 1180 | Turn the Tables | Die Karten wenden |
 | 1181 | After your creatures manually {ACTION_cast} an {SPELL_equipment}, they {ACTION_attack} a random enemy for 50% more damage. | Nachdem deine Kreaturen manuell ein {SPELL_equipment} {ACTION_cast}, {ACTION_attack} sie einen zufälligen Gegner für 50% mehr Schaden. |
 | 1182 | Frenzy | Raserei |
@@ -101,4 +101,4 @@
 | 1198 | Top Shelf | Oberste Klasse |
 | 1199 | Your creatures' {SPELL_alcohol}s have a 100% increased chance to be {ACTION_cast}. | Deine Kreaturen {SPELL_alcohol}s haben eine um 100% erhöhte Chance, {ACTION_cast} zu werden. |
 | 1200 | Inebriation | Trunkenheit |
-| 1201 | Enemies have a 5% chance (up to 80%) to deal no damage for each time they've been affected by a {SPELL_alcohol} in the current battle. | Feinde haben eine 5% Chance (bis zu 80%), keinen Schaden zu verursachen, für jedes Mal, das sie im aktuellen Kampf von einem {SPELL_alcohol} betroffen wurden. |
+| 1201 | Enemies have a 5% chance (up to 80%) to deal no damage for each time they've been affected by a {SPELL_alcohol} in the current battle. | Feinde haben eine 5% Chance (bis zu 80%), keinen Schaden zu verursachen, für jedes Mal, wenn sie im aktuellen Kampf von einem {SPELL_alcohol} betroffen wurden. |

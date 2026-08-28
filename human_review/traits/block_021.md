@@ -55,7 +55,7 @@
 | 2052 | Monster Crown | Monster Crown |
 | 2053 | At the start of this creature's turn, it kills your other creatures and gains 20% of their stats (other than {STAT_health}). | Zu Beginn des Zuges dieser Kreatur tötet sie deine anderen Kreaturen und erhält 20% ihrer Attribute (außer {STAT_health}). |
 | 2054 | What's Yours Is Mine | Was dein ist, ist mein |
-| 2055 | At the start of battle, your creatures gain a random enemy's trait. This trait does not stack. | Zu Beginn des Kampfes erhalten deine Kreaturen eine zufällige Merkmal eines Gegners. Dieses Merkmal ist nicht kumulativ. |
+| 2055 | At the start of battle, your creatures gain a random enemy's trait. This trait does not stack. | Zu Beginn des Kampfes erhalten deine Kreaturen ein zufälliges Merkmal eines Gegners. Dieses Merkmal ist nicht kumulativ. |
 | 2056 | From Death to Destiny | Vom Tod zum Schicksal |
 | 2057 | This creature has additional stats (other than {STAT_health}) equal to 50% of the stats of your dead creatures. This trait does not work with creatures who also have this trait. | Diese Kreatur hat zusätzliche Attribute (außer {STAT_health}), die 50% der Werte deiner toten Kreaturen entsprechen. Dieses Merkmal funktioniert nicht mit Kreaturen, die ebenfalls dieses Merkmal besitzen. |
 | 2058 | Any Given Sin | Jede Gegebene Sünde |

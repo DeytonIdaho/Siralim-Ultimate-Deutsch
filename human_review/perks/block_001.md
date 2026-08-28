@@ -15,7 +15,7 @@
 | 12 | Dampen Harm | Schaden dämpfen |
 | 13 | When your creatures would receive fatal damage, they have a chance to prevent that damage equal to their chance to dodge. | Wenn deine Kreaturen tödlichen Schaden erleiden würden, haben sie eine Chance, diesen Schaden zu verhindern, die ihrer Ausweichchance entspricht. |
 | 14 | Fortified Spirit | Gestärkter Geist |
-| 15 | After your creatures dodge, they gain <1>% {STAT_defense} for each time they've {ACTION_attacked} with [nature_monk_kaze] Celerity in the current battle. | Nachdem deine Kreaturen ausweichen, erhalten sie <1>% {STAT_defense} für jedes Mal, das sie im aktuellen Kampf mit [nature_monk_kaze] Schnelligkeit {ACTION_attacked} haben. |
+| 15 | After your creatures dodge, they gain <1>% {STAT_defense} for each time they've {ACTION_attacked} with [nature_monk_kaze] Celerity in the current battle. | Nachdem deine Kreaturen ausweichen, erhalten sie <1>% {STAT_defense} für jedes Mal, wenn sie im aktuellen Kampf mit [nature_monk_kaze] Schnelligkeit {ACTION_attacked} haben. |
 | 16 | Blurred Strikes | Verschwommene Schläge |
 | 17 | After your creatures {ACTION_attack} with [nature_monk_kaze] Celerity, they have a <2.5>% chance to {ACTION_attack} an additional time. This effect can occur repeatedly until it fails. | Nachdem deine Kreaturen mit [nature_monk_kaze] Behändigkeit {ACTION_attack}, haben sie eine <2.5>%-Chance, ein weiteres Mal {ACTION_attack}. Dieser Effekt kann wiederholt auftreten, bis er fehlschlägt. |
 | 18 | Ride the Wind | Reite den Wind |
@@ -87,7 +87,7 @@
 | 84 | Rebound | Rückstoß |
 | 85 | When your creatures {ACTION_attack}, and their attack would fail to deal critical damage, the critical chance is re-rolled one additional time. | Wenn deine Kreaturen {ACTION_attack} und ihr Angriff keinen kritischen Schaden verursachen würde, wird die kritische Chance ein zusätzliches Mal neu gewürfelt. |
 | 86 | Prey | Beute |
-| 87 | When your creatures {ACTION_attack} while the target is afflicted with {CONDNAME_DEBUFF_DISARMED}, the target's Artifact's [slot_stat] Stat Slots are applied to your creature for all effects that relate to that attack.\n\n{CONDDESC_DEBUFF_DISARMED} | Wenn deine Kreaturen {ACTION_attack}, während das Ziel von {CONDNAME_DEBUFF_DISARMED} betroffen ist, werden die [slot_stat] Stat-Slots des Artefakts des Ziels für alle Effekte, die mit diesem Angriff zusammenhängen, auf deine Kreatur angewendet.\n\n{CONDDESC_DEBUFF_DISARMED} |
+| 87 | When your creatures {ACTION_attack} while the target is afflicted with {CONDNAME_DEBUFF_DISARMED}, the target's Artifact's [slot_stat] Stat Slots are applied to your creature for all effects that relate to that attack.\n\n{CONDDESC_DEBUFF_DISARMED} | Wenn deine Kreaturen {ACTION_attack}, während das Ziel von {CONDNAME_DEBUFF_DISARMED} betroffen ist, werden die [slot_stat] Attribut-Slots des Artefakts des Ziels für alle Effekte, die mit diesem Angriff zusammenhängen, auf deine Kreatur angewendet.\n\n{CONDDESC_DEBUFF_DISARMED} |
 | 88 | Subterfuge | Täuschungsmanöver |
 | 89 | Your creatures' attacks ignore <2>% of the target's {STAT_defense}. | Deine Kreaturen ignorieren <2>% der {STAT_defense} des Ziels. |
 | 90 | Intent to Kill | Tötungsabsicht |

@@ -60,7 +60,7 @@
 | 3057 | Call of the Grave | Ruf des Grabes |
 | 3058 | After this creature dodges, enemies lose 20% of their highest stat. In addition, this creature has an independent 50% chance to dodge attacks. This trait does not stack. | Nachdem diese Kreatur ausweicht, verlieren Feinde 20% ihres höchsten Attributs. Zusätzlich hat diese Kreatur eine unabhängige 50% Chance, Angriffen auszuweichen. Dieses Merkmal ist nicht kumulativ. |
 | 3059 | Doom and Gloom | Untergang und Finsternis |
-| 3060 | When an enemy would afflict this creature with a debuff, this creature has a 50% chance to afflict that enemy with the debuff instead. | Wenn ein Feind diese Kreatur mit einem Debuffs belegen würde, hat diese Kreatur eine 50% Chance, stattdessen den Feind mit dem Debuffs zu belegen. |
+| 3060 | When an enemy would afflict this creature with a debuff, this creature has a 50% chance to afflict that enemy with the debuff instead. | Wenn ein Feind diese Kreatur mit einem Debuff belegen würde, hat diese Kreatur eine 50% Chance, stattdessen den Feind mit dem Debuffs zu belegen. |
 | 3061 | Shadowmeld | Schattentarnung |
 | 3062 | Your creatures have an independent 10% chance to dodge for each debuff the enemy has. This trait does not stack. | Deine Kreaturen haben eine unabhängige 10% Chance, auszuweichen, für jeden Debuff, den der Gegner hat. Dieses Merkmal ist nicht kumulativ. |
 | 3063 | Blood and Power | Blut und Macht |

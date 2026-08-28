@@ -17,7 +17,7 @@
 | 1214 | Demon's Judgment | Dämonenurteil |
 | 1215 | Enemies lose a large amount of a random stat, and your creatures gain a large amount of that stat. | Gegner verlieren eine große Menge eines zufälligen Attributs, und deine Kreaturen erhalten eine große Menge dieses Attributs. |
 | 1216 | Karmic Retribution | Karmische Vergeltung |
-| 1217 | Target takes a small amount of damage. The amount of damage increases by 50% for each time this Spell Gem has been {ACTION_cast} in the current battle. | Ziel erleidet eine geringe Menge Schaden. Die Schadenshöhe erhöht sich um 50% für jedes Mal, das dieser Zauberstein in der aktuellen Schlacht {ACTION_cast} wurde. |
+| 1217 | Target takes a small amount of damage. The amount of damage increases by 50% for each time this Spell Gem has been {ACTION_cast} in the current battle. | Ziel erleidet eine geringe Menge Schaden. Die Schadenshöhe erhöht sich um 50% für jedes Mal, wenn dieser Zauberstein in der aktuellen Schlacht {ACTION_cast} wurde. |
 | 1218 | Divulging Bark | Enthüllende Rinde |
 | 1219 | Your creatures gain 1 stack of {CONDNAME_MINION_DIREWOLF}. | Deine Kreaturen erhalten 1 Stapel {CONDNAME_MINION_DIREWOLF}. |
 | 1220 | Halfway Through | Auf halbem Weg |
@@ -39,7 +39,7 @@
 | 1236 | Direct Orders | Direkte Befehle |
 | 1237 | Target takes a moderate amount of damage, plus 20% for each minion the caster has. | Ziel erleidet eine moderate Menge Schaden, plus 20% für jeden Diener, den der Zauberwirker hat. |
 | 1238 | Blood Spray | Blutspritzer |
-| 1239 | Enemies take a moderate amount of damage, plus 100% more damage for each time they've taken damage from {CONDNAME_DEBUFF_BLEED} in the current battle. | Feinde erleiden eine moderate Menge Schaden, plus 100% mehr Schaden für jedes Mal, das sie in der aktuellen Schlacht Schaden durch {CONDNAME_DEBUFF_BLEED} erlitten haben. |
+| 1239 | Enemies take a moderate amount of damage, plus 100% more damage for each time they've taken damage from {CONDNAME_DEBUFF_BLEED} in the current battle. | Feinde erleiden eine moderate Menge Schaden, plus 100% mehr Schaden für jedes Mal, wenn sie in der aktuellen Schlacht Schaden durch {CONDNAME_DEBUFF_BLEED} erlitten haben. |
 | 1240 | Chaos Reign | Chaosherrschaft |
 | 1241 | Caster {ACTION_casts} one of the target's Spell Gems. | Zauberer {ACTION_casts} einen der Zaubersteine des Ziels. |
 | 1242 | Contagion | Ansteckung |

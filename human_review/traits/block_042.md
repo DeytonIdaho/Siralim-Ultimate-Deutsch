@@ -42,7 +42,7 @@
 | 4139 | Feast and Famine | Fest und Hunger |
 | 4140 | Enemies that die with {CONDNAME_DEBUFF_FEAR} cannot be resurrected. | Feinde, die mit {CONDNAME_DEBUFF_FEAR} sterben, können nicht wiederbelebt werden. |
 | 4141 | Creeping Doom | Schleichender Untergang |
-| 4142 | Enemies with {CONDNAME_DEBUFF_FEAR} take 15% more damage for each {CLASS_Death} creature fighting on your side. This trait does not stack. | Feinde mit {CONDNAME_DEBUFF_FEAR} erleiden 20% mehr Schaden für jede {CLASS_Death} Kreatur, die auf deiner Seite kämpft. Dieses Merkmal ist nicht kumulativ. |
+| 4142 | Enemies with {CONDNAME_DEBUFF_FEAR} take 15% more damage for each {CLASS_Death} creature fighting on your side. This trait does not stack. | Feinde mit {CONDNAME_DEBUFF_FEAR} erleiden 15% mehr Schaden für jede {CLASS_Death}-Kreatur, die auf deiner Seite kämpft. Dieses Merkmal ist nicht kumulativ. |
 | 4143 | Misery Loves Company | Geteiltes Leid ist halbes Leid |
 | 4144 | Your creatures have 2 more base stats that correspond to each of your creatures' classes. This trait does not stack. | Deine Kreaturen haben 2 zusätzliche Basiswerte, die den Klassen deiner Kreaturen entsprechen. Dieses Merkmal ist nicht kumulativ. |
 | 4145 | Mortal Terror | Tödlicher Schrecken |
@@ -52,7 +52,7 @@
 | 4149 | Robbing the Grave | Grabräuberei |
 | 4150 | Creatures lose 35% more stats. Your creatures {ACTION_cast} spells that interact with {CONDNAME_DEBUFF_FEAR} with 50% more potency. This trait does not stack. | Kreaturen verlieren 35% mehr Attribute. Deine Kreaturen {ACTION_cast} Zauber, die mit {CONDNAME_DEBUFF_FEAR} interagieren, mit 50% mehr Effektstärke. Dieses Merkmal ist nicht kumulativ. |
 | 4151 | Ejector Seat | Schleudersitz |
-| 4152 | This creature is immune to damage from attacks and spells but its {STAT_health} is immediately set to 0 when it takes indirect damage. This trait is ignored if this creature is affected by effects that make it immune to indirect damage, or if an ally has the same trait. | Diese Kreatur ist immun gegen Schaden durch Angriffe und Zauber, aber ihr {STAT_health} wird sofort auf 0 gesetzt, wenn sie indirekten Schaden erleidet. Dieses Merkmal wird ignoriert, wenn diese Kreatur von Effekten betroffen ist, die sie gegen indirekten Schaden immun machen, oder wenn ein Verbündeter dieselbe Merkmal besitzt. |
+| 4152 | This creature is immune to damage from attacks and spells but its {STAT_health} is immediately set to 0 when it takes indirect damage. This trait is ignored if this creature is affected by effects that make it immune to indirect damage, or if an ally has the same trait. | Diese Kreatur ist immun gegen Schaden durch Angriffe und Zauber, aber ihr {STAT_health} wird sofort auf 0 gesetzt, wenn sie indirekten Schaden erleidet. Dieses Merkmal wird ignoriert, wenn diese Kreatur von Effekten betroffen ist, die sie gegen indirekten Schaden immun machen, oder wenn ein Verbündeter dasselbe Merkmal besitzt. |
 | 4153 | Reactor Shield | Reaktorschild |
 | 4154 | This creature is immune to instant-death effects in non-boss battles and can only take damage up to 60% of its Maximum {STAT_health}. | Diese Kreatur ist in normalen Kämpfen immun gegen Soforttod-Effekte und kann nur Schaden bis zu 60% seiner maximalen {STAT_health} erleiden. |
 | 4155 | Destruction Beam | Vernichtungsstrahl |

@@ -32,7 +32,7 @@
 | 2929 | Master of Slimes | Meister der Schleime |
 | 2930 | If all the creatures in your party are {RACE_Slime}s, they are resistant to debuffs and deal 30% more damage. | Wenn alle Kreaturen in deiner Gruppe {RACE_Slime}s sind, sind sie resistent gegen Debuffs und verursachen 30% mehr Schaden. |
 | 2931 | Master of Smiths | Meister der Schmiede |
-| 2932 | At the start of battle, if all the creatures in your party are {RACE_Smith}s, they share their Artifact's trait with the creature to the left. | Zu Beginn des Kampfes, wenn alle Kreaturen in deiner Gruppe {RACE_Smith}s sind, teilen sie die Merkmal ihres Artefakts mit der Kreatur links von ihnen. |
+| 2932 | At the start of battle, if all the creatures in your party are {RACE_Smith}s, they share their Artifact's trait with the creature to the left. | Zu Beginn des Kampfes, wenn alle Kreaturen in deiner Gruppe {RACE_Smith}s sind, teilen sie das Merkmal ihres Artefakts mit der Kreatur links von ihnen. |
 | 2933 | Master of Smogs | Meister der Schwaden |
 | 2934 | When your creatures afflict enemies with {CONDNAME_DEBUFF_POISON}, the potency of this debuff is increased by 50% for each {RACE_Smog} fighting on your side. This trait does not stack. | Wenn deine Kreaturen Feinde mit {CONDNAME_DEBUFF_POISON} belegen, wird die Effektstärke dieses Debuffs um 50% für jedes {RACE_Smog} erhöht, das auf deiner Seite kämpft. Dieses Merkmal ist nicht kumulativ. |
 | 2935 | Master of Snaptraps | Meister der Schnappfallen |
@@ -64,11 +64,11 @@
 | 2961 | Master of Voidlords | Meister der Leerefürsten |
 | 2962 | If all the creatures in your party are {RACE_Voidlord}s, they always have {CONDNAME_BUFF_REPELLING} and take 30% less damage. This trait does not stack. | Wenn alle Kreaturen in deiner Gruppe {RACE_Voidlord}s sind, haben sie immer {CONDNAME_BUFF_REPELLING} und erleiden 30% weniger Schaden. Dieses Merkmal ist nicht kumulativ. |
 | 2963 | Master of Vortexes | Meister der Wirbel |
-| 2964 | At the start of battle, your {RACE_Vortex}es gain the Spiral Ward trait. | Zu Beginn des Kampfes erhalten deine {RACE_Vortex}e die Merkmal Spiralschutz. |
+| 2964 | At the start of battle, your {RACE_Vortex}es gain the Spiral Ward trait. | Zu Beginn des Kampfes erhalten deine {RACE_Vortex}e das Merkmal Spiralschutz. |
 | 2965 | Master of Vulpeses | Meister der Füchse |
 | 2966 | If all the creatures in your party are {RACE_Vulpes}, their innate traits now affect the first 5 permanent Spell Gems they have equipped. | Wenn alle Kreaturen in deiner Gruppe {RACE_Vulpes} sind, wirken sich ihre angeborenen Merkmale jetzt auf die ersten 5 permanenten Zaubersteine aus, die sie ausgerüstet haben. |
 | 2967 | Master of Waspids | Meister der Wespiden |
-| 2968 | At the start of battle, your {RACE_Waspid}s gain the Final Sting and Endless Swarm traits. | Zu Beginn des Kampfes erhalten deine {RACE_Waspid}s die Merkmale Letzter Stich und Endloser Schwarm. |
+| 2968 | At the start of battle, your {RACE_Waspid}s gain the Final Sting and Endless Swarm traits. | Zu Beginn des Kampfes erhalten deine {RACE_Waspid}s das Merkmale Letzter Stich und Endloser Schwarm. |
 | 2969 | Master of Watchers | Meister der Wächter |
 | 2970 | Your {RACE_Watcher}s' traits act as if they have 50% more of their requirement for each {RACE_Watcher} fighting on your side. This trait does not stack. | Deine {RACE_Watcher}-Merkmale wirken, als hätten sie 50% mehr ihrer Anforderung für jeden {RACE_Watcher}, der auf deiner Seite kämpft. Dieses Merkmal ist nicht kumulativ. |
 | 2971 | Master of Wights | Meister der Wichte |

@@ -39,7 +39,7 @@
 | 936 | Surge | Ansturm |
 | 937 | After your creatures gain a buff, they gain 15% {STAT_attack} and {STAT_intelligence}. This trait does not stack. | Nachdem deine Kreaturen einen Buff erhalten, gewinnen sie 15% {STAT_attack} und {STAT_intelligence}. Dieses Merkmal ist nicht kumulativ. |
 | 938 | Absolution | Absolution |
-| 939 | After an enemy is afflicted with a debuff, they lose 15% {STAT_attack} and {STAT_intelligence}. This trait does not stack. | Nachdem ein Feind mit einem Debuffs belegt wurde, verliert er 15% {STAT_attack} und {STAT_intelligence}. Dieses Merkmal ist nicht kumulativ. |
+| 939 | After an enemy is afflicted with a debuff, they lose 15% {STAT_attack} and {STAT_intelligence}. This trait does not stack. | Nachdem ein Feind mit einem Debuff belegt wurde, verliert er 15% {STAT_attack} und {STAT_intelligence}. Dieses Merkmal ist nicht kumulativ. |
 | 940 | Nature's Blessing | Segen der Natur |
 | 941 | Your creatures always have {CONDNAME_BUFF_MEND} and take 15% less damage. This trait does not stack. | Deine Kreaturen haben immer {CONDNAME_BUFF_MEND} und erleiden 15% weniger Schaden. Dieses Merkmal ist nicht kumulativ. |
 | 942 | Optimism | Optimismus |

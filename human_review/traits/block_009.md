@@ -95,7 +95,7 @@
 | 892 | Lead By Example | Mit gutem Beispiel vorangehen |
 | 893 | Your {RACE_Imling}s gain 25% of the {STAT_attack}, {STAT_intelligence}, {STAT_defense}, and {STAT_speed} bonuses from this creature's Artifact. | Deine {RACE_Imling}e erhalten 25% der {STAT_attack}-, {STAT_intelligence}-, {STAT_defense}- und {STAT_speed}-Boni vom Artefakt dieser Kreatur. |
 | 894 | Next Generation | Nächste Generation |
-| 895 | After this creature dies, it grants 30% of its {STAT_attack}, {STAT_intelligence}, {STAT_defense}, {STAT_speed}, and its innate trait to your {RACE_Imling}s. | Nachdem diese Kreatur stirbt, gewährt sie 30% ihrer {STAT_attack}, {STAT_intelligence}, {STAT_defense}, {STAT_speed} und ihre angeborenes Merkmal an deine {RACE_Imling}s. |
+| 895 | After this creature dies, it grants 30% of its {STAT_attack}, {STAT_intelligence}, {STAT_defense}, {STAT_speed}, and its innate trait to your {RACE_Imling}s. | Nachdem diese Kreatur stirbt, gewährt sie 30% ihrer {STAT_attack}, {STAT_intelligence}, {STAT_defense}, {STAT_speed} und ihr angeborenes Merkmal an deine {RACE_Imling}s. |
 | 896 | Vengeance | Rache |
 | 897 | After your {RACE_Imling}s die, this creature gains 100% {STAT_attack} and 50% {STAT_speed}. | Nachdem deine {RACE_Imling}s sterben, erhält diese Kreatur 100% {STAT_attack} und 50% {STAT_speed}. |
 | 898 | Devotion | Hingabe |

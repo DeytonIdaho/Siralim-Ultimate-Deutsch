@@ -45,7 +45,7 @@
 | 42 | Chaos Spheres | Chaoskugeln |
 | 43 | Target's Spell Gems are Sealed for the rest of the battle. | Zielzaubersteine sind für den Rest des Kampfes versiegelt. |
 | 44 | Chaos Rift | Chaosriss |
-| 45 | Your creatures gain a random trait. | Deine Kreaturen erhalten eine zufällige Merkmal. |
+| 45 | Your creatures gain a random trait. | Deine Kreaturen erhalten ein zufälliges Merkmal. |
 | 46 | Charm of Life | Amulett des Lebens |
 | 47 | Your creatures gain a moderate amount of {STAT_attack}, {STAT_speed}, and Maximum {STAT_health}. | Deine Kreaturen erhalten eine moderate Menge an {STAT_attack}, {STAT_speed} und maximalem {STAT_health}. |
 | 48 | Cloud Beam | Wolkenstrahl |

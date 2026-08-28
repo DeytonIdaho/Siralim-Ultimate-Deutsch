@@ -33,7 +33,7 @@
 | 930 | Dark Seraphim | Dunkler Seraph |
 | 931 | Target recovers {STAT_health} equal to 100% of its missing {STAT_health} and gains a massive amount of {STAT_attack}, {STAT_intelligence} and {STAT_speed}. | Ziel erhält {STAT_health} in Höhe von 100% seiner fehlenden {STAT_health} und erhält eine massive Menge an {STAT_attack}, {STAT_intelligence} und {STAT_speed}. |
 | 932 | Judgment Blade | Klingenurteil |
-| 933 | Target takes a small amount of damage, plus 10% damage for each time it has {ACTION_attacked} or {ACTION_cast} a spell in the current battle. | Ziel erleidet einen geringen Schaden, plus 10% Schaden für jedes Mal, das es im aktuellen Kampf {ACTION_attacked} oder einen Zauber {ACTION_cast} hat. |
+| 933 | Target takes a small amount of damage, plus 10% damage for each time it has {ACTION_attacked} or {ACTION_cast} a spell in the current battle. | Ziel erleidet einen geringen Schaden, plus 10% Schaden für jedes Mal, wenn es im aktuellen Kampf {ACTION_attacked} oder einen Zauber {ACTION_cast} hat. |
 | 934 | Fracture | Bruch |
 | 935 | Target's {CONDNAME_BUFF_BARRIER} explodes and is removed, dealing damage to enemies equal to 200% of the strength of the {CONDNAME_BUFF_BARRIER}. | Das {CONDNAME_BUFF_BARRIER} des Ziels explodiert und wird entfernt, wodurch Gegnern Schaden in Höhe von 200% der Stärke des {CONDNAME_BUFF_BARRIER} zugefügt wird. |
 | 936 | Star Blast | Sternenschlag |
@@ -93,7 +93,7 @@
 | 990 | Ill Fate | Übles Schicksal |
 | 991 | Enemies with {CONDNAME_DEBUFF_BLIGHT} recover a moderate amount of {STAT_health}. | Feinde mit {CONDNAME_DEBUFF_BLIGHT} regenerieren eine moderate Menge an {STAT_health}. |
 | 992 | Depression | Depression |
-| 993 | Target is afflicted with a random debuff for each time it has been healed in the current battle. | Ziel wird für jedes Mal, das es im aktuellen Kampf geheilt wurde, mit einem zufälligen Debuff belegt. |
+| 993 | Target is afflicted with a random debuff for each time it has been healed in the current battle. | Ziel wird für jedes Mal, wenn es im aktuellen Kampf geheilt wurde, mit einem zufälligen Debuff belegt. |
 | 994 | Saint's Touch | Heilige Berührung |
 | 995 | Target gains a large amount of its highest stat if it's an ally, or loses a large amount of its highest stat if it's an enemy. | Ziel erhält eine große Menge seines höchsten Wertes, wenn es ein Verbündeter ist, oder verliert eine große Menge seines höchsten Wertes, wenn es ein Gegner ist. |
 | 996 | Devastation | Verwüstung |
@@ -101,4 +101,4 @@
 | 998 | Frustration | Frustration |
 | 999 | Target takes a moderate amount of damage, plus 15% more damage for each debuff the caster has. | Ziel erleidet eine moderate Menge Schaden, plus 15% mehr Schaden für jeden Debuff, den der Zauberwirker hat. |
 | 1000 | Controlled Burn | Kontrolliertes Abbrennen |
-| 1001 | Target takes a large amount of damage, plus 5% more damage for each time the caster has {ACTION_cast} a spell in the current battle. | Ziel erleidet eine große Menge Schaden, plus 5% mehr Schaden für jedes Mal, das der Zaubernde in der aktuellen Schlacht einen Zauber {ACTION_cast} hat. |
+| 1001 | Target takes a large amount of damage, plus 5% more damage for each time the caster has {ACTION_cast} a spell in the current battle. | Ziel erleidet eine große Menge Schaden, plus 5% mehr Schaden für jedes Mal, wenn der Zaubernde in der aktuellen Schlacht einen Zauber {ACTION_cast} hat. |

@@ -36,7 +36,7 @@
 | 3833 | Stand As One | Steht als Einheit |
 | 3834 | After your creatures take damage, your other creatures take 25% of this damage as well. Your creatures take 50% less damage. This trait does not stack. | Nachdem deine Kreaturen Schaden erleiden, erleiden deine anderen Kreaturen ebenfalls 25% dieses Schadens. Deine Kreaturen erleiden 50% weniger Schaden. Dieses Merkmal ist nicht kumulativ. |
 | 3835 | Heightened Learning | Gesteigerte Gelehrsamkeit |
-| 3836 | After your creatures gain a stat (other than {STAT_health}), they grant 25% of this stat to your other creatures as well. Your creatures gain 50% less stats. This trait does not stack. | Nachdem deine Kreaturen eine Merkmal erhalten (außer {STAT_health}), gewähren sie 25% dieses Merkmal auch deinen anderen Kreaturen. Deine Kreaturen erhalten 50% weniger Merkmale. Dieses Merkmal ist nicht kumulativ. |
+| 3836 | After your creatures gain a stat (other than {STAT_health}), they grant 25% of this stat to your other creatures as well. Your creatures gain 50% less stats. This trait does not stack. | Nachdem deine Kreaturen ein Attribut erhalten (außer {STAT_health}), gewähren sie deinen anderen Kreaturen ebenfalls 25% dieses Attributs. Deine Kreaturen erhalten 50% weniger Attribute. Dieses Merkmal ist nicht kumulativ. |
 | 3837 | Balanced Spellcasting | Ausgewogenes Zauberwirken |
 | 3838 | Your creatures deal damage with spells based on 25% of all their stats (other than {STAT_health}). | Deine Kreaturen verursachen Schaden mit Zaubern basierend auf 25% all ihrer Attribute (außer {STAT_health}). |
 | 3839 | Balanced Swordplay | Ausgewogene Schwertkunst |
@@ -98,7 +98,7 @@
 | 3895 | Use Your Illusion | Nutze Deine Illusion |
 | 3896 | After an enemy manually {ACTION_casts} a spell, each of your creatures {ACTION_cast} that spell as well. After an enemy {ACTION_attacks}, each of your creatures {ACTION_attack} a random enemy as well. | Nachdem ein Feind manuell einen Zauber {ACTION_casts}, {ACTION_cast} jede deiner Kreaturen diesen Zauber ebenfalls. Nachdem ein Feind {ACTION_attacks}, {ACTION_attack} jede deiner Kreaturen einen zufälligen Feind ebenfalls. |
 | 3897 | Menagerie | Menagerie |
-| 3898 | Your creatures always have an army of minions. At the start of your creatures' turns, they {ACTION_cast} [icons,1984]Crucifixion on each enemy. | Deine Kreaturen haben immer eine Armee von Diener. Zu Beginn der Züge deiner Kreaturen {ACTION_cast} sie [icons,1984]Kreuzigung auf jeden Feind. |
+| 3898 | Your creatures always have an army of minions. At the start of your creatures' turns, they {ACTION_cast} [icons,1984]Crucifixion on each enemy. | Deine Kreaturen haben immer eine Armee von Dienern. Zu Beginn der Züge deiner Kreaturen {ACTION_cast} sie [icons,1984]Kreuzigung auf jeden Feind. |
 | 3899 | Guardian of the Forest | Wächter des Waldes |
 | 3900 | Your creatures take 120% less damage, minus 1% for each time they've {ACTION_attacked} or {ACTION_cast} a spell in the current battle. | Deine Kreaturen erleiden 120% weniger Schaden, abzüglich 1% für jedes Mal, das sie im aktuellen Kampf {ACTION_attacked} oder {ACTION_cast} einen Zauber haben. |
 | 3901 | Grandiose | Grandios |

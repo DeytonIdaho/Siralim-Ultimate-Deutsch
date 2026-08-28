@@ -41,7 +41,7 @@
 | 838 | Barricade | Barrikade |
 | 839 | While your creatures are {ACTION_defending}, the creatures adjacent to them take 50% less damage. | Während deine Kreaturen {ACTION_defending} sind, erleiden die Kreaturen neben ihnen 50% weniger Schaden. |
 | 840 | Defensive Stance | Verteidigungshaltung |
-| 841 | Your creatures take 5% less damage for each time they've {ACTION_defended} in the current battle. | Deine Kreaturen erleiden 5% weniger Schaden für jedes Mal, das sie im aktuellen Kampf {ACTION_defended} haben. |
+| 841 | Your creatures take 5% less damage for each time they've {ACTION_defended} in the current battle. | Deine Kreaturen erleiden 5% weniger Schaden für jedes Mal, wenn sie im aktuellen Kampf {ACTION_defended} haben. |
 | 842 | Explosive Armor | Explosive Rüstung |
 | 843 | After your creatures {ACTION_defend}, they gain 10% {STAT_defense} and a {CONDNAME_BUFF_BARRIER} that absorbs the same amount of {STAT_defense}. If the creature already has a {CONDNAME_BUFF_BARRIER}, it explodes, dealing damage to enemies equal to 50% of the {CONDNAME_BUFF_BARRIER} strength.\n\n{CONDDESC_BUFF_BARRIER} | Nachdem deine Kreaturen {ACTION_defend}, erhalten sie 10% {STAT_defense} und eine {CONDNAME_BUFF_BARRIER}, die die gleiche Menge an {STAT_defense} absorbiert. Wenn die Kreatur bereits eine {CONDNAME_BUFF_BARRIER} hat, explodiert diese und fügt Feinden Schaden in Höhe von 50% der {CONDNAME_BUFF_BARRIER}-Stärke zu.\n\n{CONDDESC_BUFF_BARRIER} |
 | 844 | In Formation | In Formation |
@@ -53,7 +53,7 @@
 | 850 | No Weak Links | Keine schwachen Glieder |
 | 851 | At the start of battle, your creatures gain {STAT_defense} equal to 50% of their highest stat. | Zu Beginn des Kampfes erhalten deine Kreaturen {STAT_defense} in Höhe von 50% ihres höchsten Wertes. |
 | 852 | Shield Guard | Schildwache |
-| 853 | Your creatures gain 100% more benefit from their Artifacts' Stat Slots that increase {STAT_defense}. | Deine Kreaturen erhalten 100% mehr Nutzen aus den Stat-Slots ihrer Artefakte, die {STAT_defense} erhöhen. |
+| 853 | Your creatures gain 100% more benefit from their Artifacts' Stat Slots that increase {STAT_defense}. | Deine Kreaturen erhalten 100% mehr Nutzen aus den Attribut-Slots ihrer Artefakte, die {STAT_defense} erhöhen. |
 | 854 | Shrug Off | Abschütteln |
 | 855 | After your creatures {ACTION_defend}, their debuffs are removed and they gain a random buff for each debuff removed. | Nachdem deine Kreaturen {ACTION_defend}, werden ihre Debuffs entfernt und sie erhalten einen zufälligen Buff für jeden entfernten Debuff. |
 | 856 | The Best Offense | Der beste Angriff |
@@ -67,7 +67,7 @@
 | 864 | War Machine | Kriegsmaschine |
 | 865 | After your creatures {ACTION_provoke}, they {ACTION_defend}. | Nachdem deine Kreaturen {ACTION_provoke}, {ACTION_defend} sie. |
 | 866 | Further Beyond | Noch Weiter |
-| 867 | Increases your creatures' maximum stat limits before they are subjected to diminishing returns by <10>%. | Erhöht die maximalen Statusgrenzen deiner Kreaturen, bevor sie von abnehmenden Erträgen betroffen sind, um <10>%. |
+| 867 | Increases your creatures' maximum stat limits before they are subjected to diminishing returns by <10>%. | Erhöht die maximalen Attributgrenzen deiner Kreaturen, bevor abnehmende Erträge einsetzen, um <10>%. |
 | 868 | Accumulation | Anhäufung |
 | 869 | At the start of your creatures' turns, they gain <1>% {STAT_speed}, plus additional {STAT_speed} equal to 5% of the amount of {STAT_speed} they've gained in the current battle. | Zu Beginn der Runden deiner Kreaturen erhalten sie <1>% {STAT_speed}, plus zusätzliches {STAT_speed} in Höhe von 5% der Menge an {STAT_speed}, die sie in der aktuellen Schlacht bereits erhalten haben. |
 | 870 | Derivation | Ableitung |
@@ -89,7 +89,7 @@
 | 886 | Quick Hands | Flinke Hände |
 | 887 | Your creatures are immune to {CONDNAME_DEBUFF_DISARMED}.\n\n{CONDDESC_DEBUFF_DISARMED} | Deine Kreaturen sind immun gegen {CONDNAME_DEBUFF_DISARMED}.\n\n{CONDDESC_DEBUFF_DISARMED} |
 | 888 | Aeroforged | Luftgeschmiedet |
-| 889 | Your creatures gain <3>% more benefit from their Artifacts' Stat Slots (other than {STAT_health}). | Deine Kreaturen erhalten <3>% mehr Nutzen aus den Stat-Slots ihrer Artefakte (außer {STAT_health}). |
+| 889 | Your creatures gain <3>% more benefit from their Artifacts' Stat Slots (other than {STAT_health}). | Deine Kreaturen erhalten <3>% mehr Nutzen aus den Attribut-Slots ihrer Artefakte (außer {STAT_health}). |
 | 890 | Primordial | Uralt |
 | 891 | Your creatures' Nether Stones are <5>% more powerful. This perk does not affect a Nether Stone's traits, spells, or any [slot_trick] Trick Slots that increase a creature's maximum number of Spell Gem slots. | Deine Kreaturen-Nethersteine sind <5>% mächtiger. Dieser Vorteil wirkt sich nicht auf die Merkmale eines Nethersteins, Zauber oder [slot_trick] Trick-Slots aus, die die maximale Anzahl an Zauberstein-Slots einer Kreatur erhöhen. |
 | 892 | Singleton | Singleton |

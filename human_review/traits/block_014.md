@@ -67,7 +67,7 @@
 | 1364 | Unholy Communion | Unheilige Kommunion |
 | 1365 | Your creatures have a 100% greater chance to extract Cores from enemies. This trait does not stack. | Deine Kreaturen haben eine 100% höhere Chance, Kerne aus Feinden zu extrahieren. Dieses Merkmal ist nicht kumulativ. |
 | 1366 | Gift of Mercy | Gabe der Barmherzigkeit |
-| 1367 | At the start of battle, your creatures' traits are ignored. | Zu Beginn des Kampfes werden die Merkmale deiner Kreaturen ignoriert. |
+| 1367 | At the start of battle, your creatures' traits are ignored. | Zu Beginn des Kampfes werden das Merkmale deiner Kreaturen ignoriert. |
 | 1368 | Whirlstorm | Wirbelgewitter |
 | 1369 | After this creature kills a creature, the excess damage is dealt to all enemies. | Nachdem diese Kreatur eine Kreatur tötet, wird der überschüssige Schaden allen Feinden zugefügt. |
 | 1370 | Colorwave | Farbwelle |
@@ -81,7 +81,7 @@
 | 1378 | Berserker's Lust | Berserkers Raserei |
 | 1379 | Your {CONDNAME_BUFF_BERSERK} creatures attack 1 additional time. This trait does not stack. | Deine {CONDNAME_BUFF_BERSERK} Kreaturen greifen 1 zusätzliches Mal an. Dieses Merkmal ist nicht kumulativ. |
 | 1380 | Black Moon | Schwarzer Mond |
-| 1381 | Your creatures with {CONDNAME_BUFF_SAVAGE} cannot be Dodged. | Deine Kreaturen mit {CONDNAME_BUFF_SAVAGE} können nicht Ausgewichen werden. |
+| 1381 | Your creatures with {CONDNAME_BUFF_SAVAGE} cannot be Dodged. | Deine Kreaturen mit {CONDNAME_BUFF_SAVAGE} ihnen kann nicht ausgewichen werden. |
 | 1382 | Ebb and Flow | Ebbe und Flut |
 | 1383 | Your creatures with {CONDNAME_BUFF_AGILE} have a 35% chance to be sent to the top of the {TIMELINE} when they dodge an attack. This trait does not stack. | Deine Kreaturen mit {CONDNAME_BUFF_AGILE} haben eine 35% Chance, an die Spitze der {TIMELINE} geschickt zu werden, wenn sie einem Angriff ausweichen. Dieses Merkmal ist nicht kumulativ. |
 | 1384 | Assassin's Specialty | Spezialität des Assassinen |
