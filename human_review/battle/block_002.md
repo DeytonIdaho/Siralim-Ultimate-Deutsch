@@ -18,7 +18,7 @@
 | 115 | Defense Set To\nMinimum | Verteidigung auf\nMinimum gesetzt |
 | 116 | Speed Set To\nMinimum | Geschwindigkeit auf\nMinimum gesetzt |
 | 117 | Health Set To\nMinimum | Gesundheit auf\nMinimum gesetzt |
-| 118 | Stats Set To\nMinimum | Stats Auf\nMinimum Gesetzt |
+| 118 | Stats Set To\nMinimum | Attribute auf\nMinimum Gesetzt |
 | 119 | Buffs\nRemoved | Buffs\nEntfernt |
 | 120 | Debuffs\nRemoved | Debuffs\nEntfernt |
 | 121 | Buffs/Debuffs\nRemoved | Buffs/Debuffs\nEntfernt |
@@ -29,7 +29,7 @@
 | 126 | Health Set\nto {1}% | Gesundheit auf\n{1}% gesetzt |
 | 127 | {1} Set To\n{2} | {1} Eingestellt auf\n{2} |
 | 128 | {1} Set To\nMinimum | {1} Auf\nMinimum gesetzt |
-| 129 | Stats Set To\n{1} | Stats auf\n{1} gesetzt |
+| 129 | Stats Set To\n{1} | Attribute auf\n{1} gesetzt |
 | 130 | +{1} Buff\nDuration | +{1} Buff\nDauer |
 | 131 | -{1} Debuff\nDuration | -{1} Debuff\nDauer |
 | 132 | +{1} {2}\nDuration | +{1} {2}\nDauer |
@@ -55,7 +55,7 @@
 | 152 | Fatigue! | Erschöpfung! |
 | 153 | Safe! | Sicher! |
 | 154 | {1}\nClass | {1}\nKlasse |
-| 155 | Spells Are\nFree | Zauber Sind\nKostenlos |
+| 155 | Spells Are\nFree | Zauber sind\nKostenlos |
 | 156 | Extra Traits\nRemoved | Zusätzliche Merkmale\nEntfernt |
 | 157 | Extra Traits\nGained | Zusätzliche Merkmale\nErhalten |
 | 158 | On-Death\nActivated | Bei Tod\nAktiviert |
