@@ -1,7 +1,7 @@
 # Final Global Consistency QA
 
 - Localization rows scanned: 37568
-- Unreviewed duplicate groups: 1
+- Unreviewed duplicate groups: 0
 - Unreviewed token mismatches: 0
 - Unreviewed number/percentage mismatches: 0
 - buff terminology outliers: 0
