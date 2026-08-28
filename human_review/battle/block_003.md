@@ -2,13 +2,13 @@
 
 | Row | English | German |
 |---:|---|---|
-| 202 | Gained Trait:\n{1} | Erhaltene Merkmal:\n{1} |
+| 202 | Gained Trait:\n{1} | Merkmal erhalten:\n{1} |
 | 203 | {1} gained gem: {2}. | {1} erhielt Edelstein: {2}. |
 | 204 | Gained Gem:\n{1} | Erhaltener Edelstein:\n{1} |
 | 205 | Trait\nDisabled | Merkmal\nDeaktiviert |
 | 206 | More Barrier\nPotency | Mehr Barriere\nWirksamkeit |
 | 207 | {1} has too many traits. | {1} hat zu viele Merkmale. |
-| 208 | Too Many\nGems | Zu viele\nEdelsteine |
+| 208 | Too Many\nGems | Zu viele\nZaubersteine |
 | 209 | Immune!\n(Boss) | Immun!\n(Boss) |
 | 210 | Lister: Oi! Oi'm gettin' toired o' all this nonsense. It's abaaht toim oi retoire for the evenin'. G'naaht! | Lister: Hoi! Isch werd' langsam müd' von dem janzen Quatsch. Es is' höchste Zeit, dass isch misch für'n Abend zurückzieh'. N'Acht! |
 | 211 | Jotun: Enough of this! I grow tired of swatting these insignificant insects. Take your reward and begone from here. | Jotun: Genug davon! Ich bin es leid, diese unbedeutenden Insekten zu erschlagen. Nehmt eure Belohnung und verschwindet von hier. |
