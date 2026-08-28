@@ -28,7 +28,7 @@
 | 1325 | Aspen Branch | Espenzweig |
 | 1326 | Volcanic Tree Trunk | Vulkanischer Baumstamm |
 | 1327 | Hanyac Soil | Hanyac-Erde |
-| 1328 | Villous Carrot | Haariger Karotte |
+| 1328 | Villous Carrot | Haarige Karotte |
 | 1329 | Spirit Dragon Scale | Geisterdrachenschuppe |
 | 1330 | Seer Claw | Seherenklaue |
 | 1331 | Unstable Plasma | Instabiles Plasma |
@@ -63,7 +63,7 @@
 | 1360 | Bloody Soul Crystal | Blutiger Seelenkristall |
 | 1361 | Gold Star of Courage | Goldener Stern des Mutes |
 | 1362 | Draco Rubies | Draco-Rubine |
-| 1363 | Die Fragments | Die Fragmente |
+| 1363 | Die Fragments | Würfelfragmente |
 | 1364 | Alchemical Frost | Alchemistischer Frost |
 | 1365 | Tactician's Manual | Taktiker-Handbuch |
 | 1366 | Lost Notes | Verlorene Notizen |
@@ -88,7 +88,7 @@
 | 1385 | Fried Circuitry | Gebratene Schaltkreise |
 | 1386 | Ouroboros Key | Ouroboros-Schlüssel |
 | 1387 | Slide Rule | Rechenschieber |
-| 1388 | Contrary Clock | Gegenuhrzeiger |
+| 1388 | Contrary Clock | Widersinnige Uhr |
 | 1389 | Bloody Rags | Blutige Lumpen |
 | 1390 | Ritual Writings | Rituelle Schriften |
 | 1391 | Lando's Golden Toe | Landos Goldener Zeh |

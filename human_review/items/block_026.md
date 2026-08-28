@@ -100,5 +100,5 @@
 | 2597 | The Maul | Der Streitkolben |
 | 2598 | Zen's Cloak (2) | Zens Umhang (2) |
 | 2599 | Master of Animations | Meister der Animationen |
-| 2600 | Master of Arbiters | Meister der Schiedsrichter |
+| 2600 | Master of Arbiters | Meister der Schlichter |
 | 2601 | Master of Beacons | Meister der Leuchtfeuer |

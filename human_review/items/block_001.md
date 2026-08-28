@@ -22,11 +22,11 @@
 | 19 | Scrambled Egg | Rührei |
 | 20 | Chocolate Egg | Schokoladenei |
 | 21 | Bunny Egg | Hasenei |
-| 22 | Life Crippler | Lebenszerstörer |
-| 23 | Death Crippler | Todesverkrüppler |
-| 24 | Chaos Crippler | Chaosbrecher |
-| 25 | Sorcery Crippler | Magie-Lähmer |
-| 26 | Nature Crippler | Naturverkrüppler |
+| 22 | Life Crippler | Lebensschwächer |
+| 23 | Death Crippler | Todesschwächer |
+| 24 | Chaos Crippler | Chaosschwächer |
+| 25 | Sorcery Crippler | Zaubereischwächer |
+| 26 | Nature Crippler | Naturschwächer |
 | 27 | Slate of Arcana | Tafel der Arkana |
 | 28 | Slate of Invisibility | Tafel der Unsichtbarkeit |
 | 29 | Slate of Berserking | Tafel der Berserkerwut |
@@ -51,7 +51,7 @@
 | 48 | Jingle Gift | Glöckchengeschenk |
 | 49 | Bag of Broken Toys | Beutel zerbrochener Spielzeuge |
 | 50 | Bloodmail Soul | Blutkettenhemd-Seele |
-| 51 | Astro Soul | Astro Soul |
+| 51 | Astro Soul | Astroseele |
 | 52 | Willow Soul | Weidenseele |
 | 53 | Curio of Poisoning | Kuriosität der Vergiftung |
 | 54 | Curio of Burning | Kuriosität des Brennens |
@@ -80,25 +80,25 @@
 | 77 | Treat Pumpkin | Kürbis-Leckerei |
 | 78 | Eldritch Pumpkin | Ätherkürbis |
 | 79 | Bottle of Lagergoyle | Flasche Lagergoyle |
-| 80 | Bottle of Scotchpion | Flasche Skorpionschnaps |
+| 80 | Bottle of Scotchpion | Flasche Scotchpion |
 | 81 | Bottle of Grenale | Flasche Grenale |
-| 82 | Bottle of Vermowl | Flasche des Vermuhls |
-| 83 | Bottle of Woodka | Flasche Waldka |
+| 82 | Bottle of Vermowl | Flasche Vermowl |
+| 83 | Bottle of Woodka | Flasche Woodka |
 | 84 | Bottle of Vulperry | Flasche Vulperry |
-| 85 | Bottle of Ryetrap | Flasche mit Roggenfalle |
-| 86 | Bottle of Whiskull | Flasche Totenkopfwhisky |
-| 87 | Bottle of Winegel | Flasche Weingel |
-| 88 | Bottle of Spirits | Flasche mit Geistern |
+| 85 | Bottle of Ryetrap | Flasche Ryetrap |
+| 86 | Bottle of Whiskull | Flasche Whiskull |
+| 87 | Bottle of Winegel | Flasche Winegel |
+| 88 | Bottle of Spirits | Flasche Spirits |
 | 89 | Grave Pimple | Grabes-Pickel |
 | 90 | Scavenger Skull | Plünderer-Schädel |
 | 91 | Arcane Sigil | Arkanes Siegel |
 | 92 | Armor Scrap | Rüstungsschrott |
 | 93 | Whetstone | Wetzstein |
-| 94 | Vivifier Horseshoe | Belebender Hufeisen |
+| 94 | Vivifier Horseshoe | Belebendes Hufeisen |
 | 95 | Consecrator Horseshoe | Weihe-Hufeisen |
 | 96 | Stormbringer Horseshoe | Sturmrufer-Hufeisen |
 | 97 | Thundercracker Horseshoe | Donnerkracher-Hufeisen |
 | 98 | Pegasus Horseshoe | Pegasus-Hufeisen |
 | 99 | Firewound Claymore | Feuerwunden-Claymore |
 | 100 | Icewound Claymore | Eiswunden-Claymore |
-| 101 | Goldblight Claymore | Goldblichtklingenmehr |
+| 101 | Goldblight Claymore | Goldfluch-Claymore |

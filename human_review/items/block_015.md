@@ -89,7 +89,7 @@
 | 1486 | Particle of Grom'Met | Partikel von Grom'Met |
 | 1487 | Particle of Thana | Partikel von Thana |
 | 1488 | Sigil of the Animation | Siegel der Animation |
-| 1489 | Sigil of the Arbiter | Siegel des Richters |
+| 1489 | Sigil of the Arbiter | Siegel des Schlichter |
 | 1490 | Sigil of the Beacon | Siegel des Leuchtfeuers |
 | 1491 | Sigil of the Cherub | Siegel des Cherubs |
 | 1492 | Sigil of the Chimera | Siegel der Chimäre |

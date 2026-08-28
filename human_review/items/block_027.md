@@ -94,7 +94,7 @@
 | 2691 | Mantle of the Rainbow Lord | Mantel des Regenbogenfürsten |
 | 2692 | The Regressor | Der Rückkehrer |
 | 2693 | The Roi Crapaud | Der Froschkönig |
-| 2694 | Void Queen | Nichtskönigin |
+| 2694 | Void Queen | Leerenkönigin |
 | 2695 | Voidtouch Savant | Leerenberührungs-Gelehrter |
 | 2696 | Wrath of the Eight | Zorn der Acht |
 | 2697 | Lucius, King of Nex | Lucius, König von Nex |

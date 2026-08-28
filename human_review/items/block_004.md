@@ -20,7 +20,7 @@
 | 317 | Death Helmet | Todeshelm |
 | 318 | Pit Helmet | Grubenhelm |
 | 319 | Infernal Helmet | Höllischer Helm |
-| 320 | Perdition Helmet | Verdammnishelm |
+| 320 | Perdition Helmet | Perdition-Helm |
 | 321 | Abaddon Helmet | Abaddon-Helm |
 | 322 | Observer Flag | Beobachter-Flagge |
 | 323 | Watchman Flag | Wächterflagge |

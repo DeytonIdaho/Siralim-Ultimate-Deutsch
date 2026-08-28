@@ -70,7 +70,7 @@
 | 1167 | Sigil of the Watcher | Siegel des Wächters |
 | 1168 | Sigil of the Wyvern | Siegel des Lindwurms |
 | 1169 | Sigil of the Apocalypse | Siegel der Apokalypse |
-| 1170 | Sigil of the Voidlord | Siegel des Nichtfürsten |
+| 1170 | Sigil of the Voidlord | Siegel des Leerenfürst |
 | 1171 | Sigil of the Alemental | Siegel des Alemental |
 | 1172 | Sigil of the Apis | Siegel des Apis |
 | 1173 | Sigil of the Asura | Siegel des Asura |

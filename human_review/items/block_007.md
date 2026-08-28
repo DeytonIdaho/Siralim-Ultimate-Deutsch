@@ -41,13 +41,13 @@
 | 638 | Silver Spur | Silbersporn |
 | 639 | Blind Eye | Blindes Auge |
 | 640 | Chroma's Emblem | Chromas Emblem |
-| 641 | Chroma's Tarnished Jewel | Chromas Befleckte Juwel |
+| 641 | Chroma's Tarnished Jewel | Chromas beflecktes Juwel |
 | 642 | Chroma's Bent Crown | Chromas Verbogene Krone |
 | 643 | Ianne's Bad Leg | Iannes lahmes Bein |
 | 644 | Ianne's Chiclets | Iannes Kaugummis |
 | 645 | Ianne's Third Eye | Iannes Drittes Auge |
 | 646 | Cyhra's Tattered Ear | Cyhras Zerfetztes Ohr |
-| 647 | Ceaseless Spit | Unaufhörlicher Spucke |
+| 647 | Ceaseless Spit | Unaufhörliche Spucke |
 | 648 | Ceaseless Heart | Unermüdliches Herz |
 | 649 | Ceaseless Fang | Unaufhörlicher Fangzahn |
 | 650 | Deathwalker's Gem | Edelstein des Todesläufers |

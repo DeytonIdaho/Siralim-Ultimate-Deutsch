@@ -14,17 +14,17 @@
 | 1211 | Sigil of the Spectre | Siegel des Gespenstes |
 | 1212 | Sigil of the Storm | Siegel des Sturms |
 | 1213 | Sigil of the Salamander | Siegel des Salamanders |
-| 1214 | Sigil of the Mimic | Siegel des Gestaltwandlers |
-| 1215 | Sigil of the Nix | Siegel des Nichts |
+| 1214 | Sigil of the Mimic | Siegel des Mimics |
+| 1215 | Sigil of the Nix | Siegel des Nix |
 | 1216 | Sigil of the Paragon | Siegel des Vorbilds |
-| 1217 | Sigil of the Pit Worm | Siegel des Grubenwurms |
+| 1217 | Sigil of the Pit Worm | Siegel des Grubenwurm |
 | 1218 | Sigil of the Raven | Siegel des Raben |
 | 1219 | Sigil of the Masochist | Siegel des Masochisten |
 | 1220 | Sigil of the Mummy | Siegel der Mumie |
 | 1221 | Sigil of the Ossein | Siegel des Gebeins |
 | 1222 | Sigil of the Pilwiz | Siegel des Pilwiz |
 | 1223 | Sigil of the Priest | Siegel des Priesters |
-| 1224 | Sigil of the Rift Dancer | Siegel des Rifttänzers |
+| 1224 | Sigil of the Rift Dancer | Siegel des Dimensionsläufer |
 | 1225 | Sigil of the Revenant | Siegel des Wiedergängers |
 | 1226 | Sigil of the Manticore | Siegel des Mantikors |
 | 1227 | Sigil of the Mite | Siegel der Milbe |
@@ -38,7 +38,7 @@
 | 1235 | Sigil of the Reaper | Siegel des Sensenmanns |
 | 1236 | Sigil of the Lich | Siegel des Lichs |
 | 1237 | Sigil of the Minotaur | Siegel des Minotaurus |
-| 1238 | Sigil of the Hemomancer | Siegel des Hämomanten |
+| 1238 | Sigil of the Hemomancer | Siegel des Blutmagier |
 | 1239 | Sigil of the Hunter | Siegel des Jägers |
 | 1240 | Sigil of the Imling | Siegel des Imlings |
 | 1241 | Sigil of the Inquisitor | Siegel des Inquisitors |
@@ -50,13 +50,13 @@
 | 1247 | Sigil of the Koloss | Siegel des Koloss |
 | 1248 | Sigil of the Leper | Siegel des Aussätzigen |
 | 1249 | Sigil of the Grimoire | Siegel des Grimoires |
-| 1250 | Sigil of the Fiend | Siegel des Dämons |
-| 1251 | Sigil of the Gargantuan | Siegel des Gigantischen |
-| 1252 | Sigil of the Gemling | Siegel des Gemlings |
+| 1250 | Sigil of the Fiend | Siegel des Unhold |
+| 1251 | Sigil of the Gargantuan | Siegel des Gargantuan |
+| 1252 | Sigil of the Gemling | Siegel des Edelsteinjüngling |
 | 1253 | Sigil of the Giant | Siegel des Riesen |
 | 1254 | Sigil of the Gorgon | Siegel der Gorgone |
 | 1255 | Sigil of the Familiar | Siegel des Vertrauten |
-| 1256 | Sigil of the Forsaken | Siegel der Verstoßenen |
+| 1256 | Sigil of the Forsaken | Siegel des Verlassener |
 | 1257 | Sigil of the Gargoyle | Siegel des Gargoyles |
 | 1258 | Sigil of the Ghoul | Siegel des Ghuls |
 | 1259 | Sigil of the Golem | Siegel des Golems |
@@ -74,7 +74,7 @@
 | 1271 | Sigil of the Demigod | Siegel des Halbgottes |
 | 1272 | Sigil of the Djinn | Siegel des Dschinns |
 | 1273 | Sigil of the Efreet | Siegel des Ifrit |
-| 1274 | Sigil of the Cockatrice | Siegel des Basilisken |
+| 1274 | Sigil of the Cockatrice | Siegel der Cockatrice |
 | 1275 | Sigil of the Concoction | Siegel der Mixtur |
 | 1276 | Sigil of the Construct | Siegel des Konstrukts |
 | 1277 | Sigil of the Cruncher | Siegel des Zermalmers |
@@ -100,5 +100,5 @@
 | 1297 | Incendiary Smoke | Entzündlicher Rauch |
 | 1298 | Chaos Sweat | Chaosschweiß |
 | 1299 | War Boulder | Kriegsfelsen |
-| 1300 | Freak Stake | Freak Einsatz |
+| 1300 | Freak Stake | Freak-Pfahl |
 | 1301 | Phobos Doll | Phobos-Puppe |

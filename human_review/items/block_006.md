@@ -4,7 +4,7 @@
 |---:|---|---|
 | 502 | Elemental Pinion | Elementarfeder |
 | 503 | Mystical Pinion | Mystische Schwinge |
-| 504 | Palace Pinion | Palastritzel |
+| 504 | Palace Pinion | Palast-Schwinge |
 | 505 | Flood Pinion | Flutpinion |
 | 506 | Arcane Pinion | Arkane Schwinge |
 | 507 | Judge Pinion | Richter Pinion |
@@ -67,7 +67,7 @@
 | 564 | Sacrificer Totem | Opfertotem |
 | 565 | Shaman Totem | Schamanentotem |
 | 566 | Inscriber Totem | Inschriftentotem |
-| 567 | Ritualist Totem | Ritualistischer Totem |
+| 567 | Ritualist Totem | Ritualisten-Totem |
 | 568 | Necromancer Totem | Nekromanten-Totem |
 | 569 | Invader Goo | Eindringling-Schleim |
 | 570 | Skirmisher Goo | Scharmützler-Schleim |

@@ -5,7 +5,7 @@
 | 2302 | Master of Ravens | Meister der Raben |
 | 2303 | Master of Reapers | Meister der Schnitter |
 | 2304 | Master of Revenants | Meister der Wiedergänger |
-| 2305 | Master of Rift Dancers | Meister der Riss-Tänzer |
+| 2305 | Master of Rift Dancers | Meister der Dimensionsläufer |
 | 2306 | Master of Salamanders | Meister der Salamander |
 | 2307 | Master of Sanctuses | Meister der Heiligtümer |
 | 2308 | Master of Satyrs | Meister der Satyrn |
@@ -33,7 +33,7 @@
 | 2330 | Master of Unguided | Meister des Ungelenkten |
 | 2331 | Master of Unicorns | Meister der Einhörner |
 | 2332 | Master of Valkyries | Meister der Walküren |
-| 2333 | Master of Voidlords | Meister der Leerefürsten |
+| 2333 | Master of Voidlords | Meister der Leerenfürsten |
 | 2334 | Master of Vortexes | Meister der Wirbel |
 | 2335 | Master of Vulpes | Meister der Vulpes |
 | 2336 | Master of Waspids | Meister der Wespiden |
@@ -92,8 +92,8 @@
 | 2389 | Necromancer (Tier 3) | Nekromant (Stufe 3) |
 | 2390 | Defiler (Tier 2) | Schänder (Stufe 2) |
 | 2391 | Defiler (Tier 3) | Schänder (Stufe 3) |
-| 2392 | Reaver (Tier 2) | Plünderer (Stufe 2) |
-| 2393 | Reaver (Tier 3) | Plünderer (Stufe 3) |
+| 2392 | Reaver (Tier 2) | Reaver (Stufe 2) |
+| 2393 | Reaver (Tier 3) | Reaver (Stufe 3) |
 | 2394 | Tribalist (Tier 2) | Stammesangehöriger (Stufe 2) |
 | 2395 | Tribalist (Tier 3) | Stammesanhänger (Stufe 3) |
 | 2396 | Sorcerer (Tier 2) | Zauberer (Stufe 2) |

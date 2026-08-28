@@ -8,7 +8,7 @@
 | 805 | Toxicfang Head | Giftzahnkopf |
 | 806 | Seductress Dew | Verführerischer Tau |
 | 807 | Vegetable Dough Ball | Gemüseteigbällchen |
-| 808 | Dreadful Ashes | Translator: Schreckliche Asche |
+| 808 | Dreadful Ashes | Schreckliche Asche |
 | 809 | Drifter Poem | Vagabundengedicht |
 | 810 | Efflorescent Branch | Blühender Zweig |
 | 811 | Spectral Pinion | Spektralflügel |
@@ -37,7 +37,7 @@
 | 834 | Paralyzer Goo | Lähmungsschleim |
 | 835 | Swarm Wrappings | Schwarmumhüllung |
 | 836 | Backstabber Mask | Meuchelmördermaske |
-| 837 | Celestial Orb | Himmlische Kugel |
+| 837 | Celestial Orb | Himmels-Orb |
 | 838 | Maluh Eyeball | Maluh-Augapfel |
 | 839 | Giant Amethyst | Riesiger Amethyst |
 | 840 | Giant Opal | Riesenopal |
@@ -57,7 +57,7 @@
 | 854 | Fool Harp | Narrenharfe |
 | 855 | Nex Symbol | Nex-Symbol |
 | 856 | Wandering Incense | Wandernder Weihrauch |
-| 857 | Apprentice Plasma | Lehrling des Plasmas |
+| 857 | Apprentice Plasma | Lehrlingsplasma |
 | 858 | Vengeful Lamp | Rachsüchtige Lampe |
 | 859 | Book of Imposition | Buch der Auferlegung |
 | 860 | Buccaneer Bone | Freibeuterknochen |
@@ -94,7 +94,7 @@
 | 891 | Pandemonium Brain | Pandämonium-Gehirn |
 | 892 | Pandemonium Skull | Pandämonium-Schädel |
 | 893 | Pandemonium Flame | Pandämoniumsflamme |
-| 894 | Hebron's Broken Plate | Hebrons zerbrochener Teller |
+| 894 | Hebron's Broken Plate | Hebrons zerbrochene Platte |
 | 895 | Hebron's Broken Shield | Hebrons Zerbrochener Schild |
 | 896 | Hebron's Broken Gauntlet | Hebrons Zerbrochener Handschuh |
 | 897 | Hebron's Broken Helmet | Hebrons zerbrochener Helm |

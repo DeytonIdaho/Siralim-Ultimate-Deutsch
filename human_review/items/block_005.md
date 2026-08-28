@@ -2,14 +2,14 @@
 
 | Row | English | German |
 |---:|---|---|
-| 402 | Spider Orb | Spinnenorb |
-| 403 | Viper Orb | Vipernorb |
-| 404 | Raptor Orb | Raptor-Kugel |
-| 405 | Disciple Orb | Jünger-Kugel |
-| 406 | Zealot Orb | Eiferer-Kugel |
-| 407 | Mirage Orb | Trugbild-Kugel |
-| 408 | Delusion Orb | Illusionskugel |
-| 409 | Spellbinder Orb | Zauberbannerorb |
+| 402 | Spider Orb | Spinnen-Orb |
+| 403 | Viper Orb | Vipern-Orb |
+| 404 | Raptor Orb | Raptor-Orb |
+| 405 | Disciple Orb | Jünger-Orb |
+| 406 | Zealot Orb | Eiferer-Orb |
+| 407 | Mirage Orb | Trugbild-Orb |
+| 408 | Delusion Orb | Illusion-Orb |
+| 409 | Spellbinder Orb | Zauberbinder-Orb |
 | 410 | Iron Cog | Eisenzahnrad |
 | 411 | Granite Cog | Granitrad |
 | 412 | Magma Cog | Magmazahnrad |
@@ -57,7 +57,7 @@
 | 454 | Knight Prism | Ritterprismen |
 | 455 | Marauder Prism | Marodeur-Prisma |
 | 456 | Paladin Prism | Paladin-Prisma |
-| 457 | Executioner Prism | Henkersprima |
+| 457 | Executioner Prism | Henker-Prisma |
 | 458 | Pristine Marble | Makelloser Marmor |
 | 459 | Champion Prism | Meisterprisme |
 | 460 | Glutinous Ooze | Klebriger Schleim |
@@ -67,7 +67,7 @@
 | 464 | Ectoplasmic Ooze | Ektoplasmatischer Schleim |
 | 465 | Blood Ooze | Blutschleim |
 | 466 | Deranged Snake | Wahnsinnige Schlange |
-| 467 | Unhinged Snake | Entfesselter Schlange |
+| 467 | Unhinged Snake | Entfesselte Schlange |
 | 468 | Sorceress Snake | Zauberschlange |
 | 469 | Gazer Snake | Blickschlange |
 | 470 | Witch Snake | Hexenschlange |

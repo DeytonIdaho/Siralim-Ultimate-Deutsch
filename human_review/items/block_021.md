@@ -23,7 +23,7 @@
 | 2020 | Yseros | Yseros |
 | 2021 | Tartarith | Tartarith |
 | 2022 | Gonfurian | Gonfurian |
-| 2023 | Aeolian | Äolisch |
+| 2023 | Aeolian | Aeolian |
 | 2024 | Azural | Azural |
 | 2025 | Vertraag | Vertraag |
 | 2026 | Torun | Torun |

@@ -84,7 +84,7 @@
 | 2181 | Animator (Tier 1) | Animator (Stufe 1) |
 | 2182 | Trickster (Tier 1) | Trickster (Stufe 1) |
 | 2183 | Hell Knight (Tier 1) | Höllenritter (Stufe 1) |
-| 2184 | Reaver (Tier 1) | Plünderer (Stufe 1) |
+| 2184 | Reaver (Tier 1) | Reaver (Stufe 1) |
 | 2185 | Inquisitor (Tier 1) | Inquisitor (Stufe 1) |
 | 2186 | Cleric (Tier 1) | Kleriker (Stufe 1) |
 | 2187 | Defiler (Tier 1) | Schänder (Stufe 1) |
@@ -99,6 +99,6 @@
 | 2196 | Caliban | Caliban |
 | 2197 | Trickster (Alternate) | Trickster (Alternativ) |
 | 2198 | Hell Knight (Alternate) | Höllenritter (Alternativ) |
-| 2199 | Reaver (Alternate) | Schlächter (Alternativ) |
+| 2199 | Reaver (Alternate) | Reaver (Alternativ) |
 | 2200 | Inquisitor (Alternate) | Inquisitor (Alternativ) |
 | 2201 | Cleric (Alternate) | Kleriker (Alternativ) |

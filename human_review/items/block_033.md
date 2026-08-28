@@ -15,8 +15,8 @@
 | 3212 | Sigil of the Calumnier | Siegel des Verleumders |
 | 3213 | Sigil of the Cataclysm | Siegel der Katastrophe |
 | 3214 | Sigil of the Effigy | Siegel des Abbilds |
-| 3215 | Sigil of the Eggxotic | Siegel des Eggxotischen |
-| 3216 | Sigil of the Lucanian | Siegel der Lucaner |
+| 3215 | Sigil of the Eggxotic | Siegel des Eggxotic |
+| 3216 | Sigil of the Lucanian | Siegel des Lucanian |
 | 3217 | Sigil of the Underdweller | Siegel des Unterweltlers |
 | 3218 | Sigil of the Robodomi | Siegel der Robodomi |
 | 3219 | Sigil of the Spacecat | Siegel der Weltraumkatze |

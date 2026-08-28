@@ -89,7 +89,7 @@
 | 786 | Aegis Claymore | Aegis-Claymore |
 | 787 | Fleshstomper Tattoo | Fleischstampfer-Tätowierung |
 | 788 | Creeping Mandible | Kriechender Kiefer |
-| 789 | Change Figment | Figment wechseln |
+| 789 | Change Figment | Wandel-Trugbild |
 | 790 | Loner Maul | Einzelgänger-Keule |
 | 791 | Devourer Exoskeleton | Verschlinger-Exoskelett |
 | 792 | Raider Tuft | Räuberhaarbüschel |

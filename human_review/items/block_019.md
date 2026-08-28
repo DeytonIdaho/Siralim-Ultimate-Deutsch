@@ -23,7 +23,7 @@
 | 1820 | Scroll of Intelligence | Schriftrolle der Intelligenz |
 | 1821 | Scroll of Speed | Schriftrolle der Geschwindigkeit |
 | 1822 | Scroll of Attack | Schriftrolle des Angriffs |
-| 1823 | {1} I | {1} Ich |
+| 1823 | {1} I | {1} I |
 | 1824 | {1} II | {1} II |
 | 1825 | {1} III | {1} III |
 | 1826 | {1} IV | {1} IV |
@@ -75,7 +75,7 @@
 | 1872 | Emblem of Erebyss | Emblem von Erebyss |
 | 1873 | Emblem of Vulcanar | Emblem des Vulcanar |
 | 1874 | Emblem of Zonte | Emblem von Zonte |
-| 1875 | Emblem of Aeolian | Emblem des Aeolischen |
+| 1875 | Emblem of Aeolian | Emblem von Aeolian |
 | 1876 | Emblem of Azural | Emblem von Azural |
 | 1877 | Emblem of Yseros | Emblem von Yseros |
 | 1878 | Emblem of Torun | Emblem von Torun |
@@ -87,9 +87,9 @@
 | 1884 | Emblem of Regalis | Emblem von Regalis |
 | 1885 | Emblem of Gonfurian | Emblem des Gonfurian |
 | 1886 | Emblem of Aurum | Emblem des Aurums |
-| 1887 | Emblem of Perdition | Emblem der Verdammnis |
-| 1888 | Emblem of Mortem | Emblem des Todes |
-| 1889 | Emblem of Tenebris | Emblem der Finsternis |
+| 1887 | Emblem of Perdition | Emblem von Perdition |
+| 1888 | Emblem of Mortem | Emblem von Mortem |
+| 1889 | Emblem of Tenebris | Emblem von Tenebris |
 | 1890 | Emblem of Apocranox | Emblem des Apocranox |
 | 1891 | Emblem of Venedon | Emblem von Venedon |
 | 1892 | Game Ticket: Siralopoly | Spielticket: Siralopoly |

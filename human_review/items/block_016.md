@@ -29,7 +29,7 @@
 | 1526 | Ametrine Shard | Ametrinscherbe |
 | 1527 | Nox's Staff | Nox' Stab |
 | 1528 | Rotting Antler | Verrottetes Geweih |
-| 1529 | Reaver's Skull | Schädel des Plünderers |
+| 1529 | Reaver's Skull | Reavers Schädel |
 | 1530 | Clawtail Parasite | Klauenschwanz-Parasit |
 | 1531 | Old World Microbe | Mikrobe der Alten Welt |
 | 1532 | Alchemical Catalyst | Alchemistischer Katalysator |

@@ -15,7 +15,7 @@
 | 2212 | Apocranox | Apocranox |
 | 2213 | Venedon | Venedon |
 | 2214 | Tenebris | Tenebris |
-| 2215 | Perdition | Verdammnis |
+| 2215 | Perdition | Perdition |
 | 2216 | Mortem | Mortem |
 | 2217 | Master of Denizens | Meister der Bewohner |
 | 2218 | Master of Abominations | Meister der Abscheulichkeiten |
@@ -60,11 +60,11 @@
 | 2257 | Master of Elves | Meister der Elfen |
 | 2258 | Master of Ents | Meister der Ents |
 | 2259 | Master of Familiars | Meister der Vertrauten |
-| 2260 | Master of Fiends | Meister der Dämonen |
-| 2261 | Master of Forsakens | Meister der Verstoßenen |
-| 2262 | Master of Gargantuans | Meister der Giganten |
+| 2260 | Master of Fiends | Meister der Unholde |
+| 2261 | Master of Forsakens | Meister der Verlassene |
+| 2262 | Master of Gargantuans | Meister der Gargantuans |
 | 2263 | Master of Gargoyles | Meister der Gargoyles |
-| 2264 | Master of Gemlings | Meister der Edelsteinlinge |
+| 2264 | Master of Gemlings | Meister der Edelsteinjünglinge |
 | 2265 | Master of Ghouls | Meister der Ghule |
 | 2266 | Master of Giants | Meister der Riesen |
 | 2267 | Master of Golems | Meister der Golems |
@@ -72,7 +72,7 @@
 | 2269 | Master of Griffons | Meister der Greifen |
 | 2270 | Master of Grimoires | Meister der Grimoires |
 | 2271 | Master of Harpies | Meister der Harpyien |
-| 2272 | Master of Hemomancers | Meister der Hämomanten |
+| 2272 | Master of Hemomancers | Meister der Blutmagier |
 | 2273 | Master of Hounds | Meister der Jagdhunde |
 | 2274 | Master of Hunters | Meister der Jäger |
 | 2275 | Master of Imlers | Meister von Imlers |
@@ -91,14 +91,14 @@
 | 2288 | Master of Minotaurs | Meister der Minotauren |
 | 2289 | Master of Mites | Meister der Milben |
 | 2290 | Master of Mummies | Meister der Mumien |
-| 2291 | Master of Nixes | Meister der Nixen |
+| 2291 | Master of Nixes | Meister der Nix |
 | 2292 | Master of Occultists | Meister der Okkultisten |
-| 2293 | Master of Ophans | Meister der Waisen |
+| 2293 | Master of Ophans | Meister der Ophans |
 | 2294 | Master of Paragons | Meister der Vorbilder |
 | 2295 | Master of Phase Warriors | Meister der Phasenkrieger |
 | 2296 | Master of Phoenixes | Meister der Phönixe |
 | 2297 | Master of Pilwizes | Meister der Pilwizes |
-| 2298 | Master of Pit Worms | Meister der Grubendrachen |
+| 2298 | Master of Pit Worms | Meister der Grubenwürmer |
 | 2299 | Master of Pit Wraiths | Meister der Grubengeister |
 | 2300 | Master of Plague Doctors | Meister der Pestärzte |
 | 2301 | Master of Priests | Meister der Priester |

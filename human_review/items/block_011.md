@@ -7,7 +7,7 @@
 | 1004 | Devourer Cyst | Verschlinger-Zyste |
 | 1005 | Oozing Cyst | Triefende Zyste |
 | 1006 | Digger Cyst | Gräberschwellung |
-| 1007 | Abyssal Phylactery | Abyssaler Phylakterium |
+| 1007 | Abyssal Phylactery | Abyssales Phylakterium |
 | 1008 | Dancing Phylactery | Tanzende Phylakterie |
 | 1009 | Laughing Phylactery | Lachende Phylakterie |
 | 1010 | Scheming Phylactery | Intrigantes Phylakterium |
@@ -46,13 +46,13 @@
 | 1043 | Cacophonous Comb | Kakophonischer Kamm |
 | 1044 | Carrion Comb | Aaskamm |
 | 1045 | Cave Comb | Höhlenkamm |
-| 1046 | Clawing Comb | Krallendes Kamm |
+| 1046 | Clawing Comb | Krallender Kamm |
 | 1047 | Cold Comb | Kalter Kamm |
 | 1048 | Contagious Comb | Ansteckender Kamm |
 | 1049 | Ancient Gear | Uraltes Getriebe |
-| 1050 | Arcane Gear | Arkane Ausrüstung |
-| 1051 | Cursed Gear | Verfluchte Ausrüstung |
-| 1052 | Decrepit Gear | Verrottete Ausrüstung |
+| 1050 | Arcane Gear | Arkane Getriebe |
+| 1051 | Cursed Gear | Verfluchte Getriebe |
+| 1052 | Decrepit Gear | Verrottete Getriebe |
 | 1053 | Luxury Gear | Luxusausrüstung |
 | 1054 | Siege Gear | Belagerungsausrüstung |
 | 1055 | War Gear | Kriegsausrüstung |
@@ -95,10 +95,10 @@
 | 1092 | Trollboar Lantern | Trolleber-Laterne |
 | 1093 | Curio of Stone | Kuriosität aus Stein |
 | 1094 | Bonebreaker Tattoo | Knochenbrecher-Tattoo |
-| 1095 | Bold Amber | Kühnes Bernstein |
+| 1095 | Bold Amber | Kühner Bernstein |
 | 1096 | Smoky Amber | Rauchiger Bernstein |
 | 1097 | Pale Amber | Blasses Bernstein |
 | 1098 | Bright Amber | Helles Bernstein |
 | 1099 | Deep Amber | Tiefes Bernstein |
-| 1100 | Rose Amber | Rose Amber |
+| 1100 | Rose Amber | Rosenbernstein |
 | 1101 | Glossy Amber | Glänzender Bernstein |

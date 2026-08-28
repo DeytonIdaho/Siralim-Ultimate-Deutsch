@@ -57,7 +57,7 @@
 | 954 | Mystery Gel | Mysterium-Gel |
 | 955 | Gooarrior Gel | Gooarrior Gel |
 | 956 | Gloopdiator Gel | Gloopdiator-Gel |
-| 957 | Sludgechemist Gel | Schlammchemiker-Gel |
+| 957 | Sludgechemist Gel | Schleimchemiker-Gel |
 | 958 | Swordslime Gel | Schwertschleim-Gel |
 | 959 | Errant Stardust | Verirrter Sternenstaub |
 | 960 | Dimensional Stardust | Dimensionenstaub |

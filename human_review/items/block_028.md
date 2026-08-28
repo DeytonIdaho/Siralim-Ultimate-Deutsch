@@ -33,8 +33,8 @@
 | 2730 | Master of Effigies | Meister der Bildnisse |
 | 2731 | Space Dragon Knight | Weltraumdrachen-Ritter |
 | 2732 | Tamed Spirit | Gezähmter Geist |
-| 2733 | Master of Lucanians | Meister der Lucanier |
-| 2734 | Master of Eggxotics | Meister der Eggxotik |
+| 2733 | Master of Lucanians | Meister der Lucanians |
+| 2734 | Master of Eggxotics | Meister der Eggxotics |
 | 2735 | Master of Spacecats | Meister der Weltraumkatzen |
 | 2736 | Master of Spelljugglers | Meister der Zauberjonglierer |
 | 2737 | Sneaky Thief | Hinterlistiger Dieb |
@@ -59,7 +59,7 @@
 | 2756 | Antiquarian (Tier 3) | Antiquar (Stufe 3) |
 | 2757 | Large | Groß |
 | 2758 | Small | Klein |
-| 2759 | Spotted | Entdeckt |
+| 2759 | Spotted | Gefleckt |
 | 2760 | Dotted | Gepunktet |
 | 2761 | Pink | Rosa |
 | 2762 | Orange | Orange |
