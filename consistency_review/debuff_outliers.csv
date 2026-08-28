@@ -1,14 +1,1 @@
 file,line,english,german
-achievements.csv,643,Debuff creatures 100 times.,Debuffe Kreaturen 100 Mal.
-achievements.csv,645,Debuff creatures 250 times.,Debuffe Kreaturen 250 Mal.
-achievements.csv,647,Debuff creatures 500 times.,Debuffe Kreaturen 500 Mal.
-achievements.csv,649,"Debuff creatures 1,000 times.",Debuffe Kreaturen 1.000 Mal.
-achievements.csv,651,"Debuff creatures 2,500 times.",Debuffe Kreaturen 2.500 Mal.
-achievements.csv,653,"Debuff creatures 5,000 times.",Debuffe Kreaturen 5.000 Mal.
-achievements.csv,655,"Debuff creatures 10,000 times.",Debuffe Kreaturen 10.000 Mal.
-achievements.csv,657,"Debuff creatures 25,000 times.",Debuffe Kreaturen 25.000 Mal.
-achievements.csv,659,"Debuff creatures 50,000 times.",Debuffe Kreaturen 50.000 Mal.
-achievements.csv,661,"Debuff creatures 100,000 times.",Debuffe Kreaturen 100.000 Mal.
-traits.csv,1055,"When your creatures buff an enemy, they debuff them instead. When your creatures debuff an ally, they buff them instead. This trait does not stack.","Wenn deine Kreaturen einen Feind buffen, debuffen sie ihn stattdessen. Wenn deine Kreaturen einen Verbündeten debuffen, buffen sie ihn stattdessen. Dieses Merkmal ist nicht kumulativ."
-ui.csv,1643,"As a Necromancer, you'll summon minions to aid your creatures in battle. These minions can do all kinds of things to support your creatures - they can cause damage, boost your creatures' stats, debuff enemies, and much more.","Als Nekromant beschwörst du Diener, die deinen Kreaturen im Kampf beistehen. Diese Diener können allerlei Dinge tun, um deine Kreaturen zu unterstützen - sie können Schaden verursachen, die Werte deiner Kreaturen verbessern, Feinde debuffen und vieles mehr."
-ui.csv,1653,"As a Pyromancer, you'll make heavy use of the Burning debuff to deal damage to enemies over time. In addition, your own creatures will be afflicted with this debuff, but it will heal and empower them rather than dealing damage.","Als Pyromantiker wirst du den Brennen-Statuseffekt intensiv nutzen, um Gegnern über Zeit Schaden zuzufügen. Zusätzlich werden auch deine eigenen Kreaturen von diesem Statuseffekt betroffen sein, aber er wird sie heilen und stärken, anstatt ihnen zu Schaden."

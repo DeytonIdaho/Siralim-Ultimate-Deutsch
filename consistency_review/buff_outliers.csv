@@ -1,13 +1,1 @@
 file,line,english,german
-achievements.csv,623,Buff creatures 100 times.,Buffe Kreaturen 100 Mal.
-achievements.csv,625,Buff creatures 250 times.,Buffe Kreaturen 250 Mal.
-achievements.csv,627,Buff creatures 500 times.,Buffe Kreaturen 500 Mal.
-achievements.csv,629,"Buff creatures 1,000 times.",Buffe Kreaturen 1.000 Mal.
-achievements.csv,631,"Buff creatures 2,500 times.",Buffe Kreaturen 2.500 Mal.
-achievements.csv,633,"Buff creatures 5,000 times.",Buffe Kreaturen 5.000 Mal.
-achievements.csv,635,"Buff creatures 10,000 times.",Buffe Kreaturen 10.000 Mal.
-achievements.csv,637,"Buff creatures 25,000 times.",Buffe Kreaturen 25.000 Mal.
-achievements.csv,639,"Buff creatures 50,000 times.",Buffe Kreaturen 50.000 Mal.
-achievements.csv,641,"Buff creatures 100,000 times.",Buffe Kreaturen 100.000 Mal.
-spells.csv,89,Target's buffs and debuffs are removed.,Zieleffekte und Debuffs werden entfernt.
-traits.csv,1055,"When your creatures buff an enemy, they debuff them instead. When your creatures debuff an ally, they buff them instead. This trait does not stack.","Wenn deine Kreaturen einen Feind buffen, debuffen sie ihn stattdessen. Wenn deine Kreaturen einen Verbündeten debuffen, buffen sie ihn stattdessen. Dieses Merkmal ist nicht kumulativ."

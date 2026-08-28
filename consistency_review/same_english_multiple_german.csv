@@ -1,6 +1,4 @@
 english,variants,german,count,examples
-Arbiter,2,Schlichter,1,creatures.csv:137
-Arbiter,2,Schiedsrichter,1,vocabulary.csv:304
 Attack,2,Angriff,5,ui.csv:2; ui.csv:167; ui.csv:1576
 Attack,2,Angreifen,1,vocabulary.csv:143
 Casting,2,Zauberwirken,1,codex.csv:75
@@ -9,17 +7,7 @@ Daybreaker,2,Tagesanbruch,1,perks.csv:244
 Daybreaker,2,Tagesbrecher,1,traits.csv:1478
 Dice,2,Würfel,1,items.csv:2905
 Dice,2,Dice,1,masters.csv:22
-Eternity's End,2,Ewigkeits Ende,2,decorations.csv:2223; vocabulary.csv:398
-Eternity's End,2,Ende der Ewigkeit,1,skins.csv:247
-Faraway Enclave,2,Entlegene Enklave,2,decorations.csv:2221; vocabulary.csv:396
-Faraway Enclave,2,Ferne Enklave,1,skins.csv:243
-Frostbite Caverns,2,Frosthöhlen,2,decorations.csv:2213; vocabulary.csv:392
-Frostbite Caverns,2,Frostbiss-Höhlen,1,skins.csv:236
 "Item Sets allow you to easily save and load groups of Artifacts and Spell Gems. You can use these Item Sets to quickly equip your creatures with different Artifacts and Spell Gems.\n\nTo create an Item Set, open the menu and select ""Creatures"", then select a creature and choose ""Manage Item Sets"". A new menu will appear that allows you to ""Assign"" that creature's currently equipped items to an Item Set. Later, you can use the ""Equip"" option to quickly equip the items contained in that Item Set.",2,"Ausrüstungssets ermöglichen es dir, Gruppen von Artefakten und Zaubersteinen einfach zu speichern und zu laden. Du kannst diese Ausrüstungssets verwenden, um deine Kreaturen schnell mit verschiedenen Artefakten und Zaubersteinen auszurüsten. Um ein Ausrüstungsset zu erstellen, öffne das Menü und wähle „Kreaturen“. Wähle anschließend eine Kreatur und dann „Ausrüstungssets verwalten“. Es erscheint ein neues Menü, in dem du die derzeit ausgerüsteten Gegenstände dieser Kreatur über „Zuweisen“ einem Ausrüstungsset zuordnen kannst. Später kannst du mit der Option „Ausrüsten“ schnell die in diesem Ausrüstungsset enthaltenen Gegenstände anlegen.",1,codex.csv:215
 "Item Sets allow you to easily save and load groups of Artifacts and Spell Gems. You can use these Item Sets to quickly equip your creatures with different Artifacts and Spell Gems.\n\nTo create an Item Set, open the menu and select ""Creatures"", then select a creature and choose ""Manage Item Sets"". A new menu will appear that allows you to ""Assign"" that creature's currently equipped items to an Item Set. Later, you can use the ""Equip"" option to quickly equip the items contained in that Item Set.",2,"Ausrüstungssets ermöglichen es dir, Gruppen von Artefakten und Zaubersteinen einfach zu speichern und zu laden. Du kannst diese Ausrüstungssets verwenden, um deine Kreaturen schnell mit verschiedenen Artefakten und Zaubersteinen auszustatten.\n\nUm ein Ausrüstungsset zu erstellen, öffne das Menü und wähle ""Kreaturen",1,ui.csv:1033
-Master of Rift Dancers,2,Meister der Dimensionsläufer,1,items.csv:2305
-Master of Rift Dancers,2,Meister der Riss-Tänzer,1,traits.csv:2905
-Master of Voidlords,2,Meister der Leerenfürsten,1,items.csv:2333
-Master of Voidlords,2,Meister der Leerefürsten,1,traits.csv:2961
 Provoking,2,Provozieren,1,codex.csv:77
 Provoking,2,Provozierend,1,vocabulary.csv:152
