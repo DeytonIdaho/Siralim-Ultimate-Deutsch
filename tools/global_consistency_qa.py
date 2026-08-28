@@ -3,17 +3,11 @@
 import csv,re
 from pathlib import Path
 from collections import Counter,defaultdict
-ROOT=Path('.');OUT=Path('consistency_review')
-EN_COLS=('english','en','source','original','text_en','description_en');DE_COLS=('german','de','deutsch','translation','text_de','description_de')
+ROOT=Path('.');OUT=Path('consistency_review');EN_COLS=('english','en','source','original','text_en','description_en');DE_COLS=('german','de','deutsch','translation','text_de','description_de')
 TOKEN=re.compile(r'\{[^{}]+\}|<\d+>|\[[^\[\]]+\]');NUM=re.compile(r'(?<![\w])\d+(?:\.\d+)?%?')
-RULES={'creature':('Kreatur','Kreaturen','Wesen','Monster','Gegnerwesen'),'trait':('Merkmal','Eigenschaft'),'stat':('Attribut','Attribute','Wert','Werte','Status','Eigenschaft'),'spell gem':('Zauberstein','Zaubersteine','Zauberjuwel','Zauberjuwelen'),'artifact':('Artefakt','Artefakte'),'relic':('Reliquie','Reliquien','Relikt','Relikte'),'buff':('Buff','Buffs','Verbesserung','Verbesserungen'),'debuff':('Debuff','Debuffs','Schwächung','Schwächungen'),'minion':('Diener','Dienern','Minion','Minions'),'charge':('Ladung','Ladungen'),'maximum':('maximal','maximale','maximalen','Maximum'),'current':('aktuell','aktuelle','derzeitig','gegenwärtig'),'additional':('zusätzlich','zusätzliche','weiter','weiteres'),'independent':('unabhängig','unabhängige'),'manually':('manuell',),'instead':('statt','anstatt'),'once per turn':('einmal pro Zug','1 Mal pro Zug','ein Mal pro Zug'),'for each':('für jede','für jeden','für jedes','pro '),'cannot':('kann nicht','können nicht','unfähig'),'always':('immer',),'before':('bevor','vor '),'after':('nachdem','nach '),'start of':('zu Beginn','am Anfang'),'end of':('am Ende','zum Ende')}
-SUS={'Plünderer':'Reaver specialization','Behändigkeit':'Celerity/Schnelligkeit reference','Vorteilspunkte':'perk terminology review','Stat Slots':'Attribut-Slots','Spell Gems':'untranslated gameplay term'}
-FOCUSED={
- 'trait':(re.compile(r'\btraits?\b',re.I),(re.compile(r'\bmerkmale?n?\b',re.I),)),
- 'buff':(re.compile(r'\bbuffs?\b',re.I),(re.compile(r'\bbuffs?\b',re.I),)),
- 'debuff':(re.compile(r'\bdebuffs?\b',re.I),(re.compile(r'\bdebuffs?\b',re.I),)),
- 'minion':(re.compile(r'\bminions?\b',re.I),(re.compile(r'\bdiener(?:n|s)?\b',re.I),)),
-}
+RULES={'creature':('Kreatur','Kreaturen','Wesen','Monster','Gegnerwesen'),'trait':('Merkmal','Eigenschaft'),'stat':('Attribut','Attribute','Wert','Werte','Status','Eigenschaft'),'spell gem':('Zauberstein','Zaubersteine'),'artifact':('Artefakt','Artefakte'),'relic':('Relikt','Relikte'),'buff':('Buff','Buffs'),'debuff':('Debuff','Debuffs'),'minion':('Diener','Dienern'),'charge':('Ladung','Ladungen'),'maximum':('maximal','Maximum'),'current':('aktuell','derzeitig','gegenwärtig'),'additional':('zusätzlich','weiter'),'independent':('unabhängig',),'manually':('manuell',),'instead':('statt','anstatt'),'once per turn':('einmal pro Zug',),'for each':('für jede','für jeden','für jedes','pro '),'cannot':('kann nicht','können nicht'),'always':('immer',),'before':('bevor','vor '),'after':('nachdem','nach '),'start of':('zu Beginn','am Anfang'),'end of':('am Ende','zum Ende')}
+SUS={'Plünderer':'Reaver specialization','Behändigkeit':'Celerity/Schnelligkeit reference','Vorteilspunkte':'old perk terminology','Vorteilsrang':'old perk terminology','Stat Slots':'Attribut-Slots','Spell Gems':'untranslated gameplay term'}
+FOCUSED={'trait':(re.compile(r'\btraits?\b',re.I),(re.compile(r'\bmerkmale?n?\b',re.I),)),'buff':(re.compile(r'\bbuffs?\b',re.I),(re.compile(r'\bbuffs?\b',re.I),)),'debuff':(re.compile(r'\bdebuffs?\b',re.I),(re.compile(r'\bdebuffs?\b',re.I),)),'minion':(re.compile(r'\bminions?\b',re.I),(re.compile(r'\bdiener(?:n|s)?\b',re.I),)),'perk':(re.compile(r'\bperks?\b|\bperk[ -](?:points?|ranks?|menu|screen|list|tree)\b',re.I),(re.compile(r'\btalent(?:e|en|s|punkt(?:e|en|s)?|rang(?:e|es|en)?|menü|liste|baum)?\b',re.I),))}
 def cols(fs):
  lo={x.lower():x for x in fs};return next((lo[x] for x in EN_COLS if x in lo),None),next((lo[x] for x in DE_COLS if x in lo),None)
 def norm(s):return re.sub(r'\s+',' ',(s or '').strip())
@@ -56,6 +50,5 @@ def main():
   for k,c in rc.items():
    for v,n in c.most_common():w.writerow([k,v,n])
  multi=sum(1 for c in exact.values() if len([x for x in c if x])>1);fs='\n'.join(f'- {k} focused outliers: {len(v)}' for k,v in focused.items())
- summary=f'# Global consistency QA\n\n- Localization rows scanned: {len(rows)}\n- Exact English strings with multiple German variants: {multi}\n- Token mismatch candidates: {len(tm)}\n- Number/percentage mismatch candidates: {len(nm)}\n- Explicit suspect-term occurrences: {len(sus)}\n{fs}\n\nThese are review candidates, not automatic errors.\n'
- (OUT/'SUMMARY.md').write_text(summary,encoding='utf-8');print(summary)
+ summary=f'# Global consistency QA\n\n- Localization rows scanned: {len(rows)}\n- Exact English strings with multiple German variants: {multi}\n- Token mismatch candidates: {len(tm)}\n- Number/percentage mismatch candidates: {len(nm)}\n- Explicit suspect-term occurrences: {len(sus)}\n{fs}\n\nThese are review candidates, not automatic errors.\n';(OUT/'SUMMARY.md').write_text(summary,encoding='utf-8');print(summary)
 if __name__=='__main__':main()
