@@ -1,11 +1,8 @@
 name: Translation QA
-
 on:
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build-review-queue:
     runs-on: ubuntu-latest
@@ -20,22 +17,17 @@ jobs:
           python-version: '3.12'
       - name: Apply reviewed safe fixes
         run: |
-          for file in *.csv; do
-            name="${file%.csv}"
-            python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100 --apply-safe-fixes --fixed-file "$file"
-          done
+          for file in *.csv; do name="${file%.csv}"; python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100 --apply-safe-fixes --fixed-file "$file"; done
       - name: Apply reviewed packages
         run: |
           python tools/apply_achievement_review.py
           python tools/apply_ui_review.py
           python tools/apply_battle_review.py
+          python tools/apply_boss_review.py
       - name: Generate fresh QA queues
         run: |
           rm -rf review
-          for file in *.csv; do
-            name="${file%.csv}"
-            python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100
-          done
+          for file in *.csv; do name="${file%.csv}"; python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100; done
       - name: Generate human review blocks for all localization files
         run: |
           rm -rf human_review
@@ -46,8 +38,7 @@ jobs:
           def esc(v):return (v or '').replace('|','\\|').replace('\n','\\n').replace('\r','')
           for src in sorted(root.glob('*.csv')):
             with src.open(encoding='utf-8-sig',newline='') as f:
-              reader=csv.DictReader(f);fields=reader.fieldnames or[];lower={x.lower():x for x in fields}
-              en_col=next((lower[x] for x in ('english','en','source','original','text_en','description_en') if x in lower),None);de_col=next((lower[x] for x in ('german','de','deutsch','translation','text_de','description_de') if x in lower),None)
+              reader=csv.DictReader(f);fields=reader.fieldnames or[];lower={x.lower():x for x in fields};en_col=next((lower[x] for x in ('english','en','source','original','text_en','description_en') if x in lower),None);de_col=next((lower[x] for x in ('german','de','deutsch','translation','text_de','description_de') if x in lower),None)
               if not en_col or not de_col:continue
               rows=list(reader)
             target=outroot/src.stem;target.mkdir(parents=True,exist_ok=True);block_no=0
