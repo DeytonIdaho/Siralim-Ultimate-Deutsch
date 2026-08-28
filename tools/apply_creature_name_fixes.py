@@ -17,7 +17,7 @@ FIX={
 'L_CRIT_QUARNOKTREMOR':'Quarnok-Beben','L_CRIT_GORLUMTREMOR':'Gorlum-Beben',
 'L_CRIT_SKYWARDVULPES':'Himmels-Vulpes','L_CRIT_PLATEDWARHOG':'Gepanzerter Kriegseber',
 'L_CRIT_UNDERDWELLERMISCHIEFMAKER':'Unterirdischer Unheilstifter','L_CRIT_UNDERDWELLERFEARMONGER':'Unterirdischer Angstmacher',
-'L_CRIT_GRAVEBANEWIGHT':'Grabfluch-Wight','L_CRIT_RECLUSIVEWIGHT':'Zurückgezogener Wight','L_CRIT_ROOFSTALKERWIGHT':'Dachschleicher-Wight','L_CRIT_DREADWIGHT':'Schreckens-Wight','L_CRIT_TREPIDATIONWIGHT':'Angst-Wight','L_CRIT_FROSTBITEWIGHT':'Frostbiss-Wight','L_CRIT_HEADLESSWIGHT':'Kopfloser Wight','L_CRIT_HOLYWIGHT':'Heiliger Wight',
+'L_CRIT_TERRORWIGHT':'Terror-Wight','L_CRIT_GRAVEBANEWIGHT':'Grabfluch-Wight','L_CRIT_RECLUSIVEWIGHT':'Zurückgezogener Wight','L_CRIT_ROOFSTALKERWIGHT':'Dachschleicher-Wight','L_CRIT_DREADWIGHT':'Schreckens-Wight','L_CRIT_TREPIDATIONWIGHT':'Angst-Wight','L_CRIT_FROSTBITEWIGHT':'Frostbiss-Wight','L_CRIT_HEADLESSWIGHT':'Kopfloser Wight','L_CRIT_HOLYWIGHT':'Heiliger Wight',
 'L_CRIT_WILDFIREEFREET':'Wildfeuer-Ifrit','L_CRIT_VOLCANICEFREET':'Vulkanischer Ifrit','L_CRIT_FROSTFIREEFREET':'Frostfeuer-Ifrit','L_CRIT_OBSIDIANEFREET':'Obsidian-Ifrit','L_CRIT_DREADFULEFREET':'Schrecklicher Ifrit','L_CRIT_ASHBONEEFREET':'Aschenknochen-Ifrit','L_CRIT_FLAMETONGUEEFREET':'Flammenzungen-Ifrit',
 'L_CRIT_DJINNEVOKER':'Djinn-Beschwörer','L_CRIT_VENGEFULDJINN':'Rachsüchtiger Djinn','L_CRIT_UNCHAINEDDJINN':'Entfesselter Djinn',
 }
