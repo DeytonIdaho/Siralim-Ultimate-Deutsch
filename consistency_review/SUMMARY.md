@@ -3,6 +3,7 @@
 - Localization rows scanned: 37568
 - Unique ACTION tokens: 15
 - ACTION token occurrences: 1579
+- Exact action/charge source-word rows: 33
 - Unreviewed duplicate groups: 0
 - Unreviewed token mismatches: 0
 - Unreviewed number/percentage mismatches: 0
@@ -11,5 +12,5 @@
 - minion terminology outliers: 0
 - perk terminology outliers: 0
 
-ACTION inventory: `action_token_counts.csv` and `action_token_inventory.csv`.
+ACTION reports: `action_token_counts.csv`, `action_token_inventory.csv`, `action_source_words.csv`.
 Reviewed known exceptions are filtered from this final report.
