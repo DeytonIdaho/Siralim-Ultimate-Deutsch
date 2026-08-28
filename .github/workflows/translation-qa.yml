@@ -27,6 +27,10 @@ jobs:
             python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100 --apply-safe-fixes --fixed-file "$file"
           done
 
+      - name: Apply reviewed achievement package
+        run: |
+          python tools/apply_achievement_review.py
+
       - name: Generate fresh QA queues
         run: |
           rm -rf review
