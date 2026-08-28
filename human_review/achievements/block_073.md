@@ -3,102 +3,102 @@
 | Row | English | German |
 |---:|---|---|
 | 7202 | Slayer of {GOD_GRASSLAND} III | Bezwinger von {GOD_GRASSLAND} III |
-| 7203 | Defeat {GOD_GRASSLAND} 3 times. | Besiege {GOD_GRASSLAND} 3 Mal. |
+| 7203 | Defeat {GOD_GRASSLAND} 3 times. | Besiege {GOD_GRASSLAND} 3-mal. |
 | 7204 | Slayer of {GOD_GRASSLAND} IV | Bezwinger von {GOD_GRASSLAND} IV |
-| 7205 | Defeat {GOD_GRASSLAND} 4 times. | Besiege {GOD_GRASSLAND} 4 Mal. |
+| 7205 | Defeat {GOD_GRASSLAND} 4 times. | Besiege {GOD_GRASSLAND} 4-mal. |
 | 7206 | Slayer of {GOD_GRASSLAND} V | Bezwinger von {GOD_GRASSLAND} V |
-| 7207 | Defeat {GOD_GRASSLAND} 5 times. | Besiege {GOD_GRASSLAND} 5 Mal. |
+| 7207 | Defeat {GOD_GRASSLAND} 5 times. | Besiege {GOD_GRASSLAND} 5-mal. |
 | 7208 | Slayer of {GOD_GRASSLAND} VI | Bezwinger von {GOD_GRASSLAND} VI |
-| 7209 | Defeat {GOD_GRASSLAND} 6 times. | Besiege {GOD_GRASSLAND} 6 Mal. |
+| 7209 | Defeat {GOD_GRASSLAND} 6 times. | Besiege {GOD_GRASSLAND} 6-mal. |
 | 7210 | Slayer of {GOD_GRASSLAND} VII | Bezwinger von {GOD_GRASSLAND} VII |
-| 7211 | Defeat {GOD_GRASSLAND} 7 times. | Besiege {GOD_GRASSLAND} 7 Mal. |
+| 7211 | Defeat {GOD_GRASSLAND} 7 times. | Besiege {GOD_GRASSLAND} 7-mal. |
 | 7212 | Slayer of {GOD_GRASSLAND} VIII | Bezwinger von {GOD_GRASSLAND} VIII |
-| 7213 | Defeat {GOD_GRASSLAND} 8 times. | Besiege {GOD_GRASSLAND} 8 Mal. |
+| 7213 | Defeat {GOD_GRASSLAND} 8 times. | Besiege {GOD_GRASSLAND} 8-mal. |
 | 7214 | Slayer of {GOD_GRASSLAND} IX | Bezwinger von {GOD_GRASSLAND} IX |
-| 7215 | Defeat {GOD_GRASSLAND} 9 times. | Besiege {GOD_GRASSLAND} 9 Mal. |
+| 7215 | Defeat {GOD_GRASSLAND} 9 times. | Besiege {GOD_GRASSLAND} 9-mal. |
 | 7216 | Slayer of {GOD_GRASSLAND} X | Bezwinger von {GOD_GRASSLAND} X |
-| 7217 | Defeat {GOD_GRASSLAND} 10 times. | Besiege {GOD_GRASSLAND} 10 Mal. |
+| 7217 | Defeat {GOD_GRASSLAND} 10 times. | Besiege {GOD_GRASSLAND} 10-mal. |
 | 7218 | Slayer of {GOD_AUTUMN} I | Bezwinger von {GOD_AUTUMN} I |
-| 7219 | Defeat {GOD_AUTUMN} 1 time. | Besiege {GOD_AUTUMN} 1 Mal. |
+| 7219 | Defeat {GOD_AUTUMN} 1 time. | Besiege {GOD_AUTUMN} 1-mal. |
 | 7220 | Slayer of {GOD_AUTUMN} II | Bezwinger von {GOD_AUTUMN} II |
-| 7221 | Defeat {GOD_AUTUMN} 2 times. | Besiege {GOD_AUTUMN} 2 Mal. |
+| 7221 | Defeat {GOD_AUTUMN} 2 times. | Besiege {GOD_AUTUMN} 2-mal. |
 | 7222 | Slayer of {GOD_AUTUMN} III | Bezwinger von {GOD_AUTUMN} III |
-| 7223 | Defeat {GOD_AUTUMN} 3 times. | Besiege {GOD_AUTUMN} 3 Mal. |
+| 7223 | Defeat {GOD_AUTUMN} 3 times. | Besiege {GOD_AUTUMN} 3-mal. |
 | 7224 | Slayer of {GOD_AUTUMN} IV | Bezwinger von {GOD_AUTUMN} IV |
-| 7225 | Defeat {GOD_AUTUMN} 4 times. | Besiege {GOD_AUTUMN} 4 Mal. |
+| 7225 | Defeat {GOD_AUTUMN} 4 times. | Besiege {GOD_AUTUMN} 4-mal. |
 | 7226 | Slayer of {GOD_AUTUMN} V | Bezwinger von {GOD_AUTUMN} V |
-| 7227 | Defeat {GOD_AUTUMN} 5 times. | Besiege {GOD_AUTUMN} 5 Mal. |
+| 7227 | Defeat {GOD_AUTUMN} 5 times. | Besiege {GOD_AUTUMN} 5-mal. |
 | 7228 | Slayer of {GOD_AUTUMN} VI | Bezwinger von {GOD_AUTUMN} VI |
-| 7229 | Defeat {GOD_AUTUMN} 6 times. | Besiege {GOD_AUTUMN} 6 Mal. |
+| 7229 | Defeat {GOD_AUTUMN} 6 times. | Besiege {GOD_AUTUMN} 6-mal. |
 | 7230 | Slayer of {GOD_AUTUMN} VII | Bezwinger von {GOD_AUTUMN} VII |
-| 7231 | Defeat {GOD_AUTUMN} 7 times. | Besiege {GOD_AUTUMN} 7 Mal. |
+| 7231 | Defeat {GOD_AUTUMN} 7 times. | Besiege {GOD_AUTUMN} 7-mal. |
 | 7232 | Slayer of {GOD_AUTUMN} VIII | Bezwinger von {GOD_AUTUMN} VIII |
-| 7233 | Defeat {GOD_AUTUMN} 8 times. | Besiege {GOD_AUTUMN} 8 Mal. |
+| 7233 | Defeat {GOD_AUTUMN} 8 times. | Besiege {GOD_AUTUMN} 8-mal. |
 | 7234 | Slayer of {GOD_AUTUMN} IX | Bezwinger von {GOD_AUTUMN} IX |
-| 7235 | Defeat {GOD_AUTUMN} 9 times. | Besiege {GOD_AUTUMN} 9 Mal. |
+| 7235 | Defeat {GOD_AUTUMN} 9 times. | Besiege {GOD_AUTUMN} 9-mal. |
 | 7236 | Slayer of {GOD_AUTUMN} X | Bezwinger von {GOD_AUTUMN} X |
-| 7237 | Defeat {GOD_AUTUMN} 10 times. | Besiege {GOD_AUTUMN} 10 Mal. |
+| 7237 | Defeat {GOD_AUTUMN} 10 times. | Besiege {GOD_AUTUMN} 10-mal. |
 | 7238 | Slayer of {GOD_GEM} I | Bezwinger von {GOD_GEM} I |
-| 7239 | Defeat {GOD_GEM} 1 time. | Besiege {GOD_GEM} 1 Mal. |
+| 7239 | Defeat {GOD_GEM} 1 time. | Besiege {GOD_GEM} 1-mal. |
 | 7240 | Slayer of {GOD_GEM} II | Bezwinger von {GOD_GEM} II |
-| 7241 | Defeat {GOD_GEM} 2 times. | Besiege {GOD_GEM} 2 Mal. |
+| 7241 | Defeat {GOD_GEM} 2 times. | Besiege {GOD_GEM} 2-mal. |
 | 7242 | Slayer of {GOD_GEM} III | Bezwinger von {GOD_GEM} III |
-| 7243 | Defeat {GOD_GEM} 3 times. | Besiege {GOD_GEM} 3 Mal. |
+| 7243 | Defeat {GOD_GEM} 3 times. | Besiege {GOD_GEM} 3-mal. |
 | 7244 | Slayer of {GOD_GEM} IV | Bezwinger von {GOD_GEM} IV |
-| 7245 | Defeat {GOD_GEM} 4 times. | Besiege {GOD_GEM} 4 Mal. |
+| 7245 | Defeat {GOD_GEM} 4 times. | Besiege {GOD_GEM} 4-mal. |
 | 7246 | Slayer of {GOD_GEM} V | Bezwinger von {GOD_GEM} V |
-| 7247 | Defeat {GOD_GEM} 5 times. | Besiege {GOD_GEM} 5 Mal. |
+| 7247 | Defeat {GOD_GEM} 5 times. | Besiege {GOD_GEM} 5-mal. |
 | 7248 | Slayer of {GOD_GEM} VI | Bezwinger von {GOD_GEM} VI |
-| 7249 | Defeat {GOD_GEM} 6 times. | Besiege {GOD_GEM} 6 Mal. |
+| 7249 | Defeat {GOD_GEM} 6 times. | Besiege {GOD_GEM} 6-mal. |
 | 7250 | Slayer of {GOD_GEM} VII | Bezwinger von {GOD_GEM} VII |
-| 7251 | Defeat {GOD_GEM} 7 times. | Besiege {GOD_GEM} 7 Mal. |
+| 7251 | Defeat {GOD_GEM} 7 times. | Besiege {GOD_GEM} 7-mal. |
 | 7252 | Slayer of {GOD_GEM} VIII | Bezwinger von {GOD_GEM} VIII |
-| 7253 | Defeat {GOD_GEM} 8 times. | Besiege {GOD_GEM} 8 Mal. |
+| 7253 | Defeat {GOD_GEM} 8 times. | Besiege {GOD_GEM} 8-mal. |
 | 7254 | Slayer of {GOD_GEM} IX | Bezwinger von {GOD_GEM} IX |
-| 7255 | Defeat {GOD_GEM} 9 times. | Besiege {GOD_GEM} 9 Mal. |
+| 7255 | Defeat {GOD_GEM} 9 times. | Besiege {GOD_GEM} 9-mal. |
 | 7256 | Slayer of {GOD_GEM} X | Bezwinger von {GOD_GEM} X |
-| 7257 | Defeat {GOD_GEM} 10 times. | Besiege {GOD_GEM} 10 Mal. |
+| 7257 | Defeat {GOD_GEM} 10 times. | Besiege {GOD_GEM} 10-mal. |
 | 7258 | Slayer of {GOD_WINTER} I | Bezwinger von {GOD_WINTER} I |
-| 7259 | Defeat {GOD_WINTER} 1 time. | Besiege {GOD_WINTER} 1 Mal. |
+| 7259 | Defeat {GOD_WINTER} 1 time. | Besiege {GOD_WINTER} 1-mal. |
 | 7260 | Slayer of {GOD_WINTER} II | Bezwinger von {GOD_WINTER} II |
-| 7261 | Defeat {GOD_WINTER} 2 times. | Besiege {GOD_WINTER} 2 Mal. |
+| 7261 | Defeat {GOD_WINTER} 2 times. | Besiege {GOD_WINTER} 2-mal. |
 | 7262 | Slayer of {GOD_WINTER} III | Bezwinger von {GOD_WINTER} III |
-| 7263 | Defeat {GOD_WINTER} 3 times. | Besiege {GOD_WINTER} 3 Mal. |
+| 7263 | Defeat {GOD_WINTER} 3 times. | Besiege {GOD_WINTER} 3-mal. |
 | 7264 | Slayer of {GOD_WINTER} IV | Bezwinger von {GOD_WINTER} IV |
-| 7265 | Defeat {GOD_WINTER} 4 times. | Besiege {GOD_WINTER} 4 Mal. |
+| 7265 | Defeat {GOD_WINTER} 4 times. | Besiege {GOD_WINTER} 4-mal. |
 | 7266 | Slayer of {GOD_WINTER} V | Bezwinger von {GOD_WINTER} V |
-| 7267 | Defeat {GOD_WINTER} 5 times. | Besiege {GOD_WINTER} 5 Mal. |
+| 7267 | Defeat {GOD_WINTER} 5 times. | Besiege {GOD_WINTER} 5-mal. |
 | 7268 | Slayer of {GOD_WINTER} VI | Bezwinger von {GOD_WINTER} VI |
-| 7269 | Defeat {GOD_WINTER} 6 times. | Besiege {GOD_WINTER} 6 Mal. |
+| 7269 | Defeat {GOD_WINTER} 6 times. | Besiege {GOD_WINTER} 6-mal. |
 | 7270 | Slayer of {GOD_WINTER} VII | Bezwinger von {GOD_WINTER} VII |
-| 7271 | Defeat {GOD_WINTER} 7 times. | Besiege {GOD_WINTER} 7 Mal. |
+| 7271 | Defeat {GOD_WINTER} 7 times. | Besiege {GOD_WINTER} 7-mal. |
 | 7272 | Slayer of {GOD_WINTER} VIII | Bezwinger von {GOD_WINTER} VIII |
-| 7273 | Defeat {GOD_WINTER} 8 times. | Besiege {GOD_WINTER} 8 Mal. |
+| 7273 | Defeat {GOD_WINTER} 8 times. | Besiege {GOD_WINTER} 8-mal. |
 | 7274 | Slayer of {GOD_WINTER} IX | Bezwinger von {GOD_WINTER} IX |
-| 7275 | Defeat {GOD_WINTER} 9 times. | Besiege {GOD_WINTER} 9 Mal. |
+| 7275 | Defeat {GOD_WINTER} 9 times. | Besiege {GOD_WINTER} 9-mal. |
 | 7276 | Slayer of {GOD_WINTER} X | Bezwinger von {GOD_WINTER} X |
-| 7277 | Defeat {GOD_WINTER} 10 times. | Besiege {GOD_WINTER} 10 Mal. |
+| 7277 | Defeat {GOD_WINTER} 10 times. | Besiege {GOD_WINTER} 10-mal. |
 | 7278 | Slayer of {GOD_DEATH} I | Bezwinger von {GOD_DEATH} I |
-| 7279 | Defeat {GOD_DEATH} 1 time. | Besiege {GOD_DEATH} 1 Mal. |
+| 7279 | Defeat {GOD_DEATH} 1 time. | Besiege {GOD_DEATH} 1-mal. |
 | 7280 | Slayer of {GOD_DEATH} II | Bezwinger von {GOD_DEATH} II |
-| 7281 | Defeat {GOD_DEATH} 2 times. | Besiege {GOD_DEATH} 2 Mal. |
+| 7281 | Defeat {GOD_DEATH} 2 times. | Besiege {GOD_DEATH} 2-mal. |
 | 7282 | Slayer of {GOD_DEATH} III | Bezwinger von {GOD_DEATH} III |
-| 7283 | Defeat {GOD_DEATH} 3 times. | Besiege {GOD_DEATH} 3 Mal. |
+| 7283 | Defeat {GOD_DEATH} 3 times. | Besiege {GOD_DEATH} 3-mal. |
 | 7284 | Slayer of {GOD_DEATH} IV | Bezwinger von {GOD_DEATH} IV |
-| 7285 | Defeat {GOD_DEATH} 4 times. | Besiege {GOD_DEATH} 4 Mal. |
+| 7285 | Defeat {GOD_DEATH} 4 times. | Besiege {GOD_DEATH} 4-mal. |
 | 7286 | Slayer of {GOD_DEATH} V | Bezwinger von {GOD_DEATH} V |
-| 7287 | Defeat {GOD_DEATH} 5 times. | Besiege {GOD_DEATH} 5 Mal. |
+| 7287 | Defeat {GOD_DEATH} 5 times. | Besiege {GOD_DEATH} 5-mal. |
 | 7288 | Slayer of {GOD_DEATH} VI | Bezwinger von {GOD_DEATH} VI |
-| 7289 | Defeat {GOD_DEATH} 6 times. | Besiege {GOD_DEATH} 6 Mal. |
+| 7289 | Defeat {GOD_DEATH} 6 times. | Besiege {GOD_DEATH} 6-mal. |
 | 7290 | Slayer of {GOD_DEATH} VII | Bezwinger von {GOD_DEATH} VII |
-| 7291 | Defeat {GOD_DEATH} 7 times. | Besiege {GOD_DEATH} 7 Mal. |
+| 7291 | Defeat {GOD_DEATH} 7 times. | Besiege {GOD_DEATH} 7-mal. |
 | 7292 | Slayer of {GOD_DEATH} VIII | Bezwinger von {GOD_DEATH} VIII |
-| 7293 | Defeat {GOD_DEATH} 8 times. | Besiege {GOD_DEATH} 8 Mal. |
+| 7293 | Defeat {GOD_DEATH} 8 times. | Besiege {GOD_DEATH} 8-mal. |
 | 7294 | Slayer of {GOD_DEATH} IX | Bezwinger von {GOD_DEATH} IX |
-| 7295 | Defeat {GOD_DEATH} 9 times. | Besiege {GOD_DEATH} 9 Mal. |
+| 7295 | Defeat {GOD_DEATH} 9 times. | Besiege {GOD_DEATH} 9-mal. |
 | 7296 | Slayer of {GOD_DEATH} X | Bezwinger von {GOD_DEATH} X |
-| 7297 | Defeat {GOD_DEATH} 10 times. | Besiege {GOD_DEATH} 10 Mal. |
+| 7297 | Defeat {GOD_DEATH} 10 times. | Besiege {GOD_DEATH} 10-mal. |
 | 7298 | Slayer of {GOD_UNDERWATER} I | Bezwinger von {GOD_UNDERWATER} I |
-| 7299 | Defeat {GOD_UNDERWATER} 1 time. | Besiege {GOD_UNDERWATER} 1 Mal. |
+| 7299 | Defeat {GOD_UNDERWATER} 1 time. | Besiege {GOD_UNDERWATER} 1-mal. |
 | 7300 | Slayer of {GOD_UNDERWATER} II | Bezwinger von {GOD_UNDERWATER} II |
-| 7301 | Defeat {GOD_UNDERWATER} 2 times. | Besiege {GOD_UNDERWATER} 2 Mal. |
+| 7301 | Defeat {GOD_UNDERWATER} 2 times. | Besiege {GOD_UNDERWATER} 2-mal. |

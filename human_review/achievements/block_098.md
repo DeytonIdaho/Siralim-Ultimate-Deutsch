@@ -40,26 +40,26 @@
 | 9737 | Defeat the Master of Electropods 9 times. | Besiege den Meister der Elektropoden 9-mal. |
 | 9738 | Master of Electropods X | Meister der Elektropoden X |
 | 9739 | Defeat the Master of Electropods 10 times. | Besiege den Meister der Elektropoden 10-mal. |
-| 9740 | Master of Fae I | Meister der Fae I |
-| 9741 | Defeat the Master of Fae 1 time. | Besiege den Meister der Fae 1-mal. |
-| 9742 | Master of Fae II | Meister der Fae II |
-| 9743 | Defeat the Master of Fae 2 times. | Besiege den Meister der Fae 2-mal. |
-| 9744 | Master of Fae III | Meister der Fae III |
-| 9745 | Defeat the Master of Fae 3 times. | Besiege den Meister der Fae 3-mal. |
-| 9746 | Master of Fae IV | Meister der Fae IV |
-| 9747 | Defeat the Master of Fae 4 times. | Besiege den Meister der Fae 4-mal. |
-| 9748 | Master of Fae V | Meister der Fae V |
-| 9749 | Defeat the Master of Fae 5 times. | Besiege den Meister der Fae 5-mal. |
-| 9750 | Master of Fae VI | Meister der Fae VI |
-| 9751 | Defeat the Master of Fae 6 times. | Besiege den Meister der Fae 6-mal. |
-| 9752 | Master of Fae VII | Meister der Fae VII |
-| 9753 | Defeat the Master of Fae 7 times. | Besiege den Meister der Fae 7-mal. |
-| 9754 | Master of Fae VIII | Meister der Fae VIII |
-| 9755 | Defeat the Master of Fae 8 times. | Besiege den Meister der Fae 8-mal. |
-| 9756 | Master of Fae IX | Meister der Fae IX |
-| 9757 | Defeat the Master of Fae 9 times. | Besiege den Meister der Fae 9-mal. |
-| 9758 | Master of Fae X | Meister der Fae X |
-| 9759 | Defeat the Master of Fae 10 times. | Besiege den Meister der Fae 10-mal. |
+| 9740 | Master of Fae I | Meister: Fae I |
+| 9741 | Defeat the Master of Fae 1 time. | Besiege den Meister der Rasse Fae 1-mal. |
+| 9742 | Master of Fae II | Meister: Fae II |
+| 9743 | Defeat the Master of Fae 2 times. | Besiege den Meister der Rasse Fae 2-mal. |
+| 9744 | Master of Fae III | Meister: Fae III |
+| 9745 | Defeat the Master of Fae 3 times. | Besiege den Meister der Rasse Fae 3-mal. |
+| 9746 | Master of Fae IV | Meister: Fae IV |
+| 9747 | Defeat the Master of Fae 4 times. | Besiege den Meister der Rasse Fae 4-mal. |
+| 9748 | Master of Fae V | Meister: Fae V |
+| 9749 | Defeat the Master of Fae 5 times. | Besiege den Meister der Rasse Fae 5-mal. |
+| 9750 | Master of Fae VI | Meister: Fae VI |
+| 9751 | Defeat the Master of Fae 6 times. | Besiege den Meister der Rasse Fae 6-mal. |
+| 9752 | Master of Fae VII | Meister: Fae VII |
+| 9753 | Defeat the Master of Fae 7 times. | Besiege den Meister der Rasse Fae 7-mal. |
+| 9754 | Master of Fae VIII | Meister: Fae VIII |
+| 9755 | Defeat the Master of Fae 8 times. | Besiege den Meister der Rasse Fae 8-mal. |
+| 9756 | Master of Fae IX | Meister: Fae IX |
+| 9757 | Defeat the Master of Fae 9 times. | Besiege den Meister der Rasse Fae 9-mal. |
+| 9758 | Master of Fae X | Meister: Fae X |
+| 9759 | Defeat the Master of Fae 10 times. | Besiege den Meister der Rasse Fae 10-mal. |
 | 9760 | Master of Krakens I | Meister der Kraken I |
 | 9761 | Defeat the Master of Krakens 1 time. | Besiege den Meister der Kraken 1-mal. |
 | 9762 | Master of Krakens II | Meister der Kraken II |
@@ -80,25 +80,25 @@
 | 9777 | Defeat the Master of Krakens 9 times. | Besiege den Meister der Kraken 9-mal. |
 | 9778 | Master of Krakens X | Meister der Kraken X |
 | 9779 | Defeat the Master of Krakens 10 times. | Besiege den Meister der Kraken 10-mal. |
-| 9780 | Master of Luckmantrias I | Meister der Luckmantria I |
-| 9781 | Defeat the Master of Luckmantrias 1 time. | Besiege den Meister der Luckmantria 1-mal. |
-| 9782 | Master of Luckmantrias II | Meister der Luckmantria II |
-| 9783 | Defeat the Master of Luckmantrias 2 times. | Besiege den Meister der Luckmantria 2-mal. |
-| 9784 | Master of Luckmantrias III | Meister der Luckmantria III |
-| 9785 | Defeat the Master of Luckmantrias 3 times. | Besiege den Meister der Luckmantria 3-mal. |
-| 9786 | Master of Luckmantrias IV | Meister der Luckmantria IV |
-| 9787 | Defeat the Master of Luckmantrias 4 times. | Besiege den Meister der Luckmantria 4-mal. |
-| 9788 | Master of Luckmantrias V | Meister der Luckmantria V |
-| 9789 | Defeat the Master of Luckmantrias 5 times. | Besiege den Meister der Luckmantria 5-mal. |
-| 9790 | Master of Luckmantrias VI | Meister der Luckmantria VI |
-| 9791 | Defeat the Master of Luckmantrias 6 times. | Besiege den Meister der Luckmantria 6-mal. |
-| 9792 | Master of Luckmantrias VII | Meister der Luckmantria VII |
-| 9793 | Defeat the Master of Luckmantrias 7 times. | Besiege den Meister der Luckmantria 7-mal. |
-| 9794 | Master of Luckmantrias VIII | Meister der Luckmantria VIII |
-| 9795 | Defeat the Master of Luckmantrias 8 times. | Besiege den Meister der Luckmantria 8-mal. |
-| 9796 | Master of Luckmantrias IX | Meister der Luckmantria IX |
-| 9797 | Defeat the Master of Luckmantrias 9 times. | Besiege den Meister der Luckmantria 9-mal. |
-| 9798 | Master of Luckmantrias X | Meister der Luckmantria X |
-| 9799 | Defeat the Master of Luckmantrias 10 times. | Besiege den Meister der Luckmantria 10-mal. |
-| 9800 | Master of Modrons I | Meister der Modron I |
-| 9801 | Defeat the Master of Modrons 1 time. | Besiege den Meister der Modron 1-mal. |
+| 9780 | Master of Luckmantrias I | Meister: Luckmantria I |
+| 9781 | Defeat the Master of Luckmantrias 1 time. | Besiege den Meister der Rasse Luckmantria 1-mal. |
+| 9782 | Master of Luckmantrias II | Meister: Luckmantria II |
+| 9783 | Defeat the Master of Luckmantrias 2 times. | Besiege den Meister der Rasse Luckmantria 2-mal. |
+| 9784 | Master of Luckmantrias III | Meister: Luckmantria III |
+| 9785 | Defeat the Master of Luckmantrias 3 times. | Besiege den Meister der Rasse Luckmantria 3-mal. |
+| 9786 | Master of Luckmantrias IV | Meister: Luckmantria IV |
+| 9787 | Defeat the Master of Luckmantrias 4 times. | Besiege den Meister der Rasse Luckmantria 4-mal. |
+| 9788 | Master of Luckmantrias V | Meister: Luckmantria V |
+| 9789 | Defeat the Master of Luckmantrias 5 times. | Besiege den Meister der Rasse Luckmantria 5-mal. |
+| 9790 | Master of Luckmantrias VI | Meister: Luckmantria VI |
+| 9791 | Defeat the Master of Luckmantrias 6 times. | Besiege den Meister der Rasse Luckmantria 6-mal. |
+| 9792 | Master of Luckmantrias VII | Meister: Luckmantria VII |
+| 9793 | Defeat the Master of Luckmantrias 7 times. | Besiege den Meister der Rasse Luckmantria 7-mal. |
+| 9794 | Master of Luckmantrias VIII | Meister: Luckmantria VIII |
+| 9795 | Defeat the Master of Luckmantrias 8 times. | Besiege den Meister der Rasse Luckmantria 8-mal. |
+| 9796 | Master of Luckmantrias IX | Meister: Luckmantria IX |
+| 9797 | Defeat the Master of Luckmantrias 9 times. | Besiege den Meister der Rasse Luckmantria 9-mal. |
+| 9798 | Master of Luckmantrias X | Meister: Luckmantria X |
+| 9799 | Defeat the Master of Luckmantrias 10 times. | Besiege den Meister der Rasse Luckmantria 10-mal. |
+| 9800 | Master of Modrons I | Meister: Modron I |
+| 9801 | Defeat the Master of Modrons 1 time. | Besiege den Meister der Rasse Modron 1-mal. |

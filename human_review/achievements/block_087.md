@@ -81,24 +81,24 @@
 | 8678 | Earning Vitreous | Vitreum verdienen |
 | 8679 | Unlock {RELIC_ANNELTHA} at the Reliquary. | Schalte {RELIC_ANNELTHA} im Reliquiar frei. |
 | 8680 | Slayer of {GOD_ALEXANDRIA} I | Bezwinger von {GOD_ALEXANDRIA} I |
-| 8681 | Defeat {GOD_ALEXANDRIA} 1 time. | Besiege {GOD_ALEXANDRIA} 1 Mal. |
+| 8681 | Defeat {GOD_ALEXANDRIA} 1 time. | Besiege {GOD_ALEXANDRIA} 1-mal. |
 | 8682 | Slayer of {GOD_ALEXANDRIA} II | Bezwinger von {GOD_ALEXANDRIA} II |
-| 8683 | Defeat {GOD_ALEXANDRIA} 2 times. | Besiege {GOD_ALEXANDRIA} 2 Mal. |
+| 8683 | Defeat {GOD_ALEXANDRIA} 2 times. | Besiege {GOD_ALEXANDRIA} 2-mal. |
 | 8684 | Slayer of {GOD_ALEXANDRIA} III | Bezwinger von {GOD_ALEXANDRIA} III |
-| 8685 | Defeat {GOD_ALEXANDRIA} 3 times. | Besiege {GOD_ALEXANDRIA} 3 Mal. |
+| 8685 | Defeat {GOD_ALEXANDRIA} 3 times. | Besiege {GOD_ALEXANDRIA} 3-mal. |
 | 8686 | Slayer of {GOD_ALEXANDRIA} IV | Bezwinger von {GOD_ALEXANDRIA} IV |
-| 8687 | Defeat {GOD_ALEXANDRIA} 4 times. | Besiege {GOD_ALEXANDRIA} 4 Mal. |
+| 8687 | Defeat {GOD_ALEXANDRIA} 4 times. | Besiege {GOD_ALEXANDRIA} 4-mal. |
 | 8688 | Slayer of {GOD_ALEXANDRIA} V | Bezwinger von {GOD_ALEXANDRIA} V |
-| 8689 | Defeat {GOD_ALEXANDRIA} 5 times. | Besiege {GOD_ALEXANDRIA} 5 Mal. |
+| 8689 | Defeat {GOD_ALEXANDRIA} 5 times. | Besiege {GOD_ALEXANDRIA} 5-mal. |
 | 8690 | Slayer of {GOD_ALEXANDRIA} VI | Bezwinger von {GOD_ALEXANDRIA} VI |
-| 8691 | Defeat {GOD_ALEXANDRIA} 6 times. | Besiege {GOD_ALEXANDRIA} 6 Mal. |
+| 8691 | Defeat {GOD_ALEXANDRIA} 6 times. | Besiege {GOD_ALEXANDRIA} 6-mal. |
 | 8692 | Slayer of {GOD_ALEXANDRIA} VII | Bezwinger von {GOD_ALEXANDRIA} VII |
-| 8693 | Defeat {GOD_ALEXANDRIA} 7 times. | Besiege {GOD_ALEXANDRIA} 7 Mal. |
+| 8693 | Defeat {GOD_ALEXANDRIA} 7 times. | Besiege {GOD_ALEXANDRIA} 7-mal. |
 | 8694 | Slayer of {GOD_ALEXANDRIA} VIII | Bezwinger von {GOD_ALEXANDRIA} VIII |
-| 8695 | Defeat {GOD_ALEXANDRIA} 8 times. | Besiege {GOD_ALEXANDRIA} 8 Mal. |
+| 8695 | Defeat {GOD_ALEXANDRIA} 8 times. | Besiege {GOD_ALEXANDRIA} 8-mal. |
 | 8696 | Slayer of {GOD_ALEXANDRIA} IX | Bezwinger von {GOD_ALEXANDRIA} IX |
-| 8697 | Defeat {GOD_ALEXANDRIA} 9 times. | Besiege {GOD_ALEXANDRIA} 9 Mal. |
+| 8697 | Defeat {GOD_ALEXANDRIA} 9 times. | Besiege {GOD_ALEXANDRIA} 9-mal. |
 | 8698 | Slayer of {GOD_ALEXANDRIA} X | Bezwinger von {GOD_ALEXANDRIA} X |
-| 8699 | Defeat {GOD_ALEXANDRIA} 10 times. | Besiege {GOD_ALEXANDRIA} 10 Mal. |
+| 8699 | Defeat {GOD_ALEXANDRIA} 10 times. | Besiege {GOD_ALEXANDRIA} 10-mal. |
 | 8700 | Slayer of {GOD_ANNELTHA} I | Bezwinger von {GOD_ANNELTHA} I |
-| 8701 | Defeat {GOD_ANNELTHA} 1 time. | Besiege {GOD_ANNELTHA} 1 Mal. |
+| 8701 | Defeat {GOD_ANNELTHA} 1 time. | Besiege {GOD_ANNELTHA} 1-mal. |

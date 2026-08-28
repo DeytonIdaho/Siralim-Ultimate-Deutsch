@@ -32,36 +32,36 @@
 | 10529 | Defeat the Master of Elementasaurs 8 times. | Besiege den Meister der Elementasaurier 8-mal. |
 | 10530 | Defeat the Master of Elementasaurs 9 times. | Besiege den Meister der Elementasaurier 9-mal. |
 | 10531 | Defeat the Master of Elementasaurs 10 times. | Besiege den Meister der Elementasaurier 10-mal. |
-| 10532 | Defeat the Master of Mirelings 1 time. | Besiege den Meister der Mireling 1-mal. |
-| 10533 | Defeat the Master of Mirelings 2 times. | Besiege den Meister der Mireling 2-mal. |
-| 10534 | Defeat the Master of Mirelings 3 times. | Besiege den Meister der Mireling 3-mal. |
-| 10535 | Defeat the Master of Mirelings 4 times. | Besiege den Meister der Mireling 4-mal. |
-| 10536 | Defeat the Master of Mirelings 5 times. | Besiege den Meister der Mireling 5-mal. |
-| 10537 | Defeat the Master of Mirelings 6 times. | Besiege den Meister der Mireling 6-mal. |
-| 10538 | Defeat the Master of Mirelings 7 times. | Besiege den Meister der Mireling 7-mal. |
-| 10539 | Defeat the Master of Mirelings 8 times. | Besiege den Meister der Mireling 8-mal. |
-| 10540 | Defeat the Master of Mirelings 9 times. | Besiege den Meister der Mireling 9-mal. |
-| 10541 | Defeat the Master of Mirelings 10 times. | Besiege den Meister der Mireling 10-mal. |
-| 10542 | Defeat the Master of Underdwellers 1 time. | Besiege den Meister der Unterirdische 1-mal. |
-| 10543 | Defeat the Master of Underdwellers 2 times. | Besiege den Meister der Unterirdische 2-mal. |
-| 10544 | Defeat the Master of Underdwellers 3 times. | Besiege den Meister der Unterirdische 3-mal. |
-| 10545 | Defeat the Master of Underdwellers 4 times. | Besiege den Meister der Unterirdische 4-mal. |
-| 10546 | Defeat the Master of Underdwellers 5 times. | Besiege den Meister der Unterirdische 5-mal. |
-| 10547 | Defeat the Master of Underdwellers 6 times. | Besiege den Meister der Unterirdische 6-mal. |
-| 10548 | Defeat the Master of Underdwellers 7 times. | Besiege den Meister der Unterirdische 7-mal. |
-| 10549 | Defeat the Master of Underdwellers 8 times. | Besiege den Meister der Unterirdische 8-mal. |
-| 10550 | Defeat the Master of Underdwellers 9 times. | Besiege den Meister der Unterirdische 9-mal. |
-| 10551 | Defeat the Master of Underdwellers 10 times. | Besiege den Meister der Unterirdische 10-mal. |
-| 10552 | Defeat the Master of Eggxotics 1 time. | Besiege den Meister der Eggxotic 1-mal. |
-| 10553 | Defeat the Master of Eggxotics 2 times. | Besiege den Meister der Eggxotic 2-mal. |
-| 10554 | Defeat the Master of Eggxotics 3 times. | Besiege den Meister der Eggxotic 3-mal. |
-| 10555 | Defeat the Master of Eggxotics 4 times. | Besiege den Meister der Eggxotic 4-mal. |
-| 10556 | Defeat the Master of Eggxotics 5 times. | Besiege den Meister der Eggxotic 5-mal. |
-| 10557 | Defeat the Master of Eggxotics 6 times. | Besiege den Meister der Eggxotic 6-mal. |
-| 10558 | Defeat the Master of Eggxotics 7 times. | Besiege den Meister der Eggxotic 7-mal. |
-| 10559 | Defeat the Master of Eggxotics 8 times. | Besiege den Meister der Eggxotic 8-mal. |
-| 10560 | Defeat the Master of Eggxotics 9 times. | Besiege den Meister der Eggxotic 9-mal. |
-| 10561 | Defeat the Master of Eggxotics 10 times. | Besiege den Meister der Eggxotic 10-mal. |
+| 10532 | Defeat the Master of Mirelings 1 time. | Besiege den Meister der Rasse Mireling 1-mal. |
+| 10533 | Defeat the Master of Mirelings 2 times. | Besiege den Meister der Rasse Mireling 2-mal. |
+| 10534 | Defeat the Master of Mirelings 3 times. | Besiege den Meister der Rasse Mireling 3-mal. |
+| 10535 | Defeat the Master of Mirelings 4 times. | Besiege den Meister der Rasse Mireling 4-mal. |
+| 10536 | Defeat the Master of Mirelings 5 times. | Besiege den Meister der Rasse Mireling 5-mal. |
+| 10537 | Defeat the Master of Mirelings 6 times. | Besiege den Meister der Rasse Mireling 6-mal. |
+| 10538 | Defeat the Master of Mirelings 7 times. | Besiege den Meister der Rasse Mireling 7-mal. |
+| 10539 | Defeat the Master of Mirelings 8 times. | Besiege den Meister der Rasse Mireling 8-mal. |
+| 10540 | Defeat the Master of Mirelings 9 times. | Besiege den Meister der Rasse Mireling 9-mal. |
+| 10541 | Defeat the Master of Mirelings 10 times. | Besiege den Meister der Rasse Mireling 10-mal. |
+| 10542 | Defeat the Master of Underdwellers 1 time. | Besiege den Meister der Unterirdischen 1-mal. |
+| 10543 | Defeat the Master of Underdwellers 2 times. | Besiege den Meister der Unterirdischen 2-mal. |
+| 10544 | Defeat the Master of Underdwellers 3 times. | Besiege den Meister der Unterirdischen 3-mal. |
+| 10545 | Defeat the Master of Underdwellers 4 times. | Besiege den Meister der Unterirdischen 4-mal. |
+| 10546 | Defeat the Master of Underdwellers 5 times. | Besiege den Meister der Unterirdischen 5-mal. |
+| 10547 | Defeat the Master of Underdwellers 6 times. | Besiege den Meister der Unterirdischen 6-mal. |
+| 10548 | Defeat the Master of Underdwellers 7 times. | Besiege den Meister der Unterirdischen 7-mal. |
+| 10549 | Defeat the Master of Underdwellers 8 times. | Besiege den Meister der Unterirdischen 8-mal. |
+| 10550 | Defeat the Master of Underdwellers 9 times. | Besiege den Meister der Unterirdischen 9-mal. |
+| 10551 | Defeat the Master of Underdwellers 10 times. | Besiege den Meister der Unterirdischen 10-mal. |
+| 10552 | Defeat the Master of Eggxotics 1 time. | Besiege den Meister der Rasse Eggxotic 1-mal. |
+| 10553 | Defeat the Master of Eggxotics 2 times. | Besiege den Meister der Rasse Eggxotic 2-mal. |
+| 10554 | Defeat the Master of Eggxotics 3 times. | Besiege den Meister der Rasse Eggxotic 3-mal. |
+| 10555 | Defeat the Master of Eggxotics 4 times. | Besiege den Meister der Rasse Eggxotic 4-mal. |
+| 10556 | Defeat the Master of Eggxotics 5 times. | Besiege den Meister der Rasse Eggxotic 5-mal. |
+| 10557 | Defeat the Master of Eggxotics 6 times. | Besiege den Meister der Rasse Eggxotic 6-mal. |
+| 10558 | Defeat the Master of Eggxotics 7 times. | Besiege den Meister der Rasse Eggxotic 7-mal. |
+| 10559 | Defeat the Master of Eggxotics 8 times. | Besiege den Meister der Rasse Eggxotic 8-mal. |
+| 10560 | Defeat the Master of Eggxotics 9 times. | Besiege den Meister der Rasse Eggxotic 9-mal. |
+| 10561 | Defeat the Master of Eggxotics 10 times. | Besiege den Meister der Rasse Eggxotic 10-mal. |
 | 10562 | Defeat the Master of Denizens 1 time. | Besiege den Meister der Bewohner 1-mal. |
 | 10563 | Defeat the Master of Denizens 2 times. | Besiege den Meister der Bewohner 2-mal. |
 | 10564 | Defeat the Master of Denizens 3 times. | Besiege den Meister der Bewohner 3-mal. |

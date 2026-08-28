@@ -3,23 +3,23 @@
 | Row | English | German |
 |---:|---|---|
 | 9202 | Donation to T'mere M'rgo II | Spende an T'mere M'rgo II |
-| 9203 | Donate resources at T'mere M'rgo's altar 20 times. | Spende 20 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9203 | Donate resources at T'mere M'rgo's altar 20 times. | Spende 20-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9204 | Donation to T'mere M'rgo III | Spende an T'mere M'rgo III |
-| 9205 | Donate resources at T'mere M'rgo's altar 30 times. | Spende 30 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9205 | Donate resources at T'mere M'rgo's altar 30 times. | Spende 30-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9206 | Donation to T'mere M'rgo IV | Spende an T'mere M'rgo IV |
-| 9207 | Donate resources at T'mere M'rgo's altar 40 times. | Spende 40 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9207 | Donate resources at T'mere M'rgo's altar 40 times. | Spende 40-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9208 | Donation to T'mere M'rgo V | Spende an T'mere M'rgo V |
-| 9209 | Donate resources at T'mere M'rgo's altar 50 times. | Spende 50 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9209 | Donate resources at T'mere M'rgo's altar 50 times. | Spende 50-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9210 | Donation to T'mere M'rgo VI | Spende an T'mere M'rgo VI |
-| 9211 | Donate resources at T'mere M'rgo's altar 60 times. | Spende 60 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9211 | Donate resources at T'mere M'rgo's altar 60 times. | Spende 60-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9212 | Donation to T'mere M'rgo VII | Spende an T'mere M'rgo VII |
-| 9213 | Donate resources at T'mere M'rgo's altar 70 times. | Spende 70 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9213 | Donate resources at T'mere M'rgo's altar 70 times. | Spende 70-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9214 | Donation to T'mere M'rgo VIII | Spende an T'mere M'rgo VIII |
-| 9215 | Donate resources at T'mere M'rgo's altar 80 times. | Spende 80 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9215 | Donate resources at T'mere M'rgo's altar 80 times. | Spende 80-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9216 | Donation to T'mere M'rgo IX | Spende an T'mere M'rgo IX |
-| 9217 | Donate resources at T'mere M'rgo's altar 90 times. | Spende 90 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9217 | Donate resources at T'mere M'rgo's altar 90 times. | Spende 90-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9218 | Donation to T'mere M'rgo X | Spende an T'mere M'rgo X |
-| 9219 | Donate resources at T'mere M'rgo's altar 100 times. | Spende 100 Mal Ressourcen am Altar von T'mere M'rgo. |
+| 9219 | Donate resources at T'mere M'rgo's altar 100 times. | Spende 100-mal Ressourcen am Altar von T'mere M'rgo. |
 | 9220 | Favored by Alexandria I | Begünstigt von Alexandria I |
 | 9221 | Reach Favor Rank 5 with Alexandria. | Erreiche Gunstrang 5 bei Alexandria. |
 | 9222 | Favored by Alexandria II | Begünstigt von Alexandria II |

@@ -80,25 +80,25 @@
 | 9577 | Empower {RELIC_ANNELTHA} up to rank 90. | Verstärke {RELIC_ANNELTHA} bis Rang 90. |
 | 9578 | Empowering Vitreous X | Ermächtigendes Vitreous X |
 | 9579 | Empower {RELIC_ANNELTHA} up to rank 100. | Verstärke {RELIC_ANNELTHA} bis Rang 100. |
-| 9580 | Master of Godspawns I | Meister der Gottesbrut I |
-| 9581 | Defeat the Master of Godspawns 1 time. | Besiege den Meister der Gottesbrut 1-mal. |
-| 9582 | Master of Godspawns II | Meister der Gottesbrut II |
-| 9583 | Defeat the Master of Godspawns 2 times. | Besiege den Meister der Gottesbrut 2-mal. |
-| 9584 | Master of Godspawns III | Meister der Gottesbrut III |
-| 9585 | Defeat the Master of Godspawns 3 times. | Besiege den Meister der Gottesbrut 3-mal. |
-| 9586 | Master of Godspawns IV | Meister der Gottesbrut IV |
-| 9587 | Defeat the Master of Godspawns 4 times. | Besiege den Meister der Gottesbrut 4-mal. |
-| 9588 | Master of Godspawns V | Meister der Gottesbrut V |
-| 9589 | Defeat the Master of Godspawns 5 times. | Besiege den Meister der Gottesbrut 5-mal. |
-| 9590 | Master of Godspawns VI | Meister der Gottesbrut VI |
-| 9591 | Defeat the Master of Godspawns 6 times. | Besiege den Meister der Gottesbrut 6-mal. |
-| 9592 | Master of Godspawns VII | Meister der Gottesbrut VII |
-| 9593 | Defeat the Master of Godspawns 7 times. | Besiege den Meister der Gottesbrut 7-mal. |
-| 9594 | Master of Godspawns VIII | Meister der Gottesbrut VIII |
-| 9595 | Defeat the Master of Godspawns 8 times. | Besiege den Meister der Gottesbrut 8-mal. |
-| 9596 | Master of Godspawns IX | Meister der Gottesbrut IX |
-| 9597 | Defeat the Master of Godspawns 9 times. | Besiege den Meister der Gottesbrut 9-mal. |
-| 9598 | Master of Godspawns X | Meister der Gottesbrut X |
-| 9599 | Defeat the Master of Godspawns 10 times. | Besiege den Meister der Gottesbrut 10-mal. |
+| 9580 | Master of Godspawns I | Meister: Gottesbrut I |
+| 9581 | Defeat the Master of Godspawns 1 time. | Besiege den Meister der Rasse Gottesbrut 1-mal. |
+| 9582 | Master of Godspawns II | Meister: Gottesbrut II |
+| 9583 | Defeat the Master of Godspawns 2 times. | Besiege den Meister der Rasse Gottesbrut 2-mal. |
+| 9584 | Master of Godspawns III | Meister: Gottesbrut III |
+| 9585 | Defeat the Master of Godspawns 3 times. | Besiege den Meister der Rasse Gottesbrut 3-mal. |
+| 9586 | Master of Godspawns IV | Meister: Gottesbrut IV |
+| 9587 | Defeat the Master of Godspawns 4 times. | Besiege den Meister der Rasse Gottesbrut 4-mal. |
+| 9588 | Master of Godspawns V | Meister: Gottesbrut V |
+| 9589 | Defeat the Master of Godspawns 5 times. | Besiege den Meister der Rasse Gottesbrut 5-mal. |
+| 9590 | Master of Godspawns VI | Meister: Gottesbrut VI |
+| 9591 | Defeat the Master of Godspawns 6 times. | Besiege den Meister der Rasse Gottesbrut 6-mal. |
+| 9592 | Master of Godspawns VII | Meister: Gottesbrut VII |
+| 9593 | Defeat the Master of Godspawns 7 times. | Besiege den Meister der Rasse Gottesbrut 7-mal. |
+| 9594 | Master of Godspawns VIII | Meister: Gottesbrut VIII |
+| 9595 | Defeat the Master of Godspawns 8 times. | Besiege den Meister der Rasse Gottesbrut 8-mal. |
+| 9596 | Master of Godspawns IX | Meister: Gottesbrut IX |
+| 9597 | Defeat the Master of Godspawns 9 times. | Besiege den Meister der Rasse Gottesbrut 9-mal. |
+| 9598 | Master of Godspawns X | Meister: Gottesbrut X |
+| 9599 | Defeat the Master of Godspawns 10 times. | Besiege den Meister der Rasse Gottesbrut 10-mal. |
 | 9600 | Master of Animations I | Meister der Animationen I |
 | 9601 | Defeat the Master of Animations 1 time. | Besiege den Meister der Animationen 1-mal. |

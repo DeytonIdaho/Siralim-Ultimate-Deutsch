@@ -3,63 +3,63 @@
 | Row | English | German |
 |---:|---|---|
 | 8802 | Slayer of {GOD_ROBO} II | Bezwinger von {GOD_ROBO} II |
-| 8803 | Defeat {GOD_ROBO} 2 times. | Besiege {GOD_ROBO} 2 Mal. |
+| 8803 | Defeat {GOD_ROBO} 2 times. | Besiege {GOD_ROBO} 2-mal. |
 | 8804 | Slayer of {GOD_ROBO} III | Bezwinger von {GOD_ROBO} III |
-| 8805 | Defeat {GOD_ROBO} 3 times. | Besiege {GOD_ROBO} 3 Mal. |
+| 8805 | Defeat {GOD_ROBO} 3 times. | Besiege {GOD_ROBO} 3-mal. |
 | 8806 | Slayer of {GOD_ROBO} IV | Bezwinger von {GOD_ROBO} IV |
-| 8807 | Defeat {GOD_ROBO} 4 times. | Besiege {GOD_ROBO} 4 Mal. |
+| 8807 | Defeat {GOD_ROBO} 4 times. | Besiege {GOD_ROBO} 4-mal. |
 | 8808 | Slayer of {GOD_ROBO} V | Bezwinger von {GOD_ROBO} V |
-| 8809 | Defeat {GOD_ROBO} 5 times. | Besiege {GOD_ROBO} 5 Mal. |
+| 8809 | Defeat {GOD_ROBO} 5 times. | Besiege {GOD_ROBO} 5-mal. |
 | 8810 | Slayer of {GOD_ROBO} VI | Bezwinger von {GOD_ROBO} VI |
-| 8811 | Defeat {GOD_ROBO} 6 times. | Besiege {GOD_ROBO} 6 Mal. |
+| 8811 | Defeat {GOD_ROBO} 6 times. | Besiege {GOD_ROBO} 6-mal. |
 | 8812 | Slayer of {GOD_ROBO} VII | Bezwinger von {GOD_ROBO} VII |
-| 8813 | Defeat {GOD_ROBO} 7 times. | Besiege {GOD_ROBO} 7 Mal. |
+| 8813 | Defeat {GOD_ROBO} 7 times. | Besiege {GOD_ROBO} 7-mal. |
 | 8814 | Slayer of {GOD_ROBO} VIII | Bezwinger von {GOD_ROBO} VIII |
-| 8815 | Defeat {GOD_ROBO} 8 times. | Besiege {GOD_ROBO} 8 Mal. |
+| 8815 | Defeat {GOD_ROBO} 8 times. | Besiege {GOD_ROBO} 8-mal. |
 | 8816 | Slayer of {GOD_ROBO} IX | Bezwinger von {GOD_ROBO} IX |
-| 8817 | Defeat {GOD_ROBO} 9 times. | Besiege {GOD_ROBO} 9 Mal. |
+| 8817 | Defeat {GOD_ROBO} 9 times. | Besiege {GOD_ROBO} 9-mal. |
 | 8818 | Slayer of {GOD_ROBO} X | Bezwinger von {GOD_ROBO} X |
-| 8819 | Defeat {GOD_ROBO} 10 times. | Besiege {GOD_ROBO} 10 Mal. |
+| 8819 | Defeat {GOD_ROBO} 10 times. | Besiege {GOD_ROBO} 10-mal. |
 | 8820 | Slayer of {GOD_SHALLAN} I | Bezwinger von {GOD_SHALLAN} I |
-| 8821 | Defeat {GOD_SHALLAN} 1 time. | Besiege {GOD_SHALLAN} 1 Mal. |
+| 8821 | Defeat {GOD_SHALLAN} 1 time. | Besiege {GOD_SHALLAN} 1-mal. |
 | 8822 | Slayer of {GOD_SHALLAN} II | Bezwinger von {GOD_SHALLAN} II |
-| 8823 | Defeat {GOD_SHALLAN} 2 times. | Besiege {GOD_SHALLAN} 2 Mal. |
+| 8823 | Defeat {GOD_SHALLAN} 2 times. | Besiege {GOD_SHALLAN} 2-mal. |
 | 8824 | Slayer of {GOD_SHALLAN} III | Bezwinger von {GOD_SHALLAN} III |
-| 8825 | Defeat {GOD_SHALLAN} 3 times. | Besiege {GOD_SHALLAN} 3 Mal. |
+| 8825 | Defeat {GOD_SHALLAN} 3 times. | Besiege {GOD_SHALLAN} 3-mal. |
 | 8826 | Slayer of {GOD_SHALLAN} IV | Bezwinger von {GOD_SHALLAN} IV |
-| 8827 | Defeat {GOD_SHALLAN} 4 times. | Besiege {GOD_SHALLAN} 4 Mal. |
+| 8827 | Defeat {GOD_SHALLAN} 4 times. | Besiege {GOD_SHALLAN} 4-mal. |
 | 8828 | Slayer of {GOD_SHALLAN} V | Bezwinger von {GOD_SHALLAN} V |
-| 8829 | Defeat {GOD_SHALLAN} 5 times. | Besiege {GOD_SHALLAN} 5 Mal. |
+| 8829 | Defeat {GOD_SHALLAN} 5 times. | Besiege {GOD_SHALLAN} 5-mal. |
 | 8830 | Slayer of {GOD_SHALLAN} VI | Bezwinger von {GOD_SHALLAN} VI |
-| 8831 | Defeat {GOD_SHALLAN} 6 times. | Besiege {GOD_SHALLAN} 6 Mal. |
+| 8831 | Defeat {GOD_SHALLAN} 6 times. | Besiege {GOD_SHALLAN} 6-mal. |
 | 8832 | Slayer of {GOD_SHALLAN} VII | Bezwinger von {GOD_SHALLAN} VII |
-| 8833 | Defeat {GOD_SHALLAN} 7 times. | Besiege {GOD_SHALLAN} 7 Mal. |
+| 8833 | Defeat {GOD_SHALLAN} 7 times. | Besiege {GOD_SHALLAN} 7-mal. |
 | 8834 | Slayer of {GOD_SHALLAN} VIII | Bezwinger von {GOD_SHALLAN} VIII |
-| 8835 | Defeat {GOD_SHALLAN} 8 times. | Besiege {GOD_SHALLAN} 8 Mal. |
+| 8835 | Defeat {GOD_SHALLAN} 8 times. | Besiege {GOD_SHALLAN} 8-mal. |
 | 8836 | Slayer of {GOD_SHALLAN} IX | Bezwinger von {GOD_SHALLAN} IX |
-| 8837 | Defeat {GOD_SHALLAN} 9 times. | Besiege {GOD_SHALLAN} 9 Mal. |
+| 8837 | Defeat {GOD_SHALLAN} 9 times. | Besiege {GOD_SHALLAN} 9-mal. |
 | 8838 | Slayer of {GOD_SHALLAN} X | Bezwinger von {GOD_SHALLAN} X |
-| 8839 | Defeat {GOD_SHALLAN} 10 times. | Besiege {GOD_SHALLAN} 10 Mal. |
+| 8839 | Defeat {GOD_SHALLAN} 10 times. | Besiege {GOD_SHALLAN} 10-mal. |
 | 8840 | Slayer of {GOD_TMEREMRGO} I | Bezwinger von {GOD_TMEREMRGO} I |
-| 8841 | Defeat {GOD_TMEREMRGO} 1 time. | Besiege {GOD_TMEREMRGO} 1 Mal. |
+| 8841 | Defeat {GOD_TMEREMRGO} 1 time. | Besiege {GOD_TMEREMRGO} 1-mal. |
 | 8842 | Slayer of {GOD_TMEREMRGO} II | Bezwinger von {GOD_TMEREMRGO} II |
-| 8843 | Defeat {GOD_TMEREMRGO} 2 times. | Besiege {GOD_TMEREMRGO} 2 Mal. |
+| 8843 | Defeat {GOD_TMEREMRGO} 2 times. | Besiege {GOD_TMEREMRGO} 2-mal. |
 | 8844 | Slayer of {GOD_TMEREMRGO} III | Bezwinger von {GOD_TMEREMRGO} III |
-| 8845 | Defeat {GOD_TMEREMRGO} 3 times. | Besiege {GOD_TMEREMRGO} 3 Mal. |
+| 8845 | Defeat {GOD_TMEREMRGO} 3 times. | Besiege {GOD_TMEREMRGO} 3-mal. |
 | 8846 | Slayer of {GOD_TMEREMRGO} IV | Bezwinger von {GOD_TMEREMRGO} IV |
-| 8847 | Defeat {GOD_TMEREMRGO} 4 times. | Besiege {GOD_TMEREMRGO} 4 Mal. |
+| 8847 | Defeat {GOD_TMEREMRGO} 4 times. | Besiege {GOD_TMEREMRGO} 4-mal. |
 | 8848 | Slayer of {GOD_TMEREMRGO} V | Bezwinger von {GOD_TMEREMRGO} V |
-| 8849 | Defeat {GOD_TMEREMRGO} 5 times. | Besiege {GOD_TMEREMRGO} 5 Mal. |
+| 8849 | Defeat {GOD_TMEREMRGO} 5 times. | Besiege {GOD_TMEREMRGO} 5-mal. |
 | 8850 | Slayer of {GOD_TMEREMRGO} VI | Bezwinger von {GOD_TMEREMRGO} VI |
-| 8851 | Defeat {GOD_TMEREMRGO} 6 times. | Besiege {GOD_TMEREMRGO} 6 Mal. |
+| 8851 | Defeat {GOD_TMEREMRGO} 6 times. | Besiege {GOD_TMEREMRGO} 6-mal. |
 | 8852 | Slayer of {GOD_TMEREMRGO} VII | Bezwinger von {GOD_TMEREMRGO} VII |
-| 8853 | Defeat {GOD_TMEREMRGO} 7 times. | Besiege {GOD_TMEREMRGO} 7 Mal. |
+| 8853 | Defeat {GOD_TMEREMRGO} 7 times. | Besiege {GOD_TMEREMRGO} 7-mal. |
 | 8854 | Slayer of {GOD_TMEREMRGO} VIII | Bezwinger von {GOD_TMEREMRGO} VIII |
-| 8855 | Defeat {GOD_TMEREMRGO} 8 times. | Besiege {GOD_TMEREMRGO} 8 Mal. |
+| 8855 | Defeat {GOD_TMEREMRGO} 8 times. | Besiege {GOD_TMEREMRGO} 8-mal. |
 | 8856 | Slayer of {GOD_TMEREMRGO} IX | Bezwinger von {GOD_TMEREMRGO} IX |
-| 8857 | Defeat {GOD_TMEREMRGO} 9 times. | Besiege {GOD_TMEREMRGO} 9 Mal. |
+| 8857 | Defeat {GOD_TMEREMRGO} 9 times. | Besiege {GOD_TMEREMRGO} 9-mal. |
 | 8858 | Slayer of {GOD_TMEREMRGO} X | Bezwinger von {GOD_TMEREMRGO} X |
-| 8859 | Defeat {GOD_TMEREMRGO} 10 times. | Besiege {GOD_TMEREMRGO} 10 Mal. |
+| 8859 | Defeat {GOD_TMEREMRGO} 10 times. | Besiege {GOD_TMEREMRGO} 10-mal. |
 | 8860 | Gate of the Gods: {GOD_ALEXANDRIA} I | Tor der Götter: {GOD_ALEXANDRIA} I |
 | 8861 | Defeat {GOD_ALEXANDRIA} at difficulty level 5 or higher at the Gate of the Gods. | Besiege {GOD_ALEXANDRIA} auf Schwierigkeitsstufe 5 oder höher am Tor der Götter. |
 | 8862 | Gate of the Gods: {GOD_ALEXANDRIA} II | Tor der Götter: {GOD_ALEXANDRIA} II |

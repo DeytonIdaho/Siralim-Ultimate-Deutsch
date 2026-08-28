@@ -2,24 +2,24 @@
 
 | Row | English | German |
 |---:|---|---|
-| 9902 | Master of Uraloses II | Meister der Uralos II |
-| 9903 | Defeat the Master of Uraloses 2 times. | Besiege den Meister der Uralos 2-mal. |
-| 9904 | Master of Uraloses III | Meister der Uralos III |
-| 9905 | Defeat the Master of Uraloses 3 times. | Besiege den Meister der Uralos 3-mal. |
-| 9906 | Master of Uraloses IV | Meister der Uralos IV |
-| 9907 | Defeat the Master of Uraloses 4 times. | Besiege den Meister der Uralos 4-mal. |
-| 9908 | Master of Uraloses V | Meister der Uralos V |
-| 9909 | Defeat the Master of Uraloses 5 times. | Besiege den Meister der Uralos 5-mal. |
-| 9910 | Master of Uraloses VI | Meister der Uralos VI |
-| 9911 | Defeat the Master of Uraloses 6 times. | Besiege den Meister der Uralos 6-mal. |
-| 9912 | Master of Uraloses VII | Meister der Uralos VII |
-| 9913 | Defeat the Master of Uraloses 7 times. | Besiege den Meister der Uralos 7-mal. |
-| 9914 | Master of Uraloses VIII | Meister der Uralos VIII |
-| 9915 | Defeat the Master of Uraloses 8 times. | Besiege den Meister der Uralos 8-mal. |
-| 9916 | Master of Uraloses IX | Meister der Uralos IX |
-| 9917 | Defeat the Master of Uraloses 9 times. | Besiege den Meister der Uralos 9-mal. |
-| 9918 | Master of Uraloses X | Meister der Uralos X |
-| 9919 | Defeat the Master of Uraloses 10 times. | Besiege den Meister der Uralos 10-mal. |
+| 9902 | Master of Uraloses II | Meister: Uralos II |
+| 9903 | Defeat the Master of Uraloses 2 times. | Besiege den Meister der Rasse Uralos 2-mal. |
+| 9904 | Master of Uraloses III | Meister: Uralos III |
+| 9905 | Defeat the Master of Uraloses 3 times. | Besiege den Meister der Rasse Uralos 3-mal. |
+| 9906 | Master of Uraloses IV | Meister: Uralos IV |
+| 9907 | Defeat the Master of Uraloses 4 times. | Besiege den Meister der Rasse Uralos 4-mal. |
+| 9908 | Master of Uraloses V | Meister: Uralos V |
+| 9909 | Defeat the Master of Uraloses 5 times. | Besiege den Meister der Rasse Uralos 5-mal. |
+| 9910 | Master of Uraloses VI | Meister: Uralos VI |
+| 9911 | Defeat the Master of Uraloses 6 times. | Besiege den Meister der Rasse Uralos 6-mal. |
+| 9912 | Master of Uraloses VII | Meister: Uralos VII |
+| 9913 | Defeat the Master of Uraloses 7 times. | Besiege den Meister der Rasse Uralos 7-mal. |
+| 9914 | Master of Uraloses VIII | Meister: Uralos VIII |
+| 9915 | Defeat the Master of Uraloses 8 times. | Besiege den Meister der Rasse Uralos 8-mal. |
+| 9916 | Master of Uraloses IX | Meister: Uralos IX |
+| 9917 | Defeat the Master of Uraloses 9 times. | Besiege den Meister der Rasse Uralos 9-mal. |
+| 9918 | Master of Uraloses X | Meister: Uralos X |
+| 9919 | Defeat the Master of Uraloses 10 times. | Besiege den Meister der Rasse Uralos 10-mal. |
 | 9920 | Master of Warhogs I | Meister der Kriegseber I |
 | 9921 | Defeat the Master of Warhogs 1 time. | Besiege den Meister der Kriegseber 1-mal. |
 | 9922 | Master of Warhogs II | Meister der Kriegseber II |

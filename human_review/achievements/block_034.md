@@ -79,26 +79,26 @@
 | 3376 | Size Matters | Größe zählt |
 | 3377 | Expand the size of your castle. | Erweitere die Größe deines Schlosses. |
 | 3378 | Slayer of Kiichi I | Bezwinger von Kiichi I |
-| 3379 | Defeat Kiichi as a Nether Boss 1 time. | Besiege Kiichi als Nether-Boss 1 Mal. |
+| 3379 | Defeat Kiichi as a Nether Boss 1 time. | Besiege Kiichi as a Nether Boss 1-mal. |
 | 3380 | Slayer of Kiichi II | Bezwinger von Kiichi II |
-| 3381 | Defeat Kiichi as a Nether Boss 2 times. | Besiege Kiichi 2 Mal als Nether-Boss. |
+| 3381 | Defeat Kiichi as a Nether Boss 2 times. | Besiege Kiichi as a Nether Boss 2-mal. |
 | 3382 | Slayer of Kiichi III | Bezwinger von Kiichi III |
-| 3383 | Defeat Kiichi as a Nether Boss 3 times. | Besiege Kiichi 3 Mal als Nether-Boss. |
+| 3383 | Defeat Kiichi as a Nether Boss 3 times. | Besiege Kiichi as a Nether Boss 3-mal. |
 | 3384 | Slayer of Kiichi IV | Bezwinger von Kiichi IV |
-| 3385 | Defeat Kiichi as a Nether Boss 4 times. | Besiege Kiichi 4 Mal als Nether-Boss. |
+| 3385 | Defeat Kiichi as a Nether Boss 4 times. | Besiege Kiichi as a Nether Boss 4-mal. |
 | 3386 | Slayer of Kiichi V | Bezwinger von Kiichi V |
-| 3387 | Defeat Kiichi as a Nether Boss 5 times. | Besiege Kiichi 5 Mal als Nether-Boss. |
+| 3387 | Defeat Kiichi as a Nether Boss 5 times. | Besiege Kiichi as a Nether Boss 5-mal. |
 | 3388 | Slayer of Kiichi VI | Bezwinger von Kiichi VI |
-| 3389 | Defeat Kiichi as a Nether Boss 6 times. | Besiege Kiichi 6 Mal als Nether-Boss. |
+| 3389 | Defeat Kiichi as a Nether Boss 6 times. | Besiege Kiichi as a Nether Boss 6-mal. |
 | 3390 | Slayer of Kiichi VII | Bezwinger von Kiichi VII |
-| 3391 | Defeat Kiichi as a Nether Boss 7 times. | Besiege Kiichi 7 Mal als Nether-Boss. |
+| 3391 | Defeat Kiichi as a Nether Boss 7 times. | Besiege Kiichi as a Nether Boss 7-mal. |
 | 3392 | Slayer of Kiichi VIII | Bezwinger von Kiichi VIII |
-| 3393 | Defeat Kiichi as a Nether Boss 8 times. | Besiege Kiichi 8 Mal als Nether-Boss. |
+| 3393 | Defeat Kiichi as a Nether Boss 8 times. | Besiege Kiichi as a Nether Boss 8-mal. |
 | 3394 | Slayer of Kiichi IX | Bezwinger von Kiichi IX |
-| 3395 | Defeat Kiichi as a Nether Boss 9 times. | Besiege Kiichi 9 Mal als Nether-Boss. |
+| 3395 | Defeat Kiichi as a Nether Boss 9 times. | Besiege Kiichi as a Nether Boss 9-mal. |
 | 3396 | Slayer of Kiichi X | Bezwinger von Kiichi X |
-| 3397 | Defeat Kiichi as a Nether Boss 10 times. | Besiege Kiichi 10 Mal als Nether-Boss. |
+| 3397 | Defeat Kiichi as a Nether Boss 10 times. | Besiege Kiichi as a Nether Boss 10-mal. |
 | 3398 | Slayer of Ianne I | Bezwinger von Ianne I |
-| 3399 | Defeat Ianne as a Nether Boss 1 time. | Besiege Ianne als Nether-Boss 1 Mal. |
+| 3399 | Defeat Ianne as a Nether Boss 1 time. | Besiege Ianne as a Nether Boss 1-mal. |
 | 3400 | Slayer of Ianne II | Bezwinger von Ianne II |
-| 3401 | Defeat Ianne as a Nether Boss 2 times. | Besiege Ianne 2 Mal als Nether-Boss. |
+| 3401 | Defeat Ianne as a Nether Boss 2 times. | Besiege Ianne as a Nether Boss 2-mal. |

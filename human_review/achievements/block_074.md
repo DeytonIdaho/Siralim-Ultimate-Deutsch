@@ -3,102 +3,102 @@
 | Row | English | German |
 |---:|---|---|
 | 7302 | Slayer of {GOD_UNDERWATER} III | Bezwinger von {GOD_UNDERWATER} III |
-| 7303 | Defeat {GOD_UNDERWATER} 3 times. | Besiege {GOD_UNDERWATER} 3 Mal. |
+| 7303 | Defeat {GOD_UNDERWATER} 3 times. | Besiege {GOD_UNDERWATER} 3-mal. |
 | 7304 | Slayer of {GOD_UNDERWATER} IV | Bezwinger von {GOD_UNDERWATER} IV |
-| 7305 | Defeat {GOD_UNDERWATER} 4 times. | Besiege {GOD_UNDERWATER} 4 Mal. |
+| 7305 | Defeat {GOD_UNDERWATER} 4 times. | Besiege {GOD_UNDERWATER} 4-mal. |
 | 7306 | Slayer of {GOD_UNDERWATER} V | Bezwinger von {GOD_UNDERWATER} V |
-| 7307 | Defeat {GOD_UNDERWATER} 5 times. | Besiege {GOD_UNDERWATER} 5 Mal. |
+| 7307 | Defeat {GOD_UNDERWATER} 5 times. | Besiege {GOD_UNDERWATER} 5-mal. |
 | 7308 | Slayer of {GOD_UNDERWATER} VI | Bezwinger von {GOD_UNDERWATER} VI |
-| 7309 | Defeat {GOD_UNDERWATER} 6 times. | Besiege {GOD_UNDERWATER} 6 Mal. |
+| 7309 | Defeat {GOD_UNDERWATER} 6 times. | Besiege {GOD_UNDERWATER} 6-mal. |
 | 7310 | Slayer of {GOD_UNDERWATER} VII | Bezwinger von {GOD_UNDERWATER} VII |
-| 7311 | Defeat {GOD_UNDERWATER} 7 times. | Besiege {GOD_UNDERWATER} 7 Mal. |
+| 7311 | Defeat {GOD_UNDERWATER} 7 times. | Besiege {GOD_UNDERWATER} 7-mal. |
 | 7312 | Slayer of {GOD_UNDERWATER} VIII | Bezwinger von {GOD_UNDERWATER} VIII |
-| 7313 | Defeat {GOD_UNDERWATER} 8 times. | Besiege {GOD_UNDERWATER} 8 Mal. |
+| 7313 | Defeat {GOD_UNDERWATER} 8 times. | Besiege {GOD_UNDERWATER} 8-mal. |
 | 7314 | Slayer of {GOD_UNDERWATER} IX | Bezwinger von {GOD_UNDERWATER} IX |
-| 7315 | Defeat {GOD_UNDERWATER} 9 times. | Besiege {GOD_UNDERWATER} 9 Mal. |
+| 7315 | Defeat {GOD_UNDERWATER} 9 times. | Besiege {GOD_UNDERWATER} 9-mal. |
 | 7316 | Slayer of {GOD_UNDERWATER} X | Bezwinger von {GOD_UNDERWATER} X |
-| 7317 | Defeat {GOD_UNDERWATER} 10 times. | Besiege {GOD_UNDERWATER} 10 Mal. |
+| 7317 | Defeat {GOD_UNDERWATER} 10 times. | Besiege {GOD_UNDERWATER} 10-mal. |
 | 7318 | Slayer of {GOD_FOREIGNKINGDOM} I | Bezwinger von {GOD_FOREIGNKINGDOM} I |
-| 7319 | Defeat {GOD_FOREIGNKINGDOM} 1 time. | Besiege {GOD_FOREIGNKINGDOM} 1 Mal. |
+| 7319 | Defeat {GOD_FOREIGNKINGDOM} 1 time. | Besiege {GOD_FOREIGNKINGDOM} 1-mal. |
 | 7320 | Slayer of {GOD_FOREIGNKINGDOM} II | Bezwinger von {GOD_FOREIGNKINGDOM} II |
-| 7321 | Defeat {GOD_FOREIGNKINGDOM} 2 times. | Besiege {GOD_FOREIGNKINGDOM} 2 Mal. |
+| 7321 | Defeat {GOD_FOREIGNKINGDOM} 2 times. | Besiege {GOD_FOREIGNKINGDOM} 2-mal. |
 | 7322 | Slayer of {GOD_FOREIGNKINGDOM} III | Bezwinger von {GOD_FOREIGNKINGDOM} III |
-| 7323 | Defeat {GOD_FOREIGNKINGDOM} 3 times. | Besiege {GOD_FOREIGNKINGDOM} 3 Mal. |
+| 7323 | Defeat {GOD_FOREIGNKINGDOM} 3 times. | Besiege {GOD_FOREIGNKINGDOM} 3-mal. |
 | 7324 | Slayer of {GOD_FOREIGNKINGDOM} IV | Bezwinger von {GOD_FOREIGNKINGDOM} IV |
-| 7325 | Defeat {GOD_FOREIGNKINGDOM} 4 times. | Besiege {GOD_FOREIGNKINGDOM} 4 Mal. |
+| 7325 | Defeat {GOD_FOREIGNKINGDOM} 4 times. | Besiege {GOD_FOREIGNKINGDOM} 4-mal. |
 | 7326 | Slayer of {GOD_FOREIGNKINGDOM} V | Bezwinger von {GOD_FOREIGNKINGDOM} V |
-| 7327 | Defeat {GOD_FOREIGNKINGDOM} 5 times. | Besiege {GOD_FOREIGNKINGDOM} 5 Mal. |
+| 7327 | Defeat {GOD_FOREIGNKINGDOM} 5 times. | Besiege {GOD_FOREIGNKINGDOM} 5-mal. |
 | 7328 | Slayer of {GOD_FOREIGNKINGDOM} VI | Bezwinger von {GOD_FOREIGNKINGDOM} VI |
-| 7329 | Defeat {GOD_FOREIGNKINGDOM} 6 times. | Besiege {GOD_FOREIGNKINGDOM} 6 Mal. |
+| 7329 | Defeat {GOD_FOREIGNKINGDOM} 6 times. | Besiege {GOD_FOREIGNKINGDOM} 6-mal. |
 | 7330 | Slayer of {GOD_FOREIGNKINGDOM} VII | Bezwinger von {GOD_FOREIGNKINGDOM} VII |
-| 7331 | Defeat {GOD_FOREIGNKINGDOM} 7 times. | Besiege {GOD_FOREIGNKINGDOM} 7 Mal. |
+| 7331 | Defeat {GOD_FOREIGNKINGDOM} 7 times. | Besiege {GOD_FOREIGNKINGDOM} 7-mal. |
 | 7332 | Slayer of {GOD_FOREIGNKINGDOM} VIII | Bezwinger von {GOD_FOREIGNKINGDOM} VIII |
-| 7333 | Defeat {GOD_FOREIGNKINGDOM} 8 times. | Besiege {GOD_FOREIGNKINGDOM} 8 Mal. |
+| 7333 | Defeat {GOD_FOREIGNKINGDOM} 8 times. | Besiege {GOD_FOREIGNKINGDOM} 8-mal. |
 | 7334 | Slayer of {GOD_FOREIGNKINGDOM} IX | Bezwinger von {GOD_FOREIGNKINGDOM} IX |
-| 7335 | Defeat {GOD_FOREIGNKINGDOM} 9 times. | Besiege {GOD_FOREIGNKINGDOM} 9 Mal. |
+| 7335 | Defeat {GOD_FOREIGNKINGDOM} 9 times. | Besiege {GOD_FOREIGNKINGDOM} 9-mal. |
 | 7336 | Slayer of {GOD_FOREIGNKINGDOM} X | Bezwinger von {GOD_FOREIGNKINGDOM} X |
-| 7337 | Defeat {GOD_FOREIGNKINGDOM} 10 times. | Besiege {GOD_FOREIGNKINGDOM} 10 Mal. |
+| 7337 | Defeat {GOD_FOREIGNKINGDOM} 10 times. | Besiege {GOD_FOREIGNKINGDOM} 10-mal. |
 | 7338 | Slayer of {GOD_ISLAND} I | Bezwinger von {GOD_ISLAND} I |
-| 7339 | Defeat {GOD_ISLAND} 1 time. | Besiege {GOD_ISLAND} 1 Mal. |
+| 7339 | Defeat {GOD_ISLAND} 1 time. | Besiege {GOD_ISLAND} 1-mal. |
 | 7340 | Slayer of {GOD_ISLAND} II | Bezwinger von {GOD_ISLAND} II |
-| 7341 | Defeat {GOD_ISLAND} 2 times. | Besiege {GOD_ISLAND} 2 mal. |
+| 7341 | Defeat {GOD_ISLAND} 2 times. | Besiege {GOD_ISLAND} 2-mal. |
 | 7342 | Slayer of {GOD_ISLAND} III | Bezwinger von {GOD_ISLAND} III |
-| 7343 | Defeat {GOD_ISLAND} 3 times. | Besiege {GOD_ISLAND} 3 Mal. |
+| 7343 | Defeat {GOD_ISLAND} 3 times. | Besiege {GOD_ISLAND} 3-mal. |
 | 7344 | Slayer of {GOD_ISLAND} IV | Bezwinger von {GOD_ISLAND} IV |
-| 7345 | Defeat {GOD_ISLAND} 4 times. | Besiege {GOD_ISLAND} 4 Mal. |
+| 7345 | Defeat {GOD_ISLAND} 4 times. | Besiege {GOD_ISLAND} 4-mal. |
 | 7346 | Slayer of {GOD_ISLAND} V | Bezwinger von {GOD_ISLAND} V |
-| 7347 | Defeat {GOD_ISLAND} 5 times. | Besiege {GOD_ISLAND} 5 Mal. |
+| 7347 | Defeat {GOD_ISLAND} 5 times. | Besiege {GOD_ISLAND} 5-mal. |
 | 7348 | Slayer of {GOD_ISLAND} VI | Bezwinger von {GOD_ISLAND} VI |
-| 7349 | Defeat {GOD_ISLAND} 6 times. | Besiege {GOD_ISLAND} 6 Mal. |
+| 7349 | Defeat {GOD_ISLAND} 6 times. | Besiege {GOD_ISLAND} 6-mal. |
 | 7350 | Slayer of {GOD_ISLAND} VII | Bezwinger von {GOD_ISLAND} VII |
-| 7351 | Defeat {GOD_ISLAND} 7 times. | Besiege {GOD_ISLAND} 7 Mal. |
+| 7351 | Defeat {GOD_ISLAND} 7 times. | Besiege {GOD_ISLAND} 7-mal. |
 | 7352 | Slayer of {GOD_ISLAND} VIII | Bezwinger von {GOD_ISLAND} VIII |
-| 7353 | Defeat {GOD_ISLAND} 8 times. | Besiege {GOD_ISLAND} 8 Mal. |
+| 7353 | Defeat {GOD_ISLAND} 8 times. | Besiege {GOD_ISLAND} 8-mal. |
 | 7354 | Slayer of {GOD_ISLAND} IX | Bezwinger von {GOD_ISLAND} IX |
-| 7355 | Defeat {GOD_ISLAND} 9 times. | Besiege {GOD_ISLAND} 9 Mal. |
+| 7355 | Defeat {GOD_ISLAND} 9 times. | Besiege {GOD_ISLAND} 9-mal. |
 | 7356 | Slayer of {GOD_ISLAND} X | Bezwinger von {GOD_ISLAND} X |
-| 7357 | Defeat {GOD_ISLAND} 10 times. | Besiege {GOD_ISLAND} 10 Mal. |
+| 7357 | Defeat {GOD_ISLAND} 10 times. | Besiege {GOD_ISLAND} 10-mal. |
 | 7358 | Slayer of {GOD_NATURE} I | Bezwinger von {GOD_NATURE} I |
-| 7359 | Defeat {GOD_NATURE} 1 time. | Besiege {GOD_NATURE} 1 Mal. |
+| 7359 | Defeat {GOD_NATURE} 1 time. | Besiege {GOD_NATURE} 1-mal. |
 | 7360 | Slayer of {GOD_NATURE} II | Bezwinger von {GOD_NATURE} II |
-| 7361 | Defeat {GOD_NATURE} 2 times. | Besiege {GOD_NATURE} 2 Mal. |
+| 7361 | Defeat {GOD_NATURE} 2 times. | Besiege {GOD_NATURE} 2-mal. |
 | 7362 | Slayer of {GOD_NATURE} III | Bezwinger von {GOD_NATURE} III |
-| 7363 | Defeat {GOD_NATURE} 3 times. | Besiege {GOD_NATURE} 3 Mal. |
+| 7363 | Defeat {GOD_NATURE} 3 times. | Besiege {GOD_NATURE} 3-mal. |
 | 7364 | Slayer of {GOD_NATURE} IV | Bezwinger von {GOD_NATURE} IV |
-| 7365 | Defeat {GOD_NATURE} 4 times. | Besiege {GOD_NATURE} 4 Mal. |
+| 7365 | Defeat {GOD_NATURE} 4 times. | Besiege {GOD_NATURE} 4-mal. |
 | 7366 | Slayer of {GOD_NATURE} V | Bezwinger von {GOD_NATURE} V |
-| 7367 | Defeat {GOD_NATURE} 5 times. | Besiege {GOD_NATURE} 5 Mal. |
+| 7367 | Defeat {GOD_NATURE} 5 times. | Besiege {GOD_NATURE} 5-mal. |
 | 7368 | Slayer of {GOD_NATURE} VI | Bezwinger von {GOD_NATURE} VI |
-| 7369 | Defeat {GOD_NATURE} 6 times. | Besiege {GOD_NATURE} 6 Mal. |
+| 7369 | Defeat {GOD_NATURE} 6 times. | Besiege {GOD_NATURE} 6-mal. |
 | 7370 | Slayer of {GOD_NATURE} VII | Bezwinger von {GOD_NATURE} VII |
-| 7371 | Defeat {GOD_NATURE} 7 times. | Besiege {GOD_NATURE} 7 Mal. |
+| 7371 | Defeat {GOD_NATURE} 7 times. | Besiege {GOD_NATURE} 7-mal. |
 | 7372 | Slayer of {GOD_NATURE} VIII | Bezwinger von {GOD_NATURE} VIII |
-| 7373 | Defeat {GOD_NATURE} 8 times. | Besiege {GOD_NATURE} 8 Mal. |
+| 7373 | Defeat {GOD_NATURE} 8 times. | Besiege {GOD_NATURE} 8-mal. |
 | 7374 | Slayer of {GOD_NATURE} IX | Bezwinger von {GOD_NATURE} IX |
-| 7375 | Defeat {GOD_NATURE} 9 times. | Besiege {GOD_NATURE} 9 Mal. |
+| 7375 | Defeat {GOD_NATURE} 9 times. | Besiege {GOD_NATURE} 9-mal. |
 | 7376 | Slayer of {GOD_NATURE} X | Bezwinger von {GOD_NATURE} X |
-| 7377 | Defeat {GOD_NATURE} 10 times. | Besiege {GOD_NATURE} 10 Mal. |
+| 7377 | Defeat {GOD_NATURE} 10 times. | Besiege {GOD_NATURE} 10-mal. |
 | 7378 | Slayer of {GOD_BLOODBONE} I | Bezwinger von {GOD_BLOODBONE} I |
-| 7379 | Defeat {GOD_BLOODBONE} 1 time. | Besiege {GOD_BLOODBONE} 1 Mal. |
+| 7379 | Defeat {GOD_BLOODBONE} 1 time. | Besiege {GOD_BLOODBONE} 1-mal. |
 | 7380 | Slayer of {GOD_BLOODBONE} II | Bezwinger von {GOD_BLOODBONE} II |
-| 7381 | Defeat {GOD_BLOODBONE} 2 times. | Besiege {GOD_BLOODBONE} 2 Mal. |
+| 7381 | Defeat {GOD_BLOODBONE} 2 times. | Besiege {GOD_BLOODBONE} 2-mal. |
 | 7382 | Slayer of {GOD_BLOODBONE} III | Bezwinger von {GOD_BLOODBONE} III |
-| 7383 | Defeat {GOD_BLOODBONE} 3 times. | Besiege {GOD_BLOODBONE} 3 Mal. |
+| 7383 | Defeat {GOD_BLOODBONE} 3 times. | Besiege {GOD_BLOODBONE} 3-mal. |
 | 7384 | Slayer of {GOD_BLOODBONE} IV | Bezwinger von {GOD_BLOODBONE} IV |
-| 7385 | Defeat {GOD_BLOODBONE} 4 times. | Besiege {GOD_BLOODBONE} 4 Mal. |
+| 7385 | Defeat {GOD_BLOODBONE} 4 times. | Besiege {GOD_BLOODBONE} 4-mal. |
 | 7386 | Slayer of {GOD_BLOODBONE} V | Bezwinger von {GOD_BLOODBONE} V |
-| 7387 | Defeat {GOD_BLOODBONE} 5 times. | Besiege {GOD_BLOODBONE} 5 Mal. |
+| 7387 | Defeat {GOD_BLOODBONE} 5 times. | Besiege {GOD_BLOODBONE} 5-mal. |
 | 7388 | Slayer of {GOD_BLOODBONE} VI | Bezwinger von {GOD_BLOODBONE} VI |
-| 7389 | Defeat {GOD_BLOODBONE} 6 times. | Besiege {GOD_BLOODBONE} 6 Mal. |
+| 7389 | Defeat {GOD_BLOODBONE} 6 times. | Besiege {GOD_BLOODBONE} 6-mal. |
 | 7390 | Slayer of {GOD_BLOODBONE} VII | Bezwinger von {GOD_BLOODBONE} VII |
-| 7391 | Defeat {GOD_BLOODBONE} 7 times. | Besiege {GOD_BLOODBONE} 7 Mal. |
+| 7391 | Defeat {GOD_BLOODBONE} 7 times. | Besiege {GOD_BLOODBONE} 7-mal. |
 | 7392 | Slayer of {GOD_BLOODBONE} VIII | Bezwinger von {GOD_BLOODBONE} VIII |
-| 7393 | Defeat {GOD_BLOODBONE} 8 times. | Besiege {GOD_BLOODBONE} 8 Mal. |
+| 7393 | Defeat {GOD_BLOODBONE} 8 times. | Besiege {GOD_BLOODBONE} 8-mal. |
 | 7394 | Slayer of {GOD_BLOODBONE} IX | Bezwinger von {GOD_BLOODBONE} IX |
-| 7395 | Defeat {GOD_BLOODBONE} 9 times. | Besiege {GOD_BLOODBONE} 9 Mal. |
+| 7395 | Defeat {GOD_BLOODBONE} 9 times. | Besiege {GOD_BLOODBONE} 9-mal. |
 | 7396 | Slayer of {GOD_BLOODBONE} X | Bezwinger von {GOD_BLOODBONE} X |
-| 7397 | Defeat {GOD_BLOODBONE} 10 times. | Besiege {GOD_BLOODBONE} 10 Mal. |
+| 7397 | Defeat {GOD_BLOODBONE} 10 times. | Besiege {GOD_BLOODBONE} 10-mal. |
 | 7398 | Slayer of {GOD_PURGATORY} I | Bezwinger von {GOD_PURGATORY} I |
-| 7399 | Defeat {GOD_PURGATORY} 1 time. | Besiege {GOD_PURGATORY} 1 Mal. |
+| 7399 | Defeat {GOD_PURGATORY} 1 time. | Besiege {GOD_PURGATORY} 1-mal. |
 | 7400 | Slayer of {GOD_PURGATORY} II | Bezwinger von {GOD_PURGATORY} II |
-| 7401 | Defeat {GOD_PURGATORY} 2 times. | Besiege {GOD_PURGATORY} 2 Mal. |
+| 7401 | Defeat {GOD_PURGATORY} 2 times. | Besiege {GOD_PURGATORY} 2-mal. |

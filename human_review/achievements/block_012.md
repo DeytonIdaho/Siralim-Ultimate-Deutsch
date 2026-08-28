@@ -3,25 +3,25 @@
 | Row | English | German |
 |---:|---|---|
 | 1102 | Donation to Zonte I | Spende an Zonte I |
-| 1103 | Donate resources at Zonte's altar 10 times. | Spende 10 Mal Ressourcen an Zontes Altar. |
+| 1103 | Donate resources at Zonte's altar 10 times. | Spende 10-mal Ressourcen am Altar von Zonte. |
 | 1104 | Donation to Zonte II | Spende an Zonte II |
-| 1105 | Donate resources at Zonte's altar 20 times. | Spende 20 Mal Ressourcen an Zontes Altar. |
+| 1105 | Donate resources at Zonte's altar 20 times. | Spende 20-mal Ressourcen am Altar von Zonte. |
 | 1106 | Donation to Zonte III | Spende an Zonte III |
-| 1107 | Donate resources at Zonte's altar 30 times. | Spende 30 Mal Ressourcen an Zontes Altar. |
+| 1107 | Donate resources at Zonte's altar 30 times. | Spende 30-mal Ressourcen am Altar von Zonte. |
 | 1108 | Donation to Zonte IV | Spende an Zonte IV |
-| 1109 | Donate resources at Zonte's altar 40 times. | Spende 40 Mal Ressourcen an Zontes Altar. |
+| 1109 | Donate resources at Zonte's altar 40 times. | Spende 40-mal Ressourcen am Altar von Zonte. |
 | 1110 | Donation to Zonte V | Spende an Zonte V |
-| 1111 | Donate resources at Zonte's altar 50 times. | Spende 50 Mal Ressourcen an Zontes Altar. |
+| 1111 | Donate resources at Zonte's altar 50 times. | Spende 50-mal Ressourcen am Altar von Zonte. |
 | 1112 | Donation to Zonte VI | Spende an Zonte VI |
-| 1113 | Donate resources at Zonte's altar 60 times. | Spende 60 Mal Ressourcen an Zontes Altar. |
+| 1113 | Donate resources at Zonte's altar 60 times. | Spende 60-mal Ressourcen am Altar von Zonte. |
 | 1114 | Donation to Zonte VII | Spende an Zonte VII |
-| 1115 | Donate resources at Zonte's altar 70 times. | Spende 70 Mal Ressourcen an Zontes Altar. |
+| 1115 | Donate resources at Zonte's altar 70 times. | Spende 70-mal Ressourcen am Altar von Zonte. |
 | 1116 | Donation to Zonte VIII | Spende an Zonte VIII |
-| 1117 | Donate resources at Zonte's altar 80 times. | Spende 80 Mal Ressourcen an Zontes Altar. |
+| 1117 | Donate resources at Zonte's altar 80 times. | Spende 80-mal Ressourcen am Altar von Zonte. |
 | 1118 | Donation to Zonte IX | Spende an Zonte IX |
-| 1119 | Donate resources at Zonte's altar 90 times. | Spende 90 Mal Ressourcen an Zontes Altar. |
+| 1119 | Donate resources at Zonte's altar 90 times. | Spende 90-mal Ressourcen am Altar von Zonte. |
 | 1120 | Donation to Zonte X | Spende an Zonte X |
-| 1121 | Donate resources at Zonte's altar 100 times. | Spende 100 Mal Ressourcen an Zontes Altar. |
+| 1121 | Donate resources at Zonte's altar 100 times. | Spende 100-mal Ressourcen am Altar von Zonte. |
 | 1122 | Favored by Aeolian I | Begünstigt von Aeolian I |
 | 1123 | Reach Favor Rank 5 with Aeolian. | Erreiche Gunstrang 5 bei Aeolian. |
 | 1124 | Favored by Aeolian II | Begünstigt von Aeolian II |

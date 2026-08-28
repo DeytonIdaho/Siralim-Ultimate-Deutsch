@@ -3,81 +3,81 @@
 | Row | English | German |
 |---:|---|---|
 | 4002 | Slayer of Ramses III | Bezwinger von Ramses III |
-| 4003 | Defeat Ramses as a Nether Boss 3 times. | Besiege Ramses als Nether-Boss 3 Mal. |
+| 4003 | Defeat Ramses as a Nether Boss 3 times. | Besiege Ramses as a Nether Boss 3-mal. |
 | 4004 | Slayer of Ramses IV | Bezwinger von Ramses IV |
-| 4005 | Defeat Ramses as a Nether Boss 4 times. | Besiege Ramses 4 Mal als Nether-Boss. |
+| 4005 | Defeat Ramses as a Nether Boss 4 times. | Besiege Ramses as a Nether Boss 4-mal. |
 | 4006 | Slayer of Ramses V | Bezwinger von Ramses V |
-| 4007 | Defeat Ramses as a Nether Boss 5 times. | Besiege Ramses als Nether-Boss 5 Mal. |
+| 4007 | Defeat Ramses as a Nether Boss 5 times. | Besiege Ramses as a Nether Boss 5-mal. |
 | 4008 | Slayer of Ramses VI | Bezwinger von Ramses VI |
-| 4009 | Defeat Ramses as a Nether Boss 6 times. | Besiege Ramses als Nether-Boss 6 Mal. |
+| 4009 | Defeat Ramses as a Nether Boss 6 times. | Besiege Ramses as a Nether Boss 6-mal. |
 | 4010 | Slayer of Ramses VII | Bezwinger von Ramses VII |
-| 4011 | Defeat Ramses as a Nether Boss 7 times. | Besiege Ramses als Nether-Boss 7 Mal. |
+| 4011 | Defeat Ramses as a Nether Boss 7 times. | Besiege Ramses as a Nether Boss 7-mal. |
 | 4012 | Slayer of Ramses VIII | Bezwinger von Ramses VIII |
-| 4013 | Defeat Ramses as a Nether Boss 8 times. | Besiege Ramses 8 Mal als Nether-Boss. |
+| 4013 | Defeat Ramses as a Nether Boss 8 times. | Besiege Ramses as a Nether Boss 8-mal. |
 | 4014 | Slayer of Ramses IX | Bezwinger von Ramses IX |
-| 4015 | Defeat Ramses as a Nether Boss 9 times. | Besiege Ramses 9 Mal als Nether-Boss. |
+| 4015 | Defeat Ramses as a Nether Boss 9 times. | Besiege Ramses as a Nether Boss 9-mal. |
 | 4016 | Slayer of Ramses X | Bezwinger von Ramses X |
-| 4017 | Defeat Ramses as a Nether Boss 10 times. | Besiege Ramses 10 Mal als Nether-Boss. |
+| 4017 | Defeat Ramses as a Nether Boss 10 times. | Besiege Ramses as a Nether Boss 10-mal. |
 | 4018 | Slayer of Kraynaks I | Bezwinger von Kraynaks I |
-| 4019 | Defeat Kraynaks as a Nether Boss 1 time. | Besiege Kraynaks als Nether-Boss 1 Mal. |
+| 4019 | Defeat Kraynaks as a Nether Boss 1 time. | Besiege Kraynaks as a Nether Boss 1-mal. |
 | 4020 | Slayer of Kraynaks II | Bezwinger von Kraynaks II |
-| 4021 | Defeat Kraynaks as a Nether Boss 2 times. | Besiege Kraynaks als Nether-Boss 2 Mal. |
+| 4021 | Defeat Kraynaks as a Nether Boss 2 times. | Besiege Kraynaks as a Nether Boss 2-mal. |
 | 4022 | Slayer of Kraynaks III | Bezwinger von Kraynaks III |
-| 4023 | Defeat Kraynaks as a Nether Boss 3 times. | Besiege Kraynaks als Nether-Boss 3 Mal. |
+| 4023 | Defeat Kraynaks as a Nether Boss 3 times. | Besiege Kraynaks as a Nether Boss 3-mal. |
 | 4024 | Slayer of Kraynaks IV | Bezwinger von Kraynaks IV |
-| 4025 | Defeat Kraynaks as a Nether Boss 4 times. | Besiege Kraynaks als Nether-Boss 4 Mal. |
+| 4025 | Defeat Kraynaks as a Nether Boss 4 times. | Besiege Kraynaks as a Nether Boss 4-mal. |
 | 4026 | Slayer of Kraynaks V | Bezwinger von Kraynaks V |
-| 4027 | Defeat Kraynaks as a Nether Boss 5 times. | Besiege Kraynaks als Nether-Boss 5 Mal. |
+| 4027 | Defeat Kraynaks as a Nether Boss 5 times. | Besiege Kraynaks as a Nether Boss 5-mal. |
 | 4028 | Slayer of Kraynaks VI | Bezwinger von Kraynaks VI |
-| 4029 | Defeat Kraynaks as a Nether Boss 6 times. | Besiege Kraynaks 6 Mal als Nether-Boss. |
+| 4029 | Defeat Kraynaks as a Nether Boss 6 times. | Besiege Kraynaks as a Nether Boss 6-mal. |
 | 4030 | Slayer of Kraynaks VII | Bezwinger von Kraynaks VII |
-| 4031 | Defeat Kraynaks as a Nether Boss 7 times. | Besiege Kraynaks 7 Mal als Nether-Boss. |
+| 4031 | Defeat Kraynaks as a Nether Boss 7 times. | Besiege Kraynaks as a Nether Boss 7-mal. |
 | 4032 | Slayer of Kraynaks VIII | Bezwinger von Kraynaks VIII |
-| 4033 | Defeat Kraynaks as a Nether Boss 8 times. | Besiege Kraynaks 8 Mal als Nether-Boss. |
+| 4033 | Defeat Kraynaks as a Nether Boss 8 times. | Besiege Kraynaks as a Nether Boss 8-mal. |
 | 4034 | Slayer of Kraynaks IX | Bezwinger von Kraynaks IX |
-| 4035 | Defeat Kraynaks as a Nether Boss 9 times. | Besiege Kraynaks 9 Mal als Nether-Boss. |
+| 4035 | Defeat Kraynaks as a Nether Boss 9 times. | Besiege Kraynaks as a Nether Boss 9-mal. |
 | 4036 | Slayer of Kraynaks X | Bezwinger von Kraynaks X |
-| 4037 | Defeat Kraynaks as a Nether Boss 10 times. | Besiege Kraynaks 10 Mal als Nether-Boss. |
+| 4037 | Defeat Kraynaks as a Nether Boss 10 times. | Besiege Kraynaks as a Nether Boss 10-mal. |
 | 4038 | Slayer of Cyhra I | Bezwinger von Cyhra I |
-| 4039 | Defeat Cyhra as a Nether Boss 1 time. | Besiege Cyhra als Nether-Boss 1 Mal. |
+| 4039 | Defeat Cyhra as a Nether Boss 1 time. | Besiege Cyhra as a Nether Boss 1-mal. |
 | 4040 | Slayer of Cyhra II | Bezwinger von Cyhra II |
-| 4041 | Defeat Cyhra as a Nether Boss 2 times. | Besiege Cyhra 2 Mal als Nether-Boss. |
+| 4041 | Defeat Cyhra as a Nether Boss 2 times. | Besiege Cyhra as a Nether Boss 2-mal. |
 | 4042 | Slayer of Cyhra III | Bezwinger von Cyhra III |
-| 4043 | Defeat Cyhra as a Nether Boss 3 times. | Besiege Cyhra 3 Mal als Nether-Boss. |
+| 4043 | Defeat Cyhra as a Nether Boss 3 times. | Besiege Cyhra as a Nether Boss 3-mal. |
 | 4044 | Slayer of Cyhra IV | Bezwinger von Cyhra IV |
-| 4045 | Defeat Cyhra as a Nether Boss 4 times. | Besiege Cyhra 4 Mal als Nether-Boss. |
+| 4045 | Defeat Cyhra as a Nether Boss 4 times. | Besiege Cyhra as a Nether Boss 4-mal. |
 | 4046 | Slayer of Cyhra V | Bezwinger von Cyhra V |
-| 4047 | Defeat Cyhra as a Nether Boss 5 times. | Besiege Cyhra 5 Mal als Nether-Boss. |
+| 4047 | Defeat Cyhra as a Nether Boss 5 times. | Besiege Cyhra as a Nether Boss 5-mal. |
 | 4048 | Slayer of Cyhra VI | Bezwinger von Cyhra VI |
-| 4049 | Defeat Cyhra as a Nether Boss 6 times. | Besiege Cyhra 6 Mal als Nether-Boss. |
+| 4049 | Defeat Cyhra as a Nether Boss 6 times. | Besiege Cyhra as a Nether Boss 6-mal. |
 | 4050 | Slayer of Cyhra VII | Bezwinger von Cyhra VII |
-| 4051 | Defeat Cyhra as a Nether Boss 7 times. | Besiege Cyhra 7 Mal als Nether-Boss. |
+| 4051 | Defeat Cyhra as a Nether Boss 7 times. | Besiege Cyhra as a Nether Boss 7-mal. |
 | 4052 | Slayer of Cyhra VIII | Bezwinger von Cyhra VIII |
-| 4053 | Defeat Cyhra as a Nether Boss 8 times. | Besiege Cyhra 8 Mal als Nether-Boss. |
+| 4053 | Defeat Cyhra as a Nether Boss 8 times. | Besiege Cyhra as a Nether Boss 8-mal. |
 | 4054 | Slayer of Cyhra IX | Bezwinger von Cyhra IX |
-| 4055 | Defeat Cyhra as a Nether Boss 9 times. | Besiege Cyhra 9 Mal als Nether-Boss. |
+| 4055 | Defeat Cyhra as a Nether Boss 9 times. | Besiege Cyhra as a Nether Boss 9-mal. |
 | 4056 | Slayer of Cyhra X | Bezwinger von Cyhra X |
-| 4057 | Defeat Cyhra as a Nether Boss 10 times. | Besiege Cyhra 10 Mal als Nether-Boss. |
+| 4057 | Defeat Cyhra as a Nether Boss 10 times. | Besiege Cyhra as a Nether Boss 10-mal. |
 | 4058 | Slayer of Inner Darkness I | Bezwinger von Inner Darkness I |
-| 4059 | Defeat Inner Darkness as a Nether Boss 1 time. | Besiege die Innere Dunkelheit als Nether-Boss 1 Mal. |
+| 4059 | Defeat Inner Darkness as a Nether Boss 1 time. | Besiege Inner Darkness as a Nether Boss 1-mal. |
 | 4060 | Slayer of Inner Darkness II | Bezwinger von Inner Darkness II |
-| 4061 | Defeat Inner Darkness as a Nether Boss 2 times. | Besiege die Innere Dunkelheit als Nether-Boss 2 Mal. |
+| 4061 | Defeat Inner Darkness as a Nether Boss 2 times. | Besiege Inner Darkness as a Nether Boss 2-mal. |
 | 4062 | Slayer of Inner Darkness III | Bezwinger von Inner Darkness III |
-| 4063 | Defeat Inner Darkness as a Nether Boss 3 times. | Besiege die Innere Dunkelheit 3 Mal als Nether-Boss. |
+| 4063 | Defeat Inner Darkness as a Nether Boss 3 times. | Besiege Inner Darkness as a Nether Boss 3-mal. |
 | 4064 | Slayer of Inner Darkness IV | Bezwinger von Inner Darkness IV |
-| 4065 | Defeat Inner Darkness as a Nether Boss 4 times. | Besiege die Innere Dunkelheit 4 Mal als Nether-Boss. |
+| 4065 | Defeat Inner Darkness as a Nether Boss 4 times. | Besiege Inner Darkness as a Nether Boss 4-mal. |
 | 4066 | Slayer of Inner Darkness V | Bezwinger von Inner Darkness V |
-| 4067 | Defeat Inner Darkness as a Nether Boss 5 times. | Besiege die Innere Dunkelheit 5 Mal als Nether-Boss. |
+| 4067 | Defeat Inner Darkness as a Nether Boss 5 times. | Besiege Inner Darkness as a Nether Boss 5-mal. |
 | 4068 | Slayer of Inner Darkness VI | Bezwinger von Inner Darkness VI |
-| 4069 | Defeat Inner Darkness as a Nether Boss 6 times. | Besiege die Innere Dunkelheit 6 Mal als Nether-Boss. |
+| 4069 | Defeat Inner Darkness as a Nether Boss 6 times. | Besiege Inner Darkness as a Nether Boss 6-mal. |
 | 4070 | Slayer of Inner Darkness VII | Bezwinger von Inner Darkness VII |
-| 4071 | Defeat Inner Darkness as a Nether Boss 7 times. | Besiege die Innere Dunkelheit 7 Mal als Nether-Boss. |
+| 4071 | Defeat Inner Darkness as a Nether Boss 7 times. | Besiege Inner Darkness as a Nether Boss 7-mal. |
 | 4072 | Slayer of Inner Darkness VIII | Bezwinger von Inner Darkness VIII |
-| 4073 | Defeat Inner Darkness as a Nether Boss 8 times. | Besiege die Innere Dunkelheit 8 Mal als Nether-Boss. |
+| 4073 | Defeat Inner Darkness as a Nether Boss 8 times. | Besiege Inner Darkness as a Nether Boss 8-mal. |
 | 4074 | Slayer of Inner Darkness IX | Bezwinger von Inner Darkness IX |
-| 4075 | Defeat Inner Darkness as a Nether Boss 9 times. | Besiege die Innere Dunkelheit 9 Mal als Nether-Boss. |
+| 4075 | Defeat Inner Darkness as a Nether Boss 9 times. | Besiege Inner Darkness as a Nether Boss 9-mal. |
 | 4076 | Slayer of Inner Darkness X | Bezwinger von Inner Darkness X |
-| 4077 | Defeat Inner Darkness as a Nether Boss 10 times. | Besiege die Innere Dunkelheit 10 Mal als Nether-Boss. |
+| 4077 | Defeat Inner Darkness as a Nether Boss 10 times. | Besiege Inner Darkness as a Nether Boss 10-mal. |
 | 4078 | Skin Collector I | Skin-Sammler I |
 | 4079 | Collect 1 creature skin. | Sammle 1 Kreaturenhaut. |
 | 4080 | Skin Collector II | Hautsammler II |

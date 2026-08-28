@@ -101,4 +101,4 @@
 | 8098 | Empowering Void Essence X | Stärkende Leere-Essenz X |
 | 8099 | Empower {RELIC_CALIBAN} up to rank 100. | Verstärke {RELIC_CALIBAN} bis Rang 100. |
 | 8100 | Slayer of {GOD_CALIBAN} I | Bezwinger von {GOD_CALIBAN} I |
-| 8101 | Defeat {GOD_CALIBAN} 1 time. | Besiege {GOD_CALIBAN} 1 Mal. |
+| 8101 | Defeat {GOD_CALIBAN} 1 time. | Besiege {GOD_CALIBAN} 1-mal. |

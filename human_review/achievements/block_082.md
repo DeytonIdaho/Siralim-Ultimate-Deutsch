@@ -3,23 +3,23 @@
 | Row | English | German |
 |---:|---|---|
 | 8102 | Slayer of {GOD_CALIBAN} II | Bezwinger von {GOD_CALIBAN} II |
-| 8103 | Defeat {GOD_CALIBAN} 2 times. | Besiege {GOD_CALIBAN} 2 Mal. |
+| 8103 | Defeat {GOD_CALIBAN} 2 times. | Besiege {GOD_CALIBAN} 2-mal. |
 | 8104 | Slayer of {GOD_CALIBAN} III | Bezwinger von {GOD_CALIBAN} III |
-| 8105 | Defeat {GOD_CALIBAN} 3 times. | Besiege {GOD_CALIBAN} 3 Mal. |
+| 8105 | Defeat {GOD_CALIBAN} 3 times. | Besiege {GOD_CALIBAN} 3-mal. |
 | 8106 | Slayer of {GOD_CALIBAN} IV | Bezwinger von {GOD_CALIBAN} IV |
-| 8107 | Defeat {GOD_CALIBAN} 4 times. | Besiege {GOD_CALIBAN} 4 Mal. |
+| 8107 | Defeat {GOD_CALIBAN} 4 times. | Besiege {GOD_CALIBAN} 4-mal. |
 | 8108 | Slayer of {GOD_CALIBAN} V | Bezwinger von {GOD_CALIBAN} V |
-| 8109 | Defeat {GOD_CALIBAN} 5 times. | Besiege {GOD_CALIBAN} 5 Mal. |
+| 8109 | Defeat {GOD_CALIBAN} 5 times. | Besiege {GOD_CALIBAN} 5-mal. |
 | 8110 | Slayer of {GOD_CALIBAN} VI | Bezwinger von {GOD_CALIBAN} VI |
-| 8111 | Defeat {GOD_CALIBAN} 6 times. | Besiege {GOD_CALIBAN} 6 Mal. |
+| 8111 | Defeat {GOD_CALIBAN} 6 times. | Besiege {GOD_CALIBAN} 6-mal. |
 | 8112 | Slayer of {GOD_CALIBAN} VII | Bezwinger von {GOD_CALIBAN} VII |
-| 8113 | Defeat {GOD_CALIBAN} 7 times. | Besiege {GOD_CALIBAN} 7 Mal. |
+| 8113 | Defeat {GOD_CALIBAN} 7 times. | Besiege {GOD_CALIBAN} 7-mal. |
 | 8114 | Slayer of {GOD_CALIBAN} VIII | Bezwinger von {GOD_CALIBAN} VIII |
-| 8115 | Defeat {GOD_CALIBAN} 8 times. | Besiege {GOD_CALIBAN} 8 Mal. |
+| 8115 | Defeat {GOD_CALIBAN} 8 times. | Besiege {GOD_CALIBAN} 8-mal. |
 | 8116 | Slayer of {GOD_CALIBAN} IX | Bezwinger von {GOD_CALIBAN} IX |
-| 8117 | Defeat {GOD_CALIBAN} 9 times. | Besiege {GOD_CALIBAN} 9 Mal. |
+| 8117 | Defeat {GOD_CALIBAN} 9 times. | Besiege {GOD_CALIBAN} 9-mal. |
 | 8118 | Slayer of {GOD_CALIBAN} X | Bezwinger von {GOD_CALIBAN} X |
-| 8119 | Defeat {GOD_CALIBAN} 10 times. | Besiege {GOD_CALIBAN} 10 Mal. |
+| 8119 | Defeat {GOD_CALIBAN} 10 times. | Besiege {GOD_CALIBAN} 10-mal. |
 | 8120 | Gate of the Gods: {GOD_CALIBAN} I | Tor der Götter: {GOD_CALIBAN} I |
 | 8121 | Defeat {GOD_CALIBAN} at difficulty level 5 or higher at the Gate of the Gods. | Besiege {GOD_CALIBAN} auf Schwierigkeitsstufe 5 oder höher am Tor der Götter. |
 | 8122 | Gate of the Gods: {GOD_CALIBAN} II | Tor der Götter: {GOD_CALIBAN} II |
@@ -41,25 +41,25 @@
 | 8138 | Gate of the Gods: {GOD_CALIBAN} X | Tor der Götter: {GOD_CALIBAN} X |
 | 8139 | Defeat {GOD_CALIBAN} at difficulty level 50 or higher at the Gate of the Gods. | Besiege {GOD_CALIBAN} auf Schwierigkeitsstufe 50 oder höher am Tor der Götter. |
 | 8140 | Vassal of Caliban I | Vasall von Caliban I |
-| 8141 | Defeat Lord Zantai 1 time. | Besiege Lord Zantai 1 Mal. |
+| 8141 | Defeat Lord Zantai 1 time. | Besiege Lord Zantai 1-mal. |
 | 8142 | Vassal of Caliban II | Vasall von Caliban II |
-| 8143 | Defeat Lord Zantai 2 times. | Besiege Lord Zantai 2 Mal. |
+| 8143 | Defeat Lord Zantai 2 times. | Besiege Lord Zantai 2-mal. |
 | 8144 | Vassal of Caliban III | Vasall von Caliban III |
-| 8145 | Defeat Lord Zantai 3 times. | Besiege Lord Zantai 3 Mal. |
+| 8145 | Defeat Lord Zantai 3 times. | Besiege Lord Zantai 3-mal. |
 | 8146 | Vassal of Caliban IV | Vasall von Caliban IV |
-| 8147 | Defeat Lord Zantai 4 times. | Besiege Lord Zantai 4 Mal. |
+| 8147 | Defeat Lord Zantai 4 times. | Besiege Lord Zantai 4-mal. |
 | 8148 | Vassal of Caliban V | Vasall von Caliban V |
-| 8149 | Defeat Lord Zantai 5 times. | Besiege Lord Zantai 5 Mal. |
+| 8149 | Defeat Lord Zantai 5 times. | Besiege Lord Zantai 5-mal. |
 | 8150 | Vassal of Caliban VI | Vasall von Caliban VI |
-| 8151 | Defeat Lord Zantai 6 times. | Besiege Lord Zantai 6 Mal. |
+| 8151 | Defeat Lord Zantai 6 times. | Besiege Lord Zantai 6-mal. |
 | 8152 | Vassal of Caliban VII | Vasall von Caliban VII |
 | 8153 | Defeat Lord Zantai 7 times | Besiege Lord Zantai 7 mal |
 | 8154 | Vassal of Caliban VIII | Vasall von Caliban VIII |
-| 8155 | Defeat Lord Zantai 8 times. | Besiege Lord Zantai 8 Mal. |
+| 8155 | Defeat Lord Zantai 8 times. | Besiege Lord Zantai 8-mal. |
 | 8156 | Vassal of Caliban IX | Vasall von Caliban IX |
-| 8157 | Defeat Lord Zantai 9 times. | Besiege Lord Zantai 9 mal. |
+| 8157 | Defeat Lord Zantai 9 times. | Besiege Lord Zantai 9-mal. |
 | 8158 | Vassal of Caliban X | Vasall von Caliban X |
-| 8159 | Defeat Lord Zantai 10 times. | Besiege Lord Zantai 10 mal. |
+| 8159 | Defeat Lord Zantai 10 times. | Besiege Lord Zantai 10-mal. |
 | 8160 | Earning Void Essence | Void-Essenz verdienen |
 | 8161 | Unlock {RELIC_CALIBAN} at the Reliquary. | Schalte {RELIC_CALIBAN} im Reliquiar frei. |
 | 8162 | Becoming a {SPECX_WITCHDOCTOR} | Spezialisierung: {SPECX_WITCHDOCTOR} |

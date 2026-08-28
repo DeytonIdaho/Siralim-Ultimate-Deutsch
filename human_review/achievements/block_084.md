@@ -83,22 +83,22 @@
 | 8380 | Anointment Collector X | Salbungsammler X |
 | 8381 | Unlock 350 different Anointments. | Schalte 350 verschiedene Salbungen frei. |
 | 8382 | False God, Saint Althea I | Falscher Gott, Heilige Althea I |
-| 8383 | Defeat Saint Althea 1 time. | Besiege die Heilige Althea 1 Mal. |
+| 8383 | Defeat Saint Althea 1 time. | Besiege Saint Althea 1-mal. |
 | 8384 | False God, Saint Althea II | Falscher Gott, Heilige Althea II |
-| 8385 | Defeat Saint Althea 2 times. | Besiege die Heilige Althea 2 Mal. |
+| 8385 | Defeat Saint Althea 2 times. | Besiege Saint Althea 2-mal. |
 | 8386 | False God, Saint Althea III | Falscher Gott, Heilige Althea III |
-| 8387 | Defeat Saint Althea 3 times. | Besiege die Heilige Althea 3 Mal. |
+| 8387 | Defeat Saint Althea 3 times. | Besiege Saint Althea 3-mal. |
 | 8388 | False God, Saint Althea IV | Falscher Gott, Heilige Althea IV |
-| 8389 | Defeat Saint Althea 4 times. | Besiege die Heilige Althea 4 Mal. |
+| 8389 | Defeat Saint Althea 4 times. | Besiege Saint Althea 4-mal. |
 | 8390 | False God, Saint Althea V | Falscher Gott, Heilige Althea V |
-| 8391 | Defeat Saint Althea 5 times. | Besiege die Heilige Althea 5 Mal. |
+| 8391 | Defeat Saint Althea 5 times. | Besiege Saint Althea 5-mal. |
 | 8392 | False God, Saint Althea VI | Falscher Gott, Heilige Althea VI |
-| 8393 | Defeat Saint Althea 6 times. | Besiege die Heilige Althea 6 Mal. |
+| 8393 | Defeat Saint Althea 6 times. | Besiege Saint Althea 6-mal. |
 | 8394 | False God, Saint Althea VII | Falscher Gott, Heilige Althea VII |
-| 8395 | Defeat Saint Althea 7 times. | Besiege die Heilige Althea 7 Mal. |
+| 8395 | Defeat Saint Althea 7 times. | Besiege Saint Althea 7-mal. |
 | 8396 | False God, Saint Althea VIII | Falscher Gott, Heilige Althea VIII |
-| 8397 | Defeat Saint Althea 8 times. | Besiege die Heilige Althea 8 Mal. |
+| 8397 | Defeat Saint Althea 8 times. | Besiege Saint Althea 8-mal. |
 | 8398 | False God, Saint Althea IX | Falscher Gott, Heilige Althea IX |
-| 8399 | Defeat Saint Althea 9 times. | Besiege die Heilige Althea 9 Mal. |
+| 8399 | Defeat Saint Althea 9 times. | Besiege Saint Althea 9-mal. |
 | 8400 | False God, Saint Althea X | Falscher Gott, Heilige Althea X |
-| 8401 | Defeat Saint Althea 10 times. | Besiege die Heilige Althea 10 Mal. |
+| 8401 | Defeat Saint Althea 10 times. | Besiege Saint Althea 10-mal. |

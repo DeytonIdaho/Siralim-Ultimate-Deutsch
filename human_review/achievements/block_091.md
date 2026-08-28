@@ -41,64 +41,64 @@
 | 9038 | Gate of the Gods: {GOD_TMEREMRGO} X | Tor der Götter: {GOD_TMEREMRGO} X |
 | 9039 | Defeat {GOD_TMEREMRGO} at difficulty level 50 or higher at the Gate of the Gods. | Besiege {GOD_TMEREMRGO} auf Schwierigkeitsstufe 50 oder höher am Tor der Götter. |
 | 9040 | Donation to Alexandria I | Spende an Alexandria I |
-| 9041 | Donate resources at Alexandria's altar 10 times. | Spende 10 Mal Ressourcen am Altar von Alexandria. |
+| 9041 | Donate resources at Alexandria's altar 10 times. | Spende 10-mal Ressourcen am Altar von Alexandria. |
 | 9042 | Donation to Alexandria II | Spende an Alexandria II |
-| 9043 | Donate resources at Alexandria's altar 20 times. | Spende 20 Mal Ressourcen am Altar von Alexandria. |
+| 9043 | Donate resources at Alexandria's altar 20 times. | Spende 20-mal Ressourcen am Altar von Alexandria. |
 | 9044 | Donation to Alexandria III | Spende an Alexandria III |
-| 9045 | Donate resources at Alexandria's altar 30 times. | Spende 30 Mal Ressourcen am Altar von Alexandria. |
+| 9045 | Donate resources at Alexandria's altar 30 times. | Spende 30-mal Ressourcen am Altar von Alexandria. |
 | 9046 | Donation to Alexandria IV | Spende an Alexandria IV |
-| 9047 | Donate resources at Alexandria's altar 40 times. | Spende 40 Mal Ressourcen am Altar von Alexandria. |
+| 9047 | Donate resources at Alexandria's altar 40 times. | Spende 40-mal Ressourcen am Altar von Alexandria. |
 | 9048 | Donation to Alexandria V | Spende an Alexandria V |
-| 9049 | Donate resources at Alexandria's altar 50 times. | Spende 50 Mal Ressourcen am Altar von Alexandria. |
+| 9049 | Donate resources at Alexandria's altar 50 times. | Spende 50-mal Ressourcen am Altar von Alexandria. |
 | 9050 | Donation to Alexandria VI | Spende an Alexandria VI |
-| 9051 | Donate resources at Alexandria's altar 60 times. | Spende 60 Mal Ressourcen am Altar von Alexandria. |
+| 9051 | Donate resources at Alexandria's altar 60 times. | Spende 60-mal Ressourcen am Altar von Alexandria. |
 | 9052 | Donation to Alexandria VII | Spende an Alexandria VII |
-| 9053 | Donate resources at Alexandria's altar 70 times. | Spende 70 Mal Ressourcen am Altar von Alexandria. |
+| 9053 | Donate resources at Alexandria's altar 70 times. | Spende 70-mal Ressourcen am Altar von Alexandria. |
 | 9054 | Donation to Alexandria VIII | Spende an Alexandria VIII |
-| 9055 | Donate resources at Alexandria's altar 80 times. | Spende 80 Mal Ressourcen am Altar von Alexandria. |
+| 9055 | Donate resources at Alexandria's altar 80 times. | Spende 80-mal Ressourcen am Altar von Alexandria. |
 | 9056 | Donation to Alexandria IX | Spende an Alexandria IX |
-| 9057 | Donate resources at Alexandria's altar 90 times. | Spende 90 Mal Ressourcen am Altar von Alexandria. |
+| 9057 | Donate resources at Alexandria's altar 90 times. | Spende 90-mal Ressourcen am Altar von Alexandria. |
 | 9058 | Donation to Alexandria X | Spende an Alexandria X |
-| 9059 | Donate resources at Alexandria's altar 100 times. | Spende 100 Mal Ressourcen am Altar von Alexandria. |
+| 9059 | Donate resources at Alexandria's altar 100 times. | Spende 100-mal Ressourcen am Altar von Alexandria. |
 | 9060 | Donation to Anneltha I | Spende an Anneltha I |
-| 9061 | Donate resources at Anneltha's altar 10 times. | Spende 10 Mal Ressourcen an Annelthas Altar. |
+| 9061 | Donate resources at Anneltha's altar 10 times. | Spende 10-mal Ressourcen am Altar von Anneltha. |
 | 9062 | Donation to Anneltha II | Spende an Anneltha II |
-| 9063 | Donate resources at Anneltha's altar 20 times. | Spende 20 Mal Ressourcen am Altar von Anneltha. |
+| 9063 | Donate resources at Anneltha's altar 20 times. | Spende 20-mal Ressourcen am Altar von Anneltha. |
 | 9064 | Donation to Anneltha III | Spende an Anneltha III |
-| 9065 | Donate resources at Anneltha's altar 30 times. | Spende 30 Mal Ressourcen an Annelthas Altar. |
+| 9065 | Donate resources at Anneltha's altar 30 times. | Spende 30-mal Ressourcen am Altar von Anneltha. |
 | 9066 | Donation to Anneltha IV | Spende an Anneltha IV |
-| 9067 | Donate resources at Anneltha's altar 40 times. | Spende 40 Mal Ressourcen an Annelthas Altar. |
+| 9067 | Donate resources at Anneltha's altar 40 times. | Spende 40-mal Ressourcen am Altar von Anneltha. |
 | 9068 | Donation to Anneltha V | Spende an Anneltha V |
-| 9069 | Donate resources at Anneltha's altar 50 times. | Spende 50 Mal Ressourcen an Annelthas Altar. |
+| 9069 | Donate resources at Anneltha's altar 50 times. | Spende 50-mal Ressourcen am Altar von Anneltha. |
 | 9070 | Donation to Anneltha VI | Spende an Anneltha VI |
-| 9071 | Donate resources at Anneltha's altar 60 times. | Spende 60 Mal Ressourcen an Annelthas Altar. |
+| 9071 | Donate resources at Anneltha's altar 60 times. | Spende 60-mal Ressourcen am Altar von Anneltha. |
 | 9072 | Donation to Anneltha VII | Spende an Anneltha VII |
-| 9073 | Donate resources at Anneltha's altar 70 times. | Spende 70 Mal Ressourcen an Annelthas Altar. |
+| 9073 | Donate resources at Anneltha's altar 70 times. | Spende 70-mal Ressourcen am Altar von Anneltha. |
 | 9074 | Donation to Anneltha VIII | Spende an Anneltha VIII |
-| 9075 | Donate resources at Anneltha's altar 80 times. | Spende 80 Mal Ressourcen an Annelthas Altar. |
+| 9075 | Donate resources at Anneltha's altar 80 times. | Spende 80-mal Ressourcen am Altar von Anneltha. |
 | 9076 | Donation to Anneltha IX | Spende an Anneltha IX |
-| 9077 | Donate resources at Anneltha's altar 90 times. | Spende 90 Mal Ressourcen an Annelthas Altar. |
+| 9077 | Donate resources at Anneltha's altar 90 times. | Spende 90-mal Ressourcen am Altar von Anneltha. |
 | 9078 | Donation to Anneltha X | Spende an Anneltha X |
-| 9079 | Donate resources at Anneltha's altar 100 times. | Spende 100 Mal Ressourcen an Annelthas Altar. |
+| 9079 | Donate resources at Anneltha's altar 100 times. | Spende 100-mal Ressourcen am Altar von Anneltha. |
 | 9080 | Donation to Ariamaki I | Spende an Ariamaki I |
-| 9081 | Donate resources at Ariamaki's altar 10 times. | Spende 10 Mal Ressourcen am Altar von Ariamaki. |
+| 9081 | Donate resources at Ariamaki's altar 10 times. | Spende 10-mal Ressourcen am Altar von Ariamaki. |
 | 9082 | Donation to Ariamaki II | Spende an Ariamaki II |
-| 9083 | Donate resources at Ariamaki's altar 20 times. | Spende 20 Mal Ressourcen am Altar von Ariamaki. |
+| 9083 | Donate resources at Ariamaki's altar 20 times. | Spende 20-mal Ressourcen am Altar von Ariamaki. |
 | 9084 | Donation to Ariamaki III | Spende an Ariamaki III |
-| 9085 | Donate resources at Ariamaki's altar 30 times. | Spende 30 Mal Ressourcen am Altar von Ariamaki. |
+| 9085 | Donate resources at Ariamaki's altar 30 times. | Spende 30-mal Ressourcen am Altar von Ariamaki. |
 | 9086 | Donation to Ariamaki IV | Spende an Ariamaki IV |
-| 9087 | Donate resources at Ariamaki's altar 40 times. | Spende 40 Mal Ressourcen am Altar von Ariamaki. |
+| 9087 | Donate resources at Ariamaki's altar 40 times. | Spende 40-mal Ressourcen am Altar von Ariamaki. |
 | 9088 | Donation to Ariamaki V | Spende an Ariamaki V |
-| 9089 | Donate resources at Ariamaki's altar 50 times. | Spende 50 Mal Ressourcen am Altar von Ariamaki. |
+| 9089 | Donate resources at Ariamaki's altar 50 times. | Spende 50-mal Ressourcen am Altar von Ariamaki. |
 | 9090 | Donation to Ariamaki VI | Spende an Ariamaki VI |
-| 9091 | Donate resources at Ariamaki's altar 60 times. | Spende 60 Mal Ressourcen am Altar von Ariamaki. |
+| 9091 | Donate resources at Ariamaki's altar 60 times. | Spende 60-mal Ressourcen am Altar von Ariamaki. |
 | 9092 | Donation to Ariamaki VII | Spende an Ariamaki VII |
-| 9093 | Donate resources at Ariamaki's altar 70 times. | Spende 70 Mal Ressourcen am Altar von Ariamaki. |
+| 9093 | Donate resources at Ariamaki's altar 70 times. | Spende 70-mal Ressourcen am Altar von Ariamaki. |
 | 9094 | Donation to Ariamaki VIII | Spende an Ariamaki VIII |
-| 9095 | Donate resources at Ariamaki's altar 80 times. | Spende 80 Mal Ressourcen am Altar von Ariamaki. |
+| 9095 | Donate resources at Ariamaki's altar 80 times. | Spende 80-mal Ressourcen am Altar von Ariamaki. |
 | 9096 | Donation to Ariamaki IX | Spende an Ariamaki IX |
-| 9097 | Donate resources at Ariamaki's altar 90 times. | Spende 90 Mal Ressourcen am Altar von Ariamaki. |
+| 9097 | Donate resources at Ariamaki's altar 90 times. | Spende 90-mal Ressourcen am Altar von Ariamaki. |
 | 9098 | Donation to Ariamaki X | Spende an Ariamaki X |
-| 9099 | Donate resources at Ariamaki's altar 100 times. | Spende 100 Mal Ressourcen am Altar von Ariamaki. |
+| 9099 | Donate resources at Ariamaki's altar 100 times. | Spende 100-mal Ressourcen am Altar von Ariamaki. |
 | 9100 | Donation to Genaros I | Spende an Genaros I |
-| 9101 | Donate resources at Genaros's altar 10 times. | Spende 10 Mal Ressourcen an Genaros' Altar. |
+| 9101 | Donate resources at Genaros's altar 10 times. | Spende 10-mal Ressourcen am Altar von Genaros. |

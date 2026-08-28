@@ -59,46 +59,46 @@
 | 4656 | The Competent {SPECX_WARDEN} X | Meisterschaft: {SPECX_WARDEN} X |
 | 4657 | Complete 100 Realm Quests using the {SPECX_WARDEN} specialization. | Schließe 100 Reichsquests mit der Spezialisierung {SPECX_WARDEN} ab. |
 | 4658 | Master of Abominations I | Meister der Abscheulichkeiten I |
-| 4659 | Defeat the Master of Abominations 1 time. | Besiege den Meister der Abscheulichkeiten 1 Mal. |
+| 4659 | Defeat the Master of Abominations 1 time. | Besiege the Master of Abominations 1-mal. |
 | 4660 | Master of Abominations II | Meister der Abscheulichkeiten II |
-| 4661 | Defeat the Master of Abominations 2 times. | Besiege den Meister der Abscheulichkeiten 2 Mal. |
+| 4661 | Defeat the Master of Abominations 2 times. | Besiege the Master of Abominations 2-mal. |
 | 4662 | Master of Abominations III | Meister der Abscheulichkeiten III |
-| 4663 | Defeat the Master of Abominations 3 times. | Besiege den Meister der Abscheulichkeiten 3 Mal. |
+| 4663 | Defeat the Master of Abominations 3 times. | Besiege the Master of Abominations 3-mal. |
 | 4664 | Master of Abominations IV | Meister der Abscheulichkeiten IV |
-| 4665 | Defeat the Master of Abominations 4 times. | Besiege den Meister der Abscheulichkeiten 4 Mal. |
+| 4665 | Defeat the Master of Abominations 4 times. | Besiege the Master of Abominations 4-mal. |
 | 4666 | Master of Abominations V | Meister der Abscheulichkeiten V |
-| 4667 | Defeat the Master of Abominations 5 times. | Besiege den Meister der Abscheulichkeiten 5 Mal. |
+| 4667 | Defeat the Master of Abominations 5 times. | Besiege the Master of Abominations 5-mal. |
 | 4668 | Master of Abominations VI | Meister der Abscheulichkeiten VI |
-| 4669 | Defeat the Master of Abominations 6 times. | Besiege den Meister der Abscheulichkeiten 6 Mal. |
+| 4669 | Defeat the Master of Abominations 6 times. | Besiege the Master of Abominations 6-mal. |
 | 4670 | Master of Abominations VII | Meister der Abscheulichkeiten VII |
-| 4671 | Defeat the Master of Abominations 7 times. | Besiege den Meister der Abscheulichkeiten 7 Mal. |
+| 4671 | Defeat the Master of Abominations 7 times. | Besiege the Master of Abominations 7-mal. |
 | 4672 | Master of Abominations VIII | Meister der Abscheulichkeiten VIII |
-| 4673 | Defeat the Master of Abominations 8 times. | Besiege den Meister der Abscheulichkeiten 8 Mal. |
+| 4673 | Defeat the Master of Abominations 8 times. | Besiege the Master of Abominations 8-mal. |
 | 4674 | Master of Abominations IX | Meister der Abscheulichkeiten IX |
-| 4675 | Defeat the Master of Abominations 9 times. | Besiege den Meister der Abscheulichkeiten 9 Mal. |
+| 4675 | Defeat the Master of Abominations 9 times. | Besiege the Master of Abominations 9-mal. |
 | 4676 | Master of Abominations X | Meister der Abscheulichkeiten X |
-| 4677 | Defeat the Master of Abominations 10 times. | Besiege den Meister der Abscheulichkeiten 10 Mal. |
+| 4677 | Defeat the Master of Abominations 10 times. | Besiege the Master of Abominations 10-mal. |
 | 4678 | Master of Alementals I | Meister der Alementale I |
-| 4679 | Defeat the Master of Alementals 1 time. | Besiege den Meister der Alementale 1 Mal. |
+| 4679 | Defeat the Master of Alementals 1 time. | Besiege the Master of Alementals 1-mal. |
 | 4680 | Master of Alementals II | Meister der Alementale II |
-| 4681 | Defeat the Master of Alementals 2 times. | Besiege den Meister der Alementale 2 Mal. |
+| 4681 | Defeat the Master of Alementals 2 times. | Besiege the Master of Alementals 2-mal. |
 | 4682 | Master of Alementals III | Meister der Alementale III |
-| 4683 | Defeat the Master of Alementals 3 times. | Besiege den Meister der Alementale 3 Mal. |
+| 4683 | Defeat the Master of Alementals 3 times. | Besiege the Master of Alementals 3-mal. |
 | 4684 | Master of Alementals IV | Meister der Alementale IV |
-| 4685 | Defeat the Master of Alementals 4 times. | Besiege den Meister der Alementale 4 Mal. |
+| 4685 | Defeat the Master of Alementals 4 times. | Besiege the Master of Alementals 4-mal. |
 | 4686 | Master of Alementals V | Meister der Alementale V |
-| 4687 | Defeat the Master of Alementals 5 times. | Besiege den Meister der Alementale 5 Mal. |
+| 4687 | Defeat the Master of Alementals 5 times. | Besiege the Master of Alementals 5-mal. |
 | 4688 | Master of Alementals VI | Meister der Alementale VI |
-| 4689 | Defeat the Master of Alementals 6 times. | Besiege den Meister der Alementale 6 Mal. |
+| 4689 | Defeat the Master of Alementals 6 times. | Besiege the Master of Alementals 6-mal. |
 | 4690 | Master of Alementals VII | Meister der Alementale VII |
-| 4691 | Defeat the Master of Alementals 7 times. | Besiege den Meister der Alementale 7 Mal. |
+| 4691 | Defeat the Master of Alementals 7 times. | Besiege the Master of Alementals 7-mal. |
 | 4692 | Master of Alementals VIII | Meister der Alementale VIII |
-| 4693 | Defeat the Master of Alementals 8 times. | Besiege den Meister der Alementale 8 Mal. |
+| 4693 | Defeat the Master of Alementals 8 times. | Besiege the Master of Alementals 8-mal. |
 | 4694 | Master of Alementals IX | Meister der Alementale IX |
-| 4695 | Defeat the Master of Alementals 9 times. | Besiege den Meister der Alementale 9 Mal. |
+| 4695 | Defeat the Master of Alementals 9 times. | Besiege the Master of Alementals 9-mal. |
 | 4696 | Master of Alementals X | Meister der Alementale X |
-| 4697 | Defeat the Master of Alementals 10 times. | Besiege den Meister der Alementale 10 Mal. |
-| 4698 | Master of Amphisbaenas I | Meister der Amphisbaena I |
-| 4699 | Defeat the Master of Amphisbaenas 1 time. | Besiege den Meister der Amphisbaena 1-mal. |
-| 4700 | Master of Amphisbaenas II | Meister der Amphisbaena II |
-| 4701 | Defeat the Master of Amphisbaenas 2 times. | Besiege den Meister der Amphisbaena 2-mal. |
+| 4697 | Defeat the Master of Alementals 10 times. | Besiege the Master of Alementals 10-mal. |
+| 4698 | Master of Amphisbaenas I | Meister: Amphisbaena I |
+| 4699 | Defeat the Master of Amphisbaenas 1 time. | Besiege den Meister der Rasse Amphisbaena 1-mal. |
+| 4700 | Master of Amphisbaenas II | Meister: Amphisbaena II |
+| 4701 | Defeat the Master of Amphisbaenas 2 times. | Besiege den Meister der Rasse Amphisbaena 2-mal. |

@@ -12,16 +12,16 @@
 | 10309 | Obtain 35 weather effects for your castle. | Erhalte 35 Wettereffekte für deine Burg. |
 | 10310 | Fairweather Friend X | Schönwetterfreund X |
 | 10311 | Obtain 40 weather effects for your castle. | Erhalte 40 Wettereffekte für deine Burg. |
-| 10312 | Master of Calumniers I | Meister der Calumnier I |
-| 10313 | Master of Calumniers II | Meister der Calumnier II |
-| 10314 | Master of Calumniers III | Meister der Calumnier III |
-| 10315 | Master of Calumniers IV | Meister der Calumnier IV |
-| 10316 | Master of Calumniers V | Meister der Calumnier V |
-| 10317 | Master of Calumniers VI | Meister der Calumnier VI |
-| 10318 | Master of Calumniers VII | Meister der Calumnier VII |
-| 10319 | Master of Calumniers VIII | Meister der Calumnier VIII |
-| 10320 | Master of Calumniers IX | Meister der Calumnier IX |
-| 10321 | Master of Calumniers X | Meister der Calumnier X |
+| 10312 | Master of Calumniers I | Meister: Calumnier I |
+| 10313 | Master of Calumniers II | Meister: Calumnier II |
+| 10314 | Master of Calumniers III | Meister: Calumnier III |
+| 10315 | Master of Calumniers IV | Meister: Calumnier IV |
+| 10316 | Master of Calumniers V | Meister: Calumnier V |
+| 10317 | Master of Calumniers VI | Meister: Calumnier VI |
+| 10318 | Master of Calumniers VII | Meister: Calumnier VII |
+| 10319 | Master of Calumniers VIII | Meister: Calumnier VIII |
+| 10320 | Master of Calumniers IX | Meister: Calumnier IX |
+| 10321 | Master of Calumniers X | Meister: Calumnier X |
 | 10322 | Master of Cataclysms I | Meister der Kataklysmen I |
 | 10323 | Master of Cataclysms II | Meister der Kataklysmen II |
 | 10324 | Master of Cataclysms III | Meister der Kataklysmen III |
@@ -42,16 +42,16 @@
 | 10339 | Master of Effigies VIII | Meister der Abbilder VIII |
 | 10340 | Master of Effigies IX | Meister der Abbilder IX |
 | 10341 | Master of Effigies X | Meister der Abbilder X |
-| 10342 | Master of Lucanians I | Meister der Lucanian I |
-| 10343 | Master of Lucanians II | Meister der Lucanian II |
-| 10344 | Master of Lucanians III | Meister der Lucanian III |
-| 10345 | Master of Lucanians IV | Meister der Lucanian IV |
-| 10346 | Master of Lucanians V | Meister der Lucanian V |
-| 10347 | Master of Lucanians VI | Meister der Lucanian VI |
-| 10348 | Master of Lucanians VII | Meister der Lucanian VII |
-| 10349 | Master of Lucanians VIII | Meister der Lucanian VIII |
-| 10350 | Master of Lucanians IX | Meister der Lucanian IX |
-| 10351 | Master of Lucanians X | Meister der Lucanian X |
+| 10342 | Master of Lucanians I | Meister: Lucanian I |
+| 10343 | Master of Lucanians II | Meister: Lucanian II |
+| 10344 | Master of Lucanians III | Meister: Lucanian III |
+| 10345 | Master of Lucanians IV | Meister: Lucanian IV |
+| 10346 | Master of Lucanians V | Meister: Lucanian V |
+| 10347 | Master of Lucanians VI | Meister: Lucanian VI |
+| 10348 | Master of Lucanians VII | Meister: Lucanian VII |
+| 10349 | Master of Lucanians VIII | Meister: Lucanian VIII |
+| 10350 | Master of Lucanians IX | Meister: Lucanian IX |
+| 10351 | Master of Lucanians X | Meister: Lucanian X |
 | 10352 | Master of Marionettes I | Meister der Marionetten I |
 | 10353 | Master of Marionettes II | Meister der Marionetten II |
 | 10354 | Master of Marionettes III | Meister der Marionetten III |
@@ -62,16 +62,16 @@
 | 10359 | Master of Marionettes VIII | Meister der Marionetten VIII |
 | 10360 | Master of Marionettes IX | Meister der Marionetten IX |
 | 10361 | Master of Marionettes X | Meister der Marionetten X |
-| 10362 | Master of Robodomis I | Meister der Robodomi I |
-| 10363 | Master of Robodomis II | Meister der Robodomi II |
-| 10364 | Master of Robodomis III | Meister der Robodomi III |
-| 10365 | Master of Robodomis IV | Meister der Robodomi IV |
-| 10366 | Master of Robodomis V | Meister der Robodomi V |
-| 10367 | Master of Robodomis VI | Meister der Robodomi VI |
-| 10368 | Master of Robodomis VII | Meister der Robodomi VII |
-| 10369 | Master of Robodomis VIII | Meister der Robodomi VIII |
-| 10370 | Master of Robodomis IX | Meister der Robodomi IX |
-| 10371 | Master of Robodomis X | Meister der Robodomi X |
+| 10362 | Master of Robodomis I | Meister: Robodomi I |
+| 10363 | Master of Robodomis II | Meister: Robodomi II |
+| 10364 | Master of Robodomis III | Meister: Robodomi III |
+| 10365 | Master of Robodomis IV | Meister: Robodomi IV |
+| 10366 | Master of Robodomis V | Meister: Robodomi V |
+| 10367 | Master of Robodomis VI | Meister: Robodomi VI |
+| 10368 | Master of Robodomis VII | Meister: Robodomi VII |
+| 10369 | Master of Robodomis VIII | Meister: Robodomi VIII |
+| 10370 | Master of Robodomis IX | Meister: Robodomi IX |
+| 10371 | Master of Robodomis X | Meister: Robodomi X |
 | 10372 | Master of Spacecats I | Meister der Weltraumkatzen I |
 | 10373 | Master of Spacecats II | Meister der Weltraumkatzen II |
 | 10374 | Master of Spacecats III | Meister der Weltraumkatzen III |
