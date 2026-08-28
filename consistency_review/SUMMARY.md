@@ -4,7 +4,7 @@
 - Unique ACTION tokens: 15
 - ACTION token occurrences: 1579
 - Exact action/charge source-word rows: 33
-- Unreviewed duplicate groups: 0
+- Unreviewed duplicate groups: 1
 - Unreviewed token mismatches: 0
 - Unreviewed number/percentage mismatches: 0
 - buff terminology outliers: 0
