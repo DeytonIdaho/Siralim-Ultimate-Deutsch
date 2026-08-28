@@ -45,7 +45,7 @@
 | 1042 | Reactor Tube (Cracked) | Reaktorröhre (Gerissen) |
 | 1043 | Reactor Tube (Empty) | Reaktorröhre (Leer) |
 | 1044 | Reactor Tube (Alternate) | Reaktorröhre (Alternativ) |
-| 1045 | Tavern Floor Tile | Schankraumfliese |
+| 1045 | Tavern Floor Tile | Tavern: Bodenfliese |
 | 1046 | Satyr Plush | Satyr-Plüschtier |
 | 1047 | Carnage Plush | Gemetzel-Plüschtier |
 | 1048 | Azure Dreams Mirrorball | Azurblaue Träume Spiegelkugel |
@@ -54,7 +54,7 @@
 | 1051 | Asura Plush | Asura-Plüschtier |
 | 1052 | Alemental Plush | Alemental-Plüschtier |
 | 1053 | Pilwiz Plush | Pilwiz-Plüschtier |
-| 1054 | Fiend Plush | Dämonenplüsch |
+| 1054 | Fiend Plush | Unhold-Plüschtier |
 | 1055 | Phase Warrior Plush | Plüsch-Phasenkrieger |
 | 1056 | Mimic Plush | Mimik-Plüsch |
 | 1057 | Dryad Plush | Dryaden-Plüschtier |
@@ -62,7 +62,7 @@
 | 1059 | Manticore Plush | Mantikor-Plüschtier |
 | 1060 | Skeleton Plush | Skelett-Plüsch |
 | 1061 | Phoenix Plush | Phönix-Plüsch |
-| 1062 | Hemomancer Plush | Hämomant-Plüschtier |
+| 1062 | Hemomancer Plush | Blutmagier-Plüschtier |
 | 1063 | Imp Plush | Kobold-Plüschtier |
 | 1064 | Bard Plush | Barden-Plüschtier |
 | 1065 | Abomination Plush | Abscheulichkeits-Plüschtier |
@@ -87,18 +87,18 @@
 | 1084 | Titan's Wound Scar 2 (H) | Titanenwunde Narbe 2 (H) |
 | 1085 | Titan's Wound Scar 2 (V) | Titanenwunde Narbe 2 (V) |
 | 1086 | Titan's Wound Ribcage | Rippenkorb der Titanenwunde |
-| 1087 | Unsullied Meadows Tent | Zelt der Unbefleckten Wiesen |
-| 1088 | Unsullied Meadows Gems | Juwelen der Unbefleckten Wiesen |
-| 1089 | Unsullied Meadows Feather | Feder der Unbefleckten Wiesen |
-| 1090 | Unsullied Meadows Totem (Corrupted) | Totem der Unbefleckten Wiesen (Verdorben) |
-| 1091 | Unsullied Meadows Totem | Totem der unbefleckten Auen |
-| 1092 | Unsullied Meadows Pinwheel | Unbefleckte Wiesen-Windrad |
-| 1093 | Unsullied Meadows Water | Wasser der unbefleckten Wiesen |
-| 1094 | Unsullied Meadows Effigy | Bildnis der Unbefleckten Wiesen |
-| 1095 | Unsullied Meadows Log | Unbefleckte Wiesen Protokoll |
-| 1096 | Unsullied Meadows Haybale | Unbefleckte Wiesen-Heuballen |
-| 1097 | Unsullied Meadows Flowers (A) | Unbefleckte Wiesenblumen (A) |
-| 1098 | Unsullied Meadows Flowers (B) | Unbefleckte Wiesenblumen (B) |
-| 1099 | Unsullied Meadows Sunflower | Unbefleckte Auen-Sonnenblume |
-| 1100 | Unsullied Meadows Tree | Baum der Unbefleckten Wiesen |
-| 1101 | Unsullied Meadows Sunflowers | Unbefleckte Auen-Sonnenblumen |
+| 1087 | Unsullied Meadows Tent | Unbefleckte Wiesen: Zelt |
+| 1088 | Unsullied Meadows Gems | Unbefleckte Wiesen: Edelsteine |
+| 1089 | Unsullied Meadows Feather | Unbefleckte Wiesen: Feder |
+| 1090 | Unsullied Meadows Totem (Corrupted) | Unbefleckte Wiesen: Totem (verdorben) |
+| 1091 | Unsullied Meadows Totem | Unbefleckte Wiesen: Totem |
+| 1092 | Unsullied Meadows Pinwheel | Unbefleckte Wiesen: Windrad |
+| 1093 | Unsullied Meadows Water | Unbefleckte Wiesen: Wasser |
+| 1094 | Unsullied Meadows Effigy | Unbefleckte Wiesen: Bildnis |
+| 1095 | Unsullied Meadows Log | Unbefleckte Wiesen: Baumstamm |
+| 1096 | Unsullied Meadows Haybale | Unbefleckte Wiesen: Heuballen |
+| 1097 | Unsullied Meadows Flowers (A) | Unbefleckte Wiesen: Blumen (A) |
+| 1098 | Unsullied Meadows Flowers (B) | Unbefleckte Wiesen: Blumen (B) |
+| 1099 | Unsullied Meadows Sunflower | Unbefleckte Wiesen: Sonnenblume |
+| 1100 | Unsullied Meadows Tree | Unbefleckte Wiesen: Baum |
+| 1101 | Unsullied Meadows Sunflowers | Unbefleckte Wiesen: Sonnenblumen |

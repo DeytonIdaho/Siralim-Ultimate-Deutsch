@@ -37,7 +37,7 @@
 | 634 | Priest Plush | Priester-Plüsch |
 | 635 | Reaper Plush | Sensenmann-Plüsch |
 | 636 | Revenant Plush | Revenant-Plüschtier |
-| 637 | Rift Dancer Plush | Dimensionstänzer-Plüschtier |
+| 637 | Rift Dancer Plush | Dimensionsläufer-Plüschtier |
 | 638 | Sanctus Plush | Sanctus Plüsch |
 | 639 | Seraph Plush | Seraph-Plüschtier |
 | 640 | Shade Plush | Schatten-Plüsch |

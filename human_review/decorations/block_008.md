@@ -82,7 +82,7 @@
 | 779 | The Spring Maiden | Die Frühlingsbraut |
 | 780 | Spring Table | Frühlingstisch |
 | 781 | Spring Throne | Frühlingsthron |
-| 782 | Celestial Altar | Translator: Himmlischer Altar |
+| 782 | Celestial Altar | Himmlischer Altar |
 | 783 | Celestial Banner | Himmlisches Banner |
 | 784 | Celestial Big Rug | Himmlischer großer Teppich |
 | 785 | Celestial Orb | Himmlische Kugel |

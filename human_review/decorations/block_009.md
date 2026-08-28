@@ -35,7 +35,7 @@
 | 832 | Licorice Tree | Lakritzbaum |
 | 833 | Bonbons | Bonbons |
 | 834 | Friend-shaped Dough | Freundesförmiger Teig |
-| 835 | Birthday Table | Geburtstagstabelle |
+| 835 | Birthday Table | Geburtstagstisch |
 | 836 | Birthday Throne | Geburtstagthron |
 | 837 | Basic Tribute | Einfacher Tribut |
 | 838 | Basic Big Rug | Einfacher großer Teppich |
@@ -44,7 +44,7 @@
 | 841 | Basic Long Rug | Einfacher langer Teppich |
 | 842 | Basic Chair (Stone) | Einfacher Stuhl (Stein) |
 | 843 | Basic Chair (Wood) | Einfacher Stuhl (Holz) |
-| 844 | Basic Table | Grundtabelle |
+| 844 | Basic Table | Einfacher Tisch |
 | 845 | Basic Throne | Einfacher Thron |
 | 846 | Realm Altar of Surathli | Reichsaltar von Surathli |
 | 847 | Realm Altar of Erebyss | Reichsaltar von Erebyss |
@@ -66,7 +66,7 @@
 | 863 | Realm Altar of Mortem | Reichsaltar von Mortem |
 | 864 | Realm Altar of Venedon | Reichsaltar von Venedon |
 | 865 | Realm Altar of Tenebris | Reichsaltar von Tenebris |
-| 866 | Realm Altar of Perdition | Altar des Reichs der Verdammnis |
+| 866 | Realm Altar of Perdition | Reichsaltar von Perdition |
 | 867 | Archery Target | Bogenschießziel |
 | 868 | Arena Banner | Arena-Banner |
 | 869 | Ceremonial Sword Case | Zeremonielle Schwertschatulle |
@@ -84,21 +84,21 @@
 | 881 | Sparktail Plush | Funkenflausch-Plüschtier |
 | 882 | Shambler Plush | Shambler-Plüschtier |
 | 883 | Court Jester | Hofnarr |
-| 884 | Regalis' Floor Tile | Regalis' Bodenfliese |
-| 885 | Aeolian's Floor Tile | Aeolians Bodenfliese |
-| 886 | Apocranox's Floor Tile | Apocranox's Bodenfliese |
-| 887 | Azural's Floor Tile | Azurals Bodenfliese |
-| 888 | Erebyss' Floor Tile | Erebyss' Bodenfliese |
-| 889 | Friden's Floor Tile | Fridens Bodenfliese |
-| 890 | Gonfurian's Floor Tile | Gonfurians Bodenfliese |
-| 891 | Lister's Floor Tile | Lister's Bodenfliese |
-| 892 | Meraxis's Floor Tile | Meraxis' Bodenfliese |
-| 893 | Perdition's Floor Tile | Kachel des Verderbens |
-| 894 | Tartarith's Floor Tile | Tartariths Bodenfliese |
-| 895 | Tenebris' Floor Tile | Bodenfliese von Tenebris |
-| 896 | Torun's Floor Tile | Turins Bodenfliese |
-| 897 | Venedon's Floor Tile | Venedons Bodenfliese |
-| 898 | Vertraag's Floor Tile | Vertraags Bodenfliese |
-| 899 | Vulcanar's Floor Tile | Vulcanars Bodenfliese |
-| 900 | Yseros' Floor Tile | Yseros' Bodenfliese |
-| 901 | Zonte's Floor Tile | Zontes Bodenfliese |
+| 884 | Regalis' Floor Tile | Regalis': Bodenfliese |
+| 885 | Aeolian's Floor Tile | Aeolian's: Bodenfliese |
+| 886 | Apocranox's Floor Tile | Apocranox's: Bodenfliese |
+| 887 | Azural's Floor Tile | Azural's: Bodenfliese |
+| 888 | Erebyss' Floor Tile | Erebyss': Bodenfliese |
+| 889 | Friden's Floor Tile | Friden's: Bodenfliese |
+| 890 | Gonfurian's Floor Tile | Gonfurian's: Bodenfliese |
+| 891 | Lister's Floor Tile | Lister's: Bodenfliese |
+| 892 | Meraxis's Floor Tile | Meraxis's: Bodenfliese |
+| 893 | Perdition's Floor Tile | Perdition's: Bodenfliese |
+| 894 | Tartarith's Floor Tile | Tartarith's: Bodenfliese |
+| 895 | Tenebris' Floor Tile | Tenebris': Bodenfliese |
+| 896 | Torun's Floor Tile | Torun's: Bodenfliese |
+| 897 | Venedon's Floor Tile | Venedon's: Bodenfliese |
+| 898 | Vertraag's Floor Tile | Vertraag's: Bodenfliese |
+| 899 | Vulcanar's Floor Tile | Vulcanar's: Bodenfliese |
+| 900 | Yseros' Floor Tile | Yseros': Bodenfliese |
+| 901 | Zonte's Floor Tile | Zonte's: Bodenfliese |

@@ -19,13 +19,13 @@
 | 16 | The Priest | Der Priester |
 | 17 | Lister's Table | Listers Tisch |
 | 18 | Lister's Throne | Listers Thron |
-| 19 | Tribute to Perdition | Tribut an den Untergang |
-| 20 | Perdition's Banner | Verdammnisbanner |
-| 21 | Perdition's Big Rug | Verderbens großer Teppich |
-| 22 | Perdition's Lantern | Laterne der Verdammnis |
-| 23 | Perdition's Chair | Stuhl der Verdammnis |
-| 24 | Perdition's Pillar | Säule der Verdammnis |
-| 25 | Perdition's Long Rug | Teppich der langen Verdammnis |
+| 19 | Tribute to Perdition | Tribut an den Perdition |
+| 20 | Perdition's Banner | Perditions Banner |
+| 21 | Perdition's Big Rug | Perditions großer Teppich |
+| 22 | Perdition's Lantern | Perditions Laterne |
+| 23 | Perdition's Chair | Perditions Stuhl |
+| 24 | Perdition's Pillar | Perditions Säule |
+| 25 | Perdition's Long Rug | Perditions langer Teppich |
 | 26 | Twin Blades | Zwillingsklingen |
 | 27 | Iron Will | Eiserner Wille |
 | 28 | Energy Flower | Energieblume |
@@ -33,9 +33,9 @@
 | 30 | Spectral Coral | Spektrales Korall |
 | 31 | Energized Deadwood | Energetisiertes Totholz |
 | 32 | Ghost Vines | Geistranken |
-| 33 | Grim Arbiter | Finsterer Richter |
-| 34 | Perdition's Table | Tisch der Verdammnis |
-| 35 | Perdition's Throne | Thron der Verdammnis |
+| 33 | Grim Arbiter | Finsterer Schlichter |
+| 34 | Perdition's Table | Perditions Tisch |
+| 35 | Perdition's Throne | Perditions Thron |
 | 36 | Tribute to Yseros | Tribut an Yseros |
 | 37 | Yseros' Banner | Yseros' Banner |
 | 38 | Yseros' Big Rug | Yseros' großer Teppich |

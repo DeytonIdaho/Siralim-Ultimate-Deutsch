@@ -63,7 +63,7 @@
 | 160 | Aeolian's Big Rug | Aeolians großer Teppich |
 | 161 | Aeolian's Glowtree | Aeolians Leuchtbaum |
 | 162 | Aeolian's Chair | Aeolians Stuhl |
-| 163 | Aeolian's Pillar | Säule des Aeolus |
+| 163 | Aeolian's Pillar | Aeolians Säule |
 | 164 | Aeolian's Long Rug | Aeolians langer Teppich |
 | 165 | Take Flight | Abheben |
 | 166 | Meadow | Wiese |

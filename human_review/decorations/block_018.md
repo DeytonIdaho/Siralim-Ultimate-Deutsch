@@ -29,25 +29,25 @@
 | 1726 | Ariamaki Plush | Ariamaki Plüschtier |
 | 1727 | Anneltha Plush | Anneltha-Plüschtier |
 | 1728 | Alexandria Plush | Alexandria Plüschtier |
-| 1729 | T'mere M'rgo's Floor Tile | T'mere M'rgos Bodenfliese |
-| 1730 | 4080's Floor Tile | 4080er Bodenfliese |
-| 1731 | Reclusa's Floor Tile | Bodenfliese von Reclusa |
-| 1732 | Muse's Floor Tile | Musenfliese |
-| 1733 | Genaros's Floor Tile | Genaros' Bodenfliese |
-| 1734 | Ariamaki's Floor Tile | Ariamakis Bodenfliese |
-| 1735 | Anneltha's Floor Tile | Annelthas Bodenfliese |
-| 1736 | Alexandria's Floor Tile | Alexandrias Bodenfliese |
-| 1737 | Arcade Floor Tile | Spielhallen-Bodenfliese |
-| 1738 | Shallan's Floor Tile | Shallans Bodenfliese |
-| 1739 | Fae Lands Floor Tile | Feenland-Bodenfliese |
-| 1740 | Gambler's Hive Floor Tile | Spielerhöhlen-Bodenfliese |
-| 1741 | Astral Gallery Floor Tile | Astralgalerie-Bodenfliese |
-| 1742 | Overgrown Temple Floor Tile | Überwucherter Tempelbodenfliese |
-| 1743 | Land of Breath & Balance Floor Tile | Land des Atems & Gleichgewichts Bodenfliese |
-| 1744 | Forbidden Depths Floor Tile | Verbotene Tiefen Bodenfliese |
-| 1745 | Damarel Floor Tile | Damarel-Bodenfliese |
-| 1746 | Amalgam Gardens Floor Tile | Amalgam-Gärten Bodenfliese |
-| 1747 | Forgotten Lab Floor Tile | Vergessene Laborfliese |
+| 1729 | T'mere M'rgo's Floor Tile | T'mere M'rgo's: Bodenfliese |
+| 1730 | 4080's Floor Tile | 4080's: Bodenfliese |
+| 1731 | Reclusa's Floor Tile | Reclusa's: Bodenfliese |
+| 1732 | Muse's Floor Tile | Muse's: Bodenfliese |
+| 1733 | Genaros's Floor Tile | Genaros's: Bodenfliese |
+| 1734 | Ariamaki's Floor Tile | Ariamaki's: Bodenfliese |
+| 1735 | Anneltha's Floor Tile | Anneltha's: Bodenfliese |
+| 1736 | Alexandria's Floor Tile | Alexandria's: Bodenfliese |
+| 1737 | Arcade Floor Tile | Arcade: Bodenfliese |
+| 1738 | Shallan's Floor Tile | Shallan's: Bodenfliese |
+| 1739 | Fae Lands Floor Tile | Fae Lands: Bodenfliese |
+| 1740 | Gambler's Hive Floor Tile | Gambler's Hive: Bodenfliese |
+| 1741 | Astral Gallery Floor Tile | Astral Gallery: Bodenfliese |
+| 1742 | Overgrown Temple Floor Tile | Overgrown Temple: Bodenfliese |
+| 1743 | Land of Breath & Balance Floor Tile | Land of Breath & Balance: Bodenfliese |
+| 1744 | Forbidden Depths Floor Tile | Forbidden Depths: Bodenfliese |
+| 1745 | Damarel Floor Tile | Damarel: Bodenfliese |
+| 1746 | Amalgam Gardens Floor Tile | Amalgam Gardens: Bodenfliese |
+| 1747 | Forgotten Lab Floor Tile | Forgotten Lab: Bodenfliese |
 | 1748 | Land of B&B Robes | Land der B&B-Roben |
 | 1749 | Land of B&B Scale (Left) | Land der B&B-Skala (Links) |
 | 1750 | Land of B&B Scale (Right) | Land der B&B-Skala (Rechts) |

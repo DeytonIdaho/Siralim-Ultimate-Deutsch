@@ -57,10 +57,10 @@
 | 2454 | Muse (Acryllic) | Muse (Acryllic) |
 | 2455 | Muse (Dark) | Muse (Dunkel) |
 | 2456 | Muse (Pastels) | Muse (Pastels) |
-| 2457 | Perdition (Blue Runes) | Verdammnis (Blaue Runen) |
-| 2458 | Perdition (Green Runes) | Verdammnis (Grüne Runen) |
-| 2459 | Perdition (Red Runes) | Verdammnis (Rote Runen) |
-| 2460 | Perdition (Yellow Runes) | Verdammnis (Gelbe Runen) |
+| 2457 | Perdition (Blue Runes) | Perdition (Blaue Runen) |
+| 2458 | Perdition (Green Runes) | Perdition (Grüne Runen) |
+| 2459 | Perdition (Red Runes) | Perdition (Rote Runen) |
+| 2460 | Perdition (Yellow Runes) | Perdition (Gelbe Runen) |
 | 2461 | Yseros (Sandstorm) | Yseros (Sandsturm) |
 | 2462 | Yseros (Mirage Lights) | Yseros (Truglichter) |
 | 2463 | Surathli (Subtle Radiance) | Surathli (Subtile Ausstrahlung) |

@@ -97,7 +97,7 @@
 | 1394 | Resource Node (Caustic Reactor) | Ressourcenknoten (Ätzreaktor) |
 | 1395 | Resource Node (Titan's Wound) | Ressourcenknoten (Titanenwunde) |
 | 1396 | Mortem Plush | Mortem Plüschtier |
-| 1397 | Perdition Plush | Verdammnisplüsch |
+| 1397 | Perdition Plush | Perditionplüsch |
 | 1398 | Regalis Plush | Regalis-Plüsch |
 | 1399 | Surathli Plush | Surathli-Plüschtier |
 | 1400 | Tartarith Plush | Tartarith-Plüschtier |

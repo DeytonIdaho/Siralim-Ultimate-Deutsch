@@ -5,7 +5,7 @@
 | 2302 | Friden | Friden |
 | 2303 | Lister | Lister |
 | 2304 | Meraxis | Meraxis |
-| 2305 | Perdition | Verdammnis |
+| 2305 | Perdition | Perdition |
 | 2306 | Tartarith | Tartarith |
 | 2307 | Tenebris | Tenebris |
 | 2308 | Torun | Torun |
@@ -57,7 +57,7 @@
 | 2354 | Gonfurian | Gonfurian |
 | 2355 | Lister | Lister |
 | 2356 | Meraxis | Meraxis |
-| 2357 | Perdition | Verdammnis |
+| 2357 | Perdition | Perdition |
 | 2358 | Tartarith | Tartarith |
 | 2359 | Tenebris | Tenebris |
 | 2360 | Torun | Torun |

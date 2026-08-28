@@ -55,8 +55,8 @@
 | 452 | Grimpeeker | Grimpeeker |
 | 453 | Mementos | Mementos |
 | 454 | Rotreed | Rotreed |
-| 455 | Death Table | Todestabelle |
-| 456 | Death Throne | Todesschrein |
+| 455 | Death Table | Todestisch |
+| 456 | Death Throne | Todesthron |
 | 457 | Evil Tree | Böser Baum |
 | 458 | Goreworms | Gorewürmer |
 | 459 | Huskcaps | Huskcaps |
@@ -81,7 +81,7 @@
 | 478 | Maple Rose | Ahorn-Rose |
 | 479 | Moonstalk | Mondstängel |
 | 480 | Pale Wings | Blasse Schwingen |
-| 481 | Life Table | Lebenstabelle |
+| 481 | Life Table | Lebenstisch |
 | 482 | Life Throne | Lebensthron |
 | 483 | Ascended Arbor | Erhabener Hain |
 | 484 | Goldwood | Goldholz |
@@ -98,7 +98,7 @@
 | 495 | Nature Candles | Naturkerzen |
 | 496 | Nature Chair | Naturstuhl |
 | 497 | The Hunter | Der Jäger |
-| 498 | Nature Column | Naturspalte |
+| 498 | Nature Column | Natursäule |
 | 499 | Nature Long Rug | Naturteppich Lang |
 | 500 | The New Nature | Die Neue Natur |
 | 501 | The New Nature (Shiny) | Die Neue Natur (Glänzend) |

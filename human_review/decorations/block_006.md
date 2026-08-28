@@ -7,7 +7,7 @@
 | 504 | Jungle Giant | Dschungelriese |
 | 505 | Peak Lily | Gipfellilie |
 | 506 | Tiny Tree | Winziger Baum |
-| 507 | Nature Table | Naturtabelle |
+| 507 | Nature Table | Naturtisch |
 | 508 | Nature Throne | Naturthron |
 | 509 | Big Red Mushroom | Großer Roter Pilz |
 | 510 | Twine Flower | Zwirnsblume |
@@ -24,7 +24,7 @@
 | 521 | Sorcery Candles | Zauberkerzen |
 | 522 | Sorcery Chair | Zauberstuhl |
 | 523 | The Magister | Der Magister |
-| 524 | Sorcery Column | Säulenzauber |
+| 524 | Sorcery Column | Zaubereisäule |
 | 525 | Sorcery Long Rug | Zauberei Langer Teppich |
 | 526 | The New Sorcery | Die Neue Zauberei |
 | 527 | The New Sorcery (Shiny) | Die Neue Zauberei (Glänzend) |

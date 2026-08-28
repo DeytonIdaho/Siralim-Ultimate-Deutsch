@@ -13,11 +13,11 @@
 | 1110 | Torture Chamber Well | Folterbrunnenkammer |
 | 1111 | Torture Chamber Bones | Folterkammer-Knochen |
 | 1112 | Torture Chamber Puddle | Folterkerker-Pfütze |
-| 1113 | Frostbite Caverns Tomb | Frostbiss-Höhlen-Grabmal |
+| 1113 | Frostbite Caverns Tomb | Frostbiss-Höhlen: Grabmal |
 | 1114 | Frostbite Caverns Campfire | Lagerfeuer der Frostbiss-Höhlen |
 | 1115 | Frostbite Caverns Flag | Flagge der Frostbisshöhlen |
 | 1116 | Frostbite Caverns Igloo | Frostbiss-Höhlen Iglu |
-| 1117 | Frostbite Caverns Firewood | Brennholz der Frostbisshöhlen |
+| 1117 | Frostbite Caverns Firewood | Frostbiss-Höhlen: Brennholz |
 | 1118 | Frostbite Caverns Frozen Yeti | Frostbiss-Höhlen Gefrorener Yeti |
 | 1119 | Frostbite Caverns Grave | Frostbiss-Höhlen Grab |
 | 1120 | Frostbite Caverns Diamond | Diamanthöhlen der Frostbisse |
@@ -25,12 +25,12 @@
 | 1122 | Frostbite Caverns Well | Frostbiss-Höhlen Brunnen |
 | 1123 | Frostbite Caverns Puddle | Pfütze der Frostbisshöhlen |
 | 1124 | Frostbite Caverns Debris | Trümmer der Frostbiss-Höhlen |
-| 1125 | Frostbite Caverns Skeleton | Skelett der Frostbisshöhlen |
-| 1126 | Frostbite Caverns Bush | Frostbiss-Höhlen Busch |
+| 1125 | Frostbite Caverns Skeleton | Frostbiss-Höhlen: Skelett |
+| 1126 | Frostbite Caverns Bush | Frostbiss-Höhlen: Busch |
 | 1127 | Frostbite Caverns Skeletal Hand | Frostbiss-Höhlen Skeletthand |
 | 1128 | Frostbite Caverns Pine Tree | Kiefernbaum der Frostbiss-Höhlen |
-| 1129 | Frostbite Caverns Twigs | Reisigzweige der Frostbisshöhlen |
-| 1130 | Frostbite Caverns Log | Tagebuch der Frostbiss-Höhlen |
+| 1129 | Frostbite Caverns Twigs | Frostbiss-Höhlen: Zweige |
+| 1130 | Frostbite Caverns Log | Frostbiss-Höhlen: Baumstamm |
 | 1131 | Frostbite Caverns Snowcap | Frostbiss-Höhlen Schneekuppe |
 | 1132 | Faraway Enclave Hut | Hütte der Fernen Enklave |
 | 1133 | Faraway Enclave Juju | Entlegene Enklave Juju |
@@ -42,38 +42,38 @@
 | 1139 | Faraway Enclave Plank | Planke der fernen Enklave |
 | 1140 | Faraway Enclave Grass | Grasland der Fernen Enklave |
 | 1141 | Faraway Enclave Planks | Planken der Fernen Enklave |
-| 1142 | Faraway Enclave Tree | Baum der Fernen Enklave |
+| 1142 | Faraway Enclave Tree | Ferne Enklave: Baum |
 | 1143 | Faraway Enclave Starfish | Entlegene Enklave Seestern |
-| 1144 | The Barrens Quicksand | Die Treibsande der Ödlande |
-| 1145 | The Barrens Tent | Das Zelt der Ödlande |
-| 1146 | The Barrens Treasure | Die Schatzlande |
-| 1147 | The Barrens Oasis | Die Oase der Ödlande |
-| 1148 | The Barrens Driftwood | Die Treibholzwüste |
-| 1149 | The Barrens Flowers | Die Blumen der Ödlande |
-| 1150 | The Barrens Skull | Der Schädel der Ödlande |
-| 1151 | The Barrens Cactus (Tall) | Die Ödland-Kaktus (Hoch) |
-| 1152 | The Barrens Cactus (Short) | Die Kakteen der Ödlande (Kurz) |
-| 1153 | The Barrens Slabs | Die Barren-Platten |
-| 1154 | The Barrens Tumbleweed | Die Ödland-Steppenläufer |
-| 1155 | The Barrens Skeleton | Die Skelette der Ödlande |
-| 1156 | The Barrens Ozymandias | Die Ödlande Ozymandias |
-| 1157 | The Barrens Rocks | Die Felsen der Ödlande |
-| 1158 | Blood Grove Squash (1) | Bluthainsquash (1) |
-| 1159 | Blood Grove Squash (2) | Bluthainhaubitze (2) |
-| 1160 | Blood Grove Squash (3) | Bluthainhaubitze (3) |
-| 1161 | Blood Grove Firewood | Bluthainhölzer |
-| 1162 | Blood Grove Tent | Bluthainhütte |
-| 1163 | Blood Grove Pipes | Bluthainhöhlen |
-| 1164 | Blood Grove Cave | Bluthainhöhle |
-| 1165 | Blood Grove Trap | Bluthainfalle |
-| 1166 | Blood Grove Flower | Bluthainhblüte |
-| 1167 | Blood Grove Stone | Bluthainsteine |
-| 1168 | Blood Grove Big Stone | Bluthain Großer Stein |
-| 1169 | Blood Grove Mushroom | Bluthainhutpilz |
-| 1170 | Blood Grove Giant Mushroom | Bluthainhügelriesenpilz |
-| 1171 | Blood Grove Tree | Bluthainhölzer |
-| 1172 | Blood Grove Giant Tree | Bluthainhocheiche |
-| 1173 | Blood Grove Log | Bluthainhütte |
+| 1144 | The Barrens Quicksand | Ödlande: Treibsand |
+| 1145 | The Barrens Tent | Ödlande: Zelt |
+| 1146 | The Barrens Treasure | Ödlande: Schatz |
+| 1147 | The Barrens Oasis | Ödlande: Oase |
+| 1148 | The Barrens Driftwood | Ödlande: Treibholz |
+| 1149 | The Barrens Flowers | Ödlande: Blumen |
+| 1150 | The Barrens Skull | Ödlande: Schädel |
+| 1151 | The Barrens Cactus (Tall) | Ödlande: Kaktus (hoch) |
+| 1152 | The Barrens Cactus (Short) | Ödlande: Kaktus (klein) |
+| 1153 | The Barrens Slabs | Ödlande: Steinplatten |
+| 1154 | The Barrens Tumbleweed | Ödlande: Steppenläufer |
+| 1155 | The Barrens Skeleton | Ödlande: Skelett |
+| 1156 | The Barrens Ozymandias | Ödlande: Ozymandias |
+| 1157 | The Barrens Rocks | Ödlande: Felsen |
+| 1158 | Blood Grove Squash (1) | Bluthain: Kürbis (1) |
+| 1159 | Blood Grove Squash (2) | Bluthain: Kürbis (2) |
+| 1160 | Blood Grove Squash (3) | Bluthain: Kürbis (3) |
+| 1161 | Blood Grove Firewood | Bluthain: Brennholz |
+| 1162 | Blood Grove Tent | Bluthain: Zelt |
+| 1163 | Blood Grove Pipes | Bluthain: Rohre |
+| 1164 | Blood Grove Cave | Bluthain: Höhle |
+| 1165 | Blood Grove Trap | Bluthain: Falle |
+| 1166 | Blood Grove Flower | Bluthain: Blume |
+| 1167 | Blood Grove Stone | Bluthain: Stein |
+| 1168 | Blood Grove Big Stone | Bluthain: Großer Stein |
+| 1169 | Blood Grove Mushroom | Bluthain: Pilz |
+| 1170 | Blood Grove Giant Mushroom | Bluthain: Riesenpilz |
+| 1171 | Blood Grove Tree | Bluthain: Baum |
+| 1172 | Blood Grove Giant Tree | Bluthain: Riesenbaum |
+| 1173 | Blood Grove Log | Bluthain: Baumstamm |
 | 1174 | Sanctum Umbra Brain | Sanctum Umbra Gehirn |
 | 1175 | Sanctum Umbra Mirror | Spiegel des Schattensanktums |
 | 1176 | Sanctum Umbra Obelisk | Sanctum Umbra Obelisk |

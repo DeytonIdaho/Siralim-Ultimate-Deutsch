@@ -97,7 +97,7 @@
 | 2694 | Gonfurian's Landscape | Gonfurians Landschaft |
 | 2695 | Lister's Landscape | Listers Landschaft |
 | 2696 | Meraxis's Landscape | Meraxis' Landschaft |
-| 2697 | Perdition's Landscape | Landschaft der Verdammnis |
+| 2697 | Perdition's Landscape | Landschaft der Perdition |
 | 2698 | Tartarith's Landscape | Tartariths Landschaft |
 | 2699 | Tenebris' Landscape | Tenebris' Landschaft |
 | 2700 | Torun's Landscape | Toruns Landschaft |

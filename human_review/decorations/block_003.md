@@ -87,8 +87,8 @@
 | 284 | Tenebris' Big Rug | Tenebris' großer Teppich |
 | 285 | Tenebris' Brazier | Tenebris' Kohlenbecken |
 | 286 | Tenebris' Chair | Tenebris' Stuhl |
-| 287 | Tenebris' Pillar (Green) | Säule der Finsternis (Grün) |
-| 288 | Tenebris' Pillar (Purple) | Säule der Finsternis (Lila) |
+| 287 | Tenebris' Pillar (Green) | Tenebris’ Säule (Grün) |
+| 288 | Tenebris' Pillar (Purple) | Tenebris’ Säule (Lila) |
 | 289 | Tenebris' Long Rug | Tenebris' Langer Teppich |
 | 290 | Apocrypha | Apokrypha |
 | 291 | Abyss | Abgrund |
@@ -98,7 +98,7 @@
 | 295 | Corrupted Greatroot | Verderbte Großwurzel |
 | 296 | Warlock's Woe | Hexenmeisterleid |
 | 297 | Banished and Chained | Verbannt und Gekettet |
-| 298 | Tenebris' Table | Translator: Tenebris' Tafel |
+| 298 | Tenebris' Table | Tenebris’ Tisch |
 | 299 | Tenebris' Throne | Tenebris' Thron |
 | 300 | Tribute to Torun | Tribut an Torun |
 | 301 | Torun's Banner | Toruns Banner |
