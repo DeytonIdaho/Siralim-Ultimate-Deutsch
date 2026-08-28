@@ -1,0 +1,98 @@
+file,line,english,german
+accessories.csv,24,Buffalo Horn,Büffelhorn
+achievements.csv,622,Buffer I,Puffer I
+achievements.csv,623,Buff creatures 100 times.,Verstärke Kreaturen 100 Mal.
+achievements.csv,624,Buffer II,Puffer II
+achievements.csv,625,Buff creatures 250 times.,Verstärke Kreaturen 250 Mal.
+achievements.csv,626,Buffer III,Puffer III
+achievements.csv,627,Buff creatures 500 times.,Verstärke Kreaturen 500 Mal.
+achievements.csv,628,Buffer IV,Puffer IV
+achievements.csv,629,"Buff creatures 1,000 times.",Verstärke Kreaturen 1.000 Mal.
+achievements.csv,630,Buffer V,Puffer V
+achievements.csv,631,"Buff creatures 2,500 times.",Verstärke Kreaturen 2.500 Mal.
+achievements.csv,632,Buffer VI,Puffer VI
+achievements.csv,633,"Buff creatures 5,000 times.",Verstärke Kreaturen 5.000 Mal.
+achievements.csv,634,Buffer VII,Puffer VII
+achievements.csv,635,"Buff creatures 10,000 times.",Kreaturen 10.000 Mal verstärken.
+achievements.csv,636,Buffer VIII,Puffer VIII
+achievements.csv,637,"Buff creatures 25,000 times.",Verstärke Kreaturen 25.000 Mal.
+achievements.csv,638,Buffer IX,Puffer IX
+achievements.csv,639,"Buff creatures 50,000 times.",Verstärke Kreaturen 50.000 Mal.
+achievements.csv,640,Buffer X,Puffer X
+achievements.csv,641,"Buff creatures 100,000 times.",Verstärke Kreaturen 100.000 Mal.
+achievements.csv,642,Debuffer I,Schwächer I
+achievements.csv,643,Debuff creatures 100 times.,Schwäche Kreaturen 100 Mal.
+achievements.csv,644,Debuffer II,Schwächer II
+achievements.csv,645,Debuff creatures 250 times.,Schwäche Kreaturen 250 Mal.
+achievements.csv,646,Debuffer III,Schwächer III
+achievements.csv,647,Debuff creatures 500 times.,Schwäche Kreaturen 500 Mal.
+achievements.csv,648,Debuffer IV,Schwächer IV
+achievements.csv,649,"Debuff creatures 1,000 times.",Schwäche Kreaturen 1.000 Mal.
+achievements.csv,650,Debuffer V,Schwächer V
+achievements.csv,651,"Debuff creatures 2,500 times.",Schwäche Kreaturen 2.500 Mal.
+achievements.csv,652,Debuffer VI,Schwächer VI
+achievements.csv,653,"Debuff creatures 5,000 times.",Schwäche Kreaturen 5.000 Mal.
+achievements.csv,655,"Debuff creatures 10,000 times.",Schwäche Kreaturen 10.000 Mal.
+achievements.csv,656,Debuffer VIII,Schwächer VIII
+achievements.csv,657,"Debuff creatures 25,000 times.",Schwäche Kreaturen 25.000 Mal.
+achievements.csv,658,Debuffer IX,Schwächer IX
+achievements.csv,659,"Debuff creatures 50,000 times.",Schwäche Kreaturen 50.000 Mal.
+achievements.csv,660,Debuffer X,Schwächer X
+achievements.csv,661,"Debuff creatures 100,000 times.",Schwäche Kreaturen 100.000 Mal.
+achievements.csv,1923,Gain 5 buffs in the overworld.,Erhalte 5 Verstärkungen in der Oberwelt.
+achievements.csv,1925,Gain 10 buffs in the overworld.,Erhalte 10 Verstärkungen in der Oberwelt.
+achievements.csv,1931,Gain 75 buffs in the overworld.,Erhalte 75 Verstärkungen in der Oberwelt.
+achievements.csv,1945,Afflict enemies with 10 debuffs in the overworld.,Füge Feinden 10 Schwächungen in der Oberwelt zu.
+achievements.csv,1951,Afflict enemies with 75 debuffs in the overworld.,Füge Gegnern in der Oberwelt 75 Schwächungen zu.
+achievements.csv,1955,Afflict enemies with 250 debuffs in the overworld.,Füge Gegnern in der Oberwelt 250 Schwächungen zu.
+achievements.csv,1959,Afflict enemies with 750 debuffs in the overworld.,Füge Gegnern in der Oberwelt 750 Schwächungen zu.
+battle.csv,56,Enemies start with 5 buffs.,Gegner beginnen mit 5 Verstärkungen.
+battle.csv,65,Your creatures start with 3 debuffs.,Deine Kreaturen beginnen mit 3 Schwächungen.
+battle.csv,123,Buffs/Debuffs/Minions\nRemoved,Stärkungen/Schwächungen/Diener\nEntfernt
+battle.csv,193,{1} buffed: {2},{1} verstärkt: {2}
+battle.csv,195,{1} debuffed: {2},{1} geschwächt: {2}
+battle.csv,236,{1} has already received too many buffs this turn.,{1} hat in dieser Runde bereits zu viele Verstärkungen erhalten.
+bosses.csv,301,"Do you MIND?! You're enturbulating the inverse negative transflux flow of the local coalescent arcanospheric manifold, you utter buffoon!","Hast du sie nicht ALLE?! Du störst den inversen negativen Transfluxfluss des lokalen kohärenten arkansphärischen Manifolds, du völliger Schwachkopf!"
+cards.csv,392,Your creatures have a 3% chance to ignore incoming debuffs.,"Deine Kreaturen haben eine 3% Chance, eingehende Schwächungen zu ignorieren."
+codex.csv,148,"In each Realm, you'll encounter a variety of interesting objects, some of which will grant your creatures temporary bonuses in battle. As your Favor Rank with the god of that Realm increases, you'll unlock Blessings of the god of that Realm. Each god's blessings are only active in their own Realm, and confer a variety of benefits both in and out of battle called Realm Boosts.\n\nIf you obtain multiple copies of a bonus that take place in the next battle, they will not stack. However, only one of those bonuses will be removed after the battle is finished so they won't be wasted. You are limited to a maximum of 5 buffs, 5 enemy debuffs, and 5 minions granted by these blessings.","In jedem Reich wirst du auf eine Vielzahl interessanter Objekte stoßen, von denen einige deinen Kreaturen vorübergehende Boni im Kampf gewähren. Wenn dein Gunstrang bei dem Gott dieses Reiches steigt, schaltest du Segnungen des Gottes dieses Reiches frei. Die Segnungen jedes Gottes sind nur in seinem eigenen Reich aktiv und gewähren verschiedene Vorteile innerhalb und außerhalb des Kampfes, die als Reichsverstärkungen bezeichnet werden.\n\nWenn du mehrere Kopien eines Bonus erhältst, die im nächsten Kampf wirksam werden, stapeln sie sich nicht. Allerdings wird nach Beendigung des Kampfes nur einer dieser Boni entfernt, sodass sie nicht verschwendet werden. Du bist auf maximal 5 Stärkungen, 5 Schwächungen für Gegner und 5 Diener beschränkt, die durch diese Segnungen gewährt werden."
+codex.csv,261,Your creatures start battles with the specified debuff.,Deine Kreaturen beginnen Kämpfe mit dem angegebenen Malus.
+codex.csv,267,Your creatures can only have a certain amount of buffs at a time. Buffs gained from realm effects do not count against this limit.,"Deine Kreaturen können nur eine bestimmte Anzahl an Verstärkungen gleichzeitig haben. Verstärkungen, die durch Reicheffekte gewonnen werden, zählen nicht gegen dieses Limit."
+codex.csv,301,Increases the duration of buffs granted and debuffs afflicted by the Spell Gem.,"Erhöht die Dauer von Stärkungen und Schwächungen, die durch den Zauberstein gewährt bzw. verursacht werden."
+perks.csv,549,"If your creatures have at least 3 debuffs, they are resistant to debuffs.","Wenn deine Kreaturen mindestens 3 Schwächungen haben, sind sie resistent gegen Schwächungen."
+perks.csv,609,Your creatures' buffs and minions persist through death.,Deine Kreaturen behalten ihre Verstärkungen und Diener auch nach dem Tod bei.
+perks.csv,775,Your creatures' buffs persist through death.,Deine Kreaturen behalten ihre Verstärkungen auch nach dem Tod bei.
+perks.csv,1081,Your creatures' buffs and minions persist through death.,Deine Kreaturen behalten ihre Verstärkungen und Diener auch nach dem Tod bei.
+perks.csv,1307,"Buffs granted by your creatures' Relics last forever. In addition, after your Relics give one of your creatures a buff, they grant all your other creatures that buff as well.","Verbesserungen, die durch die Relikte deiner Kreaturen gewährt werden, halten ewig an. Zusätzlich gewähren deine Relikte, nachdem sie einer deiner Kreaturen eine Verbesserung gegeben haben, allen deinen anderen Kreaturen ebenfalls diese Verbesserung."
+spells.csv,11,"Enemies take a small amount of damage, or a massive amount of damage if they are afflicted with a debuff.","Feinde erleiden einen geringen Schaden oder einen massiven Schaden, wenn sie von einer Schwächung betroffen sind."
+spells.csv,39,Target is afflicted with 3 random debuffs.,Ziel wird mit 3 zufälligen Schwächungen belegt.
+spells.csv,89,Target's buffs and debuffs are removed.,Zieleffekte und Schwächungen werden entfernt.
+spells.csv,229,All the creatures on the battlefield lose their buffs and debuffs.,Alle Kreaturen auf dem Schlachtfeld verlieren ihre Stärkungen und Schwächungen.
+spells.csv,497,Your creatures gain copies of all the target's buffs.,Deine Kreaturen erhalten Kopien aller Stärkungen des Ziels.
+spells.csv,1057,Enemies take a large amount of damage and their buffs and minions are removed.,Feinde erleiden großen Schaden und ihre Verstärkungen und Diener werden entfernt.
+spells.csv,1067,Target {ACTION_casts} all its buffing spells in your favor.,Ziel {ACTION_casts} all seine Stärkungszauber zu deinen Gunsten.
+spells.csv,1089,Enemies' buffs are removed.,Stärkungen der Gegner werden entfernt.
+spells.csv,1101,Caster gains 3 random buffs and is afflicted with 3 random debuffs.,Zaubernder erhält 3 zufällige Stärkungen und wird mit 3 zufälligen Schwächungen belegt.
+spells.csv,1315,"Enemies lose a devastating amount of all stats, and their buffs and minions are removed. This spell is an {SPELL_ultimate}.","Feinde verlieren eine verheerende Menge aller Attribute, und ihre Verstärkungen und Diener werden entfernt. Dieser Zauber ist ein {SPELL_ultimate}."
+spells.csv,1371,"Random enemies take a small amount of damage continuously and are afflicted with a random debuff. After each enemy takes damage, this spell has a 25% chance to end.","Zufällige Gegner erleiden kontinuierlich geringen Schaden und werden mit einer zufälligen Schwächung belegt. Nachdem jeder Gegner Schaden erlitten hat, besteht eine 25% Chance, dass dieser Zauber endet."
+spells.csv,1455,Enemies are afflicted with a random debuff for each dead ally.,Feinde werden für jeden toten Verbündeten mit einer zufälligen Schwächung belegt.
+spells.csv,1495,"Caster's buffs are removed and this Spell Gem's owner steals 5% of the caster's highest stat. This spell cannot be cast manually, but has a 20% chance to be cast by enemies at the start of their turns.","Die Verstärkungen des Zaubernden werden entfernt und der Besitzer dieses Zaubersteins stiehlt 5% des höchsten Attributs des Zaubernden. Dieser Zauber kann nicht manuell gewirkt werden, hat aber eine 20% Chance, von Gegnern zu Beginn ihres Zuges gewirkt zu werden."
+traits.csv,219,"This creature starts battles with 5 random buffs, but cannot gain additional buffs.","Diese Kreatur beginnt Kämpfe mit 5 zufälligen Verstärkungen, kann jedoch keine zusätzlichen Verstärkungen erhalten."
+traits.csv,1025,Your other creatures' buffs persist through death.,Deine Stärkungen auf anderen Kreaturen bleiben nach deren Tod bestehen.
+traits.csv,1055,"When your creatures buff an enemy, they debuff them instead. When your creatures debuff an ally, they buff them instead. This trait does not stack.","Wenn deine Kreaturen einen Feind verstärken, schwächen sie ihn stattdessen. Wenn deine Kreaturen einen Verbündeten schwächen, verstärken sie ihn stattdessen. Dieses Merkmal ist nicht kumulativ."
+traits.csv,2043,Creatures cannot gain buffs.,Kreaturen können keine Stärkungen erhalten.
+traits.csv,2802,Your {RACE_Dryad}s' buffs and minions last forever.,Deine {RACE_Dryad}en-Verstärkungen und -Diener halten ewig.
+traits.csv,3204,The saddle grants protective buffs to all the body parts.,Der Sattel gewährt allen Körperteilen schützende Verstärkungen.
+traits.csv,3477,Alchemist's Buffer,Alchemistischer Puffer
+traits.csv,3641,Ancient Buffoonery,Uralte Narretei
+ui.csv,1245,{1}% Debuff Potency,{1}% Schwächungswirksamkeit
+ui.csv,1635,"As a Cleric, you'll specialize in healing abilities, as well as buffing, resurrection, stat-boosting effects, and providing your creatures with protective barriers. Your creatures will be extremely difficult to kill.","Als Kleriker spezialisierst du dich auf Heilfähigkeiten sowie auf Verstärkungen, Wiederbelebung, Statuswerte-Verbesserungen und das Erschaffen von Schutzbarrieren für deine Kreaturen. Deine Kreaturen werden äußerst schwer zu besiegen sein."
+ui.csv,1643,"As a Necromancer, you'll summon minions to aid your creatures in battle. These minions can do all kinds of things to support your creatures - they can cause damage, boost your creatures' stats, debuff enemies, and much more.","Als Nekromant beschwörst du Diener, die deinen Kreaturen im Kampf beistehen. Diese Diener können allerlei Dinge tun, um deine Kreaturen zu unterstützen - sie können Schaden verursachen, die Werte deiner Kreaturen verbessern, Feinde schwächen und vieles mehr."
+ui.csv,1653,"As a Pyromancer, you'll make heavy use of the Burning debuff to deal damage to enemies over time. In addition, your own creatures will be afflicted with this debuff, but it will heal and empower them rather than dealing damage.","Als Pyromantiker wirst du den Brennen-Statuseffekt intensiv nutzen, um Gegnern über Zeit Schaden zuzufügen. Zusätzlich werden auch deine eigenen Kreaturen von diesem Statuseffekt betroffen sein, aber er wird sie heilen und stärken, anstatt ihnen zu Schaden."
+ui.csv,1655,"As a Dreamshade, you'll utilize the Inverted debuff to cause your foes' damage to instead heal your creatures, and their healing effects to damage their allies.","Als Traumschatten nutzt du den Invertiert-Malus, um zu bewirken, dass der Schaden deiner Feinde stattdessen deine Kreaturen heilt und ihre Heileffekte ihren Verbündeten Schaden zufügen."
+ui.csv,1660,"As a Shadowbringer, you'll utilize the Blighted debuff to damage your foes using numerous healing effects.","Als Schattenbringer nutzt du den Verderbt-Schwächungszustand, um deinen Feinden mit zahlreichen Heileffekten Schaden zuzufügen."
+ui.csv,1671,"As a Mesmerist, you'll manipulate buffs and debuffs to disrupt your enemies while empowering your own creatures. Sleeping and Blind enemies suffer devastating penalties, while your creatures twist spells and status effects into unexpected weapons.","Als Mesmerist manipulierst du Stärkungen und Schwächungen, um deine Feinde zu stören und gleichzeitig deine eigenen Kreaturen zu stärken. Schlafende und blinde Feinde erleiden verheerende Einbußen, während deine Kreaturen Zauber und Statuseffekte in unerwartete Waffen verwandeln."
+ui.csv,2049,"This relic and its bearer's on-heal, on-debuff, and on-buff effects activate 1 additional time.","Dieser Relikt und die Bei-Heilung-, Bei-Schwächung- und Bei-Stärkung-Effekte seines Trägers werden 1 zusätzliches Mal aktiviert."
+ui.csv,2350,[ag_sculpture] Sculptures Afflict Enemies With a Debuff,[ag_sculpture] Skulpturen belegen Feinde mit einer Schwächung
+ui.csv,2409,[ee_spire] Spires Afflict Enemies With a Debuff,[ee_spire] Türme belegen Feinde mit einer Schwächung
+ui.csv,2433,[tc_well] Wells Afflict Enemies With a Debuff,[tc_well] Brunnen belegen Feinde mit einer Schwächung
+vocabulary.csv,238,{CONDNAME_DEBUFF_CONFUSED} creatures have a 50% chance to {ACTION_attack} or {ACTION_cast} harmful spells on their allies.,"Verwirrte Kreaturen haben eine 50% Chance, ihre Verbündeten zu {ACTION_attack} oder schädliche Zauber auf sie zu {ACTION_cast}."
