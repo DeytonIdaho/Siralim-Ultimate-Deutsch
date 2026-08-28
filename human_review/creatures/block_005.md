@@ -21,10 +21,10 @@
 | 418 | Impaler Banshee | Pfähler-Todesfee |
 | 419 | Styx Banshee | Styx Banshee |
 | 420 | Destruction Banshee | Zerstörungs-Banshee |
-| 421 | Pit Worm Tunneler | Grubendrachen-Tunnelgräber |
-| 422 | Spitting Pit Worm | Spuckender Grubendrache |
-| 423 | Pit Worm Gladiator | Grubendrachen-Gladiator |
-| 424 | Accursed Pit Worm | Verfluchter Grubendrache |
+| 421 | Pit Worm Tunneler | Grubenwurm-Tunnelgräber |
+| 422 | Spitting Pit Worm | Spuckender Grubenwurm |
+| 423 | Pit Worm Gladiator | Grubenwurm-Gladiator |
+| 424 | Accursed Pit Worm | Verfluchter Grubenwurm |
 | 425 | Pit Worm Harbinger | Grubenwurm-Vorbote |
 | 426 | Vicious Pit Worm | Bösartiger Grubenwurm |
 | 427 | Ancient Spirit | Uralter Geist |

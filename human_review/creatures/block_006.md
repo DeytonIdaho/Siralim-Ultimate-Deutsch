@@ -31,15 +31,15 @@
 | 528 | Dumpling | Knödel |
 | 529 | Apis Charger | Apis-Stürmer |
 | 530 | Apis Defender | Apis-Verteidiger |
-| 531 | Apis Endurer | Apis-Erdulderín |
+| 531 | Apis Endurer | Apis-Erdulder |
 | 532 | Apis Guardian | Apis-Wächter |
 | 533 | Apis Majesty | Apis Majestät |
 | 534 | Apis Protector | Apis-Beschützer |
-| 535 | Aen Rift Dancer | Aen Rift Tänzer |
-| 536 | Aerum Rift Dancer | Aerum Riss-Tänzer |
-| 537 | Inaer Rift Dancer | Inaer Riss-Tänzer |
-| 538 | Nadin Rift Dancer | Nadin Rift-Tänzerin |
-| 539 | Ramun Rift Dancer | Ramun Riftänzer |
+| 535 | Aen Rift Dancer | Aen-Dimensionsläufer |
+| 536 | Aerum Rift Dancer | Aerum-Dimensionsläufer |
+| 537 | Inaer Rift Dancer | Inaer-Dimensionsläufer |
+| 538 | Nadin Rift Dancer | Nadin-Dimensionsläufer |
+| 539 | Ramun Rift Dancer | Ramun-Dimensionsläufer |
 | 540 | Crazed Leper | Wahnsinniger Aussätziger |
 | 541 | Leper Blightbringer | Aussätziger Seuchenbringer |
 | 542 | Leper Defiler | Aussätziger Schänder |

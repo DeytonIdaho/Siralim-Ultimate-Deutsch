@@ -89,12 +89,12 @@
 | 686 | Judge Familiar | Richter-Vertrauter |
 | 687 | Mystical Familiar | Mystischer Vertrauter |
 | 688 | Palace Familiar | Palastvertrauter |
-| 689 | Monstrous Gargantuan | Monströses Ungetüm |
-| 690 | Sturdy Gargantuan | Robuster Gigant |
-| 691 | Shackled Gargantuan | Gefesselte Riesenkreatur |
-| 692 | Daunting Gargantuan | Bedrohlicher Koloss |
-| 693 | Fearsome Gargantuan | Furchterregende Riesenkreatur |
-| 694 | Forest Gargantuan | Waldungeheuer |
+| 689 | Monstrous Gargantuan | Monströser Gargantuan |
+| 690 | Sturdy Gargantuan | Robuster Gargantuan |
+| 691 | Shackled Gargantuan | Gefesselter Gargantuan |
+| 692 | Daunting Gargantuan | Bedrohlicher Gargantuan |
+| 693 | Fearsome Gargantuan | Furchterregender Gargantuan |
+| 694 | Forest Gargantuan | Wald-Gargantuan |
 | 695 | Vortex Observer | Vortex-Beobachter |
 | 696 | Untamed Vortex | Ungezähmter Wirbel |
 | 697 | Cerebral Vortex | Gedankenwirbel |

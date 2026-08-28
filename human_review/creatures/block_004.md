@@ -25,7 +25,7 @@
 | 322 | Twisted Devil | Verdrehter Teufel |
 | 323 | Cinder Devil | Glutdämon |
 | 324 | Stone Devil | Steiniger Teufel |
-| 325 | Skull Devil | Schädelteuffel |
+| 325 | Skull Devil | Schädelteufel |
 | 326 | Doom Devil | Unheilsteufel |
 | 327 | Krampus | Krampus |
 | 328 | Brownie Mauler | Brownie-Prügler |

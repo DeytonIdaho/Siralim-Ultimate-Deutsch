@@ -37,7 +37,7 @@
 | 134 | Herbling | Kräuterling |
 | 135 | Exotic | Exotisch |
 | 136 | Animation | Animation |
-| 137 | Arbiter | Schiedsrichter |
+| 137 | Arbiter | Schlichter |
 | 138 | Beacon | Leuchtfeuer |
 | 139 | Cherub | Cherub |
 | 140 | Chimera | Chimäre |
@@ -57,8 +57,8 @@
 | 154 | Calumnier | Calumnier |
 | 155 | Cataclysm | Kataklysmus |
 | 156 | Effigy | Abbild |
-| 157 | Eggxotic | Eggxotisch |
-| 158 | Lucanian | Lucanisch |
+| 157 | Eggxotic | Eggxotic |
+| 158 | Lucanian | Lucanian |
 | 159 | Marionette | Marionette |
 | 160 | Robodomi | Robodomi |
 | 161 | Spacecat | Weltraumkatze |

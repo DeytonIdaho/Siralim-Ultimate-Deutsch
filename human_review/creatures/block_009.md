@@ -26,7 +26,7 @@
 | 823 | Revenant Dagon | Wiedergänger Dagon |
 | 824 | Tormented Banshee | Gequälte Banshee |
 | 825 | Sentry Guard | Wachposten |
-| 826 | Gruesome Gargantuan | Grausiger Gigant |
+| 826 | Gruesome Gargantuan | Grausiger Gargantuan |
 | 827 | Shapeshifter Novice | Gestaltwandler-Novize |
 | 828 | Silent Hunter | Stiller Jäger |
 | 829 | Siren Lifetaker | Sirene Lebensnehmerin |
@@ -82,7 +82,7 @@
 | 879 | Tisya | Tisya |
 | 880 | Walken | Walken |
 | 881 | Mumu | Mumu |
-| 882 | Ugat | Wurzel |
+| 882 | Ugat | Ugat |
 | 883 | Yllor | Yllor |
 | 884 | Elqor | Elqor |
 | 885 | Dikya | Dikya |
@@ -93,7 +93,7 @@
 | 890 | Alakadan | Alakadan |
 | 891 | Pandemonium Queen | Königin des Pandemoniums |
 | 892 | Surathli | Surathli |
-| 893 | Aeolian | Aeolisch |
+| 893 | Aeolian | Aeolian |
 | 894 | Azural | Azural |
 | 895 | Erebyss | Erebyss |
 | 896 | Friden | Friden |

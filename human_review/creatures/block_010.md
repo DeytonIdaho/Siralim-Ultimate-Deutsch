@@ -18,7 +18,7 @@
 | 915 | Winegel | Winegel |
 | 916 | Woodka | Woodka |
 | 917 | Pyro Grimoire | Pyro-Grimoire |
-| 918 | Treat Imling | Behandle Imling |
+| 918 | Treat Imling | Treat-Imling |
 | 919 | Trick Imler | Trick Imler |
 | 920 | Spooky Shade | Gruseliger Schatten |
 | 921 | Headless Wight | Kopfloser Wicht |
@@ -98,7 +98,7 @@
 | 995 | Wizened Snaptrap | Verwitterte Schnappfalle |
 | 996 | Parasitic Snaptrap | Parasitäre Schnappfalle |
 | 997 | Alluring Snaptrap | Verführerische Schnappfalle |
-| 998 | Sticky Snaptrap | Klebriger Schnappfalle |
+| 998 | Sticky Snaptrap | Klebrige Schnappfalle |
 | 999 | Sparktail Professor | Funkenruten-Professor |
 | 1000 | Sparktail Officer | Funkenstreif-Offizier |
 | 1001 | Sparktail Student | Funkenruten-Student |

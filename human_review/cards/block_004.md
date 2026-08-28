@@ -72,10 +72,10 @@
 | 369 | Your creatures take 1% less damage for each spell they've cast. | Deine Kreaturen erleiden 1% weniger Schaden für jeden Zauber, den sie gewirkt haben. |
 | 370 | Doubles the potency of these effects. | Verdoppelt die Effektstärke dieser Effekte. |
 | 371 | Your creatures' Ethereal Spell Gems heal 15% more. | Deine Kreaturen heilen durch Ätherische Zaubersteine 15% mehr. |
-| 372 | Your creatures' Ethereal Spell Gems increase/decrease stats 15% more. | Deine Kreaturen-Ätherische Zaubersteine erhöhen/verringern Werte um 15% mehr. |
+| 372 | Your creatures' Ethereal Spell Gems increase/decrease stats 15% more. | Die ätherischen Zaubersteine deiner Kreaturen erhöhen/verringern Werte um 15% mehr. |
 | 373 | Your creatures' Ethereal Spell Gems deal 15% more damage. | Deine Kreaturen verursachen mit Ätherischen Zaubersteinen 15% mehr Schaden. |
 | 374 | Your creatures deal 3% more damage to enemies for each Sealed Spell Gem the enemy has. | Deine Kreaturen verursachen 3% mehr Schaden an Feinden für jeden versiegelten Zauberstein, den der Feind besitzt. |
-| 375 | Your creatures take 3% less damage for each Sealed Spell Gem the enemy has. | Deine Kreaturen erleiden 3% weniger Schaden für jeden versiegelten Zauberstein, das der Gegner besitzt. |
+| 375 | Your creatures take 3% less damage for each Sealed Spell Gem the enemy has. | Deine Kreaturen erleiden 3% weniger Schaden für jeden versiegelten Zauberstein, den der Gegner besitzt. |
 | 376 | Doubles the potency of these effects. | Verdoppelt die Effektstärke dieser Effekte. |
 | 377 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Deine Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
 | 378 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Deine Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |

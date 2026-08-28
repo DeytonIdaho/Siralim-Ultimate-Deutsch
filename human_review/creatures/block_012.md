@@ -2,10 +2,10 @@
 
 | Row | English | German |
 |---:|---|---|
-| 1102 | Nightvelvet Gemling | Nachtsamtedelstein |
-| 1103 | Rockmoss Gemling | Felsmoos-Edelchen |
-| 1104 | Stillfire Gemling | Stillfeuerjuwel |
-| 1105 | Whitestar Gemling | Weißstern-Edelstein |
+| 1102 | Nightvelvet Gemling | Nachtsamt-Edelsteinjüngling |
+| 1103 | Rockmoss Gemling | Felsmoos-Edelsteinjüngling |
+| 1104 | Stillfire Gemling | Stillfeuer-Edelsteinjüngling |
+| 1105 | Whitestar Gemling | Weißstern-Edelsteinjüngling |
 | 1106 | Bloodstone Cruncher | Blutstein-Knirscher |
 | 1107 | Elder Cruncher | Älterer Knirscher |
 | 1108 | Frostbite Cruncher | Frostbiss-Knirscher |
@@ -47,7 +47,7 @@
 | 1144 | Masochist Freak | Masochistischer Freak |
 | 1145 | Phobos Banshee | Phobos Banshee |
 | 1146 | Nix Exile | Nix Exil |
-| 1147 | Marine Pit Worm | Mariner Grubenkreatur |
+| 1147 | Marine Pit Worm | Mariner Grubenwurm |
 | 1148 | Tech Reaper | Tech Sensenmann |
 | 1149 | Holy Wight | Heiliger Wicht |
 | 1150 | Aspect of Decay | Aspekt der Fäulnis |
@@ -61,7 +61,7 @@
 | 1158 | Griffon Veteran | Greifenveteran |
 | 1159 | Bismuth Paragon | Bismuth-Paragon |
 | 1160 | Divine Phoenix | Göttlicher Phönix |
-| 1161 | Nax Rift Dancer | Nax Rift-Tänzer |
+| 1161 | Nax Rift Dancer | Nax-Dimensionsläufer |
 | 1162 | Kaito Seraph | Kaito Seraph |
 | 1163 | Valkyrie Priestess | Walküren-Priesterin |
 | 1164 | Angel Bat | Engelsfledermaus |
@@ -70,7 +70,7 @@
 | 1167 | Centaur Khan | Zentauren-Khan |
 | 1168 | Elf Brawler | Elfen-Raufbold |
 | 1169 | Aspen Ent | Aspen Ent |
-| 1170 | Volcanic Gargantuan | Vulkanischer Gigant |
+| 1170 | Volcanic Gargantuan | Vulkanischer Gargantuan |
 | 1171 | Hanyac Tremor | Hanyac-Beben |
 | 1172 | Villous Wolpertinger | Zottiger Wolpertinger |
 | 1173 | Dragon Spirit | Drachengeist |

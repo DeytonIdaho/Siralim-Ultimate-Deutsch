@@ -31,7 +31,7 @@
 | 28 | Abomination | Abscheulichkeit |
 | 29 | Banshee | Banshee |
 | 30 | Carnage | Gemetzel |
-| 31 | Forsaken | Verlassen |
+| 31 | Forsaken | Verlassener |
 | 32 | Ghoul | Ghul |
 | 33 | Hemomancer | Blutmagier |
 | 34 | Hound | Hund |
@@ -39,9 +39,9 @@
 | 36 | Leper | Aussätziger |
 | 37 | Lich | Lich |
 | 38 | Mummy | Mumie |
-| 39 | Nix | Nichts |
+| 39 | Nix | Nix |
 | 40 | Ossein | Ossein |
-| 41 | Pit Worm | Grubenkreatur |
+| 41 | Pit Worm | Grubenwurm |
 | 42 | Pit Wraith | Grubengeist |
 | 43 | Reaper | Sensenmann |
 | 44 | Revenant | Wiedergänger |
@@ -63,7 +63,7 @@
 | 60 | Ophan | Ophan |
 | 61 | Paragon | Paragon |
 | 62 | Priest | Priester |
-| 63 | Rift Dancer | Dimensionsläufer |
+| 63 | Rift Dancer | Rift Dancer-Dimensionsläufer |
 | 64 | Sanctus | Sanctus |
 | 65 | Seraph | Seraph |
 | 66 | Siren | Sirene |
@@ -82,7 +82,7 @@
 | 79 | Eft | Eft |
 | 80 | Ent | Ent |
 | 81 | Elf | Elf |
-| 82 | Gargantuan | Gigantisch |
+| 82 | Gargantuan | Gargantuan |
 | 83 | Giant | Riese |
 | 84 | Hunter | Jäger |
 | 85 | Imler | Imler |

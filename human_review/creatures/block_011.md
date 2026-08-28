@@ -10,10 +10,10 @@
 | 1007 | Shadow Wolf | Schattenwolf |
 | 1008 | Shadow Demon | Schattendämon |
 | 1009 | Shadow Juggernaut | Schatten-Gigant |
-| 1010 | Angelic Voidlord | Engelshafter Leerefürst |
+| 1010 | Angelic Voidlord | Engelshafter Leerenfürst |
 | 1011 | Vampiric Voidlord | Vampirischer Leerenfürst |
-| 1012 | Feral Voidlord | Wilder Leerefürst |
-| 1013 | Imperial Voidlord | Imperialer Leerefürst |
+| 1012 | Feral Voidlord | Wilder Leerenfürst |
+| 1013 | Imperial Voidlord | Imperialer Leerenfürst |
 | 1014 | Demonic Voidlord | Dämonischer Leerenfürst |
 | 1015 | Subversive Voidlord | Subversiver Leerenfürst |
 | 1016 | Dancing Wisp | Tanzender Irrwisch |
@@ -29,10 +29,10 @@
 | 1026 | Toxic Leech | Giftblutegel |
 | 1027 | Moon Leech | Mondegel |
 | 1028 | Hemomancer Lord | Blutmagier-Fürst |
-| 1029 | Mutant Hemomancer | Mutierter Hämomant |
-| 1030 | Lunar Hemomancer | Mond-Hämomant |
-| 1031 | Hemomancer Devourer | Hämomant-Verschlinger |
-| 1032 | Hemomancer Donor | Hämomant-Spender |
+| 1029 | Mutant Hemomancer | Mutierter Blutmagier |
+| 1030 | Lunar Hemomancer | Mond-Blutmagier |
+| 1031 | Hemomancer Devourer | Blutmagier-Verschlinger |
+| 1032 | Hemomancer Donor | Blutmagier-Spender |
 | 1033 | Hemomancer Seer | Blutmagier-Seher |
 | 1034 | Dusk Ossein | Dämmerungs-Gebein |
 | 1035 | Igneous Ossein | Feuriges Gebein |
@@ -71,7 +71,7 @@
 | 1068 | Soulflayer Prober | Seelenschinder-Sondiergerät |
 | 1069 | Soulflayer Dreamcaster | Seelenschinder Traumwirker |
 | 1070 | Unguided Psychic | Ungeführter Psioniker |
-| 1071 | Unguided Judge | Ungeleiteter Richter |
+| 1071 | Unguided Judge | Ungeführter Richter |
 | 1072 | Unguided Desecrator | Ungeführter Entweiher |
 | 1073 | Unguided Agnostic | Ungeführter Agnostiker |
 | 1074 | Unguided Sadist | Ungezügelter Sadist |
@@ -100,5 +100,5 @@
 | 1097 | Ruby Carbuncle | Rubin-Karfunkel |
 | 1098 | Topaz Carbuncle | Topas-Karfunkel |
 | 1099 | Sapphire Carbuncle | Saphir-Karfunkel |
-| 1100 | Crystaldune Gemling | Kristalldünen-Edelstein |
-| 1101 | Eternaldew Gemling | Ewigstau-Edelstein |
+| 1100 | Crystaldune Gemling | Kristalldünen-Edelsteinjüngling |
+| 1101 | Eternaldew Gemling | Ewigstau-Edelsteinjüngling |

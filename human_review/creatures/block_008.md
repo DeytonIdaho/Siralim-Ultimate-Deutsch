@@ -33,7 +33,7 @@
 | 730 | Gore Abomination | Grauenhafte Abscheulichkeit |
 | 731 | Wandering Abomination | Wandernde Abscheulichkeit |
 | 732 | Nix Creeper | Nix Schleicher |
-| 733 | Nix Guardian | Nichts-Wächter |
+| 733 | Nix Guardian | Nix-Wächter |
 | 734 | Nix Imposter | Nix-Betrüger |
 | 735 | Nix Informer | Nix-Informant |
 | 736 | Nix Scoundrel | Nix Gauner |
