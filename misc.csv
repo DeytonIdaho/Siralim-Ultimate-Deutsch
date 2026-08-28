@@ -13,7 +13,7 @@ L_BOSS_XYRXZYS,,Xyrxzys,ザーザイス,Xyrxzys,Xyrxzys,Xyrxzys,Xyrxzys,Ксир
 L_BOSS_SPOONOR,,Spoonor,スプーナー,Spoonor,Spoonor,Spoonor,Spoonor,Спунор,Spoonor,湯匙人,斯普诺,스푸너,Spoonor,Спунор,Spoonor,Spoonor
 L_BOSS_QILA,,Qila,キラ,Qila,Qila,Qila,Qila,Кила,Qila,奇拉,奇拉,퀼라,Qila,Кіла,Qila,Qila
 L_BOSS_VITJA,,Vitja,ヴィチャ,Vitja,Vitja,Vitja,Vitja,Витя,Vitja,維佳,维佳,비차,Vitja,Вітя,Vitja,Vitja
-L_BOSS_IMPIMPINGTON,,Imp Impington,インプ・インピントン,Kobold Koboldingen,Imp Impington,Diablillo Impington,Diabrete Impington,Бес Импингтон,Imp Impington,小惡魔英彭頓,小鬼英普顿,임프 임핑턴,Chochlik Impington,Імп Імпінгтон,Kobold Koboldstein,İblis İmpington
+L_BOSS_IMPIMPINGTON,,Imp Impington,インプ・インピントン,Imp Impington,Imp Impington,Diablillo Impington,Diabrete Impington,Бес Импингтон,Imp Impington,小惡魔英彭頓,小鬼英普顿,임프 임핑턴,Chochlik Impington,Імп Імпінгтон,Kobold Koboldstein,İblis İmpington
 L_BOSS_ETTA,,Etta,エッタ,Etta,Etta,Etta,Etta,Этта,Etta,艾塔,艾塔,에타,Etta,Етта,Etta,Etta
 L_BOSS_TELLUR,,Tellur,テルル,Tellur,Tellur,Tellur,Tellur,Теллур,Tellur,泰勒爾,泰勒,텔루르,Tellur,Теллур,Tellur,Tellur
 L_BOSS_IMPIMPINGTONPRIME,,Imp Impington Prime,インプ・インピントン・プライム,Imp Impington Prime,Imp Impington Prime,Imp Impington Prime,Diabrete Impington Prime,Бес Импингтон Прайм,Imp Impington Prime,小惡魔英普頓大王,钢铁小鬼英普顿,임프 임핑턴 프라임,Imp Impington Pierwszy,Імп Імпінгтон Прайм,Kobold Koboldstein Opperhoofd,İblis İmpington Üstün
@@ -46,7 +46,7 @@ L_NBOSS_DEATHWALKER,,Deathwalker,デスウォーカー,Todesläufer,Marcheur de 
 L_NBOSS_QILA,,Qila,キラ,Qila,Qila,Qila,Qila,Кила,Qila,奇拉,奇拉,퀼라,Qila,Кіла,Qila,Qila
 L_NBOSS_SCYLLAANDCHARYBDIS,,Scylla and Charybdis,スキュラとカリュブディス,Scylla und Charybdis,Scylla et Charybde,Escila y Caribdis,Cila e Caríbdis,Сцилла и Харибда,Scilla e Cariddi,斯庫拉與卡律布狄斯,斯库拉与卡律布狄斯,스킬라와 카립디스,Scylla i Charybda,Сцилла і Харибда,Scylla en Charybdis,Scylla ve Charybdis
 L_NBOSS_VITJA,,Vitja,ヴィチャ,Vitja,Vitja,Vitja,Vitja,Витя,Vitja,維佳,维佳,비차,Vitja,Вітя,Vitja,Vitja
-L_NBOSS_IMPIMPINGTON,,Imp Impington,インプ・インピントン,Kobold Koboldingen,Imp Impington,Diablillo Impington,Diabrete Impington,Бес Импингтон,Imp Impington,小惡魔英彭頓,小鬼英普顿,임프 임핑턴,Chochlik Impington,Імп Імпінгтон,Kobold Koboldstein,İblis İmpington
+L_NBOSS_IMPIMPINGTON,,Imp Impington,インプ・インピントン,Imp Impington,Imp Impington,Diablillo Impington,Diabrete Impington,Бес Импингтон,Imp Impington,小惡魔英彭頓,小鬼英普顿,임프 임핑턴,Chochlik Impington,Імп Імпінгтон,Kobold Koboldstein,İblis İmpington
 L_NBOSS_JUDGMENTANDMERCY,,Judgment and Mercy,裁きと慈悲,Urteil und Gnade,Jugement et Miséricorde,Juicio y Misericordia,Julgamento e Misericórdia,Суд и Милосердие,Giudizio e Misericordia,審判與慈悲,审判与仁慈,심판과 자비,Osąd i Miłosierdzie,Суд і Милосердя,Oordeel en Genade,Hüküm ve Merhamet
 L_NBOSS_ETTA,,Etta,エッタ,Etta,Etta,Etta,Etta,Этта,Etta,艾塔,艾塔,에타,Etta,Етта,Etta,Etta
 L_NBOSS_TELLUR,,Tellur,テルル,Tellur,Tellur,Tellur,Tellur,Теллур,Tellur,泰魯爾,泰勒,텔루르,Tellur,Теллур,Tellur,Tellur
@@ -72,7 +72,7 @@ L_WBOSS_NEBODAR,,Nebodar,ネボダー,Nebodar,Nebodar,Nebodar,Nebodar,Небод
 L_WBOSS_JOTUN,,Jotun,ヨトゥン,Jotun,Jotun,Jotun,Jotun,Йотун,Jotun,巨魔,约顿,요툰,Jotun,Йотун,Jotun,Jotun
 L_WBOSS_HYDRANOX,,Hydranox,ハイドラノックス,Hydranox,Hydranox,Hydranox,Hydranox,Гидранокс,Hydranox,海德拉諾克斯,海德拉诺克斯,하이드라녹스,Hydranox,Гідранокс,Hydranox,Hydranox
 L_WBOSS_LOIDPRIME,,Loid Prime,ロイド・プライム,Loid Prime,Loid Prime,Loid Prime,Loid Prime,Лоид Прайм,Loid Prime,洛伊德·普萊姆,洛伊德主宰,로이드 프라임,Loid Prime,Лоїд Прайм,Loid Prime,Loid Prime
-L_WBOSS_IMPIMPINGTON,,Imp Impington Reborn,インプ・インピントン・リボーン,Kobold Impington Wiedergeboren,Imp Impington Ressuscité,Diablillo Impington Renacido,Diabrete Impington Renascido,Бес Импингтон Возрожденный,Imp Impington Rinato,小惡魔英彬頓重生,小鬼英普顿重生,임프 임핑턴 환생,Imp Impington Odrodzony,Імп Імпінгтон Відроджений,Kabouter Kabouterton Herboren,İblis Impington Yeniden Doğuş
+L_WBOSS_IMPIMPINGTON,,Imp Impington Reborn,インプ・インピントン・リボーン,Imp Impington Reborn,Imp Impington Ressuscité,Diablillo Impington Renacido,Diabrete Impington Renascido,Бес Импингтон Возрожденный,Imp Impington Rinato,小惡魔英彬頓重生,小鬼英普顿重生,임프 임핑턴 환생,Imp Impington Odrodzony,Імп Імпінгтон Відроджений,Kabouter Kabouterton Herboren,İblis Impington Yeniden Doğuş
 L_WBOSS_THEANCESTOR,,The Ancestor,先祖,Der Ahnherr,L'Ancêtre,El Ancestro,O Ancestral,Предок,L'Antenato,先祖,先祖,선조,Przodek,Предок,De Voorouder,Ata
 L_WBOSS_CALIBAN,,Caliban the Unredeemed,カリバン・ジ・アンリディームド,Caliban der Unerlöste,Caliban l'Irrédimé,Caliban el Irredento,"Caliban, o Irredimido",Калибан Непрощённый,Caliban l'Irredento,不可救贖者卡利班,未被救赎的卡利班,구원받지 못한 칼리반,Caliban Nieodkupiony,Каліба́н Невідку́плений,Caliban de Onverloste,Kurtarılmamış Caliban
 L_WBOSS_MINDWURM,,Mindwurm,マインドワーム,Gedankenwurm,Vermesprit,Gusano mental,Verme Mental,Мыслечервь,Verme Mentale,心靈蟲,蚀心虫,정신벌레,Robak Umysłu,Розумочерв'як,Geestenworm,Zihinsolucanu

@@ -97,7 +97,7 @@
 | 394 | Lunar Horse | Mondpferd |
 | 395 | Vibrant | Lebendig |
 | 396 | Rat | Ratte |
-| 397 | Halloween Aeolian | Halloween Äolisch |
+| 397 | Halloween Aeolian | Halloween Aeolian |
 | 398 | Halloween Apocranox | Halloween Apocranox |
 | 399 | Halloween Aurum | Halloween Aurum |
 | 400 | Halloween Azural | Halloween Azural |

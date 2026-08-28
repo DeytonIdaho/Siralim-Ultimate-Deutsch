@@ -3,25 +3,25 @@
 | Row | English | German |
 |---:|---|---|
 | 402 | Halloween Erebyss | Halloween Erebyss |
-| 403 | Halloween Friden | Halloween Frieden |
+| 403 | Halloween Friden | Halloween Friden |
 | 404 | Halloween Gonfurian | Halloween-Gonfurian |
 | 405 | Halloween Lister | Halloween Lister |
 | 406 | Halloween Meraxis | Halloween Meraxis |
 | 407 | Halloween Mortem | Halloween Mortem |
-| 408 | Halloween Perdition | Halloween-Verdammnis |
+| 408 | Halloween Perdition | Halloween Perdition |
 | 409 | Halloween Regalis | Halloween Regalis |
 | 410 | Halloween Surathli | Halloween Surathli |
 | 411 | Halloween Tartarith | Halloween Tartarith |
 | 412 | Halloween Tenebris | Halloween Tenebris |
 | 413 | Halloween Torun | Halloween Torun |
 | 414 | Halloween Venedon | Halloween Venedon |
-| 415 | Halloween Vertraag | Halloween Vertrag |
+| 415 | Halloween Vertraag | Halloween Vertraag |
 | 416 | Halloween Vulcanar | Halloween Vulcanar |
 | 417 | Halloween Yseros | Halloween Yseros |
 | 418 | Halloween Zonte | Halloween Zonte |
-| 419 | Springtime Aeolian | Frühlings-Äolisch |
+| 419 | Springtime Aeolian | Frühlings-Aeolian |
 | 420 | Springtime Erebyss | Frühlings-Erebyss |
-| 421 | Springtime Lister | Frühlings-Aufzähler |
+| 421 | Springtime Lister | Frühlings-Lister |
 | 422 | Springtime Regalis | Frühlingszeit Regalis |
 | 423 | Springtime Tartarith | Frühlings-Tartarith |
 | 424 | Springtime Torun | Frühlings-Torun |
@@ -33,7 +33,7 @@
 | 430 | Summer Zonte | Sommer Zonte |
 | 431 | Christmas Azural | Weihnachts-Azural |
 | 432 | Christmas Meraxis | Weihnachts-Meraxis |
-| 433 | Christmas Perdition | Weihnachtsverdammnis |
+| 433 | Christmas Perdition | Weihnachts-Perdition |
 | 434 | Christmas Torun | Weihnachts-Torun |
 | 435 | Christmas Venedon | Weihnachts-Venedon |
 | 436 | Christmas Vertraag | Weihnachts-Vertraag |
@@ -79,7 +79,7 @@
 | 476 | Caedo Seraph | Caedo Seraph |
 | 477 | Hooded | Vermummt |
 | 478 | Cephalo | Cephalo |
-| 479 | Complete Form | Formular ausfüllen |
+| 479 | Complete Form | Vollständige Form |
 | 480 | Bloodstalker | Blutjäger |
 | 481 | Night Terror | Nachtschrecken |
 | 482 | Plasma | Plasma |
@@ -92,7 +92,7 @@
 | 489 | Cursed | Verflucht |
 | 490 | Blaaaagghhh! | Blaaaagghhh! |
 | 491 | Master Tamer | Meister-Zähmer |
-| 492 | Initiate | Initiieren |
+| 492 | Initiate | Eingeweihter |
 | 493 | Chickatrice | Hühnatrice |
 | 494 | Bad Omen | Schlechtes Omen |
 | 495 | Deep Fear | Tiefe Furcht |

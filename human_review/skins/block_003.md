@@ -36,23 +36,23 @@
 | 233 | Pilwizard | Zauberpilz |
 | 234 | Temple of Lies | Tempel der Lügen |
 | 235 | Bastion of the Void | Bastion der Leere |
-| 236 | Frostbite Caverns | Frosthöhlen |
+| 236 | Frostbite Caverns | Frostbiss-Höhlen |
 | 237 | Refuge of the Magi | Zuflucht der Magier |
-| 238 | Unsullied Meadows | Unbefleckte Auen |
+| 238 | Unsullied Meadows | Unbefleckte Wiesen |
 | 239 | Torture Chamber | Folterkammer |
 | 240 | Kingdom of Heretics | Königreich der Ketzer |
 | 241 | Great Pandemonium | Großes Pandemonium |
 | 242 | Caustic Reactor | Ätzender Reaktor |
-| 243 | Faraway Enclave | Entlegene Enklave |
+| 243 | Faraway Enclave | Ferne Enklave |
 | 244 | The Barrens | Die Ödlande |
 | 245 | Sanctum Umbra | Sanctum Umbra |
 | 246 | Azure Dream | Azurtraum |
-| 247 | Eternity's End | Ewigkeits Ende |
+| 247 | Eternity's End | Ende der Ewigkeit |
 | 248 | Path of the Damned | Pfad der Verdammten |
 | 249 | Where the Dead Ships Dwell | Wo die toten Schiffe ruhen |
 | 250 | Titan's Wound | Titanenwunde |
 | 251 | Blood Grove | Bluthain |
-| 252 | The Swamplands | Die Sümpfe |
+| 252 | The Swamplands | Sumpflande |
 | 253 | Cutthroat Jungle | Halsabschneider-Dschungel |
 | 254 | Arachnid Nest | Spinnennest |
 | 255 | Treasure Golem 2.0 | Schatzgolem 2.0 |

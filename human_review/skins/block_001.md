@@ -10,7 +10,7 @@
 | 7 | Xyrxzys | Xyrxzys |
 | 8 | Etta | Etta |
 | 9 | Giran | Giran |
-| 10 | Imp Impington | Kobold Koboldingen |
+| 10 | Imp Impington | Imp Impington |
 | 11 | Imp Impington Prime | Imp Impington Prime |
 | 12 | Kraynaks | Kraynaks |
 | 13 | Myrtle | Myrtle |

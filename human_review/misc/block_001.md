@@ -16,7 +16,7 @@
 | 13 | Spoonor | Spoonor |
 | 14 | Qila | Qila |
 | 15 | Vitja | Vitja |
-| 16 | Imp Impington | Kobold Koboldingen |
+| 16 | Imp Impington | Imp Impington |
 | 17 | Etta | Etta |
 | 18 | Tellur | Tellur |
 | 19 | Imp Impington Prime | Imp Impington Prime |
@@ -49,7 +49,7 @@
 | 46 | Qila | Qila |
 | 47 | Scylla and Charybdis | Scylla und Charybdis |
 | 48 | Vitja | Vitja |
-| 49 | Imp Impington | Kobold Koboldingen |
+| 49 | Imp Impington | Imp Impington |
 | 50 | Judgment and Mercy | Urteil und Gnade |
 | 51 | Etta | Etta |
 | 52 | Tellur | Tellur |
@@ -75,7 +75,7 @@
 | 72 | Jotun | Jotun |
 | 73 | Hydranox | Hydranox |
 | 74 | Loid Prime | Loid Prime |
-| 75 | Imp Impington Reborn | Kobold Impington Wiedergeboren |
+| 75 | Imp Impington Reborn | Imp Impington Reborn |
 | 76 | The Ancestor | Der Ahnherr |
 | 77 | Caliban the Unredeemed | Caliban der Unerlöste |
 | 78 | Mindwurm | Gedankenwurm |

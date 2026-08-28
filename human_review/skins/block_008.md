@@ -17,7 +17,7 @@
 | 714 | Follower of Azural | Anhänger von Azural |
 | 715 | Man O' War | Mann der Kriegsflotte |
 | 716 | Yarrr! | Yarrr! |
-| 717 | Follower of Perdition | Anhänger der Verdammnis |
+| 717 | Follower of Perdition | Anhänger von Perdition |
 | 718 | Providence | Vorsehung |
 | 719 | Full House | Volles Haus |
 | 720 | Battleworn | Kampferprobt |

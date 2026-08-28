@@ -20,7 +20,7 @@
 | 817 | Amped | Aufgeladen |
 | 818 | Chimera Cat | Chimärenkatze |
 | 819 | Evil Princess | Böse Prinzessin |
-| 820 | One Braincell | Ein Gehirnzelle |
+| 820 | One Braincell | Eine Gehirnzelle |
 | 821 | Alice | Alice |
 | 822 | Friend | Freund |
 | 823 | Mothicant | Mothicant |
@@ -33,6 +33,6 @@
 | 830 | Classic Chimera | Klassische Chimäre |
 | 831 | Mermaid | Meerjungfrau |
 | 832 | Gilded | Vergoldet |
-| 833 | Nether Orb | Nether-Kugel |
+| 833 | Nether Orb | Nether-Orb |
 | 834 | Stoneheart | Steinherz |
 | 835 | Good Boy | Braver Junge |

@@ -18,7 +18,7 @@
 | 515 | Sorcerer | Zauberer |
 | 516 | Witch Doctor | Hexendoktor |
 | 517 | Warden | Wächter |
-| 518 | Reaver | Plünderer |
+| 518 | Reaver | Reaver |
 | 519 | Rune Knight | Runenritter |
 | 520 | Pyromancer | Pyromant |
 | 521 | Windrunner | Windläufer |
