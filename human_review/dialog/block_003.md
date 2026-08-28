@@ -23,7 +23,7 @@
 | 220 | (It seems Fellowdy was able to escape while you were distracted. Luckily, you managed to survive in one piece... and reap a handsome reward for your troubles as well.) | (Anscheinend konnte Fellowdy entkommen, während du abgelenkt warst. Zum Glück hast du es geschafft, heil davonzukommen... und obendrein eine stattliche Belohnung für deine Mühen zu erhalten.) |
 | 221 | The wayward souls have been redeemed. | Die verirrten Seelen wurden erlöst. |
 | 222 | With the creatures defeated, you are free to take the eggs without interruption. | Mit den besiegten Kreaturen kannst du die Eier nun ungestört an dich nehmen. |
-| 223 | The totem is no longer corrupted! | Der Totem ist nicht länger verdorben! |
+| 223 | The totem is no longer corrupted! | Das Totem ist nicht länger verdorben! |
 | 224 | The obelisk is no longer corrupted! | Der Obelisk ist nicht mehr verdorben! |
 | 225 | Voice of Gonfurian:\nIt was a fierce yet enjoyable battle, was it not? | Stimme von Gonfurian:\nEs war ein harter und doch vergnüglicher Kampf, nicht wahr? |
 | 226 | Voice of Vertraag:\nThe flow of time is in balance once again. | Stimme von Vertraag:\nDer Fluss der Zeit ist wieder im Gleichgewicht. |
@@ -31,7 +31,7 @@
 | 228 | Voice of Torun:\n!@#$ING RIGHT. THERE'S ONLY ROOM HERE FOR ONE ANGRY FACE HERE, AND IT'S ME. | Stimme von Torun:\nVERD@#$T RICHTIG. HIER IST NUR PLATZ FÜR EIN WÜTENDES GESICHT, UND DAS BIN ICH. |
 | 229 | Voice of Regalis:\nThose creatures must have eaten my poor children. That is most unfortunate, but thank you for dealing with them. | Stimme von Regalis:\nDiese Kreaturen müssen meine armen Kinder gefressen haben. Das ist äußerst bedauerlich, aber ich danke dir, dass du dich um sie gekümmert hast. |
 | 230 | Voice of Tartarith:\nGOOD ONE. YOU BROUGHT THEM BACK TO LIFE. THEN YOU HURT AND KILLED THEM AGAIN. | Stimme von Tartarith:\nGUT GEMACHT. DU HAST SIE WIEDER ZUM LEBEN ERWECKT. DANN HAST DU SIE VERLETZT UND ERNEUT GETÖTET. |
-| 231 | Voice of Friden:\nBrilliant! Continue to purge those fiends from my domain. | Stimme von Friden:\nBrilliant! Fahre fort, diese Unholde aus meinem Reich zu vertreiben. |
+| 231 | Voice of Friden:\nBrilliant! Continue to purge those fiends from my domain. | Stimme von Friden:\nBrillant! Fahre fort, diese Unholde aus meinem Reich zu vertreiben. |
 | 232 | After you give the creature a good beating, it heads back to {CASTLENAME}. | Nachdem du der Kreatur eine ordentliche Tracht Prügel verpasst hast, kehrt sie nach {CASTLENAME} zurück. |
 | 233 | Thank you for saving me, {PLAYERNAME}! | Danke, dass du mich gerettet hast, {PLAYERNAME}! |
 | 234 | The treasure chest is no longer cursed, and can be safely looted. | Die Schatztruhe ist nicht mehr verflucht und kann gefahrlos geplündert werden. |
@@ -48,7 +48,7 @@
 | 245 | You cannot bring any {RACE_Avatar} creatures into a realm while using the Deprived specialization. | Du kannst keine {RACE_Avatar} Kreaturen in ein Reich bringen, während du die Entbehrlich-Spezialisierung verwendest. |
 | 246 | Spirit of Elize:\nGreetings, {PLAYERNAME}. Have you come to turn in your Rune of Prophecies?\n\nLet's see how well you performed... | Geist von Elize:\nSei gegrüßt, {PLAYERNAME}. Bist du gekommen, um deine Rune der Prophezeiungen abzugeben?\n\nLass uns sehen, wie gut du dich geschlagen hast... |
 | 247 | Spirit of Elize:\nYou completed a total of {1} lines.\n\nWell done, {PLAYERNAME}. Please accept this reward. | Geist von Elize:\nDu hast insgesamt {1} Zeilen abgeschlossen.\n\nGut gemacht, {PLAYERNAME}. Bitte nimm diese Belohnung an. |
-| 248 | (Your Rune of Prophecies has been refreshed with new tasks for you to complete!) | (Dein Runenzeichen der Prophezeiungen wurde mit neuen Aufgaben für dich aktualisiert!) |
+| 248 | (Your Rune of Prophecies has been refreshed with new tasks for you to complete!) | (Dein Rune der Prophezeiungen wurde mit neuen Aufgaben für dich aktualisiert!) |
 | 249 | Spirit of Elize:\nIt seems you haven't completed any lines of Prophecies yet. | Geist von Elize:\nEs scheint, du hast noch keine Prophezeiungslinien abgeschlossen. |
 | 250 | Everett:\nAh... that particular specialization might not be suitable for you just yet, {PLAYERNAME}.\n\nPerhaps you should first acquire a creature from the {RACE_Avatar} race. Bring me such a creature, and we will begin this project immediately! | Everett:\nAh... diese spezielle Spezialisierung ist für dich vielleicht noch nicht geeignet, {PLAYERNAME}.\n\nVielleicht solltest du zuerst eine Kreatur der Rasse {RACE_Avatar} erwerben. Bring mir solch eine Kreatur, und wir werden dieses Projekt sofort beginnen! |
 | 251 | Everett:\nAh... that particular specialization might not be suitable for you just yet, {PLAYERNAME}. It's far too advanced for you to handle right now.\n\nPerhaps you should unlock all the other specializations and find at least one Anointment first. | Everett:\nAh... diese spezielle Spezialisierung ist vielleicht noch nicht das Richtige für dich, {PLAYERNAME}. Sie ist momentan viel zu fortgeschritten für dich.\n\nVielleicht solltest du erst alle anderen Spezialisierungen freischalten und mindestens eine Salbung finden. |

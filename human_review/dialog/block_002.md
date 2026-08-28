@@ -6,9 +6,9 @@
 | 103 | Giblet the Goblin:\nSigh... I miss my friends. A dragon got 'em good. Ate 'em in one gulp! | Giblet der Goblin:\nSeufz... Ich vermisse meine Freunde. Ein Drache hat sie erwischt. Hat sie mit einem Schluck verschlungen! |
 | 104 | The Ex-Bartender:\nMy whole life's work lost in a single bet... what have I done? | Der Ex-Barkeeper:\nMeine gesamte Lebensarbeit in einer einzigen Wette verloren... was habe ich nur getan? |
 | 105 | Rosebud the Disgruntled Arena Master:\nI'm the former Arena Master of Sithicus! I was fired for trying to fight the arena contestants. But battling is in my blood! It's what I was made for! | Rosebud der missmutige Arenameister:\nIch bin der ehemalige Arenameister von Sithicus! Ich wurde gefeuert, weil ich versucht habe, gegen die Arena-Teilnehmer zu kämpfen. Aber das Kämpfen liegt mir im Blut! Dafür wurde ich geschaffen! |
-| 106 | Rosebud the Disgruntled Arena Master:\nSay... why don't we have a quick battle? If you win (which you won't), I'll give you a special prize.\n\nReady! Set! Fight! | Rosebud der mürrische Arenameister:\nSag mal... wie wäre es mit einem schnellen Kampf? Wenn du gewinnst (was du nicht wirst), gebe ich dir einen besonderen Preis.\n\nFertig! Los! Kämpfe! |
-| 107 | Rosebud the Disgruntled Arena Master:\nNot bad! Not bad at all. But that was merely my practice team - this time, I'm pulling out all the stops!\n\nReady! Set! Fight! | Rosebud der missmutige Arenamaster:\nNicht schlecht! Gar nicht schlecht. Aber das war nur mein Übungsteam - dieses Mal hole ich alles heraus!\n\nFertig! Los! Kämpft! |
-| 108 | Rosebud the Disgruntled Arena Master:\nThat does it! I'm not going easy on you anymore. This time, I'll use creatures that I stole from Sithicus' menagerie! You don't stand a chance.\n\nReady! Set! Fight! | Rosebud der verdrießliche Arenameister:\nDas reicht! Ich werde nicht mehr nachsichtig mit dir sein. Dieses Mal werde ich Kreaturen einsetzen, die ich aus Sithicus' Menagerie gestohlen habe! Du hast keine Chance.\n\nFertig! Los! Kämpfe! |
+| 106 | Rosebud the Disgruntled Arena Master:\nSay... why don't we have a quick battle? If you win (which you won't), I'll give you a special prize.\n\nReady! Set! Fight! | Rosebud der missmutige Arenameister:\nSag mal... wie wäre es mit einem schnellen Kampf? Wenn du gewinnst (was du nicht wirst), gebe ich dir einen besonderen Preis.\n\nFertig! Los! Kämpfe! |
+| 107 | Rosebud the Disgruntled Arena Master:\nNot bad! Not bad at all. But that was merely my practice team - this time, I'm pulling out all the stops!\n\nReady! Set! Fight! | Rosebud der missmutige Arenameister:\nNicht schlecht! Gar nicht schlecht. Aber das war nur mein Übungsteam - dieses Mal hole ich alles heraus!\n\nFertig! Los! Kämpft! |
+| 108 | Rosebud the Disgruntled Arena Master:\nThat does it! I'm not going easy on you anymore. This time, I'll use creatures that I stole from Sithicus' menagerie! You don't stand a chance.\n\nReady! Set! Fight! | Rosebud der missmutige Arenameister:\nDas reicht! Ich werde nicht mehr nachsichtig mit dir sein. Dieses Mal werde ich Kreaturen einsetzen, die ich aus Sithicus' Menagerie gestohlen habe! Du hast keine Chance.\n\nFertig! Los! Kämpfe! |
 | 109 | Rosebud the Disgruntled Arena Master:\nBah! This is hopeless. I'll never be able to beat you. Take your winnings and leave me be! | Rosebud der missmutige Arenameister:\nBah! Das ist hoffnungslos. Ich werde dich nie besiegen können. Nimm deinen Gewinn und lass mich in Ruhe! |
 | 110 | You channel the demonic powers of the enormous statue... | Du kanalisierst die dämonischen Kräfte der gewaltigen Statue... |
 | 111 | You will gain 200% more resources from battles in this Realm. | Du erhältst 200% mehr Ressourcen aus Kämpfen in diesem Reich. |
@@ -45,7 +45,7 @@
 | 142 | The Goblet of Trials is full! Return to {CASTLENAME} to claim your reward. | Der Kelch der Prüfungen ist voll! Kehre nach {CASTLENAME} zurück, um deine Belohnung zu erhalten. |
 | 143 | A mysterious portal appeared nearby. | Ein mysteriöses Portal erschien in der Nähe. |
 | 144 | It seems the leader dropped a Trait Material! | Es scheint, der Anführer hat ein Merkmalsmaterial fallen gelassen! |
-| 145 | Rosebud the Disgruntled Arena Master:\nUgh... not bad. Here's your reward.\n\nI demand a rematch! | Rosebud der mürrische Arenameister:\nUgh... nicht schlecht. Hier ist deine Belohnung.\n\nIch verlange eine Revanche! |
+| 145 | Rosebud the Disgruntled Arena Master:\nUgh... not bad. Here's your reward.\n\nI demand a rematch! | Rosebud der missmutige Arenameister:\nUgh... nicht schlecht. Hier ist deine Belohnung.\n\nIch verlange eine Revanche! |
 | 146 | Rosebud the Disgruntled Arena Master:\nI've been going too easy on you. Give me one more chance - I'll beat you this time around for sure! | Rosebud der missmutige Arenameister:\nIch war zu nachsichtig mit dir. Gib mir noch eine Chance - diesmal werde ich dich ganz sicher besiegen! |
 | 147 | Rosebud the Disgruntled Arena Master:\nBah! This is hopeless. I'll never be able to beat you. Take your winnings and leave me be! | Rosebud der missmutige Arenameister:\nBah! Das ist hoffnungslos. Ich werde dich nie besiegen können. Nimm deinen Gewinn und lass mich in Ruhe! |
 | 148 | A Treasure Golem appeared in the distance! | Ein Schatzgolem erschien in der Ferne! |
@@ -55,8 +55,8 @@
 | 152 | As a reward for defeating your Inner Darkness for the second time, you can now take on several new projects to establish Guilds in your kingdom!\n\nThe Nether Bosses have all grown more powerful. Defeat them once more to obtain a new reward. | Als Belohnung für den zweiten Sieg über deine Innere Dunkelheit kannst du nun mehrere neue Projekte in Angriff nehmen, um Gilden in deinem Königreich zu gründen!\n\nDie Nether-Bosse sind alle mächtiger geworden. Besiege sie erneut, um eine neue Belohnung zu erhalten. |
 | 153 | As a reward for defeating your Inner Darkness for the third time, you will now sometimes encounter mysterious portals in realms that lead to a challenging (and rewarding) new battle! | Als Belohnung für den dritten Sieg über deine Innere Dunkelheit wirst du nun manchmal auf mysteriöse Portale in den Reichen stoßen, die zu einem herausfordernden (und lohnenden) neuen Kampf führen! |
 | 154 | Caliban, God of Dreams:\nI have returned! Though I am merely a shadow of my former self.\n\nStill, I will have my revenge on you, {PLAYERNAME}. Meet me at the Gate of the Gods if you dare. | Caliban, Gott der Träume:\nIch bin zurückgekehrt! Obwohl ich nur ein Schatten meines früheren Selbst bin.\n\nTrotzdem werde ich meine Rache an dir haben, {PLAYERNAME}. Triff mich am Tor der Götter, wenn du dich traust. |
-| 155 | Your {1}'s personality is now {2}. | Deine {1} hat jetzt die Persönlichkeit {2}. |
-| 156 | This creature has already used 15 scrolls. It cannot use any more. | Diese Kreatur hat bereits 15 Schriftrollen verwendet. Es kann keine weiteren benutzen. |
+| 155 | Your {1}'s personality is now {2}. | Die Persönlichkeit von {1} ist jetzt {2}. |
+| 156 | This creature has already used 15 scrolls. It cannot use any more. | Diese Kreatur hat bereits 15 Schriftrollen verwendet. Sie kann keine weiteren benutzen. |
 | 157 | You cannot use this item outside of your castle. | Du kannst diesen Gegenstand außerhalb deines Schlosses nicht verwenden. |
 | 158 | Your {1}'s base {2} increased by 1. | Dein {1} hat seinen Basis-{2} um 1 erhöht. |
 | 159 | What class does the {1} belong to? | Zu welcher Klasse gehört der {1}? |
@@ -67,12 +67,12 @@
 | 164 | Your adventure has come to an end at Realm Depth {1}.\n\nSpeak to Everett to begin your journey anew! | Dein Abenteuer ist in Reichstiefe {1} zu Ende gegangen.\n\nSprich mit Everett, um deine Reise von Neuem zu beginnen! |
 | 165 | That was big of you. Good job. | Das war großzügig von dir. Gut gemacht. |
 | 166 | The fusion was successful! | Die Fusion war erfolgreich! |
-| 167 | Abomination Plush:\nStop that! | Abominations-Plüschtier:\nHör auf damit! |
+| 167 | Abomination Plush:\nStop that! | Abscheulichkeits-Plüschtier:\nHör auf damit! |
 | 168 | Abomination Plush:\nStop it, I say! | Abscheulichkeits-Plüschtier:\nHör auf damit, sage ich! |
-| 169 | Abomination Plush:\nYou're quite annoying! | Abomination-Plüschtier:\nDu bist ziemlich nervig! |
-| 170 | Abomination Plush:\nNow you're making me angry! | Abscheulichkeits-Plüsch:\nJetzt machst du mich wütend! |
+| 169 | Abomination Plush:\nYou're quite annoying! | Abscheulichkeits-Plüschtier:\nDu bist ziemlich nervig! |
+| 170 | Abomination Plush:\nNow you're making me angry! | Abscheulichkeits-Plüschtier:\nJetzt machst du mich wütend! |
 | 171 | Abomination Plush:\nSTOP. NOW. | Abscheulichkeits-Plüschtier:\nSTOPP. SOFORT. |
-| 172 | Abomination Plush:\nYou are the worst thing that has ever happened to me. Take this Mana and leave me alone! | Abscheulichkeits-Plüsch:\nDu bist das Schlimmste, was mir je passiert ist. Nimm dieses Mana und lass mich in Ruhe! |
+| 172 | Abomination Plush:\nYou are the worst thing that has ever happened to me. Take this Mana and leave me alone! | Abscheulichkeits-Plüschtier:\nDu bist das Schlimmste, was mir je passiert ist. Nimm dieses Mana und lass mich in Ruhe! |
 | 173 | You defeated {1}! | Du hast {1} besiegt! |
 | 174 | The False Nether Orb of {1} appeared.\n\nApproach it to claim your reward. | Der Falsche Nether-Orb von {1} ist erschienen.\n\nNähere dich ihm, um deine Belohnung zu erhalten. |
 | 175 | Congratulations! You have Ascended your {1} specialization!\n\nYou now have access to a powerful new perk as well as an exclusive decoration and creature skin. | Glückwunsch! Du hast deine {1}-Spezialisierung aufgestiegen!\n\nDu hast jetzt Zugang zu einem mächtigen neuen Vorteil sowie einer exklusiven Dekoration und einem Kreatur-Skin. |

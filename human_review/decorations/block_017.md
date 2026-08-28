@@ -19,7 +19,7 @@
 | 1616 | Arachnid Nest Shrine | Schrein des Spinnennests |
 | 1617 | The Barrens Shrine | Die Ödland-Schrein |
 | 1618 | The Barrens Buried Treasure | Die Verborgenen Schätze der Ödlande |
-| 1619 | Faraway Enclave Starfish | Entlegene Enklave Seestern |
+| 1619 | Faraway Enclave Starfish | Ferne Enklave: Seestern |
 | 1620 | Caustic Reactor Sewer | Ätzender Reaktor-Abwasserkanal |
 | 1621 | Resource Node (The Barrens) | Ressourcenknoten (Die Ödlande) |
 | 1622 | Resource Node (Dead Ships) | Ressourcenknoten (Tote Schiffe) |

@@ -14,36 +14,36 @@
 | 1111 | Torture Chamber Bones | Folterkammer-Knochen |
 | 1112 | Torture Chamber Puddle | Folterkerker-Pfütze |
 | 1113 | Frostbite Caverns Tomb | Frostbiss-Höhlen: Grabmal |
-| 1114 | Frostbite Caverns Campfire | Lagerfeuer der Frostbiss-Höhlen |
-| 1115 | Frostbite Caverns Flag | Flagge der Frostbisshöhlen |
-| 1116 | Frostbite Caverns Igloo | Frostbiss-Höhlen Iglu |
+| 1114 | Frostbite Caverns Campfire | Frostbiss-Höhlen: Lagerfeuer |
+| 1115 | Frostbite Caverns Flag | Frostbiss-Höhlen: Flagge |
+| 1116 | Frostbite Caverns Igloo | Frostbiss-Höhlen: Iglu |
 | 1117 | Frostbite Caverns Firewood | Frostbiss-Höhlen: Brennholz |
-| 1118 | Frostbite Caverns Frozen Yeti | Frostbiss-Höhlen Gefrorener Yeti |
-| 1119 | Frostbite Caverns Grave | Frostbiss-Höhlen Grab |
-| 1120 | Frostbite Caverns Diamond | Diamanthöhlen der Frostbisse |
-| 1121 | Frostbite Caverns Snowman | Frostbiss-Höhlen Schneemann |
-| 1122 | Frostbite Caverns Well | Frostbiss-Höhlen Brunnen |
-| 1123 | Frostbite Caverns Puddle | Pfütze der Frostbisshöhlen |
-| 1124 | Frostbite Caverns Debris | Trümmer der Frostbiss-Höhlen |
+| 1118 | Frostbite Caverns Frozen Yeti | Frostbiss-Höhlen: Gefrorener Yeti |
+| 1119 | Frostbite Caverns Grave | Frostbiss-Höhlen: Grab |
+| 1120 | Frostbite Caverns Diamond | Frostbiss-Höhlen: Diamant |
+| 1121 | Frostbite Caverns Snowman | Frostbiss-Höhlen: Schneemann |
+| 1122 | Frostbite Caverns Well | Frostbiss-Höhlen: Brunnen |
+| 1123 | Frostbite Caverns Puddle | Frostbiss-Höhlen: Pfütze |
+| 1124 | Frostbite Caverns Debris | Frostbiss-Höhlen: Trümmer |
 | 1125 | Frostbite Caverns Skeleton | Frostbiss-Höhlen: Skelett |
 | 1126 | Frostbite Caverns Bush | Frostbiss-Höhlen: Busch |
-| 1127 | Frostbite Caverns Skeletal Hand | Frostbiss-Höhlen Skeletthand |
-| 1128 | Frostbite Caverns Pine Tree | Kiefernbaum der Frostbiss-Höhlen |
+| 1127 | Frostbite Caverns Skeletal Hand | Frostbiss-Höhlen: Skeletthand |
+| 1128 | Frostbite Caverns Pine Tree | Frostbiss-Höhlen: Kiefer |
 | 1129 | Frostbite Caverns Twigs | Frostbiss-Höhlen: Zweige |
 | 1130 | Frostbite Caverns Log | Frostbiss-Höhlen: Baumstamm |
-| 1131 | Frostbite Caverns Snowcap | Frostbiss-Höhlen Schneekuppe |
-| 1132 | Faraway Enclave Hut | Hütte der Fernen Enklave |
-| 1133 | Faraway Enclave Juju | Entlegene Enklave Juju |
-| 1134 | Faraway Enclave Conch | Muschel der fernen Enklave |
-| 1135 | Faraway Enclave Pineapple | Entlegene Enklave Ananas |
-| 1136 | Faraway Enclave Crab | Krabben-Enklave der Ferne |
-| 1137 | Faraway Enclave Dragon Eggs | Dracheneier des fernen Enklaven |
-| 1138 | Faraway Enclave Shipwreck | Schiffswrack der Fernen Enklave |
-| 1139 | Faraway Enclave Plank | Planke der fernen Enklave |
-| 1140 | Faraway Enclave Grass | Grasland der Fernen Enklave |
-| 1141 | Faraway Enclave Planks | Planken der Fernen Enklave |
+| 1131 | Frostbite Caverns Snowcap | Frostbiss-Höhlen: Schneekappe |
+| 1132 | Faraway Enclave Hut | Ferne Enklave: Hütte |
+| 1133 | Faraway Enclave Juju | Ferne Enklave: Juju |
+| 1134 | Faraway Enclave Conch | Ferne Enklave: Muschel |
+| 1135 | Faraway Enclave Pineapple | Ferne Enklave: Ananas |
+| 1136 | Faraway Enclave Crab | Ferne Enklave: Krabbe |
+| 1137 | Faraway Enclave Dragon Eggs | Ferne Enklave: Dracheneier |
+| 1138 | Faraway Enclave Shipwreck | Ferne Enklave: Schiffswrack |
+| 1139 | Faraway Enclave Plank | Ferne Enklave: Planke |
+| 1140 | Faraway Enclave Grass | Ferne Enklave: Gras |
+| 1141 | Faraway Enclave Planks | Ferne Enklave: Planken |
 | 1142 | Faraway Enclave Tree | Ferne Enklave: Baum |
-| 1143 | Faraway Enclave Starfish | Entlegene Enklave Seestern |
+| 1143 | Faraway Enclave Starfish | Ferne Enklave: Seestern |
 | 1144 | The Barrens Quicksand | Ödlande: Treibsand |
 | 1145 | The Barrens Tent | Ödlande: Zelt |
 | 1146 | The Barrens Treasure | Ödlande: Schatz |

@@ -6,7 +6,7 @@
 | 3 | Ladies, gentlemen, and creatures - the first arena match is about to begin! | Meine Damen, meine Herren und Kreaturen - der erste Arenakampf beginnt gleich! |
 | 4 | Their best streak in the Infinite Arena is currently {1} wins in a row. Let's see if they can outdo themselves! | Ihre beste Serie in der Unendlichen Arena beträgt derzeit {1} Siege in Folge. Mal sehen, ob sie sich selbst übertreffen können! |
 | 5 | Today, the challenger is none other than our very own {1}! | Heute ist der Herausforderer niemand anderes als unser eigener {1}! |
-| 6 | Please finalize your bets now. | Bitte schließen Sie Ihre Wetten jetzt ab. |
+| 6 | Please finalize your bets now. | Bitte schließt jetzt eure Wetten ab. |
 | 7 | Let us begin. Teleport {1}'s first opponent into the arena! | Lasst uns beginnen. Teleportiert {1}s ersten Gegner in die Arena! |
 | 8 | Ready! Set! Fight! | Fertig! Los! Kämpft! |
 | 9 | {1} is victorious, and has defeated all five opponents in a row! Congratulations, {1}.\n\n(The crowd goes wild!) | {1} ist siegreich und hat alle fünf Gegner in Folge besiegt! Herzlichen Glückwunsch, {1}.\n\n(Die Menge tobt!) |
@@ -34,8 +34,8 @@
 | 31 | King Dumpling:\nOh ho ho, little one! Look at this - you've managed to find yourself an entire army of Dumplings! I am impressed. | König Knödel:\nOh ho ho, Kleiner! Sieh dir das an - du hast es geschafft, dir eine ganze Armee von Knödeln zu besorgen! Ich bin beeindruckt. |
 | 32 | King Dumpling:\nLet us see if you're capable of handling the responsibility of caring for so many Dumplings.\n\nFight me, and if you win, I will grant you some of my power. | König Knödel:\nLass uns sehen, ob du der Verantwortung gewachsen bist, dich um so viele Knödel zu kümmern.\n\nKämpfe gegen mich, und wenn du gewinnst, werde ich dir etwas von meiner Macht verleihen. |
 | 33 | Lord Zantai:\nSo, you are the one who bested Caliban. I am impressed. But, it is only a matter of time before he returns to this world and takes back the opportunity you denied him. Until then, I will pave the way for his return - and that starts with your demise. | Lord Zantai:\nAlso, Ihr seid derjenige, der Caliban bezwungen hat. Ich bin beeindruckt. Aber es ist nur eine Frage der Zeit, bis er in diese Welt zurückkehrt und sich die Gelegenheit zurückholt, die Ihr ihm verwehrt habt. Bis dahin werde ich den Weg für seine Rückkehr ebnen - und das beginnt mit Eurem Untergang. |
-| 34 | Lord Zantai:\nI will not be defeated so easily this time. I will destroy you and make way for Caliban's return! | Lord Zantai:\nDiesmal werde ich nicht so leicht besiegt werden. Ich werde euch vernichten und den Weg für Calibans Rückkehr ebnen! |
-| 35 | Lord Zantai:\nI will not be defeated so easily this time. Prepare yourself! | Lord Zantai:\nDiesmal werde ich nicht so leicht besiegt werden. Mach dich bereit! |
+| 34 | Lord Zantai:\nI will not be defeated so easily this time. I will destroy you and make way for Caliban's return! | Lord Zantai:\nDiesmal werde ich nicht so leicht besiegt werden. Ich werde Euch vernichten und den Weg für Calibans Rückkehr ebnen! |
+| 35 | Lord Zantai:\nI will not be defeated so easily this time. Prepare yourself! | Lord Zantai:\nDiesmal werde ich nicht so leicht besiegt werden. Macht Euch bereit! |
 | 36 | Greetings, traveler! Have a seat, grab a drink, and take a load off! You're always welcome here. | Grüße, Reisender! Nimm Platz, schnapp dir ein Getränk und entspann dich! Du bist hier immer willkommen. |
 | 37 | Stinky:\nHoohoo! Woo! Fancy seeing you here, {PLAYERNAME}.\n\nCare for a round of Siralim Slots? It's lots of fun! And today, I'm feeling especially generous - I won't even charge you a ticket to play this time! | Stinky:\nHoohoo! Woo! Dich hier zu sehen, {PLAYERNAME}, ist ja eine Überraschung.\n\nLust auf eine Runde Siralim-Automaten? Es macht richtig Spaß! Und heute bin ich besonders großzügig - ich verlange nicht einmal ein Ticket zum Spielen diesmal! |
 | 38 | Sure, let's play! | Klar, lass uns spielen! |
@@ -45,10 +45,10 @@
 | 42 | Sure, why not? | Klar, warum nicht? |
 | 43 | Nah. | Nö. |
 | 44 | Sleezy:\nEnough. ENOUGH! You can only play ONCE! | Sleezy:\nGenug. GENUG! Du kannst nur EINMAL spielen! |
-| 45 | Spicy:\nWell met! Brother spicy here. You know, the one from your very own castle?\n\nHow's about a nice game of Siralopoly? No need for a ticket this time - I'm feeling extra generous today. | Scharf:\nSei gegrüßt! Bruder Scharf hier. Du weißt schon, der aus deiner eigenen Burg?\n\nWie wäre es mit einer netten Runde Siralopoly? Diesmal brauchst du kein Ticket - ich fühle mich heute besonders großzügig. |
+| 45 | Spicy:\nWell met! Brother spicy here. You know, the one from your very own castle?\n\nHow's about a nice game of Siralopoly? No need for a ticket this time - I'm feeling extra generous today. | Spicy:\nSei gegrüßt! Bruder Spicy hier. Du weißt schon, der aus deiner eigenen Burg?\n\nWie wäre es mit einer netten Runde Siralopoly? Diesmal brauchst du kein Ticket - ich fühle mich heute besonders großzügig. |
 | 46 | Sure, why the hell not? | Klar, warum zum Teufel nicht? |
 | 47 | Nay. | Nein. |
-| 48 | Spicy:\nYou're trying to take advantage of me! No! You only get to play ONCE! | Scharf:\nDu versuchst mich auszunutzen! Nein! Du darfst nur EINMAL spielen! |
+| 48 | Spicy:\nYou're trying to take advantage of me! No! You only get to play ONCE! | Spicy:\nDu versuchst mich auszunutzen! Nein! Du darfst nur EINMAL spielen! |
 | 49 | Frisky:\nHello hello hello! Remember me? It's Brother Frisky!\n\nWould you like to play a game of Scratch Card? Keep your tickets - I'll let you play for free just this once! | Frisky:\nHallo hallo hallo! Erinnerst du dich an mich? Ich bin Bruder Frisky!\n\nMöchtest du eine Runde Rubbellos spielen? Behalte deine Tickets - ich lasse dich dieses eine Mal kostenlos spielen! |
 | 50 | Sure, I'll give it a try! | Natürlich, ich versuche es! |
 | 51 | No. | Nein. |
