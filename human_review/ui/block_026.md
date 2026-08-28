@@ -25,7 +25,7 @@
 | 2522 | [chancedumpling] +50% Dumpling Spawn Chance | [chancedumpling] +50% Knödel-Erscheinungschance |
 | 2523 | [morechests] +1 Treasure Chests Spawn | [morechests] +1 Schatztruhen erscheinen |
 | 2524 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
-| 2525 | [ad_plasmaportal] Portal Bosses Grant Reduced Damage In Next Battle | [ad_plasmaportal] Portalbosse gewähren reduzierte Schaden im nächsten Kampf |
+| 2525 | [ad_plasmaportal] Portal Bosses Grant Reduced Damage In Next Battle | [ad_plasmaportal] Portalbosse verringern den erlittenen Schaden im nächsten Kampf |
 | 2526 | [ptd_tombstone] +50% Treasure From Tombstones | [ptd_tombstone] +50% Schätze aus Grabsteinen |
 | 2527 | [swm_temple] Temple Battles Grant Speed Boost | [swm_temple] Tempelkämpfe gewähren Geschwindigkeitsschub |
 | 2528 | [gpn_livingember] 20% Chance to Receive Emblem From Living Embers | [gpn_livingember] 20% Chance, ein Emblem von Lebenden Gluten zu erhalten |
@@ -47,7 +47,7 @@
 | 2544 | [kh_potions] 25% Chance to Receive Emblem From Potion Shelves | [kh_potions] 25% Chance, ein Emblem von Trankregalen zu erhalten |
 | 2545 | [ee_orbsun] Sun Orbs Grant an Emblem | [ee_orbsun] Sonnen-Orbs gewähren ein Emblem |
 | 2546 | [dmr_generator] Generators Reveal a Massive Area | [dmr_generator] Generatoren enthüllen ein riesiges Gebiet |
-| 2547 | [lobab_scaleright] Right-Tipping Scales Reduce Enemies' Stats | [lobab_scaleright] Rechts-Neigende Waage Verringert Attribute der Gegner |
+| 2547 | [lobab_scaleright] Right-Tipping Scales Reduce Enemies' Stats | [lobab_scaleright] Nach rechts kippende Waagen verringern die Attribute der Gegner |
 | 2548 | [ot_altar] Bloodstained Altars Damage Enemies | [ot_altar] Blutverschmierte Altäre fügen Feinden Schaden zu |
 | 2549 | [ag_sculpture] Sculptures Grant Reduced Damage In Next Battle | [ag_sculpture] Skulpturen gewähren reduzierten Schaden im nächsten Kampf |
 | 2550 | [gh_cards] Decks of Cards Grant Intelligence Boost | [gh_cards] Kartendecks gewähren Intelligenzboost |
@@ -70,32 +70,32 @@
 | 2567 | [tw_geyser] Additional Stat Reduction From Geysers | [tw_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2568 | [um_totem] Totems Grant Speed Boost | [um_totem] Totems gewähren Geschwindigkeitsschub |
 | 2569 | [tc_paper] +1 Knowledge Items From Parchment | [tc_paper] +1 Wissensgegenstand aus Pergament |
-| 2570 | [fc_yeti] 25% Chance to Receive Emblem From Frozen Yetis | [fc_yeti] 25% Chance, ein Emblem von Gefrorenen Yetis zu erhalten |
+| 2570 | [fc_yeti] 25% Chance to Receive Emblem From Frozen Yetis | [fc_yeti] 25% Chance, ein Emblem von gefrorenen Yetis zu erhalten |
 | 2571 | [fe_eggs] Drake Eggs Drop Treasure | [fe_eggs] Drachen-Eier lassen Schätze fallen |
 | 2572 | [bns_oasis] Oases Are More Rewarding | [bns_oasis] Oasen sind lohnender |
 | 2573 | [bg_cave] More Treasure From Blood Grove Boss Rooms | [bg_cave] Mehr Schätze aus den Bossräumen des Bluthains |
 | 2574 | [su_obelisk] 25% Chance to Receive Emblem From Obelisks | [su_obelisk] 25% Chance, ein Emblem von Obelisken zu erhalten |
 | 2575 | [cj_fruitp] Vomiting Fruit Is More Rewarding | [cj_fruitp] Erbrechendes Obst ist lohnender |
 | 2576 | [an_ichor] Ichor Grants Defense Boost | [an_ichor] Ichor gewährt Verteidigungsbonus |
-| 2577 | [wdsd_jellyfish] +2 Jellyfish Spawn | [wdsd_jellyfish] +2 Quallenbrut |
+| 2577 | [wdsd_jellyfish] +2 Jellyfish Spawn | [wdsd_jellyfish] +2 Quallen erscheinen |
 | 2578 | [kh_knight] Knights Grant Resistance to Debuffs In Next Battle | [kh_knight] Ritter gewähren Resistenz gegen Debuffs im nächsten Kampf |
 | 2579 | [ee_orbarcane] +100% Favor From Collecting All Orbs | [ee_orbarcane] +100% Gunst durch Sammeln aller Kugeln |
-| 2580 | [dmr_portal] Portal Bosses Grant Reduced Damage In Next Battle | [dmr_portal] Portalbosse gewähren reduzierte Schaden im nächsten Kampf |
+| 2580 | [dmr_portal] Portal Bosses Grant Reduced Damage In Next Battle | [dmr_portal] Portalbosse verringern den erlittenen Schaden im nächsten Kampf |
 | 2581 | [lobab_tarot] Tarot Card Collection Is More Rewarding | [lobab_tarot] Tarot-Kartensammlung ist lohnenswerter |
 | 2582 | [ot_bookshelf] +50% Treasure From Bookshelves | [ot_bookshelf] +50% Schätze aus Bücherregalen |
 | 2583 | [ag_paintbrush] -1 Animated Paintbrush Chase Time | [ag_paintbrush] -1 Animierte Pinsel-Verfolgungszeit |
 | 2584 | [gh_smallslots] +1 Outcomes From Small Slot Machines | [gh_smallslots] +1 Ergebnisse aus kleinen Spielautomaten |
 | 2585 | [fl_machine] 35% Chance to Receive Emblem From Inactive Automatons | [fl_machine] 35% Chance, ein Emblem von inaktiven Automaten zu erhalten |
 | 2586 | [fae_treasure] 5% Chance For Fae Caches to Spawn a Treasure Golem | [fae_treasure] 5% Chance, dass Feenschätze einen Schatzgolem erscheinen lassen |
-| 2587 | [amg_chimera] 25% Chance to Receive Emblem From Abandoned Caves | [amg_chimera] 25% Chance, ein Emblem aus Verlassenen Höhlen zu erhalten |
-| 2588 | [fdp_glowingpit] 50% Chance to Receive Emblem From Glowing Pits | [fdp_glowingpit] 50% Chance, ein Emblem aus Leuchtenden Gruben zu erhalten |
+| 2587 | [amg_chimera] 25% Chance to Receive Emblem From Abandoned Caves | [amg_chimera] 25% Chance, ein Emblem aus verlassenen Höhlen zu erhalten |
+| 2588 | [fdp_glowingpit] 50% Chance to Receive Emblem From Glowing Pits | [fdp_glowingpit] 50% Chance, ein Emblem aus leuchtenden Gruben zu erhalten |
 | 2589 | [morebreakables] +1 Breakable Objects Spawn | [morebreakables] +1 Zerstörbare Objekte erscheinen |
 | 2590 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
 | 2591 | [chancetgolem] +50% Treasure Golem Spawn Chance | [chancetgolem] +50% Schatzgolem-Erscheinungschance |
 | 2592 | [morenodes] +1 Resource Nodes Spawn | [morenodes] +1 Ressourcenknoten erscheinen |
 | 2593 | [ad_fruitoflife] Fruit of Life Grants Power | [ad_fruitoflife] Frucht des Lebens gewährt Macht |
-| 2594 | [ptd_flower] Death Blossoms Sometimes Grant Stat Materials | [ptd_flower] Todesblüten gewähren manchmal Stat-Materialien |
-| 2595 | [swm_ims] Im Caves Grant 100% Dodge Chance In Next Battle | [swm_ims] Höhlen gewähren 100% Ausweich-Chance im nächsten Kampf |
+| 2594 | [ptd_flower] Death Blossoms Sometimes Grant Stat Materials | [ptd_flower] Todesblüten gewähren manchmal Attributsmaterialien |
+| 2595 | [swm_ims] Im Caves Grant 100% Dodge Chance In Next Battle | [swm_ims] Höhlen gewähren 100% Ausweichchance im nächsten Kampf |
 | 2596 | [gpn_magmaball] Magma Orbs Grant 100% Critical Chance In Next Battle | [gpn_magmaball] Magma-Kugeln gewähren 100% Kritische Trefferchance im nächsten Kampf |
 | 2597 | [rfm_alchemy] Alchemy Experiments Are More Rewarding | [rfm_alchemy] Alchemie-Experimente sind lohnender |
 | 2598 | [tol_cruncherdust] +50% Favor From Cruncher Dust Battles | [tol_cruncherdust] +50% Gunst aus Knirscher-Staub-Kämpfen |

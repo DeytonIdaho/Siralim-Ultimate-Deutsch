@@ -60,11 +60,11 @@
 | 2857 | [ptd_skullcandle] Illuminated Candles Damage Enemies | [ptd_skullcandle] Leuchtende Kerzen fügen Feinden Schaden zu |
 | 2858 | [swm_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [swm_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen auf |
 | 2859 | [gpn_nemesisshrine] Nemesis Shrines Kill Random Enemy In Next Battle | [gpn_nemesisshrine] Nemesis-Schreine töten zufälligen Feind im nächsten Kampf |
-| 2860 | [rfm_bookshelf] Grimoire Shelves Grant Intelligence Boost | [rfm_bookshelf] Grimoire-Regale gewähren Intelligenz-Bonus |
+| 2860 | [rfm_bookshelf] Grimoire Shelves Grant Intelligence Boost | [rfm_bookshelf] Grimoire-Regale gewähren Intelligenzbonus |
 | 2861 | [tol_giantgem] Giant Gems Sometimes Refill Spell Gem Charges | [tol_giantgem] Riesenkristalle füllen manchmal Zauberstein-Ladungen auf |
 | 2862 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2863 | [cr_sewer] 35% chance to Receive Emblem From Sewers | [cr_sewer] 35% Chance, ein Emblem aus der Kanalisation zu erhalten |
-| 2864 | [tw_zits] Zits Grant 100% Dodge Chance In Next Battle | [tw_zits] Pickel gewähren 100% Ausweich-Chance im nächsten Kampf |
+| 2864 | [tw_zits] Zits Grant 100% Dodge Chance In Next Battle | [tw_zits] Pickel gewähren 100% Ausweichchance im nächsten Kampf |
 | 2865 | [um_pinwheel] Pinwheels Grant Timeline Priority In Next Battle | [um_pinwheel] Windrädchen gewähren Zeitlinienpriorität im nächsten Kampf |
 | 2866 | [tc_well] Wells Decrease Enemies' Defense | [tc_well] Brunnen verringern die Verteidigung der Feinde |
 | 2867 | [fc_diamond] Diamonds Decrease Enemies' Defense | [fc_diamond] Diamanten verringern die Verteidigung der Gegner |

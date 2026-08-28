@@ -33,7 +33,7 @@
 | 1330 | [realmprop_e_moredmg] More Damage Dealt: {1}% | [realmprop_e_moredmg] Mehr verursachter Schaden: {1}% |
 | 1331 | [realmprop_e_lessdmgtaken] Less Damage Taken: {1}% | [realmprop_e_lessdmgtaken] Weniger erlittener Schaden: {1}% |
 | 1332 | [realmprop_e_alwayscrit] Always Critical Damage | [realmprop_e_alwayscrit] Immer kritischer Schaden |
-| 1333 | [realmprop_e_dodgechance] Chance to Dodge: {1}% | [realmprop_e_dodgechance] Ausweich-Chance: {1}% |
+| 1333 | [realmprop_e_dodgechance] Chance to Dodge: {1}% | [realmprop_e_dodgechance] Ausweichchance: {1}% |
 | 1334 | [realmprop_e_reflectdmg] Reflect Damage Taken: {1}% | [realmprop_e_reflectdmg] Erlittenen Schaden reflektieren: {1}% |
 | 1335 | [realmprop_e_additionalcast] Cast Additional Times: {1} | [realmprop_e_additionalcast] Zusätzliche Zauberanzahl: {1} |
 | 1336 | [realmprop_e_additionalattack] Attack Additional Times: {1} | [realmprop_e_additionalattack] Zusätzliche Angriffe: {1} |

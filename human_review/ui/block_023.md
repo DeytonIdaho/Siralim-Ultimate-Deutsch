@@ -51,8 +51,8 @@
 | 2248 | [boost_topoftl] Next battle, your creatures start at the top of the Timeline | [boost_topoftl] Im nächsten Kampf beginnen deine Kreaturen an der Spitze der Zeitleiste |
 | 2249 | [boost_guaranteedchest] Next battle, enemies drop a treasure chest | [boost_guaranteedchest] Im nächsten Kampf lassen Feinde eine Schatztruhe fallen |
 | 2250 | [boost_resistdebuffs] Next battle, your creatures are resistant to debuffs | [boost_resistdebuffs] Im nächsten Kampf sind deine Kreaturen resistent gegen Debuffs |
-| 2251 | [boost_extraattack] Next battle, you Attack +1 times | [boost_extraattack] Im nächsten Kampf greifst du +1 Mal zusätzlich an |
-| 2252 | [boost_extracast] Next battle, you cast +1 times | [boost_extracast] Im nächsten Kampf wirkst du +1 mal |
+| 2251 | [boost_extraattack] Next battle, you Attack +1 times | [boost_extraattack] Im nächsten Kampf greifst du +1-mal zusätzlich an |
+| 2252 | [boost_extracast] Next battle, you cast +1 times | [boost_extracast] Im nächsten Kampf wirkst du +1-mal |
 | 2253 | [boost_lessgems] Next battle, enemies have -2 Spell Gems. | [boost_lessgems] Im nächsten Kampf haben Gegner -2 Zaubersteine. |
 | 2254 | [boost_killenemy] Next non-boss battle, a random enemy is killed | [boost_killenemy] Im nächsten Kampf gegen Nicht-Bosse wird ein zufälliger Gegner getötet |
 | 2255 | [boost_damagefoes] Enemies have been damaged | [boost_damagefoes] Feinde wurden verletzt |
@@ -64,13 +64,13 @@
 | 2261 | {1} {2} | {1} {2} |
 | 2262 | {1} {2} (Enemies) | {1} {2} (Gegner) |
 | 2263 | {1} {2} | {1} {2} |
-| 2264 | [ad_mirrorball] Mirrorballs Reward 1 Emblem | [ad_mirrorball] Spiegelkugeln Belohnung 1 Emblem |
+| 2264 | [ad_mirrorball] Mirrorballs Reward 1 Emblem | [ad_mirrorball] Spiegelkugeln gewähren 1 Emblem |
 | 2265 | [ptd_mushrooms] Mushrooms Decrease Enemies' Speed | [ptd_mushrooms] Pilze verringern die Geschwindigkeit der Feinde |
 | 2266 | [swm_treasure] 5% Chance for Treasure Piles to Spawn a Treasure Golem | [swm_treasure] 5% Chance, dass Schatzhaufen einen Schatzgolem erschaffen |
 | 2267 | [gpn_rock] +50% Resources From Rocks | [gpn_rock] +50% Ressourcen aus Steinen |
 | 2268 | [rfm_potion] Potions Afflict a Random Debuff | [rfm_potion] Tränke verursachen einen zufälligen Debuff |
 | 2269 | [tol_bigtreasure] +50% Treasure From Large Treasure Chests | [tol_bigtreasure] +50% Schatz aus großen Schatztruhen |
-| 2270 | [btv_relic] +50% Favor From Void Relics | [btv_relic] +50% Gunst aus Leeren-Relikte |
+| 2270 | [btv_relic] +50% Favor From Void Relics | [btv_relic] +50% Gunst durch Leerenrelikte |
 | 2271 | [cr_valve] +50% Favor From Valves | [cr_valve] +50% Gunst von Ventilen |
 | 2272 | [tw_bigchest] +50% Treasure From Large Treasure Chests | [tw_bigchest] +50% Schatz aus großen Schatztruhen |
 | 2273 | [um_tent] +50% Treasure From Nomads | [um_tent] +50% Schätze von Nomaden |

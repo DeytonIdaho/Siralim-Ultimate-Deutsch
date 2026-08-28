@@ -28,7 +28,7 @@
 | 2725 | [gh_dwarf] Drunken Gambling Dwarves Grant Timeline Priority In Next Battle | [gh_dwarf] Betrunkene, spielsüchtige Zwerge gewähren Zeitlinien-Priorität im nächsten Kampf |
 | 2726 | [fl_cog] Shiny Cogs Decrease Enemies' Stats | [fl_cog] Glänzende Zahnräder verringern Attribute der Gegner |
 | 2727 | [fae_dreamcatch] +1 Dream Catchers Spawn | [fae_dreamcatch] +1 Traumfänger erscheinen |
-| 2728 | [amg_roses] Neon Roses Grant 100% Dodge Chance In Next Battle | [amg_roses] Neon Rosen gewähren 100% Ausweich-Chance im nächsten Kampf |
+| 2728 | [amg_roses] Neon Roses Grant 100% Dodge Chance In Next Battle | [amg_roses] Neon Rosen gewähren 100% Ausweichchance im nächsten Kampf |
 | 2729 | [fdp_redmagnet] Red Magnetic Stones Decrease Enemies' Speed | [fdp_redmagnet] Rote Magnetsteine verringern die Geschwindigkeit der Feinde |
 | 2730 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2731 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
