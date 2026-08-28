@@ -6,17 +6,17 @@
 | 1503 | Reach Favor Rank 5 with Yseros. | Erreiche Gunstrang 5 bei Yseros. |
 | 1504 | Favored by Yseros II | Begünstigt von Yseros II |
 | 1505 | Reach Favor Rank 10 with Yseros. | Erreiche Gunstrang 10 bei Yseros. |
-| 1506 | Favored by Yseros III | Von Yseros III begünstigt |
+| 1506 | Favored by Yseros III | Begünstigt von Yseros III |
 | 1507 | Reach Favor Rank 15 with Yseros. | Erreiche Gunstrang 15 bei Yseros. |
-| 1508 | Favored by Yseros IV | Von Yseros IV begünstigt |
+| 1508 | Favored by Yseros IV | Begünstigt von Yseros IV |
 | 1509 | Reach Favor Rank 20 with Yseros. | Erreiche Gunstrang 20 bei Yseros. |
 | 1510 | Favored by Yseros V | Begünstigt von Yseros V |
 | 1511 | Reach Favor Rank 25 with Yseros. | Erreiche Gunstrang 25 bei Yseros. |
-| 1512 | Favored by Yseros VI | Von Yseros VI begünstigt |
+| 1512 | Favored by Yseros VI | Begünstigt von Yseros VI |
 | 1513 | Reach Favor Rank 30 with Yseros. | Erreiche Gunstrang 30 bei Yseros. |
-| 1514 | Favored by Yseros VII | Von Yseros VII begünstigt |
+| 1514 | Favored by Yseros VII | Begünstigt von Yseros VII |
 | 1515 | Reach Favor Rank 35 with Yseros. | Erreiche Gunstrang 35 bei Yseros. |
-| 1516 | Favored by Yseros VIII | Von Yseros VIII begünstigt |
+| 1516 | Favored by Yseros VIII | Begünstigt von Yseros VIII |
 | 1517 | Reach Favor Rank 40 with Yseros. | Erreiche Gunstrang 40 bei Yseros. |
 | 1518 | Favored by Yseros IX | Begünstigt von Yseros IX |
 | 1519 | Reach Favor Rank 45 with Yseros. | Erreiche Gunstrang 45 bei Yseros. |
@@ -32,7 +32,7 @@
 | 1529 | Reach Favor Rank 20 with Zonte. | Erreiche Gunstrang 20 bei Zonte. |
 | 1530 | Favored by Zonte V | Begünstigt von Zonte V |
 | 1531 | Reach Favor Rank 25 with Zonte. | Erreiche Gunstrang 25 bei Zonte. |
-| 1532 | Favored by Zonte VI | Bevorzugt von Zonte VI |
+| 1532 | Favored by Zonte VI | Begünstigt von Zonte VI |
 | 1533 | Reach Favor Rank 30 with Zonte. | Erreiche Gunstrang 30 bei Zonte. |
 | 1534 | Favored by Zonte VII | Begünstigt von Zonte VII |
 | 1535 | Reach Favor Rank 35 with Zonte. | Erreiche Gunstrang 35 bei Zonte. |
@@ -40,7 +40,7 @@
 | 1537 | Reach Favor Rank 40 with Zonte. | Erreiche Gunstrang 40 bei Zonte. |
 | 1538 | Favored by Zonte IX | Begünstigt von Zonte IX |
 | 1539 | Reach Favor Rank 45 with Zonte. | Erreiche Gunstrang 45 bei Zonte. |
-| 1540 | Favored by Zonte X | Bevorzugt von Zonte X |
+| 1540 | Favored by Zonte X | Begünstigt von Zonte X |
 | 1541 | Reach Favor Rank 50 with Zonte. | Erreiche Gunstrang 50 bei Zonte. |
 | 1542 | Battlemaster I | Kampfmeister I |
 | 1543 | Win 10 battles. | Gewinne 10 Kämpfe. |

@@ -58,26 +58,26 @@
 | 5055 | Defeat the Master of Centaurs 9 times. | Besiege den Meister der Zentauren 9 Mal. |
 | 5056 | Master of Centaurs X | Meister der Zentauren X |
 | 5057 | Defeat the Master of Centaurs 10 times. | Besiege den Meister der Zentauren 10 Mal. |
-| 5058 | Master of Cerberuses I | Meister der Kerberosse I |
-| 5059 | Defeat the Master of Cerberuses 1 time. | Besiege den Meister der Kerberosse 1 Mal. |
-| 5060 | Master of Cerberuses II | Meister der Kerberosse II |
-| 5061 | Defeat the Master of Cerberuses 2 times. | Besiege den Meister der Kerberosse 2 Mal. |
-| 5062 | Master of Cerberuses III | Meister der Kerberosse III |
-| 5063 | Defeat the Master of Cerberuses 3 times. | Besiege den Meister der Kerberosse 3 Mal. |
-| 5064 | Master of Cerberuses IV | Meister der Kerberosse IV |
-| 5065 | Defeat the Master of Cerberuses 4 times. | Besiege den Meister der Kerberosse 4 Mal. |
-| 5066 | Master of Cerberuses V | Meister der Kerberosse V |
-| 5067 | Defeat the Master of Cerberuses 5 times. | Besiege den Meister der Kerberosse 5 Mal. |
-| 5068 | Master of Cerberuses VI | Meister der Kerberosse VI |
-| 5069 | Defeat the Master of Cerberuses 6 times. | Besiege den Meister der Kerberosse 6 Mal. |
-| 5070 | Master of Cerberuses VII | Meister der Kerberosse VII |
-| 5071 | Defeat the Master of Cerberuses 7 times. | Besiege den Meister der Kerberosse 7 Mal. |
-| 5072 | Master of Cerberuses VIII | Meister der Kerberosse VIII |
-| 5073 | Defeat the Master of Cerberuses 8 times. | Besiege den Meister der Zerberusse 8 Mal. |
-| 5074 | Master of Cerberuses IX | Meister der Kerberosse IX |
-| 5075 | Defeat the Master of Cerberuses 9 times. | Besiege den Meister der Kerberosse 9 Mal. |
-| 5076 | Master of Cerberuses X | Meister der Kerberosse X |
-| 5077 | Defeat the Master of Cerberuses 10 times. | Besiege den Meister der Zerberusse 10 Mal. |
+| 5058 | Master of Cerberuses I | Meister der Zerberusse I |
+| 5059 | Defeat the Master of Cerberuses 1 time. | Besiege den Meister der Zerberusse 1-mal. |
+| 5060 | Master of Cerberuses II | Meister der Zerberusse II |
+| 5061 | Defeat the Master of Cerberuses 2 times. | Besiege den Meister der Zerberusse 2-mal. |
+| 5062 | Master of Cerberuses III | Meister der Zerberusse III |
+| 5063 | Defeat the Master of Cerberuses 3 times. | Besiege den Meister der Zerberusse 3-mal. |
+| 5064 | Master of Cerberuses IV | Meister der Zerberusse IV |
+| 5065 | Defeat the Master of Cerberuses 4 times. | Besiege den Meister der Zerberusse 4-mal. |
+| 5066 | Master of Cerberuses V | Meister der Zerberusse V |
+| 5067 | Defeat the Master of Cerberuses 5 times. | Besiege den Meister der Zerberusse 5-mal. |
+| 5068 | Master of Cerberuses VI | Meister der Zerberusse VI |
+| 5069 | Defeat the Master of Cerberuses 6 times. | Besiege den Meister der Zerberusse 6-mal. |
+| 5070 | Master of Cerberuses VII | Meister der Zerberusse VII |
+| 5071 | Defeat the Master of Cerberuses 7 times. | Besiege den Meister der Zerberusse 7-mal. |
+| 5072 | Master of Cerberuses VIII | Meister der Zerberusse VIII |
+| 5073 | Defeat the Master of Cerberuses 8 times. | Besiege den Meister der Zerberusse 8-mal. |
+| 5074 | Master of Cerberuses IX | Meister der Zerberusse IX |
+| 5075 | Defeat the Master of Cerberuses 9 times. | Besiege den Meister der Zerberusse 9-mal. |
+| 5076 | Master of Cerberuses X | Meister der Zerberusse X |
+| 5077 | Defeat the Master of Cerberuses 10 times. | Besiege den Meister der Zerberusse 10-mal. |
 | 5078 | Master of Clutchers I | Meister der Greifer I |
 | 5079 | Defeat the Master of Clutchers 1 time. | Besiege den Meister der Greifer 1 Mal. |
 | 5080 | Master of Clutchers II | Meister der Greifer II |
@@ -98,7 +98,7 @@
 | 5095 | Defeat the Master of Clutchers 9 times. | Besiege den Meister der Greifer 9 Mal. |
 | 5096 | Master of Clutchers X | Meister der Greifer X |
 | 5097 | Defeat the Master of Clutchers 10 times. | Besiege den Meister der Greifer 10 Mal. |
-| 5098 | Master of Cockatrices I | Meister der Basilisken I |
-| 5099 | Defeat the Master of Cockatrices 1 time. | Besiege den Meister der Basilisken 1 Mal. |
-| 5100 | Master of Cockatrices II | Meister der Basilisken II |
-| 5101 | Defeat the Master of Cockatrices 2 times. | Besiege den Meister der Basilisken 2 Mal. |
+| 5098 | Master of Cockatrices I | Meister der Cockatrice I |
+| 5099 | Defeat the Master of Cockatrices 1 time. | Besiege den Meister der Cockatrice 1-mal. |
+| 5100 | Master of Cockatrices II | Meister der Cockatrice II |
+| 5101 | Defeat the Master of Cockatrices 2 times. | Besiege den Meister der Cockatrice 2-mal. |

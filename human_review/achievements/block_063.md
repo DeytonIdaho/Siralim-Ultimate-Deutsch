@@ -38,26 +38,26 @@
 | 6235 | Defeat the Master of Phoenixes 9 times. | Besiege den Meister der Phönixe 9 Mal. |
 | 6236 | Master of Phoenixes X | Meister der Phönixe X |
 | 6237 | Defeat the Master of Phoenixes 10 times. | Besiege den Meister der Phönixe 10 Mal. |
-| 6238 | Master of Pilwizes I | Meister der Pilwizes I |
-| 6239 | Defeat the Master of Pilwizes 1 time. | Besiege den Meister der Pilwizes 1 Mal. |
-| 6240 | Master of Pilwizes II | Meister der Pilwizes II |
-| 6241 | Defeat the Master of Pilwizes 2 times. | Besiege den Meister der Pilwize 2 Mal. |
-| 6242 | Master of Pilwizes III | Meister der Pilwizes III |
-| 6243 | Defeat the Master of Pilwizes 3 times. | Besiege den Meister der Pilwizes 3 Mal. |
-| 6244 | Master of Pilwizes IV | Meister der Pilwizen IV |
-| 6245 | Defeat the Master of Pilwizes 4 times. | Besiege den Meister der Pilwize 4 Mal. |
-| 6246 | Master of Pilwizes V | Meister der Pilwizes V |
-| 6247 | Defeat the Master of Pilwizes 5 times. | Besiege den Meister der Pilwizes 5 Mal. |
-| 6248 | Master of Pilwizes VI | Meister der Pilwizes VI |
-| 6249 | Defeat the Master of Pilwizes 6 times. | Besiege den Meister der Pilwizes 6 Mal. |
-| 6250 | Master of Pilwizes VII | Meister der Pilwizes VII |
-| 6251 | Defeat the Master of Pilwizes 7 times. | Besiege den Meister der Pilwizes 7 Mal. |
-| 6252 | Master of Pilwizes VIII | Meister der Pilwizes VIII |
-| 6253 | Defeat the Master of Pilwizes 8 times. | Besiege den Meister der Pilwizes 8 Mal. |
-| 6254 | Master of Pilwizes IX | Meister der Pilwizes IX |
-| 6255 | Defeat the Master of Pilwizes 9 times. | Besiege den Meister der Pilwizes 9 Mal. |
-| 6256 | Master of Pilwizes X | Meister der Pilwizes X |
-| 6257 | Defeat the Master of Pilwizes 10 times. | Besiege den Meister der Pilwizes 10 Mal. |
+| 6238 | Master of Pilwizes I | Meister der Pilwiz I |
+| 6239 | Defeat the Master of Pilwizes 1 time. | Besiege den Meister der Pilwiz 1-mal. |
+| 6240 | Master of Pilwizes II | Meister der Pilwiz II |
+| 6241 | Defeat the Master of Pilwizes 2 times. | Besiege den Meister der Pilwiz 2-mal. |
+| 6242 | Master of Pilwizes III | Meister der Pilwiz III |
+| 6243 | Defeat the Master of Pilwizes 3 times. | Besiege den Meister der Pilwiz 3-mal. |
+| 6244 | Master of Pilwizes IV | Meister der Pilwiz IV |
+| 6245 | Defeat the Master of Pilwizes 4 times. | Besiege den Meister der Pilwiz 4-mal. |
+| 6246 | Master of Pilwizes V | Meister der Pilwiz V |
+| 6247 | Defeat the Master of Pilwizes 5 times. | Besiege den Meister der Pilwiz 5-mal. |
+| 6248 | Master of Pilwizes VI | Meister der Pilwiz VI |
+| 6249 | Defeat the Master of Pilwizes 6 times. | Besiege den Meister der Pilwiz 6-mal. |
+| 6250 | Master of Pilwizes VII | Meister der Pilwiz VII |
+| 6251 | Defeat the Master of Pilwizes 7 times. | Besiege den Meister der Pilwiz 7-mal. |
+| 6252 | Master of Pilwizes VIII | Meister der Pilwiz VIII |
+| 6253 | Defeat the Master of Pilwizes 8 times. | Besiege den Meister der Pilwiz 8-mal. |
+| 6254 | Master of Pilwizes IX | Meister der Pilwiz IX |
+| 6255 | Defeat the Master of Pilwizes 9 times. | Besiege den Meister der Pilwiz 9-mal. |
+| 6256 | Master of Pilwizes X | Meister der Pilwiz X |
+| 6257 | Defeat the Master of Pilwizes 10 times. | Besiege den Meister der Pilwiz 10-mal. |
 | 6258 | Master of Pit Worms I | Meister der Grubendrachen I |
 | 6259 | Defeat the Master of Pit Worms 1 time. | Besiege den Meister der Grubendrachen 1 Mal. |
 | 6260 | Master of Pit Worms II | Meister der Grubendrachen II |

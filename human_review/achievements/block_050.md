@@ -3,21 +3,21 @@
 | Row | English | German |
 |---:|---|---|
 | 4902 | Master of Basilisks III | Meister der Basilisken III |
-| 4903 | Defeat the Master of Basilisks 3 times. | Besiege den Meister der Basilisken 3 Mal. |
+| 4903 | Defeat the Master of Basilisks 3 times. | Besiege den Meister der Basilisken 3-mal. |
 | 4904 | Master of Basilisks IV | Meister der Basilisken IV |
-| 4905 | Defeat the Master of Basilisks 4 times. | Besiege den Meister der Basilisken 4 Mal. |
+| 4905 | Defeat the Master of Basilisks 4 times. | Besiege den Meister der Basilisken 4-mal. |
 | 4906 | Master of Basilisks V | Meister der Basilisken V |
-| 4907 | Defeat the Master of Basilisks 5 times. | Besiege den Meister der Basilisken 5 Mal. |
+| 4907 | Defeat the Master of Basilisks 5 times. | Besiege den Meister der Basilisken 5-mal. |
 | 4908 | Master of Basilisks VI | Meister der Basilisken VI |
-| 4909 | Defeat the Master of Basilisks 6 times. | Besiege den Meister der Basilisken 6 Mal. |
+| 4909 | Defeat the Master of Basilisks 6 times. | Besiege den Meister der Basilisken 6-mal. |
 | 4910 | Master of Basilisks VII | Meister der Basilisken VII |
-| 4911 | Defeat the Master of Basilisks 7 times. | Besiege den Meister der Basilisken 7 Mal. |
+| 4911 | Defeat the Master of Basilisks 7 times. | Besiege den Meister der Basilisken 7-mal. |
 | 4912 | Master of Basilisks VIII | Meister der Basilisken VIII |
-| 4913 | Defeat the Master of Basilisks 8 times. | Besiege den Meister der Basilisken 8 Mal. |
+| 4913 | Defeat the Master of Basilisks 8 times. | Besiege den Meister der Basilisken 8-mal. |
 | 4914 | Master of Basilisks IX | Meister der Basilisken IX |
-| 4915 | Defeat the Master of Basilisks 9 times. | Besiege den Meister der Basilisken 9 Mal. |
+| 4915 | Defeat the Master of Basilisks 9 times. | Besiege den Meister der Basilisken 9-mal. |
 | 4916 | Master of Basilisks X | Meister der Basilisken X |
-| 4917 | Defeat the Master of Basilisks 10 times. | Besiege den Meister der Basilisken 10 Mal. |
+| 4917 | Defeat the Master of Basilisks 10 times. | Besiege den Meister der Basilisken 10-mal. |
 | 4918 | Master of Bats I | Meister der Fledermäuse I |
 | 4919 | Defeat the Master of Bats 1 time. | Besiege den Meister der Fledermäuse 1 Mal. |
 | 4920 | Master of Bats II | Meister der Fledermäuse II |

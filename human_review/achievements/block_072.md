@@ -78,27 +78,27 @@
 | 7175 | Use the Godforge 90 times. | Benutze die Gottesschmiede 90 Mal. |
 | 7176 | The Godforge X | Der Götterschmiede X |
 | 7177 | Use the Godforge 100 times. | Benutze die Götterschmiede 100 Mal. |
-| 7178 | Slayer of {GOD_LIFE} I | Schlächter von {GOD_LIFE} I |
+| 7178 | Slayer of {GOD_LIFE} I | Bezwinger von {GOD_LIFE} I |
 | 7179 | Defeat {GOD_LIFE} 1 time. | Besiege {GOD_LIFE} 1 Mal. |
-| 7180 | Slayer of {GOD_LIFE} II | Schlächter von {GOD_LIFE} II |
+| 7180 | Slayer of {GOD_LIFE} II | Bezwinger von {GOD_LIFE} II |
 | 7181 | Defeat {GOD_LIFE} 2 times. | Besiege {GOD_LIFE} 2 Mal. |
-| 7182 | Slayer of {GOD_LIFE} III | Schlächter von {GOD_LIFE} III |
+| 7182 | Slayer of {GOD_LIFE} III | Bezwinger von {GOD_LIFE} III |
 | 7183 | Defeat {GOD_LIFE} 3 times. | Besiege {GOD_LIFE} 3 Mal. |
-| 7184 | Slayer of {GOD_LIFE} IV | Schlächter von {GOD_LIFE} IV |
+| 7184 | Slayer of {GOD_LIFE} IV | Bezwinger von {GOD_LIFE} IV |
 | 7185 | Defeat {GOD_LIFE} 4 times. | Besiege {GOD_LIFE} 4 Mal. |
-| 7186 | Slayer of {GOD_LIFE} V | Schlächter von {GOD_LIFE} V |
+| 7186 | Slayer of {GOD_LIFE} V | Bezwinger von {GOD_LIFE} V |
 | 7187 | Defeat {GOD_LIFE} 5 times. | Besiege {GOD_LIFE} 5 Mal. |
-| 7188 | Slayer of {GOD_LIFE} VI | Schlächter von {GOD_LIFE} VI |
+| 7188 | Slayer of {GOD_LIFE} VI | Bezwinger von {GOD_LIFE} VI |
 | 7189 | Defeat {GOD_LIFE} 6 times. | Besiege {GOD_LIFE} 6 Mal. |
-| 7190 | Slayer of {GOD_LIFE} VII | Schlächter von {GOD_LIFE} VII |
+| 7190 | Slayer of {GOD_LIFE} VII | Bezwinger von {GOD_LIFE} VII |
 | 7191 | Defeat {GOD_LIFE} 7 times. | Besiege {GOD_LIFE} 7 Mal. |
-| 7192 | Slayer of {GOD_LIFE} VIII | Schlächter von {GOD_LIFE} VIII |
+| 7192 | Slayer of {GOD_LIFE} VIII | Bezwinger von {GOD_LIFE} VIII |
 | 7193 | Defeat {GOD_LIFE} 8 times. | Besiege {GOD_LIFE} 8 Mal. |
-| 7194 | Slayer of {GOD_LIFE} IX | Schlächter von {GOD_LIFE} IX |
+| 7194 | Slayer of {GOD_LIFE} IX | Bezwinger von {GOD_LIFE} IX |
 | 7195 | Defeat {GOD_LIFE} 9 times. | Besiege {GOD_LIFE} 9 Mal. |
-| 7196 | Slayer of {GOD_LIFE} X | Schlächter von {GOD_LIFE} X |
+| 7196 | Slayer of {GOD_LIFE} X | Bezwinger von {GOD_LIFE} X |
 | 7197 | Defeat {GOD_LIFE} 10 times. | Besiege {GOD_LIFE} 10 Mal. |
-| 7198 | Slayer of {GOD_GRASSLAND} I | Schlächter von {GOD_GRASSLAND} I |
+| 7198 | Slayer of {GOD_GRASSLAND} I | Bezwinger von {GOD_GRASSLAND} I |
 | 7199 | Defeat {GOD_GRASSLAND} 1 time. | Besiege {GOD_GRASSLAND} 1 Mal. |
-| 7200 | Slayer of {GOD_GRASSLAND} II | Schlächter von {GOD_GRASSLAND} II |
+| 7200 | Slayer of {GOD_GRASSLAND} II | Bezwinger von {GOD_GRASSLAND} II |
 | 7201 | Defeat {GOD_GRASSLAND} 2 times. | Besiege {GOD_GRASSLAND} 2 Mal. |

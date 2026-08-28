@@ -82,23 +82,23 @@
 | 8579 | Defeat Caliban the Unredeemed 9 times. | Besiege Caliban den Unerlösten 9 Mal. |
 | 8580 | False God, Caliban the Unredeemed X | Falscher Gott, Caliban der Unerlöste X |
 | 8581 | Defeat Caliban the Unredeemed 10 times. | Besiege Caliban den Unerlösten 10 Mal. |
-| 8582 | Ascended {SPECX_DREAMSHADE} | Aufgestiegene {SPECX_DREAMSHADE} |
-| 8583 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DREAMSHADE} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_DREAMSHADE}-Spezialisierung aufzusteigen. |
-| 8584 | Ascended {SPECX_DRUID} | Aufgestiegener {SPECX_DRUID} |
-| 8585 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DRUID} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_DRUID}-Spezialisierung aufzusteigen. |
-| 8586 | Ascended {SPECX_EVOKER} | Aufgestiegener {SPECX_EVOKER} |
-| 8587 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_EVOKER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_EVOKER}-Spezialisierung aufzusteigen. |
-| 8588 | Ascended {SPECX_FANATIC} | Aufgestiegener {SPECX_FANATIC} |
-| 8589 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_FANATIC} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_FANATIC}-Spezialisierung aufzusteigen. |
-| 8590 | Ascended {SPECX_HERBALIST} | Aufgestiegener {SPECX_HERBALIST} |
-| 8591 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_HERBALIST} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_HERBALIST}-Spezialisierung aufzusteigen. |
-| 8592 | Ascended {SPECX_HELLKNIGHT} | Aufgestiegener {SPECX_HELLKNIGHT} |
-| 8593 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_HELLKNIGHT} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_HELLKNIGHT}-Spezialisierung aufzusteigen. |
-| 8594 | Ascended {SPECX_INQUISITOR} | Aufgestiegener {SPECX_INQUISITOR} |
-| 8595 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_INQUISITOR} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_INQUISITOR}-Spezialisierung aufzusteigen. |
-| 8596 | Ascended {SPECX_MONK} | Aufgestiegener {SPECX_MONK} |
-| 8597 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_MONK} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_MONK}-Spezialisierung aufzusteigen. |
-| 8598 | Ascended {SPECX_NECROMANCER} | Aufgestiegener {SPECX_NECROMANCER} |
-| 8599 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_NECROMANCER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_NECROMANCER}-Spezialisierung aufzusteigen. |
-| 8600 | Ascended {SPECX_PALADIN} | Aufgestiegener {SPECX_PALADIN} |
-| 8601 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_PALADIN} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_PALADIN}-Spezialisierung aufzusteigen. |
+| 8582 | Ascended {SPECX_DREAMSHADE} | Aufstieg: {SPECX_DREAMSHADE} |
+| 8583 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DREAMSHADE} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_DREAMSHADE} aufzusteigen. |
+| 8584 | Ascended {SPECX_DRUID} | Aufstieg: {SPECX_DRUID} |
+| 8585 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DRUID} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_DRUID} aufzusteigen. |
+| 8586 | Ascended {SPECX_EVOKER} | Aufstieg: {SPECX_EVOKER} |
+| 8587 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_EVOKER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_EVOKER} aufzusteigen. |
+| 8588 | Ascended {SPECX_FANATIC} | Aufstieg: {SPECX_FANATIC} |
+| 8589 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_FANATIC} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_FANATIC} aufzusteigen. |
+| 8590 | Ascended {SPECX_HERBALIST} | Aufstieg: {SPECX_HERBALIST} |
+| 8591 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_HERBALIST} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_HERBALIST} aufzusteigen. |
+| 8592 | Ascended {SPECX_HELLKNIGHT} | Aufstieg: {SPECX_HELLKNIGHT} |
+| 8593 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_HELLKNIGHT} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_HELLKNIGHT} aufzusteigen. |
+| 8594 | Ascended {SPECX_INQUISITOR} | Aufstieg: {SPECX_INQUISITOR} |
+| 8595 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_INQUISITOR} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_INQUISITOR} aufzusteigen. |
+| 8596 | Ascended {SPECX_MONK} | Aufstieg: {SPECX_MONK} |
+| 8597 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_MONK} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_MONK} aufzusteigen. |
+| 8598 | Ascended {SPECX_NECROMANCER} | Aufstieg: {SPECX_NECROMANCER} |
+| 8599 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_NECROMANCER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_NECROMANCER} aufzusteigen. |
+| 8600 | Ascended {SPECX_PALADIN} | Aufstieg: {SPECX_PALADIN} |
+| 8601 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_PALADIN} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_PALADIN} aufzusteigen. |

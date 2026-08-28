@@ -38,46 +38,46 @@
 | 5335 | Defeat the Master of Dryads 9 times. | Besiege den Meister der Dryaden 9 Mal. |
 | 5336 | Master of Dryads X | Meister der Dryaden X |
 | 5337 | Defeat the Master of Dryads 10 times. | Besiege den Meister der Dryaden 10 Mal. |
-| 5338 | Master of Dumplings I | Meister der Teigtaschen I |
-| 5339 | Defeat the Master of Dumplings 1 time. | Besiege den Meister der Knödel 1 Mal. |
-| 5340 | Master of Dumplings II | Meister der Teigtaschen II |
-| 5341 | Defeat the Master of Dumplings 2 times. | Besiege den Meister der Knödel 2 Mal. |
+| 5338 | Master of Dumplings I | Meister der Knödel I |
+| 5339 | Defeat the Master of Dumplings 1 time. | Besiege den Meister der Knödel 1-mal. |
+| 5340 | Master of Dumplings II | Meister der Knödel II |
+| 5341 | Defeat the Master of Dumplings 2 times. | Besiege den Meister der Knödel 2-mal. |
 | 5342 | Master of Dumplings III | Meister der Knödel III |
-| 5343 | Defeat the Master of Dumplings 3 times. | Besiege den Meister der Knödel 3 Mal. |
+| 5343 | Defeat the Master of Dumplings 3 times. | Besiege den Meister der Knödel 3-mal. |
 | 5344 | Master of Dumplings IV | Meister der Knödel IV |
-| 5345 | Defeat the Master of Dumplings 4 times. | Besiege den Meister der Knödel 4 Mal. |
-| 5346 | Master of Dumplings V | Meister der Teigtaschen V |
-| 5347 | Defeat the Master of Dumplings 5 times. | Besiege den Meister der Knödel 5 Mal. |
+| 5345 | Defeat the Master of Dumplings 4 times. | Besiege den Meister der Knödel 4-mal. |
+| 5346 | Master of Dumplings V | Meister der Knödel V |
+| 5347 | Defeat the Master of Dumplings 5 times. | Besiege den Meister der Knödel 5-mal. |
 | 5348 | Master of Dumplings VI | Meister der Knödel VI |
-| 5349 | Defeat the Master of Dumplings 6 times. | Besiege den Meister der Knödel 6 Mal. |
+| 5349 | Defeat the Master of Dumplings 6 times. | Besiege den Meister der Knödel 6-mal. |
 | 5350 | Master of Dumplings VII | Meister der Knödel VII |
-| 5351 | Defeat the Master of Dumplings 7 times. | Besiege den Meister der Knödel 7 Mal. |
+| 5351 | Defeat the Master of Dumplings 7 times. | Besiege den Meister der Knödel 7-mal. |
 | 5352 | Master of Dumplings VIII | Meister der Knödel VIII |
-| 5353 | Defeat the Master of Dumplings 8 times. | Besiege den Meister der Knödel 8 Mal. |
+| 5353 | Defeat the Master of Dumplings 8 times. | Besiege den Meister der Knödel 8-mal. |
 | 5354 | Master of Dumplings IX | Meister der Knödel IX |
-| 5355 | Defeat the Master of Dumplings 9 times. | Besiege den Meister der Knödel 9 Mal. |
-| 5356 | Master of Dumplings X | Meister der Teigtaschen X |
-| 5357 | Defeat the Master of Dumplings 10 times. | Besiege den Meister der Knödel 10 Mal. |
-| 5358 | Master of Efreets I | Meister der Ifrits I |
-| 5359 | Defeat the Master of Efreets 1 time. | Besiege den Meister der Efreets 1 Mal. |
-| 5360 | Master of Efreets II | Meister der Efreets II |
-| 5361 | Defeat the Master of Efreets 2 times. | Besiege den Meister der Efreets 2 Mal. |
-| 5362 | Master of Efreets III | Meister der Efreets III |
-| 5363 | Defeat the Master of Efreets 3 times. | Besiege den Meister der Efreets 3 Mal. |
-| 5364 | Master of Efreets IV | Meister der Efreets IV |
-| 5365 | Defeat the Master of Efreets 4 times. | Besiege den Meister der Efreets 4 Mal. |
-| 5366 | Master of Efreets V | Meister der Efreets V |
-| 5367 | Defeat the Master of Efreets 5 times. | Besiege den Meister der Efreets 5 Mal. |
-| 5368 | Master of Efreets VI | Meister der Efreets VI |
-| 5369 | Defeat the Master of Efreets 6 times. | Besiege den Meister der Efreets 6 Mal. |
-| 5370 | Master of Efreets VII | Meister der Efreets VII |
-| 5371 | Defeat the Master of Efreets 7 times. | Besiege den Meister der Efreets 7 Mal. |
-| 5372 | Master of Efreets VIII | Meister der Efreets VIII |
-| 5373 | Defeat the Master of Efreets 8 times. | Besiege den Meister der Efreets 8 Mal. |
-| 5374 | Master of Efreets IX | Meister der Efreets IX |
-| 5375 | Defeat the Master of Efreets 9 times. | Besiege den Meister der Efreets 9 Mal. |
-| 5376 | Master of Efreets X | Meister der Efreets X |
-| 5377 | Defeat the Master of Efreets 10 times. | Besiege den Meister der Efreets 10 Mal. |
+| 5355 | Defeat the Master of Dumplings 9 times. | Besiege den Meister der Knödel 9-mal. |
+| 5356 | Master of Dumplings X | Meister der Knödel X |
+| 5357 | Defeat the Master of Dumplings 10 times. | Besiege den Meister der Knödel 10-mal. |
+| 5358 | Master of Efreets I | Meister der Efreet I |
+| 5359 | Defeat the Master of Efreets 1 time. | Besiege den Meister der Efreet 1-mal. |
+| 5360 | Master of Efreets II | Meister der Efreet II |
+| 5361 | Defeat the Master of Efreets 2 times. | Besiege den Meister der Efreet 2-mal. |
+| 5362 | Master of Efreets III | Meister der Efreet III |
+| 5363 | Defeat the Master of Efreets 3 times. | Besiege den Meister der Efreet 3-mal. |
+| 5364 | Master of Efreets IV | Meister der Efreet IV |
+| 5365 | Defeat the Master of Efreets 4 times. | Besiege den Meister der Efreet 4-mal. |
+| 5366 | Master of Efreets V | Meister der Efreet V |
+| 5367 | Defeat the Master of Efreets 5 times. | Besiege den Meister der Efreet 5-mal. |
+| 5368 | Master of Efreets VI | Meister der Efreet VI |
+| 5369 | Defeat the Master of Efreets 6 times. | Besiege den Meister der Efreet 6-mal. |
+| 5370 | Master of Efreets VII | Meister der Efreet VII |
+| 5371 | Defeat the Master of Efreets 7 times. | Besiege den Meister der Efreet 7-mal. |
+| 5372 | Master of Efreets VIII | Meister der Efreet VIII |
+| 5373 | Defeat the Master of Efreets 8 times. | Besiege den Meister der Efreet 8-mal. |
+| 5374 | Master of Efreets IX | Meister der Efreet IX |
+| 5375 | Defeat the Master of Efreets 9 times. | Besiege den Meister der Efreet 9-mal. |
+| 5376 | Master of Efreets X | Meister der Efreet X |
+| 5377 | Defeat the Master of Efreets 10 times. | Besiege den Meister der Efreet 10-mal. |
 | 5378 | Master of Efts I | Meister der Molche I |
 | 5379 | Defeat the Master of Efts 1 time. | Besiege den Meister der Molche 1 Mal. |
 | 5380 | Master of Efts II | Meister der Molche II |

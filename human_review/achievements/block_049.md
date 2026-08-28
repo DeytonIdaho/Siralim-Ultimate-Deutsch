@@ -99,6 +99,6 @@
 | 4896 | Master of Bards X | Meister der Barden X |
 | 4897 | Defeat the Master of Bards 10 times. | Besiege den Meister der Barden 10 Mal. |
 | 4898 | Master of Basilisks I | Meister der Basilisken I |
-| 4899 | Defeat the Master of Basilisks 1 time. | Besiege den Meister der Basilisken 1 Mal. |
+| 4899 | Defeat the Master of Basilisks 1 time. | Besiege den Meister der Basilisken 1-mal. |
 | 4900 | Master of Basilisks II | Meister der Basilisken II |
-| 4901 | Defeat the Master of Basilisks 2 times. | Besiege den Meister der Basilisken 2 Mal. |
+| 4901 | Defeat the Master of Basilisks 2 times. | Besiege den Meister der Basilisken 2-mal. |

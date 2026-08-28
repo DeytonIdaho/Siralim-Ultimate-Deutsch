@@ -2,46 +2,46 @@
 
 | Row | English | German |
 |---:|---|---|
-| 8602 | Ascended {SPECX_PURGATORIAN} | Aufgestiegener {SPECX_PURGATORIAN} |
-| 8603 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_PURGATORIAN} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_PURGATORIAN}-Spezialisierung aufzusteigen. |
-| 8604 | Ascended {SPECX_PYROMANCER} | Aufgestiegener {SPECX_PYROMANCER} |
-| 8605 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_PYROMANCER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_PYROMANCER}-Spezialisierung aufzusteigen. |
-| 8606 | Ascended {SPECX_REAVER} | Aufgestiegener {SPECX_REAVER} |
-| 8607 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_REAVER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_REAVER}-Spezialisierung aufzusteigen. |
-| 8608 | Ascended {SPECX_ROYAL} | Aufgestiegener {SPECX_ROYAL} |
-| 8609 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_ROYAL} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_ROYAL} Spezialisierung aufzusteigen. |
-| 8610 | Ascended {SPECX_RUNEKNIGHT} | Aufgestiegener {SPECX_RUNEKNIGHT} |
-| 8611 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_RUNEKNIGHT} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_RUNEKNIGHT}-Spezialisierung aufzusteigen. |
-| 8612 | Ascended {SPECX_SIEGEMASTER} | Aufgestiegener {SPECX_SIEGEMASTER} |
-| 8613 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_SIEGEMASTER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_SIEGEMASTER}-Spezialisierung aufzusteigen. |
-| 8614 | Ascended {SPECX_SORCERER} | Aufgestiegener {SPECX_SORCERER} |
-| 8615 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_SORCERER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_SORCERER}-Spezialisierung aufzusteigen. |
-| 8616 | Ascended {SPECX_SPELLWEAVER} | Aufgestiegener {SPECX_SPELLWEAVER} |
-| 8617 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_SPELLWEAVER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_SPELLWEAVER}-Spezialisierung aufzusteigen. |
-| 8618 | Ascended {SPECX_TRIBALIST} | Aufgestiegener {SPECX_TRIBALIST} |
-| 8619 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_TRIBALIST} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_TRIBALIST}-Spezialisierung aufzusteigen. |
-| 8620 | Ascended {SPECX_TRICKSTER} | Aufgestiegener {SPECX_TRICKSTER} |
-| 8621 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_TRICKSTER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_TRICKSTER}-Spezialisierung aufzusteigen. |
-| 8622 | Ascended {SPECX_WARDEN} | Aufgestiegener {SPECX_WARDEN} |
-| 8623 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_WARDEN} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_WARDEN}-Spezialisierung aufzusteigen. |
-| 8624 | Ascended {SPECX_WINDRUNNER} | Aufgestiegene {SPECX_WINDRUNNER} |
-| 8625 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_WINDRUNNER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_WINDRUNNER}-Spezialisierung aufzusteigen. |
-| 8626 | Ascended {SPECX_WITCHDOCTOR} | Aufgestiegener {SPECX_WITCHDOCTOR} |
-| 8627 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_WITCHDOCTOR} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_WITCHDOCTOR}-Spezialisierung aufzusteigen. |
-| 8628 | Ascended {SPECX_ANIMATOR} | Aufgestiegener {SPECX_ANIMATOR} |
-| 8629 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_ANIMATOR} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_ANIMATOR}-Spezialisierung aufzusteigen. |
-| 8630 | Ascended {SPECX_ASTROLOGER} | Aufgestiegener {SPECX_ASTROLOGER} |
-| 8631 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_ASTROLOGER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_ASTROLOGER}-Spezialisierung aufzusteigen. |
-| 8632 | Ascended {SPECX_BLOODMAGE} | Aufgestiegener {SPECX_BLOODMAGE} |
-| 8633 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_BLOODMAGE} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_BLOODMAGE}-Spezialisierung aufzusteigen. |
-| 8634 | Ascended {SPECX_CABALIST} | Aufgestiegener {SPECX_CABALIST} |
-| 8635 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_CABALIST} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_CABALIST}-Spezialisierung aufzusteigen. |
-| 8636 | Ascended {SPECX_CLERIC} | Aufgestiegener {SPECX_CLERIC} |
-| 8637 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_CLERIC} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_CLERIC}-Spezialisierung aufzusteigen. |
-| 8638 | Ascended {SPECX_DEFILER} | Aufgestiegener {SPECX_DEFILER} |
-| 8639 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DEFILER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_DEFILER}-Spezialisierung aufzusteigen. |
-| 8640 | Ascended {SPECX_DOOMBRINGER} | Aufgestiegener {SPECX_DOOMBRINGER} |
-| 8641 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DOOMBRINGER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um die {SPECX_DOOMBRINGER}-Spezialisierung aufzusteigen. |
+| 8602 | Ascended {SPECX_PURGATORIAN} | Aufstieg: {SPECX_PURGATORIAN} |
+| 8603 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_PURGATORIAN} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_PURGATORIAN} aufzusteigen. |
+| 8604 | Ascended {SPECX_PYROMANCER} | Aufstieg: {SPECX_PYROMANCER} |
+| 8605 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_PYROMANCER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_PYROMANCER} aufzusteigen. |
+| 8606 | Ascended {SPECX_REAVER} | Aufstieg: {SPECX_REAVER} |
+| 8607 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_REAVER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_REAVER} aufzusteigen. |
+| 8608 | Ascended {SPECX_ROYAL} | Aufstieg: {SPECX_ROYAL} |
+| 8609 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_ROYAL} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_ROYAL} aufzusteigen. |
+| 8610 | Ascended {SPECX_RUNEKNIGHT} | Aufstieg: {SPECX_RUNEKNIGHT} |
+| 8611 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_RUNEKNIGHT} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_RUNEKNIGHT} aufzusteigen. |
+| 8612 | Ascended {SPECX_SIEGEMASTER} | Aufstieg: {SPECX_SIEGEMASTER} |
+| 8613 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_SIEGEMASTER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_SIEGEMASTER} aufzusteigen. |
+| 8614 | Ascended {SPECX_SORCERER} | Aufstieg: {SPECX_SORCERER} |
+| 8615 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_SORCERER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_SORCERER} aufzusteigen. |
+| 8616 | Ascended {SPECX_SPELLWEAVER} | Aufstieg: {SPECX_SPELLWEAVER} |
+| 8617 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_SPELLWEAVER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_SPELLWEAVER} aufzusteigen. |
+| 8618 | Ascended {SPECX_TRIBALIST} | Aufstieg: {SPECX_TRIBALIST} |
+| 8619 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_TRIBALIST} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_TRIBALIST} aufzusteigen. |
+| 8620 | Ascended {SPECX_TRICKSTER} | Aufstieg: {SPECX_TRICKSTER} |
+| 8621 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_TRICKSTER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_TRICKSTER} aufzusteigen. |
+| 8622 | Ascended {SPECX_WARDEN} | Aufstieg: {SPECX_WARDEN} |
+| 8623 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_WARDEN} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_WARDEN} aufzusteigen. |
+| 8624 | Ascended {SPECX_WINDRUNNER} | Aufstieg: {SPECX_WINDRUNNER} |
+| 8625 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_WINDRUNNER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_WINDRUNNER} aufzusteigen. |
+| 8626 | Ascended {SPECX_WITCHDOCTOR} | Aufstieg: {SPECX_WITCHDOCTOR} |
+| 8627 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_WITCHDOCTOR} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_WITCHDOCTOR} aufzusteigen. |
+| 8628 | Ascended {SPECX_ANIMATOR} | Aufstieg: {SPECX_ANIMATOR} |
+| 8629 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_ANIMATOR} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_ANIMATOR} aufzusteigen. |
+| 8630 | Ascended {SPECX_ASTROLOGER} | Aufstieg: {SPECX_ASTROLOGER} |
+| 8631 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_ASTROLOGER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_ASTROLOGER} aufzusteigen. |
+| 8632 | Ascended {SPECX_BLOODMAGE} | Aufstieg: {SPECX_BLOODMAGE} |
+| 8633 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_BLOODMAGE} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_BLOODMAGE} aufzusteigen. |
+| 8634 | Ascended {SPECX_CABALIST} | Aufstieg: {SPECX_CABALIST} |
+| 8635 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_CABALIST} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_CABALIST} aufzusteigen. |
+| 8636 | Ascended {SPECX_CLERIC} | Aufstieg: {SPECX_CLERIC} |
+| 8637 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_CLERIC} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_CLERIC} aufzusteigen. |
+| 8638 | Ascended {SPECX_DEFILER} | Aufstieg: {SPECX_DEFILER} |
+| 8639 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DEFILER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_DEFILER} aufzusteigen. |
+| 8640 | Ascended {SPECX_DOOMBRINGER} | Aufstieg: {SPECX_DOOMBRINGER} |
+| 8641 | Defeat all the gods at Difficulty 10 or higher to Ascend the {SPECX_DOOMBRINGER} specialization. | Besiege alle Götter auf Schwierigkeitsstufe 10 oder höher, um mit der Spezialisierung {SPECX_DOOMBRINGER} aufzusteigen. |
 | 8642 | The Otherworld | Die Anderswelt |
 | 8643 | Encounter an Otherworld Portal. | Begegne einem Portal in die Anderswelt. |
 | 8644 | Avatar of {GOD_ALEXANDRIA} | Avatar von {GOD_ALEXANDRIA} |
@@ -71,7 +71,7 @@
 | 8668 | Earning Ripplevein | Rippelvene verdienen |
 | 8669 | Unlock {RELIC_MUSE} at the Reliquary. | Schalte {RELIC_MUSE} im Reliquiar frei. |
 | 8670 | Earning Fatum & Fortuna | Fatum & Fortuna verdienen |
-| 8671 | Unlock {RELIC_RECLUSA} at the Reliquary. | Schalte {RELIC_RECLUSA} im Reliquarium frei. |
+| 8671 | Unlock {RELIC_RECLUSA} at the Reliquary. | Schalte {RELIC_RECLUSA} im Reliquiar frei. |
 | 8672 | Earning 5740-NG | Verdiene 5740-NG |
 | 8673 | Unlock {RELIC_ROBO} at the Reliquary. | Schalte {RELIC_ROBO} im Reliquiar frei. |
 | 8674 | Earning Fable | Fabel verdienen |
@@ -79,8 +79,8 @@
 | 8676 | Earning Amalgam | Amalgam verdienen |
 | 8677 | Unlock {RELIC_TMEREMRGO} at the Reliquary. | Schalte {RELIC_TMEREMRGO} im Reliquiar frei. |
 | 8678 | Earning Vitreous | Vitreum verdienen |
-| 8679 | Unlock {RELIC_ANNELTHA} at the Reliquary. | Schalte {RELIC_ANNELTHA} im Reliquarium frei. |
-| 8680 | Slayer of {GOD_ALEXANDRIA} I | Schlächter von {GOD_ALEXANDRIA} I |
+| 8679 | Unlock {RELIC_ANNELTHA} at the Reliquary. | Schalte {RELIC_ANNELTHA} im Reliquiar frei. |
+| 8680 | Slayer of {GOD_ALEXANDRIA} I | Bezwinger von {GOD_ALEXANDRIA} I |
 | 8681 | Defeat {GOD_ALEXANDRIA} 1 time. | Besiege {GOD_ALEXANDRIA} 1 Mal. |
 | 8682 | Slayer of {GOD_ALEXANDRIA} II | Bezwinger von {GOD_ALEXANDRIA} II |
 | 8683 | Defeat {GOD_ALEXANDRIA} 2 times. | Besiege {GOD_ALEXANDRIA} 2 Mal. |
@@ -100,5 +100,5 @@
 | 8697 | Defeat {GOD_ALEXANDRIA} 9 times. | Besiege {GOD_ALEXANDRIA} 9 Mal. |
 | 8698 | Slayer of {GOD_ALEXANDRIA} X | Bezwinger von {GOD_ALEXANDRIA} X |
 | 8699 | Defeat {GOD_ALEXANDRIA} 10 times. | Besiege {GOD_ALEXANDRIA} 10 Mal. |
-| 8700 | Slayer of {GOD_ANNELTHA} I | Schlächter von {GOD_ANNELTHA} I |
+| 8700 | Slayer of {GOD_ANNELTHA} I | Bezwinger von {GOD_ANNELTHA} I |
 | 8701 | Defeat {GOD_ANNELTHA} 1 time. | Besiege {GOD_ANNELTHA} 1 Mal. |

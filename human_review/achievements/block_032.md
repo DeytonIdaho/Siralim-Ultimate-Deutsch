@@ -62,36 +62,36 @@
 | 3159 | Empower {RELIC_VENEDON} up to rank 90. | Verstärke {RELIC_VENEDON} bis Rang 90. |
 | 3160 | Empowering Dusk & Dawn X | Stärkende Dämmerung & Morgendämmerung X |
 | 3161 | Empower {RELIC_VENEDON} up to rank 100. | Verstärke {RELIC_VENEDON} bis Rang 100. |
-| 3162 | Becoming a {SPECX_MONK} | Ein {SPECX_MONK} werden |
-| 3163 | Unlock the {SPECX_MONK} specialization. | Schalte die {SPECX_MONK}-Spezialisierung frei. |
-| 3164 | Becoming a {SPECX_ANIMATOR} | Ein {SPECX_ANIMATOR} werden |
-| 3165 | Unlock the {SPECX_ANIMATOR} specialization. | Schalte die {SPECX_ANIMATOR} Spezialisierung frei. |
-| 3166 | Becoming a {SPECX_TRICKSTER} | Ein {SPECX_TRICKSTER} werden |
-| 3167 | Unlock the {SPECX_TRICKSTER} specialization. | Schalte die {SPECX_TRICKSTER}-Spezialisierung frei. |
-| 3168 | Becoming a {SPECX_HELLKNIGHT} | Ein {SPECX_HELLKNIGHT} werden |
-| 3169 | Unlock the {SPECX_HELLKNIGHT} specialization. | Schalte die {SPECX_HELLKNIGHT} Spezialisierung frei. |
-| 3170 | Becoming a {SPECX_REAVER} | Ein {SPECX_REAVER} werden |
-| 3171 | Unlock the {SPECX_REAVER} specialization. | Schalte die {SPECX_REAVER} Spezialisierung frei. |
-| 3172 | Becoming a {SPECX_INQUISITOR} | Ein {SPECX_INQUISITOR} werden |
-| 3173 | Unlock the {SPECX_INQUISITOR} specialization. | Schalte die {SPECX_INQUISITOR}-Spezialisierung frei. |
-| 3174 | Becoming a {SPECX_CLERIC} | Ein {SPECX_CLERIC} werden |
-| 3175 | Unlock the {SPECX_CLERIC} specialization. | Schalte die {SPECX_CLERIC}-Spezialisierung frei. |
-| 3176 | Becoming a {SPECX_DEFILER} | Ein {SPECX_DEFILER} werden |
-| 3177 | Unlock the {SPECX_DEFILER} specialization. | Schalte die {SPECX_DEFILER}-Spezialisierung frei. |
-| 3178 | Becoming a {SPECX_PALADIN} | Ein {SPECX_PALADIN} werden |
-| 3179 | Unlock the {SPECX_PALADIN} specialization. | Schalte die {SPECX_PALADIN}-Spezialisierung frei. |
-| 3180 | Becoming a {SPECX_DRUID} | Ein {SPECX_DRUID} werden |
-| 3181 | Unlock the {SPECX_DRUID} specialization. | Schalte die {SPECX_DRUID}-Spezialisierung frei. |
-| 3182 | Becoming a {SPECX_TRIBALIST} | Ein {SPECX_TRIBALIST} werden |
-| 3183 | Unlock the {SPECX_TRIBALIST} specialization. | Schalte die {SPECX_TRIBALIST} Spezialisierung frei. |
-| 3184 | Becoming a {SPECX_SORCERER} | Ein {SPECX_SORCERER} werden |
-| 3185 | Unlock the {SPECX_SORCERER} specialization. | Schalte die {SPECX_SORCERER}-Spezialisierung frei. |
-| 3186 | Becoming a {SPECX_CABALIST} | Ein {SPECX_CABALIST} werden |
-| 3187 | Unlock the {SPECX_CABALIST} specialization. | Schalte die {SPECX_CABALIST}-Spezialisierung frei. |
-| 3188 | Becoming a {SPECX_EVOKER} | Ein {SPECX_EVOKER} werden |
-| 3189 | Unlock the {SPECX_EVOKER} specialization. | Schalte die {SPECX_EVOKER} Spezialisierung frei. |
-| 3190 | Becoming a {SPECX_NECROMANCER} | Ein {SPECX_NECROMANCER} werden |
-| 3191 | Unlock the {SPECX_NECROMANCER} specialization. | Schalte die {SPECX_NECROMANCER}-Spezialisierung frei. |
+| 3162 | Becoming a {SPECX_MONK} | Spezialisierung: {SPECX_MONK} |
+| 3163 | Unlock the {SPECX_MONK} specialization. | Schalte die Spezialisierung {SPECX_MONK} frei. |
+| 3164 | Becoming a {SPECX_ANIMATOR} | Spezialisierung: {SPECX_ANIMATOR} |
+| 3165 | Unlock the {SPECX_ANIMATOR} specialization. | Schalte die Spezialisierung {SPECX_ANIMATOR} frei. |
+| 3166 | Becoming a {SPECX_TRICKSTER} | Spezialisierung: {SPECX_TRICKSTER} |
+| 3167 | Unlock the {SPECX_TRICKSTER} specialization. | Schalte die Spezialisierung {SPECX_TRICKSTER} frei. |
+| 3168 | Becoming a {SPECX_HELLKNIGHT} | Spezialisierung: {SPECX_HELLKNIGHT} |
+| 3169 | Unlock the {SPECX_HELLKNIGHT} specialization. | Schalte die Spezialisierung {SPECX_HELLKNIGHT} frei. |
+| 3170 | Becoming a {SPECX_REAVER} | Spezialisierung: {SPECX_REAVER} |
+| 3171 | Unlock the {SPECX_REAVER} specialization. | Schalte die Spezialisierung {SPECX_REAVER} frei. |
+| 3172 | Becoming a {SPECX_INQUISITOR} | Spezialisierung: {SPECX_INQUISITOR} |
+| 3173 | Unlock the {SPECX_INQUISITOR} specialization. | Schalte die Spezialisierung {SPECX_INQUISITOR} frei. |
+| 3174 | Becoming a {SPECX_CLERIC} | Spezialisierung: {SPECX_CLERIC} |
+| 3175 | Unlock the {SPECX_CLERIC} specialization. | Schalte die Spezialisierung {SPECX_CLERIC} frei. |
+| 3176 | Becoming a {SPECX_DEFILER} | Spezialisierung: {SPECX_DEFILER} |
+| 3177 | Unlock the {SPECX_DEFILER} specialization. | Schalte die Spezialisierung {SPECX_DEFILER} frei. |
+| 3178 | Becoming a {SPECX_PALADIN} | Spezialisierung: {SPECX_PALADIN} |
+| 3179 | Unlock the {SPECX_PALADIN} specialization. | Schalte die Spezialisierung {SPECX_PALADIN} frei. |
+| 3180 | Becoming a {SPECX_DRUID} | Spezialisierung: {SPECX_DRUID} |
+| 3181 | Unlock the {SPECX_DRUID} specialization. | Schalte die Spezialisierung {SPECX_DRUID} frei. |
+| 3182 | Becoming a {SPECX_TRIBALIST} | Spezialisierung: {SPECX_TRIBALIST} |
+| 3183 | Unlock the {SPECX_TRIBALIST} specialization. | Schalte die Spezialisierung {SPECX_TRIBALIST} frei. |
+| 3184 | Becoming a {SPECX_SORCERER} | Spezialisierung: {SPECX_SORCERER} |
+| 3185 | Unlock the {SPECX_SORCERER} specialization. | Schalte die Spezialisierung {SPECX_SORCERER} frei. |
+| 3186 | Becoming a {SPECX_CABALIST} | Spezialisierung: {SPECX_CABALIST} |
+| 3187 | Unlock the {SPECX_CABALIST} specialization. | Schalte die Spezialisierung {SPECX_CABALIST} frei. |
+| 3188 | Becoming a {SPECX_EVOKER} | Spezialisierung: {SPECX_EVOKER} |
+| 3189 | Unlock the {SPECX_EVOKER} specialization. | Schalte die Spezialisierung {SPECX_EVOKER} frei. |
+| 3190 | Becoming a {SPECX_NECROMANCER} | Spezialisierung: {SPECX_NECROMANCER} |
+| 3191 | Unlock the {SPECX_NECROMANCER} specialization. | Schalte die Spezialisierung {SPECX_NECROMANCER} frei. |
 | 3192 | The Prowler | Der Schleicher |
 | 3193 | Defeat the boss at Realm Depth 3. | Besiege den Boss auf Reichstufe 3. |
 | 3194 | The Moaning Myrtle | Die Klagende Myrte |

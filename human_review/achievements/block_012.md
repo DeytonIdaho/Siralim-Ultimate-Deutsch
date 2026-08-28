@@ -22,15 +22,15 @@
 | 1119 | Donate resources at Zonte's altar 90 times. | Spende 90 Mal Ressourcen an Zontes Altar. |
 | 1120 | Donation to Zonte X | Spende an Zonte X |
 | 1121 | Donate resources at Zonte's altar 100 times. | Spende 100 Mal Ressourcen an Zontes Altar. |
-| 1122 | Favored by Aeolian I | Bevorzugt von Aeolian I |
-| 1123 | Reach Favor Rank 5 with Aeolian. | Erreiche Gunstrang 5 mit Aeolian. |
+| 1122 | Favored by Aeolian I | Begünstigt von Aeolian I |
+| 1123 | Reach Favor Rank 5 with Aeolian. | Erreiche Gunstrang 5 bei Aeolian. |
 | 1124 | Favored by Aeolian II | Begünstigt von Aeolian II |
-| 1125 | Reach Favor Rank 10 with Aeolian. | Erreiche Gunstrang 10 mit Aeolian. |
+| 1125 | Reach Favor Rank 10 with Aeolian. | Erreiche Gunstrang 10 bei Aeolian. |
 | 1126 | Favored by Aeolian III | Begünstigt von Aeolian III |
 | 1127 | Reach Favor Rank 15 with Aeolian. | Erreiche Gunstrang 15 bei Aeolian. |
-| 1128 | Favored by Aeolian IV | Bevorzugt von Aeolian IV |
+| 1128 | Favored by Aeolian IV | Begünstigt von Aeolian IV |
 | 1129 | Reach Favor Rank 20 with Aeolian. | Erreiche Gunstrang 20 bei Aeolian. |
-| 1130 | Favored by Aeolian V | Bevorzugt von Aeolian V |
+| 1130 | Favored by Aeolian V | Begünstigt von Aeolian V |
 | 1131 | Reach Favor Rank 25 with Aeolian. | Erreiche Gunstrang 25 bei Aeolian. |
 | 1132 | Favored by Aeolian VI | Begünstigt von Aeolian VI |
 | 1133 | Reach Favor Rank 30 with Aeolian. | Erreiche Gunstrang 30 bei Aeolian. |
@@ -63,11 +63,11 @@
 | 1160 | Favored by Apocranox X | Begünstigt von Apocranox X |
 | 1161 | Reach Favor Rank 50 with Apocranox. | Erreiche Gunstrang 50 bei Apocranox. |
 | 1162 | Favored by Aurum I | Begünstigt von Aurum I |
-| 1163 | Reach Favor Rank 5 with Aurum. | Erreiche Gunstrang 5 mit Aurum. |
+| 1163 | Reach Favor Rank 5 with Aurum. | Erreiche Gunstrang 5 bei Aurum. |
 | 1164 | Favored by Aurum II | Begünstigt von Aurum II |
-| 1165 | Reach Favor Rank 10 with Aurum. | Erreiche Gunstrang 10 mit Aurum. |
+| 1165 | Reach Favor Rank 10 with Aurum. | Erreiche Gunstrang 10 bei Aurum. |
 | 1166 | Favored by Aurum III | Begünstigt von Aurum III |
-| 1167 | Reach Favor Rank 15 with Aurum. | Erreiche Gunstrang 15 mit Aurum. |
+| 1167 | Reach Favor Rank 15 with Aurum. | Erreiche Gunstrang 15 bei Aurum. |
 | 1168 | Favored by Aurum IV | Begünstigt von Aurum IV |
 | 1169 | Reach Favor Rank 20 with Aurum. | Erreiche Gunstrang 20 bei Aurum. |
 | 1170 | Favored by Aurum V | Begünstigt von Aurum V |
@@ -77,28 +77,28 @@
 | 1174 | Favored by Aurum VII | Begünstigt von Aurum VII |
 | 1175 | Reach Favor Rank 35 with Aurum. | Erreiche Gunstrang 35 bei Aurum. |
 | 1176 | Favored by Aurum VIII | Begünstigt von Aurum VIII |
-| 1177 | Reach Favor Rank 40 with Aurum. | Erreiche Gunstrang 40 mit Aurum. |
+| 1177 | Reach Favor Rank 40 with Aurum. | Erreiche Gunstrang 40 bei Aurum. |
 | 1178 | Favored by Aurum IX | Begünstigt von Aurum IX |
 | 1179 | Reach Favor Rank 45 with Aurum. | Erreiche Gunstrang 45 bei Aurum. |
 | 1180 | Favored by Aurum X | Begünstigt von Aurum X |
-| 1181 | Reach Favor Rank 50 with Aurum. | Erreiche Gunstrang 50 mit Aurum. |
-| 1182 | Favored by Azural I | Bevorzugt von Azural I |
+| 1181 | Reach Favor Rank 50 with Aurum. | Erreiche Gunstrang 50 bei Aurum. |
+| 1182 | Favored by Azural I | Begünstigt von Azural I |
 | 1183 | Reach Favor Rank 5 with Azural. | Erreiche Gunstrang 5 bei Azural. |
-| 1184 | Favored by Azural II | Bevorzugt von Azural II |
+| 1184 | Favored by Azural II | Begünstigt von Azural II |
 | 1185 | Reach Favor Rank 10 with Azural. | Erreiche Gunstrang 10 bei Azural. |
-| 1186 | Favored by Azural III | Bevorzugt von Azural III |
+| 1186 | Favored by Azural III | Begünstigt von Azural III |
 | 1187 | Reach Favor Rank 15 with Azural. | Erreiche Gunstrang 15 bei Azural. |
 | 1188 | Favored by Azural IV | Begünstigt von Azural IV |
 | 1189 | Reach Favor Rank 20 with Azural. | Erreiche Gunstrang 20 bei Azural. |
-| 1190 | Favored by Azural V | Bevorzugt von Azural V |
+| 1190 | Favored by Azural V | Begünstigt von Azural V |
 | 1191 | Reach Favor Rank 25 with Azural. | Erreiche Gunstrang 25 bei Azural. |
 | 1192 | Favored by Azural VI | Begünstigt von Azural VI |
 | 1193 | Reach Favor Rank 30 with Azural. | Erreiche Gunstrang 30 bei Azural. |
-| 1194 | Favored by Azural VII | Bevorzugt von Azural VII |
+| 1194 | Favored by Azural VII | Begünstigt von Azural VII |
 | 1195 | Reach Favor Rank 35 with Azural. | Erreiche Gunstrang 35 bei Azural. |
-| 1196 | Favored by Azural VIII | Bevorzugt von Azural VIII |
+| 1196 | Favored by Azural VIII | Begünstigt von Azural VIII |
 | 1197 | Reach Favor Rank 40 with Azural. | Erreiche Gunstrang 40 bei Azural. |
-| 1198 | Favored by Azural IX | Bevorzugt von Azural IX |
+| 1198 | Favored by Azural IX | Begünstigt von Azural IX |
 | 1199 | Reach Favor Rank 45 with Azural. | Erreiche Gunstrang 45 bei Azural. |
-| 1200 | Favored by Azural X | Bevorzugt von Azural X |
+| 1200 | Favored by Azural X | Begünstigt von Azural X |
 | 1201 | Reach Favor Rank 50 with Azural. | Erreiche Gunstrang 50 bei Azural. |

@@ -5,7 +5,7 @@
 | 3202 | The Patient | Der Patient |
 | 3203 | Defeat the boss at Realm Depth 18. | Besiege den Boss auf Reichstufe 18. |
 | 3204 | The Mindbender | Der Gedankenbieger |
-| 3205 | Defeat the boss at Realm Depth 21. | Besiege den Boss auf Reichstiefe 21. |
+| 3205 | Defeat the boss at Realm Depth 21. | Besiege den Boss auf Reichtiefe 21. |
 | 3206 | The Spoon | Der Löffel |
 | 3207 | Defeat the boss at Realm Depth 24. | Besiege den Boss auf Reichstufe 24. |
 | 3208 | The Protector | Der Beschützer |
@@ -21,7 +21,7 @@
 | 3218 | The Serpent | Die Schlange |
 | 3219 | Defeat the boss at Realm Depth 42. | Besiege den Boss auf Reichstufe 42. |
 | 3220 | The HEE HOO HAY HO | Der HEE HOO HAY HO |
-| 3221 | Defeat the boss at Realm Depth 45. | Besiege den Boss auf Reichstiefe 45. |
+| 3221 | Defeat the boss at Realm Depth 45. | Besiege den Boss auf Reichtiefe 45. |
 | 3222 | The Riddler | Der Rätselsteller |
 | 3223 | Defeat the boss at Realm Depth 48. | Besiege den Boss auf Reichstufe 48. |
 | 3224 | The Surprise | Der Überfall |
@@ -31,7 +31,7 @@
 | 3228 | The Butcher | Der Schlächter |
 | 3229 | Defeat the boss at Realm Depth 57. | Besiege den Boss auf Reichstufe 57. |
 | 3230 | The Absolver | Der Erlöser |
-| 3231 | Defeat the boss at Realm Depth 60. | Besiege den Boss auf Reichstiefe 60. |
+| 3231 | Defeat the boss at Realm Depth 60. | Besiege den Boss auf Reichtiefe 60. |
 | 3232 | The Deceiver | Der Täuscher |
 | 3233 | Defeat the boss at Realm Depth 63. | Besiege den Boss auf Reichstufe 63. |
 | 3234 | The Master | Der Meister |
@@ -49,10 +49,10 @@
 | 3246 | !@#$ YOU | !@#$ DU |
 | 3247 | Anger Torun more than normal. | Torun mehr als üblich verärgern. |
 | 3248 | What's In a Name? | Was steckt in einem Namen? |
-| 3249 | Rename your castle. | Benennt eure Burg um. |
+| 3249 | Rename your castle. | Benenne deine Burg um. |
 | 3250 | Ultimate Arsenal | Ultimatives Arsenal |
 | 3251 | Attune a different relic to six creatures in your party. | Stimme eine andere Reliquie auf sechs Kreaturen in deiner Gruppe ab. |
-| 3252 | Ultimate Experimentation | Ultimative Experimentation |
+| 3252 | Ultimate Experimentation | Ultimative Experimente |
 | 3253 | Have six fused creatures in your party. | Habe sechs fusionierte Kreaturen in deiner Gruppe. |
 | 3254 | To Take Ownership | Besitz ergreifen |
 | 3255 | Brand an Artifact at the Blacksmith. | Brenne ein Artefakt beim Schmied ein. |
@@ -73,7 +73,7 @@
 | 3270 | Nether Artisan | Nether-Handwerker |
 | 3271 | Socket one of your Artifacts with a Nether Stone. | Bestücke eines deiner Artefakte mit einem Netherstein. |
 | 3272 | Maxed Out | Maximiert |
-| 3273 | Use a total of 15 stat-boosting scrolls on one creature. | Verwende insgesamt 15 Statuswert-steigernde Schriftrollen an einer Kreatur. |
+| 3273 | Use a total of 15 stat-boosting scrolls on one creature. | Verwende insgesamt 15 attributssteigernde Schriftrollen an einer Kreatur. |
 | 3274 | Full House | Volles Haus |
 | 3275 | Fully Socket an Artifact. | Sockle ein Artefakt vollständig. |
 | 3276 | Diamond in the Rough | Diamant im Rohzustand |
@@ -93,9 +93,9 @@
 | 3290 | Maybe You're Not So Bad | Vielleicht bist du gar nicht so übel |
 | 3291 | Grant mercy to a Dumpling. | Gewähre einem Knödel Gnade. |
 | 3292 | Earning Arbiter | Schiedsrichter verdienen |
-| 3293 | Unlock {RELIC_SURATHLI} at the Reliquary. | Schalte {RELIC_SURATHLI} im Reliquarium frei. |
+| 3293 | Unlock {RELIC_SURATHLI} at the Reliquary. | Schalte {RELIC_SURATHLI} im Reliquiar frei. |
 | 3294 | Earning Wintermaul | Wintermaul verdienen |
-| 3295 | Unlock {RELIC_AZURAL} at the Reliquary. | Schalte {RELIC_AZURAL} im Reliquarium frei. |
+| 3295 | Unlock {RELIC_AZURAL} at the Reliquary. | Schalte {RELIC_AZURAL} im Reliquiar frei. |
 | 3296 | Earning ASSKICKER | Verdiene ASSKICKER |
 | 3297 | Unlock {RELIC_TORUN} at the Reliquary. | Schalte {RELIC_TORUN} im Reliquiar frei. |
 | 3298 | Earning Prime & Ventus | Verdienen von Prime & Ventus |

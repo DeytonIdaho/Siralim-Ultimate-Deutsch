@@ -2,22 +2,22 @@
 
 | Row | English | German |
 |---:|---|---|
-| 5502 | Master of Gargantuans III | Meister der Giganten III |
-| 5503 | Defeat the Master of Gargantuans 3 times. | Besiege den Meister der Giganten 3 Mal. |
-| 5504 | Master of Gargantuans IV | Meister der Giganten IV |
-| 5505 | Defeat the Master of Gargantuans 4 times. | Besiege den Meister der Giganten 4 Mal. |
-| 5506 | Master of Gargantuans V | Meister der Giganten V |
-| 5507 | Defeat the Master of Gargantuans 5 times. | Besiege den Meister der Giganten 5 Mal. |
-| 5508 | Master of Gargantuans VI | Meister der Giganten VI |
-| 5509 | Defeat the Master of Gargantuans 6 times. | Besiege den Meister der Giganten 6 Mal. |
-| 5510 | Master of Gargantuans VII | Meister der Giganten VII |
-| 5511 | Defeat the Master of Gargantuans 7 times. | Besiege den Meister der Giganten 7 Mal. |
-| 5512 | Master of Gargantuans VIII | Meister der Giganten VIII |
-| 5513 | Defeat the Master of Gargantuans 8 times. | Besiege den Meister der Giganten 8 Mal. |
-| 5514 | Master of Gargantuans IX | Meister der Giganten IX |
-| 5515 | Defeat the Master of Gargantuans 9 times. | Besiege den Meister der Giganten 9 Mal. |
-| 5516 | Master of Gargantuans X | Meister der Giganten X |
-| 5517 | Defeat the Master of Gargantuans 10 times. | Besiege den Meister der Giganten 10 Mal. |
+| 5502 | Master of Gargantuans III | Meister der Gargantuans III |
+| 5503 | Defeat the Master of Gargantuans 3 times. | Besiege den Meister der Gargantuans 3-mal. |
+| 5504 | Master of Gargantuans IV | Meister der Gargantuans IV |
+| 5505 | Defeat the Master of Gargantuans 4 times. | Besiege den Meister der Gargantuans 4-mal. |
+| 5506 | Master of Gargantuans V | Meister der Gargantuans V |
+| 5507 | Defeat the Master of Gargantuans 5 times. | Besiege den Meister der Gargantuans 5-mal. |
+| 5508 | Master of Gargantuans VI | Meister der Gargantuans VI |
+| 5509 | Defeat the Master of Gargantuans 6 times. | Besiege den Meister der Gargantuans 6-mal. |
+| 5510 | Master of Gargantuans VII | Meister der Gargantuans VII |
+| 5511 | Defeat the Master of Gargantuans 7 times. | Besiege den Meister der Gargantuans 7-mal. |
+| 5512 | Master of Gargantuans VIII | Meister der Gargantuans VIII |
+| 5513 | Defeat the Master of Gargantuans 8 times. | Besiege den Meister der Gargantuans 8-mal. |
+| 5514 | Master of Gargantuans IX | Meister der Gargantuans IX |
+| 5515 | Defeat the Master of Gargantuans 9 times. | Besiege den Meister der Gargantuans 9-mal. |
+| 5516 | Master of Gargantuans X | Meister der Gargantuans X |
+| 5517 | Defeat the Master of Gargantuans 10 times. | Besiege den Meister der Gargantuans 10-mal. |
 | 5518 | Master of Gargoyles I | Meister der Gargoyles I |
 | 5519 | Defeat the Master of Gargoyles 1 time. | Besiege den Meister der Gargoyles 1 Mal. |
 | 5520 | Master of Gargoyles II | Meister der Gargoyles II |
@@ -38,26 +38,26 @@
 | 5535 | Defeat the Master of Gargoyles 9 times. | Besiege den Meister der Gargoyles 9 Mal. |
 | 5536 | Master of Gargoyles X | Meister der Gargoyles X |
 | 5537 | Defeat the Master of Gargoyles 10 times. | Besiege den Meister der Gargoyles 10 Mal. |
-| 5538 | Master of Gemlings I | Meister der Edelsteinlinge I |
-| 5539 | Defeat the Master of Gemlings 1 time. | Besiege den Meister der Edelsteinlinge 1 Mal. |
-| 5540 | Master of Gemlings II | Meister der Gemlings II |
-| 5541 | Defeat the Master of Gemlings 2 times. | Besiege den Meister der Edelsteinlinge 2 Mal. |
-| 5542 | Master of Gemlings III | Meister der Edelsteinlinge III |
-| 5543 | Defeat the Master of Gemlings 3 times. | Besiege den Meister der Edelsteinlinge 3 Mal. |
-| 5544 | Master of Gemlings IV | Meister der Edelsteinlinge IV |
-| 5545 | Defeat the Master of Gemlings 4 times. | Besiege den Meister der Edelsteinlinge 4 Mal. |
-| 5546 | Master of Gemlings V | Meister der Edelsteinlinge V |
-| 5547 | Defeat the Master of Gemlings 5 times. | Besiege den Meister der Edelsteinlinge 5 Mal. |
-| 5548 | Master of Gemlings VI | Meister der Edelsteinlinge VI |
-| 5549 | Defeat the Master of Gemlings 6 times. | Besiege den Meister der Edelsteinlinge 6 Mal. |
-| 5550 | Master of Gemlings VII | Meister der Edelsteinlinge VII |
-| 5551 | Defeat the Master of Gemlings 7 times. | Besiege den Meister der Edelsteinlinge 7 Mal. |
-| 5552 | Master of Gemlings VIII | Meister der Edelsteinlinge VIII |
-| 5553 | Defeat the Master of Gemlings 8 times. | Besiege den Meister der Edelsteinlinge 8 Mal. |
-| 5554 | Master of Gemlings IX | Meister der Edelsteinlinge IX |
-| 5555 | Defeat the Master of Gemlings 9 times. | Besiege den Meister der Edelsteinlinge 9 Mal. |
-| 5556 | Master of Gemlings X | Meister der Gemlings X |
-| 5557 | Defeat the Master of Gemlings 10 times. | Besiege den Meister der Edelsteinlinge 10 Mal. |
+| 5538 | Master of Gemlings I | Meister der Edelsteinjünglinge I |
+| 5539 | Defeat the Master of Gemlings 1 time. | Besiege den Meister der Edelsteinjünglinge 1-mal. |
+| 5540 | Master of Gemlings II | Meister der Edelsteinjünglinge II |
+| 5541 | Defeat the Master of Gemlings 2 times. | Besiege den Meister der Edelsteinjünglinge 2-mal. |
+| 5542 | Master of Gemlings III | Meister der Edelsteinjünglinge III |
+| 5543 | Defeat the Master of Gemlings 3 times. | Besiege den Meister der Edelsteinjünglinge 3-mal. |
+| 5544 | Master of Gemlings IV | Meister der Edelsteinjünglinge IV |
+| 5545 | Defeat the Master of Gemlings 4 times. | Besiege den Meister der Edelsteinjünglinge 4-mal. |
+| 5546 | Master of Gemlings V | Meister der Edelsteinjünglinge V |
+| 5547 | Defeat the Master of Gemlings 5 times. | Besiege den Meister der Edelsteinjünglinge 5-mal. |
+| 5548 | Master of Gemlings VI | Meister der Edelsteinjünglinge VI |
+| 5549 | Defeat the Master of Gemlings 6 times. | Besiege den Meister der Edelsteinjünglinge 6-mal. |
+| 5550 | Master of Gemlings VII | Meister der Edelsteinjünglinge VII |
+| 5551 | Defeat the Master of Gemlings 7 times. | Besiege den Meister der Edelsteinjünglinge 7-mal. |
+| 5552 | Master of Gemlings VIII | Meister der Edelsteinjünglinge VIII |
+| 5553 | Defeat the Master of Gemlings 8 times. | Besiege den Meister der Edelsteinjünglinge 8-mal. |
+| 5554 | Master of Gemlings IX | Meister der Edelsteinjünglinge IX |
+| 5555 | Defeat the Master of Gemlings 9 times. | Besiege den Meister der Edelsteinjünglinge 9-mal. |
+| 5556 | Master of Gemlings X | Meister der Edelsteinjünglinge X |
+| 5557 | Defeat the Master of Gemlings 10 times. | Besiege den Meister der Edelsteinjünglinge 10-mal. |
 | 5558 | Master of Ghouls I | Meister der Ghule I |
 | 5559 | Defeat the Master of Ghouls 1 time. | Besiege den Meister der Ghule 1 Mal. |
 | 5560 | Master of Ghouls II | Meister der Ghule II |
@@ -79,25 +79,25 @@
 | 5576 | Master of Ghouls X | Meister der Ghule X |
 | 5577 | Defeat the Master of Ghouls 10 times. | Besiege den Meister der Ghule 10 Mal. |
 | 5578 | Master of Giants I | Meister der Riesen I |
-| 5579 | Defeat the Master of Giants 1 time. | Besiege den Meister der Riesen 1 Mal. |
+| 5579 | Defeat the Master of Giants 1 time. | Besiege den Meister der Riesen 1-mal. |
 | 5580 | Master of Giants II | Meister der Riesen II |
-| 5581 | Defeat the Master of Giants 2 times. | Besiege den Meister der Riesen 2 Mal. |
+| 5581 | Defeat the Master of Giants 2 times. | Besiege den Meister der Riesen 2-mal. |
 | 5582 | Master of Giants III | Meister der Riesen III |
-| 5583 | Defeat the Master of Giants 3 times. | Besiege den Meister der Riesen 3 Mal. |
+| 5583 | Defeat the Master of Giants 3 times. | Besiege den Meister der Riesen 3-mal. |
 | 5584 | Master of Giants IV | Meister der Riesen IV |
-| 5585 | Defeat the Master of Giants 4 times. | Besiege den Meister der Riesen 4 Mal. |
+| 5585 | Defeat the Master of Giants 4 times. | Besiege den Meister der Riesen 4-mal. |
 | 5586 | Master of Giants V | Meister der Riesen V |
-| 5587 | Defeat the Master of Giants 5 times. | Besiege den Meister der Riesen 5 Mal. |
+| 5587 | Defeat the Master of Giants 5 times. | Besiege den Meister der Riesen 5-mal. |
 | 5588 | Master of Giants VI | Meister der Riesen VI |
-| 5589 | Defeat the Master of Giants 6 times. | Besiege den Meister der Riesen 6 Mal. |
-| 5590 | Master of Giants VII | Meister der Giganten VII |
-| 5591 | Defeat the Master of Giants 7 times. | Besiege den Meister der Riesen 7 Mal. |
+| 5589 | Defeat the Master of Giants 6 times. | Besiege den Meister der Riesen 6-mal. |
+| 5590 | Master of Giants VII | Meister der Riesen VII |
+| 5591 | Defeat the Master of Giants 7 times. | Besiege den Meister der Riesen 7-mal. |
 | 5592 | Master of Giants VIII | Meister der Riesen VIII |
-| 5593 | Defeat the Master of Giants 8 times. | Besiege den Meister der Riesen 8 Mal. |
-| 5594 | Master of Giants IX | Meister der Giganten IX |
-| 5595 | Defeat the Master of Giants 9 times. | Besiege den Meister der Riesen 9 Mal. |
+| 5593 | Defeat the Master of Giants 8 times. | Besiege den Meister der Riesen 8-mal. |
+| 5594 | Master of Giants IX | Meister der Riesen IX |
+| 5595 | Defeat the Master of Giants 9 times. | Besiege den Meister der Riesen 9-mal. |
 | 5596 | Master of Giants X | Meister der Riesen X |
-| 5597 | Defeat the Master of Giants 10 times. | Besiege den Meister der Riesen 10 Mal. |
+| 5597 | Defeat the Master of Giants 10 times. | Besiege den Meister der Riesen 10-mal. |
 | 5598 | Master of Golems I | Meister der Golems I |
 | 5599 | Defeat the Master of Golems 1 time. | Besiege den Meister der Golems 1 Mal. |
 | 5600 | Master of Golems II | Meister der Golems II |

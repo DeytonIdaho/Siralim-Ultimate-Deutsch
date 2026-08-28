@@ -2,56 +2,56 @@
 
 | Row | English | German |
 |---:|---|---|
-| 8202 | The Competent {SPECX_SIEGEMASTER} VI | Der Kompetente {SPECX_SIEGEMASTER} VI |
-| 8203 | Complete 60 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 60 Reichsquests mit der {SPECX_SIEGEMASTER}-Spezialisierung ab. |
-| 8204 | The Competent {SPECX_SIEGEMASTER} VII | Der Kompetente {SPECX_SIEGEMASTER} VII |
-| 8205 | Complete 70 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 70 Reichsquests mit der {SPECX_SIEGEMASTER}-Spezialisierung ab. |
-| 8206 | The Competent {SPECX_SIEGEMASTER} VIII | Der Kompetente {SPECX_SIEGEMASTER} VIII |
-| 8207 | Complete 80 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 80 Reichsquests mit der {SPECX_SIEGEMASTER}-Spezialisierung ab. |
-| 8208 | The Competent {SPECX_SIEGEMASTER} IX | Der Kompetente {SPECX_SIEGEMASTER} IX |
-| 8209 | Complete 90 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 90 Reichsquests mit der {SPECX_SIEGEMASTER}-Spezialisierung ab. |
-| 8210 | The Competent {SPECX_SIEGEMASTER} X | Der Kompetente {SPECX_SIEGEMASTER} X |
-| 8211 | Complete 100 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 100 Reichsquests mit der {SPECX_SIEGEMASTER}-Spezialisierung ab. |
-| 8212 | The Competent {SPECX_DREAMSHADE} I | Der Kompetente {SPECX_DREAMSHADE} I |
-| 8213 | Complete 10 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 10 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8214 | The Competent {SPECX_DREAMSHADE} II | Der Kompetente {SPECX_DREAMSHADE} II |
-| 8215 | Complete 20 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 20 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8216 | The Competent {SPECX_DREAMSHADE} III | Der Kompetente {SPECX_DREAMSHADE} III |
-| 8217 | Complete 30 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 30 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8218 | The Competent {SPECX_DREAMSHADE} IV | Der Kompetente {SPECX_DREAMSHADE} IV |
-| 8219 | Complete 40 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 40 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8220 | The Competent {SPECX_DREAMSHADE} V | Der Kompetente {SPECX_DREAMSHADE} V |
-| 8221 | Complete 50 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 50 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8222 | The Competent {SPECX_DREAMSHADE} VI | Der Kompetente {SPECX_DREAMSHADE} VI |
-| 8223 | Complete 60 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 60 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8224 | The Competent {SPECX_DREAMSHADE} VII | Der Kompetente {SPECX_DREAMSHADE} VII |
-| 8225 | Complete 70 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 70 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8226 | The Competent {SPECX_DREAMSHADE} VIII | Der Kompetente {SPECX_DREAMSHADE} VIII |
-| 8227 | Complete 80 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 80 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8228 | The Competent {SPECX_DREAMSHADE} IX | Der Kompetente {SPECX_DREAMSHADE} IX |
-| 8229 | Complete 90 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 90 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8230 | The Competent {SPECX_DREAMSHADE} X | Der Kompetente {SPECX_DREAMSHADE} X |
-| 8231 | Complete 100 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 100 Reichsquests mit der {SPECX_DREAMSHADE}-Spezialisierung ab. |
-| 8232 | The Competent {SPECX_ROYAL} I | Der Kompetente {SPECX_ROYAL} I |
-| 8233 | Complete 10 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 10 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8234 | The Competent {SPECX_ROYAL} II | Der Kompetente {SPECX_ROYAL} II |
-| 8235 | Complete 20 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 20 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8236 | The Competent {SPECX_ROYAL} III | Der Kompetente {SPECX_ROYAL} III |
-| 8237 | Complete 30 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 30 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8238 | The Competent {SPECX_ROYAL} IV | Der Kompetente {SPECX_ROYAL} IV |
-| 8239 | Complete 40 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 40 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8240 | The Competent {SPECX_ROYAL} V | Der Kompetente {SPECX_ROYAL} V |
-| 8241 | Complete 50 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 50 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8242 | The Competent {SPECX_ROYAL} VI | Der Kompetente {SPECX_ROYAL} VI |
-| 8243 | Complete 60 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 60 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8244 | The Competent {SPECX_ROYAL} VII | Der Kompetente {SPECX_ROYAL} VII |
-| 8245 | Complete 70 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 70 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8246 | The Competent {SPECX_ROYAL} VIII | Der Kompetente {SPECX_ROYAL} VIII |
-| 8247 | Complete 80 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 80 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8248 | The Competent {SPECX_ROYAL} IX | Der Kompetente {SPECX_ROYAL} IX |
-| 8249 | Complete 90 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 90 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
-| 8250 | The Competent {SPECX_ROYAL} X | Der Kompetente {SPECX_ROYAL} X |
-| 8251 | Complete 100 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 100 Reichsquests mit der {SPECX_ROYAL} Spezialisierung ab. |
+| 8202 | The Competent {SPECX_SIEGEMASTER} VI | Meisterschaft: {SPECX_SIEGEMASTER} VI |
+| 8203 | Complete 60 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 60 Reichsquests mit der Spezialisierung {SPECX_SIEGEMASTER} ab. |
+| 8204 | The Competent {SPECX_SIEGEMASTER} VII | Meisterschaft: {SPECX_SIEGEMASTER} VII |
+| 8205 | Complete 70 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 70 Reichsquests mit der Spezialisierung {SPECX_SIEGEMASTER} ab. |
+| 8206 | The Competent {SPECX_SIEGEMASTER} VIII | Meisterschaft: {SPECX_SIEGEMASTER} VIII |
+| 8207 | Complete 80 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 80 Reichsquests mit der Spezialisierung {SPECX_SIEGEMASTER} ab. |
+| 8208 | The Competent {SPECX_SIEGEMASTER} IX | Meisterschaft: {SPECX_SIEGEMASTER} IX |
+| 8209 | Complete 90 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 90 Reichsquests mit der Spezialisierung {SPECX_SIEGEMASTER} ab. |
+| 8210 | The Competent {SPECX_SIEGEMASTER} X | Meisterschaft: {SPECX_SIEGEMASTER} X |
+| 8211 | Complete 100 Realm Quests using the {SPECX_SIEGEMASTER} specialization. | Schließe 100 Reichsquests mit der Spezialisierung {SPECX_SIEGEMASTER} ab. |
+| 8212 | The Competent {SPECX_DREAMSHADE} I | Meisterschaft: {SPECX_DREAMSHADE} I |
+| 8213 | Complete 10 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 10 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8214 | The Competent {SPECX_DREAMSHADE} II | Meisterschaft: {SPECX_DREAMSHADE} II |
+| 8215 | Complete 20 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 20 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8216 | The Competent {SPECX_DREAMSHADE} III | Meisterschaft: {SPECX_DREAMSHADE} III |
+| 8217 | Complete 30 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 30 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8218 | The Competent {SPECX_DREAMSHADE} IV | Meisterschaft: {SPECX_DREAMSHADE} IV |
+| 8219 | Complete 40 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 40 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8220 | The Competent {SPECX_DREAMSHADE} V | Meisterschaft: {SPECX_DREAMSHADE} V |
+| 8221 | Complete 50 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 50 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8222 | The Competent {SPECX_DREAMSHADE} VI | Meisterschaft: {SPECX_DREAMSHADE} VI |
+| 8223 | Complete 60 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 60 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8224 | The Competent {SPECX_DREAMSHADE} VII | Meisterschaft: {SPECX_DREAMSHADE} VII |
+| 8225 | Complete 70 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 70 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8226 | The Competent {SPECX_DREAMSHADE} VIII | Meisterschaft: {SPECX_DREAMSHADE} VIII |
+| 8227 | Complete 80 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 80 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8228 | The Competent {SPECX_DREAMSHADE} IX | Meisterschaft: {SPECX_DREAMSHADE} IX |
+| 8229 | Complete 90 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 90 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8230 | The Competent {SPECX_DREAMSHADE} X | Meisterschaft: {SPECX_DREAMSHADE} X |
+| 8231 | Complete 100 Realm Quests using the {SPECX_DREAMSHADE} specialization. | Schließe 100 Reichsquests mit der Spezialisierung {SPECX_DREAMSHADE} ab. |
+| 8232 | The Competent {SPECX_ROYAL} I | Meisterschaft: {SPECX_ROYAL} I |
+| 8233 | Complete 10 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 10 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8234 | The Competent {SPECX_ROYAL} II | Meisterschaft: {SPECX_ROYAL} II |
+| 8235 | Complete 20 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 20 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8236 | The Competent {SPECX_ROYAL} III | Meisterschaft: {SPECX_ROYAL} III |
+| 8237 | Complete 30 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 30 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8238 | The Competent {SPECX_ROYAL} IV | Meisterschaft: {SPECX_ROYAL} IV |
+| 8239 | Complete 40 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 40 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8240 | The Competent {SPECX_ROYAL} V | Meisterschaft: {SPECX_ROYAL} V |
+| 8241 | Complete 50 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 50 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8242 | The Competent {SPECX_ROYAL} VI | Meisterschaft: {SPECX_ROYAL} VI |
+| 8243 | Complete 60 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 60 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8244 | The Competent {SPECX_ROYAL} VII | Meisterschaft: {SPECX_ROYAL} VII |
+| 8245 | Complete 70 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 70 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8246 | The Competent {SPECX_ROYAL} VIII | Meisterschaft: {SPECX_ROYAL} VIII |
+| 8247 | Complete 80 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 80 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8248 | The Competent {SPECX_ROYAL} IX | Meisterschaft: {SPECX_ROYAL} IX |
+| 8249 | Complete 90 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 90 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
+| 8250 | The Competent {SPECX_ROYAL} X | Meisterschaft: {SPECX_ROYAL} X |
+| 8251 | Complete 100 Realm Quests using the {SPECX_ROYAL} specialization. | Schließe 100 Reichsquests mit der Spezialisierung {SPECX_ROYAL} ab. |
 | 8252 | The Chaos Guild | Der Chaos-Bund |
 | 8253 | Unlock the Chaos Guild. | Schalte die Chaos-Gilde frei. |
 | 8254 | The Death Guild | Der Todeskult |

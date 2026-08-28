@@ -78,26 +78,26 @@
 | 5275 | Defeat the Master of Djinnis 9 times. | Besiege den Meister der Dschinns 9 Mal. |
 | 5276 | Master of Djinnis X | Meister der Dschinni X |
 | 5277 | Defeat the Master of Djinnis 10 times. | Besiege den Meister der Dschinns 10 Mal. |
-| 5278 | Master of Doom Fortresses I | Meister der Unheilsfestungen I |
-| 5279 | Defeat the Master of Doom Fortresses 1 time. | Besiege den Meister der Festungen des Untergangs 1 Mal. |
-| 5280 | Master of Doom Fortresses II | Meister der Unheilsfestungen II |
-| 5281 | Defeat the Master of Doom Fortresses 2 times. | Besiege den Meister der Festungen des Untergangs 2 Mal. |
-| 5282 | Master of Doom Fortresses III | Meister der Unheilsfestungen III |
-| 5283 | Defeat the Master of Doom Fortresses 3 times. | Besiege den Meister der Festungen des Untergangs 3 Mal. |
-| 5284 | Master of Doom Fortresses IV | Meister der Verdammnisfestungen IV |
-| 5285 | Defeat the Master of Doom Fortresses 4 times. | Besiege den Meister der Festungen des Untergangs 4 Mal. |
-| 5286 | Master of Doom Fortresses V | Meister der Unheilsfestungen V |
-| 5287 | Defeat the Master of Doom Fortresses 5 times. | Besiege den Meister der Festungen des Untergangs 5 Mal. |
-| 5288 | Master of Doom Fortresses VI | Meister der Unheilsfestungen VI |
-| 5289 | Defeat the Master of Doom Fortresses 6 times. | Besiege den Meister der Festungen des Untergangs 6 Mal. |
-| 5290 | Master of Doom Fortresses VII | Meister der Unheilsfestungen VII |
-| 5291 | Defeat the Master of Doom Fortresses 7 times. | Besiege den Meister der Festungen des Untergangs 7 Mal. |
-| 5292 | Master of Doom Fortresses VIII | Meister der Unheilsfestungen VIII |
-| 5293 | Defeat the Master of Doom Fortresses 8 times. | Besiege den Meister der Festungen des Untergangs 8 Mal. |
-| 5294 | Master of Doom Fortresses IX | Meister der Unheilsfestungen IX |
-| 5295 | Defeat the Master of Doom Fortresses 9 times. | Besiege den Meister der Festungen des Untergangs 9 Mal. |
-| 5296 | Master of Doom Fortresses X | Meister der Unheilsfestungen X |
-| 5297 | Defeat the Master of Doom Fortresses 10 times. | Besiege den Meister der Festungen des Untergangs 10 Mal. |
+| 5278 | Master of Doom Fortresses I | Meister der Festungen des Untergangs I |
+| 5279 | Defeat the Master of Doom Fortresses 1 time. | Besiege den Meister der Festungen des Untergangs 1-mal. |
+| 5280 | Master of Doom Fortresses II | Meister der Festungen des Untergangs II |
+| 5281 | Defeat the Master of Doom Fortresses 2 times. | Besiege den Meister der Festungen des Untergangs 2-mal. |
+| 5282 | Master of Doom Fortresses III | Meister der Festungen des Untergangs III |
+| 5283 | Defeat the Master of Doom Fortresses 3 times. | Besiege den Meister der Festungen des Untergangs 3-mal. |
+| 5284 | Master of Doom Fortresses IV | Meister der Festungen des Untergangs IV |
+| 5285 | Defeat the Master of Doom Fortresses 4 times. | Besiege den Meister der Festungen des Untergangs 4-mal. |
+| 5286 | Master of Doom Fortresses V | Meister der Festungen des Untergangs V |
+| 5287 | Defeat the Master of Doom Fortresses 5 times. | Besiege den Meister der Festungen des Untergangs 5-mal. |
+| 5288 | Master of Doom Fortresses VI | Meister der Festungen des Untergangs VI |
+| 5289 | Defeat the Master of Doom Fortresses 6 times. | Besiege den Meister der Festungen des Untergangs 6-mal. |
+| 5290 | Master of Doom Fortresses VII | Meister der Festungen des Untergangs VII |
+| 5291 | Defeat the Master of Doom Fortresses 7 times. | Besiege den Meister der Festungen des Untergangs 7-mal. |
+| 5292 | Master of Doom Fortresses VIII | Meister der Festungen des Untergangs VIII |
+| 5293 | Defeat the Master of Doom Fortresses 8 times. | Besiege den Meister der Festungen des Untergangs 8-mal. |
+| 5294 | Master of Doom Fortresses IX | Meister der Festungen des Untergangs IX |
+| 5295 | Defeat the Master of Doom Fortresses 9 times. | Besiege den Meister der Festungen des Untergangs 9-mal. |
+| 5296 | Master of Doom Fortresses X | Meister der Festungen des Untergangs X |
+| 5297 | Defeat the Master of Doom Fortresses 10 times. | Besiege den Meister der Festungen des Untergangs 10-mal. |
 | 5298 | Master of Dragons I | Meister der Drachen I |
 | 5299 | Defeat the Master of Dragons 1 time. | Besiege den Drachenmeister 1 Mal. |
 | 5300 | Master of Dragons II | Meister der Drachen II |

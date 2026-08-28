@@ -18,26 +18,26 @@
 | 6015 | Defeat the Master of Masochists 9 times. | Besiege den Meister der Masochisten 9 Mal. |
 | 6016 | Master of Masochists X | Meister der Masochisten X |
 | 6017 | Defeat the Master of Masochists 10 times. | Besiege den Meister der Masochisten 10 Mal. |
-| 6018 | Master of Mimics I | Meister der Mimics I |
-| 6019 | Defeat the Master of Mimics 1 time. | Besiege den Meister der Mimiks 1 Mal. |
-| 6020 | Master of Mimics II | Meister der Mimics II |
-| 6021 | Defeat the Master of Mimics 2 times. | Besiege den Meister der Mimiks 2 Mal. |
+| 6018 | Master of Mimics I | Meister der Mimiks I |
+| 6019 | Defeat the Master of Mimics 1 time. | Besiege den Meister der Mimiks 1-mal. |
+| 6020 | Master of Mimics II | Meister der Mimiks II |
+| 6021 | Defeat the Master of Mimics 2 times. | Besiege den Meister der Mimiks 2-mal. |
 | 6022 | Master of Mimics III | Meister der Mimiks III |
-| 6023 | Defeat the Master of Mimics 3 times. | Besiege den Meister der Mimiks 3 Mal. |
+| 6023 | Defeat the Master of Mimics 3 times. | Besiege den Meister der Mimiks 3-mal. |
 | 6024 | Master of Mimics IV | Meister der Mimiks IV |
-| 6025 | Defeat the Master of Mimics 4 times. | Besiege den Meister der Mimiks 4 Mal. |
+| 6025 | Defeat the Master of Mimics 4 times. | Besiege den Meister der Mimiks 4-mal. |
 | 6026 | Master of Mimics V | Meister der Mimiks V |
-| 6027 | Defeat the Master of Mimics 5 times. | Besiege den Meister der Mimiks 5 Mal. |
+| 6027 | Defeat the Master of Mimics 5 times. | Besiege den Meister der Mimiks 5-mal. |
 | 6028 | Master of Mimics VI | Meister der Mimiks VI |
-| 6029 | Defeat the Master of Mimics 6 times. | Besiege den Meister der Mimiks 6 Mal. |
+| 6029 | Defeat the Master of Mimics 6 times. | Besiege den Meister der Mimiks 6-mal. |
 | 6030 | Master of Mimics VII | Meister der Mimiks VII |
-| 6031 | Defeat the Master of Mimics 7 times. | Besiege den Meister der Mimiks 7 Mal. |
+| 6031 | Defeat the Master of Mimics 7 times. | Besiege den Meister der Mimiks 7-mal. |
 | 6032 | Master of Mimics VIII | Meister der Mimiks VIII |
-| 6033 | Defeat the Master of Mimics 8 times. | Besiege den Meister der Mimiks 8 Mal. |
+| 6033 | Defeat the Master of Mimics 8 times. | Besiege den Meister der Mimiks 8-mal. |
 | 6034 | Master of Mimics IX | Meister der Mimiks IX |
-| 6035 | Defeat the Master of Mimics 9 times. | Besiege den Meister der Mimiks 9 Mal. |
+| 6035 | Defeat the Master of Mimics 9 times. | Besiege den Meister der Mimiks 9-mal. |
 | 6036 | Master of Mimics X | Meister der Mimiks X |
-| 6037 | Defeat the Master of Mimics 10 times. | Besiege den Meister der Mimiks 10 Mal. |
+| 6037 | Defeat the Master of Mimics 10 times. | Besiege den Meister der Mimiks 10-mal. |
 | 6038 | Master of Soulflayers I | Meister der Seelenschinder I |
 | 6039 | Defeat the Master of Soulflayers 1 time. | Besiege den Meister der Seelenschinder 1 Mal. |
 | 6040 | Master of Soulflayers II | Meister der Seelenschinder II |

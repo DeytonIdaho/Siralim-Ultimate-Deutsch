@@ -2,22 +2,22 @@
 
 | Row | English | German |
 |---:|---|---|
-| 6402 | Master of Rift Dancers III | Meister der Riftänzer III |
-| 6403 | Defeat the Master of Rift Dancers 3 times. | Besiege den Meister der Risswandler 3 Mal. |
-| 6404 | Master of Rift Dancers IV | Meister der Riss-Tänzer IV |
-| 6405 | Defeat the Master of Rift Dancers 4 times. | Besiege den Meister der Risswandler 4 Mal. |
-| 6406 | Master of Rift Dancers V | Meister der Riftänzer V |
-| 6407 | Defeat the Master of Rift Dancers 5 times. | Besiege den Meister der Risswandler 5 Mal. |
-| 6408 | Master of Rift Dancers VI | Meister der Riftänzer VI |
-| 6409 | Defeat the Master of Rift Dancers 6 times. | Besiege den Meister der Risswandler 6 Mal. |
-| 6410 | Master of Rift Dancers VII | Meister der Riftänzer VII |
-| 6411 | Defeat the Master of Rift Dancers 7 times. | Besiege den Meister der Risswandler 7 Mal. |
-| 6412 | Master of Rift Dancers VIII | Meister der Riss-Tänzer VIII |
-| 6413 | Defeat the Master of Rift Dancers 8 times. | Besiege den Meister der Risswandler 8 Mal. |
-| 6414 | Master of Rift Dancers IX | Meister der Riss-Tänzer IX |
-| 6415 | Defeat the Master of Rift Dancers 9 times. | Besiege den Meister der Risswandler 9 Mal. |
-| 6416 | Master of Rift Dancers X | Meister der Riftänzer X |
-| 6417 | Defeat the Master of Rift Dancers 10 times. | Besiege den Meister der Risswandler 10 Mal. |
+| 6402 | Master of Rift Dancers III | Meister der Dimensionsläufer III |
+| 6403 | Defeat the Master of Rift Dancers 3 times. | Besiege den Meister der Dimensionsläufer 3-mal. |
+| 6404 | Master of Rift Dancers IV | Meister der Dimensionsläufer IV |
+| 6405 | Defeat the Master of Rift Dancers 4 times. | Besiege den Meister der Dimensionsläufer 4-mal. |
+| 6406 | Master of Rift Dancers V | Meister der Dimensionsläufer V |
+| 6407 | Defeat the Master of Rift Dancers 5 times. | Besiege den Meister der Dimensionsläufer 5-mal. |
+| 6408 | Master of Rift Dancers VI | Meister der Dimensionsläufer VI |
+| 6409 | Defeat the Master of Rift Dancers 6 times. | Besiege den Meister der Dimensionsläufer 6-mal. |
+| 6410 | Master of Rift Dancers VII | Meister der Dimensionsläufer VII |
+| 6411 | Defeat the Master of Rift Dancers 7 times. | Besiege den Meister der Dimensionsläufer 7-mal. |
+| 6412 | Master of Rift Dancers VIII | Meister der Dimensionsläufer VIII |
+| 6413 | Defeat the Master of Rift Dancers 8 times. | Besiege den Meister der Dimensionsläufer 8-mal. |
+| 6414 | Master of Rift Dancers IX | Meister der Dimensionsläufer IX |
+| 6415 | Defeat the Master of Rift Dancers 9 times. | Besiege den Meister der Dimensionsläufer 9-mal. |
+| 6416 | Master of Rift Dancers X | Meister der Dimensionsläufer X |
+| 6417 | Defeat the Master of Rift Dancers 10 times. | Besiege den Meister der Dimensionsläufer 10-mal. |
 | 6418 | Master of Salamanders I | Meister der Salamander I |
 | 6419 | Defeat the Master of Salamanders 1 time. | Besiege den Meister der Salamander 1 Mal. |
 | 6420 | Master of Salamanders II | Meister der Salamander II |

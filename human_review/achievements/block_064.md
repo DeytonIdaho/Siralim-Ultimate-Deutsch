@@ -98,7 +98,7 @@
 | 6395 | Defeat the Master of Revenants 9 times. | Besiege den Meister der Wiedergänger 9 Mal. |
 | 6396 | Master of Revenants X | Meister der Wiedergänger X |
 | 6397 | Defeat the Master of Revenants 10 times. | Besiege den Meister der Wiedergänger 10 Mal. |
-| 6398 | Master of Rift Dancers I | Meister der Riftänzer I |
-| 6399 | Defeat the Master of Rift Dancers 1 time. | Besiege den Meister der Risswandler 1 Mal. |
-| 6400 | Master of Rift Dancers II | Meister der Rifttänzer II |
-| 6401 | Defeat the Master of Rift Dancers 2 times. | Besiege den Meister der Risswandler 2 Mal. |
+| 6398 | Master of Rift Dancers I | Meister der Dimensionsläufer I |
+| 6399 | Defeat the Master of Rift Dancers 1 time. | Besiege den Meister der Dimensionsläufer 1-mal. |
+| 6400 | Master of Rift Dancers II | Meister der Dimensionsläufer II |
+| 6401 | Defeat the Master of Rift Dancers 2 times. | Besiege den Meister der Dimensionsläufer 2-mal. |

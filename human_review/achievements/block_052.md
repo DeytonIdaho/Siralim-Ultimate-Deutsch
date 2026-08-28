@@ -2,22 +2,22 @@
 
 | Row | English | German |
 |---:|---|---|
-| 5102 | Master of Cockatrices III | Meister der Basilisken III |
-| 5103 | Defeat the Master of Cockatrices 3 times. | Besiege den Meister der Basilisken 3 Mal. |
-| 5104 | Master of Cockatrices IV | Meister der Basilisken IV |
-| 5105 | Defeat the Master of Cockatrices 4 times. | Besiege den Meister der Basilisken 4 Mal. |
-| 5106 | Master of Cockatrices V | Meister der Basilisken V |
-| 5107 | Defeat the Master of Cockatrices 5 times. | Besiege den Meister der Basilisken 5 Mal. |
-| 5108 | Master of Cockatrices VI | Meister der Basilisken VI |
-| 5109 | Defeat the Master of Cockatrices 6 times. | Besiege den Meister der Basilisken 6 Mal. |
-| 5110 | Master of Cockatrices VII | Meister der Basilisken VII |
-| 5111 | Defeat the Master of Cockatrices 7 times. | Besiege den Meister der Basilisken 7 Mal. |
-| 5112 | Master of Cockatrices VIII | Meister der Basilisken VIII |
-| 5113 | Defeat the Master of Cockatrices 8 times. | Besiege den Meister der Basilisken 8 Mal. |
-| 5114 | Master of Cockatrices IX | Meister der Basilisken IX |
-| 5115 | Defeat the Master of Cockatrices 9 times. | Besiege den Meister der Basilisken 9 Mal. |
-| 5116 | Master of Cockatrices X | Meister der Basilisken X |
-| 5117 | Defeat the Master of Cockatrices 10 times. | Besiege den Meister der Basilisken 10 Mal. |
+| 5102 | Master of Cockatrices III | Meister der Cockatrice III |
+| 5103 | Defeat the Master of Cockatrices 3 times. | Besiege den Meister der Cockatrice 3-mal. |
+| 5104 | Master of Cockatrices IV | Meister der Cockatrice IV |
+| 5105 | Defeat the Master of Cockatrices 4 times. | Besiege den Meister der Cockatrice 4-mal. |
+| 5106 | Master of Cockatrices V | Meister der Cockatrice V |
+| 5107 | Defeat the Master of Cockatrices 5 times. | Besiege den Meister der Cockatrice 5-mal. |
+| 5108 | Master of Cockatrices VI | Meister der Cockatrice VI |
+| 5109 | Defeat the Master of Cockatrices 6 times. | Besiege den Meister der Cockatrice 6-mal. |
+| 5110 | Master of Cockatrices VII | Meister der Cockatrice VII |
+| 5111 | Defeat the Master of Cockatrices 7 times. | Besiege den Meister der Cockatrice 7-mal. |
+| 5112 | Master of Cockatrices VIII | Meister der Cockatrice VIII |
+| 5113 | Defeat the Master of Cockatrices 8 times. | Besiege den Meister der Cockatrice 8-mal. |
+| 5114 | Master of Cockatrices IX | Meister der Cockatrice IX |
+| 5115 | Defeat the Master of Cockatrices 9 times. | Besiege den Meister der Cockatrice 9-mal. |
+| 5116 | Master of Cockatrices X | Meister der Cockatrice X |
+| 5117 | Defeat the Master of Cockatrices 10 times. | Besiege den Meister der Cockatrice 10-mal. |
 | 5118 | Master of Concoctions I | Meister der Gebräue I |
 | 5119 | Defeat the Master of Concoctions 1 time. | Besiege den Meister der Gebräue 1 Mal. |
 | 5120 | Master of Concoctions II | Meister der Gebräue II |

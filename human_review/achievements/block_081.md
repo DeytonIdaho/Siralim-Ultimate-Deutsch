@@ -66,7 +66,7 @@
 | 8063 | Summon a Pudding. | Beschwöre einen Pudding. |
 | 8064 | Omeleet | Omelette |
 | 8065 | Summon an Omelette. | Beschwöre ein Omelett. |
-| 8066 | Something Stinks | Etwas Stinkt |
+| 8066 | Something Stinks | Etwas stinkt |
 | 8067 | Summon a Squash. | Beschwöre einen Kürbis. |
 | 8068 | Ripe For The Picking | Reif für die Ernte |
 | 8069 | Summon a Melon. | Beschwöre eine Melone. |
@@ -100,5 +100,5 @@
 | 8097 | Empower {RELIC_CALIBAN} up to rank 90. | Verstärke {RELIC_CALIBAN} bis Rang 90. |
 | 8098 | Empowering Void Essence X | Stärkende Leere-Essenz X |
 | 8099 | Empower {RELIC_CALIBAN} up to rank 100. | Verstärke {RELIC_CALIBAN} bis Rang 100. |
-| 8100 | Slayer of {GOD_CALIBAN} I | Schlächter von {GOD_CALIBAN} I |
+| 8100 | Slayer of {GOD_CALIBAN} I | Bezwinger von {GOD_CALIBAN} I |
 | 8101 | Defeat {GOD_CALIBAN} 1 time. | Besiege {GOD_CALIBAN} 1 Mal. |

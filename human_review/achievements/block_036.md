@@ -14,9 +14,9 @@
 | 3511 | Defeat Loid as a Nether Boss 7 times. | Besiege Loid 7 Mal als Nether-Boss. |
 | 3512 | Slayer of Loid VIII | Bezwinger von Loid VIII |
 | 3513 | Defeat Loid as a Nether Boss 8 times. | Besiege Loid 8 Mal als Nether-Boss. |
-| 3514 | Slayer of Loid IX | Schlächter von Loid IX |
+| 3514 | Slayer of Loid IX | Bezwinger von Loid IX |
 | 3515 | Defeat Loid as a Nether Boss 9 times. | Besiege Loid 9 Mal als Nether-Boss. |
-| 3516 | Slayer of Loid X | Schlächter von Loid X |
+| 3516 | Slayer of Loid X | Bezwinger von Loid X |
 | 3517 | Defeat Loid as a Nether Boss 10 times. | Besiege Loid 10 Mal als Nether-Boss. |
 | 3518 | Slayer of Zenpang I | Bezwinger von Zenpang I |
 | 3519 | Defeat Zenpang as a Nether Boss 1 time. | Besiege Zenpang als Nether-Boss 1 Mal. |
@@ -58,27 +58,27 @@
 | 3555 | Defeat Phobos as a Nether Boss 9 times. | Besiege Phobos 9 Mal als Nether-Boss. |
 | 3556 | Slayer of Phobos X | Bezwinger von Phobos X |
 | 3557 | Defeat Phobos as a Nether Boss 10 times. | Besiege Phobos 10 Mal als Nether-Boss. |
-| 3558 | Slayer of Giran I | Schlächter von Giran I |
+| 3558 | Slayer of Giran I | Bezwinger von Giran I |
 | 3559 | Defeat Giran as a Nether Boss 1 time. | Besiege Giran einmal als Nether-Boss. |
-| 3560 | Slayer of Giran II | Schlächter von Giran II |
+| 3560 | Slayer of Giran II | Bezwinger von Giran II |
 | 3561 | Defeat Giran as a Nether Boss 2 times. | Besiege Giran 2 Mal als Nether-Boss. |
-| 3562 | Slayer of Giran III | Schlächter von Giran III |
+| 3562 | Slayer of Giran III | Bezwinger von Giran III |
 | 3563 | Defeat Giran as a Nether Boss 3 times. | Besiege Giran 3 Mal als Nether-Boss. |
-| 3564 | Slayer of Giran IV | Schlächter von Giran IV |
+| 3564 | Slayer of Giran IV | Bezwinger von Giran IV |
 | 3565 | Defeat Giran as a Nether Boss 4 times. | Besiege Giran 4 Mal als Nether-Boss. |
-| 3566 | Slayer of Giran V | Schlächter von Giran V |
+| 3566 | Slayer of Giran V | Bezwinger von Giran V |
 | 3567 | Defeat Giran as a Nether Boss 5 times. | Besiege Giran 5 Mal als Nether-Boss. |
-| 3568 | Slayer of Giran VI | Schlächter von Giran VI |
+| 3568 | Slayer of Giran VI | Bezwinger von Giran VI |
 | 3569 | Defeat Giran as a Nether Boss 6 times. | Besiege Giran 6 Mal als Nether-Boss. |
-| 3570 | Slayer of Giran VII | Schlächter von Giran VII |
+| 3570 | Slayer of Giran VII | Bezwinger von Giran VII |
 | 3571 | Defeat Giran as a Nether Boss 7 times. | Besiege Giran 7 Mal als Nether-Boss. |
-| 3572 | Slayer of Giran VIII | Schlächter von Giran VIII |
+| 3572 | Slayer of Giran VIII | Bezwinger von Giran VIII |
 | 3573 | Defeat Giran as a Nether Boss 8 times. | Besiege Giran 8 Mal als Nether-Boss. |
-| 3574 | Slayer of Giran IX | Schlächter von Giran IX |
+| 3574 | Slayer of Giran IX | Bezwinger von Giran IX |
 | 3575 | Defeat Giran as a Nether Boss 9 times. | Besiege Giran 9 Mal als Nether-Boss. |
-| 3576 | Slayer of Giran X | Schlächter von Giran X |
+| 3576 | Slayer of Giran X | Bezwinger von Giran X |
 | 3577 | Defeat Giran as a Nether Boss 10 times. | Besiege Giran 10 Mal als Nether-Boss. |
-| 3578 | Slayer of Chroma I | Schlächter von Chroma I |
+| 3578 | Slayer of Chroma I | Bezwinger von Chroma I |
 | 3579 | Defeat Chroma as a Nether Boss 1 time. | Besiege Chroma einmal als Nether-Boss. |
 | 3580 | Slayer of Chroma II | Bezwinger von Chroma II |
 | 3581 | Defeat Chroma as a Nether Boss 2 times. | Besiege Chroma 2 Mal als Nether-Boss. |
@@ -98,7 +98,7 @@
 | 3595 | Defeat Chroma as a Nether Boss 9 times. | Besiege Chroma 9 Mal als Nether-Boss. |
 | 3596 | Slayer of Chroma X | Bezwinger von Chroma X |
 | 3597 | Defeat Chroma as a Nether Boss 10 times. | Besiege Chroma 10 Mal als Nether-Boss. |
-| 3598 | Slayer of Flubris I | Schlächter von Flubris I |
+| 3598 | Slayer of Flubris I | Bezwinger von Flubris I |
 | 3599 | Defeat Flubris as a Nether Boss 1 time. | Besiege Flubris als Nether-Boss 1 Mal. |
 | 3600 | Slayer of Flubris II | Bezwinger von Flubris II |
 | 3601 | Defeat Flubris as a Nether Boss 2 times. | Besiege Flubris 2 Mal als Nether-Boss. |

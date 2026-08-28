@@ -58,46 +58,46 @@
 | 6155 | Defeat the Master of Occultists 9 times. | Besiege den Meister der Okkultisten 9 Mal. |
 | 6156 | Master of Occultists X | Meister der Okkultisten X |
 | 6157 | Defeat the Master of Occultists 10 times. | Besiege den Meister der Okkultisten 10 Mal. |
-| 6158 | Master of Ophans I | Meister der Waisen I |
-| 6159 | Defeat the Master of Ophans 1 time. | Besiege den Meister der Ophans 1 Mal. |
-| 6160 | Master of Ophans II | Meister der Waisen II |
-| 6161 | Defeat the Master of Ophans 2 times. | Besiege den Meister der Ophans 2 Mal. |
-| 6162 | Master of Ophans III | Meister der Waisen III |
-| 6163 | Defeat the Master of Ophans 3 times. | Besiege den Meister der Ophans 3 Mal. |
-| 6164 | Master of Ophans IV | Meister der Waisen IV |
-| 6165 | Defeat the Master of Ophans 4 times. | Besiege den Meister der Ophans 4 Mal. |
-| 6166 | Master of Ophans V | Meister der Waisen V |
-| 6167 | Defeat the Master of Ophans 5 times. | Besiege den Meister der Ophans 5 Mal. |
-| 6168 | Master of Ophans VI | Meister der Waisen VI |
-| 6169 | Defeat the Master of Ophans 6 times. | Besiege den Meister der Ophans 6 Mal. |
-| 6170 | Master of Ophans VII | Meister der Waisen VII |
-| 6171 | Defeat the Master of Ophans 7 times. | Besiege den Meister der Ophans 7 Mal. |
-| 6172 | Master of Ophans VIII | Meister der Waisen VIII |
-| 6173 | Defeat the Master of Ophans 8 times. | Besiege den Meister der Ophans 8 Mal. |
-| 6174 | Master of Ophans IX | Meister der Waisen IX |
-| 6175 | Defeat the Master of Ophans 9 times. | Besiege den Meister der Ophans 9 Mal. |
-| 6176 | Master of Ophans X | Meister der Waisen X |
-| 6177 | Defeat the Master of Ophans 10 times. | Besiege den Meister der Ophans 10 Mal. |
-| 6178 | Master of Paragons I | Meister der Vorbilder I |
-| 6179 | Defeat the Master of Paragons 1 time. | Besiege den Meister der Vorbilder 1 Mal. |
-| 6180 | Master of Paragons II | Meister der Vorbilder II |
-| 6181 | Defeat the Master of Paragons 2 times. | Besiege den Meister der Vorbilder 2 Mal. |
-| 6182 | Master of Paragons III | Meister der Vorbilder III |
-| 6183 | Defeat the Master of Paragons 3 times. | Besiege den Meister der Vorbilder 3 Mal. |
-| 6184 | Master of Paragons IV | Meister der Vorbilder IV |
-| 6185 | Defeat the Master of Paragons 4 times. | Besiege den Meister der Vorbilder 4 Mal. |
-| 6186 | Master of Paragons V | Meister der Vorbilder V |
-| 6187 | Defeat the Master of Paragons 5 times. | Besiege den Meister der Vorbilder 5 Mal. |
-| 6188 | Master of Paragons VI | Meister der Vorbilder VI |
-| 6189 | Defeat the Master of Paragons 6 times. | Besiege den Meister der Vorbilder 6 Mal. |
-| 6190 | Master of Paragons VII | Meister der Vorbilder VII |
-| 6191 | Defeat the Master of Paragons 7 times. | Besiege den Meister der Vorbilder 7 Mal. |
-| 6192 | Master of Paragons VIII | Meister der Vorbilder VIII |
-| 6193 | Defeat the Master of Paragons 8 times. | Besiege den Meister der Vorbilder 8 Mal. |
-| 6194 | Master of Paragons IX | Meister der Vorbilder IX |
-| 6195 | Defeat the Master of Paragons 9 times. | Besiege den Meister der Vorbilder 9 Mal. |
+| 6158 | Master of Ophans I | Meister der Ophans I |
+| 6159 | Defeat the Master of Ophans 1 time. | Besiege den Meister der Ophans 1-mal. |
+| 6160 | Master of Ophans II | Meister der Ophans II |
+| 6161 | Defeat the Master of Ophans 2 times. | Besiege den Meister der Ophans 2-mal. |
+| 6162 | Master of Ophans III | Meister der Ophans III |
+| 6163 | Defeat the Master of Ophans 3 times. | Besiege den Meister der Ophans 3-mal. |
+| 6164 | Master of Ophans IV | Meister der Ophans IV |
+| 6165 | Defeat the Master of Ophans 4 times. | Besiege den Meister der Ophans 4-mal. |
+| 6166 | Master of Ophans V | Meister der Ophans V |
+| 6167 | Defeat the Master of Ophans 5 times. | Besiege den Meister der Ophans 5-mal. |
+| 6168 | Master of Ophans VI | Meister der Ophans VI |
+| 6169 | Defeat the Master of Ophans 6 times. | Besiege den Meister der Ophans 6-mal. |
+| 6170 | Master of Ophans VII | Meister der Ophans VII |
+| 6171 | Defeat the Master of Ophans 7 times. | Besiege den Meister der Ophans 7-mal. |
+| 6172 | Master of Ophans VIII | Meister der Ophans VIII |
+| 6173 | Defeat the Master of Ophans 8 times. | Besiege den Meister der Ophans 8-mal. |
+| 6174 | Master of Ophans IX | Meister der Ophans IX |
+| 6175 | Defeat the Master of Ophans 9 times. | Besiege den Meister der Ophans 9-mal. |
+| 6176 | Master of Ophans X | Meister der Ophans X |
+| 6177 | Defeat the Master of Ophans 10 times. | Besiege den Meister der Ophans 10-mal. |
+| 6178 | Master of Paragons I | Meister der Paragons I |
+| 6179 | Defeat the Master of Paragons 1 time. | Besiege den Meister der Paragons 1-mal. |
+| 6180 | Master of Paragons II | Meister der Paragons II |
+| 6181 | Defeat the Master of Paragons 2 times. | Besiege den Meister der Paragons 2-mal. |
+| 6182 | Master of Paragons III | Meister der Paragons III |
+| 6183 | Defeat the Master of Paragons 3 times. | Besiege den Meister der Paragons 3-mal. |
+| 6184 | Master of Paragons IV | Meister der Paragons IV |
+| 6185 | Defeat the Master of Paragons 4 times. | Besiege den Meister der Paragons 4-mal. |
+| 6186 | Master of Paragons V | Meister der Paragons V |
+| 6187 | Defeat the Master of Paragons 5 times. | Besiege den Meister der Paragons 5-mal. |
+| 6188 | Master of Paragons VI | Meister der Paragons VI |
+| 6189 | Defeat the Master of Paragons 6 times. | Besiege den Meister der Paragons 6-mal. |
+| 6190 | Master of Paragons VII | Meister der Paragons VII |
+| 6191 | Defeat the Master of Paragons 7 times. | Besiege den Meister der Paragons 7-mal. |
+| 6192 | Master of Paragons VIII | Meister der Paragons VIII |
+| 6193 | Defeat the Master of Paragons 8 times. | Besiege den Meister der Paragons 8-mal. |
+| 6194 | Master of Paragons IX | Meister der Paragons IX |
+| 6195 | Defeat the Master of Paragons 9 times. | Besiege den Meister der Paragons 9-mal. |
 | 6196 | Master of Paragons X | Meister der Paragons X |
-| 6197 | Defeat the Master of Paragons 10 times. | Besiege den Meister der Vorbilder 10 Mal. |
+| 6197 | Defeat the Master of Paragons 10 times. | Besiege den Meister der Paragons 10-mal. |
 | 6198 | Master of Phase Warriors I | Meister der Phasenkrieger I |
 | 6199 | Defeat the Master of Phase Warriors 1 time. | Besiege den Meister der Phasenkrieger 1 Mal. |
 | 6200 | Master of Phase Warriors II | Meister der Phasenkrieger II |

@@ -2,22 +2,22 @@
 
 | Row | English | German |
 |---:|---|---|
-| 4702 | Master of Amphisbaenas III | Meister der Amphisbänen III |
-| 4703 | Defeat the Master of Amphisbaenas 3 times. | Besiege den Meister der Amphisbänen 3 Mal. |
-| 4704 | Master of Amphisbaenas IV | Meister der Amphisbänen IV |
-| 4705 | Defeat the Master of Amphisbaenas 4 times. | Besiege den Meister der Amphisbaenen 4 Mal. |
-| 4706 | Master of Amphisbaenas V | Meister der Amphisbänen V |
-| 4707 | Defeat the Master of Amphisbaenas 5 times. | Besiege den Meister der Amphisbänen 5 Mal. |
-| 4708 | Master of Amphisbaenas VI | Meister der Amphisbänen VI |
-| 4709 | Defeat the Master of Amphisbaenas 6 times. | Besiege den Meister der Amphisbänen 6 Mal. |
-| 4710 | Master of Amphisbaenas VII | Meister der Amphisbänen VII |
-| 4711 | Defeat the Master of Amphisbaenas 7 times. | Besiege den Meister der Amphisbaenen 7 Mal. |
-| 4712 | Master of Amphisbaenas VIII | Meister der Amphisbänen VIII |
-| 4713 | Defeat the Master of Amphisbaenas 8 times. | Besiege den Meister der Amphisbaenen 8 Mal. |
-| 4714 | Master of Amphisbaenas IX | Meister der Amphisbänen IX |
-| 4715 | Defeat the Master of Amphisbaenas 9 times. | Besiege den Meister der Amphisbaenen 9 Mal. |
-| 4716 | Master of Amphisbaenas X | Meister der Amphisbänen X |
-| 4717 | Defeat the Master of Amphisbaenas 10 times. | Besiege den Meister der Amphisbänen 10 Mal. |
+| 4702 | Master of Amphisbaenas III | Meister der Amphisbaena III |
+| 4703 | Defeat the Master of Amphisbaenas 3 times. | Besiege den Meister der Amphisbaena 3-mal. |
+| 4704 | Master of Amphisbaenas IV | Meister der Amphisbaena IV |
+| 4705 | Defeat the Master of Amphisbaenas 4 times. | Besiege den Meister der Amphisbaena 4-mal. |
+| 4706 | Master of Amphisbaenas V | Meister der Amphisbaena V |
+| 4707 | Defeat the Master of Amphisbaenas 5 times. | Besiege den Meister der Amphisbaena 5-mal. |
+| 4708 | Master of Amphisbaenas VI | Meister der Amphisbaena VI |
+| 4709 | Defeat the Master of Amphisbaenas 6 times. | Besiege den Meister der Amphisbaena 6-mal. |
+| 4710 | Master of Amphisbaenas VII | Meister der Amphisbaena VII |
+| 4711 | Defeat the Master of Amphisbaenas 7 times. | Besiege den Meister der Amphisbaena 7-mal. |
+| 4712 | Master of Amphisbaenas VIII | Meister der Amphisbaena VIII |
+| 4713 | Defeat the Master of Amphisbaenas 8 times. | Besiege den Meister der Amphisbaena 8-mal. |
+| 4714 | Master of Amphisbaenas IX | Meister der Amphisbaena IX |
+| 4715 | Defeat the Master of Amphisbaenas 9 times. | Besiege den Meister der Amphisbaena 9-mal. |
+| 4716 | Master of Amphisbaenas X | Meister der Amphisbaena X |
+| 4717 | Defeat the Master of Amphisbaenas 10 times. | Besiege den Meister der Amphisbaena 10-mal. |
 | 4718 | Master of Angels I | Meister der Engel I |
 | 4719 | Defeat the Master of Angels 1 time. | Besiege den Meister der Engel 1 Mal. |
 | 4720 | Master of Angels II | Meister der Engel II |
@@ -38,26 +38,26 @@
 | 4735 | Defeat the Master of Angels 9 times. | Besiege den Meister der Engel 9 Mal. |
 | 4736 | Master of Angels X | Meister der Engel X |
 | 4737 | Defeat the Master of Angels 10 times. | Besiege den Meister der Engel 10 Mal. |
-| 4738 | Master of Apises I | Meister der Apise I |
-| 4739 | Defeat the Master of Apises 1 time. | Besiege den Meister der Apises 1 Mal. |
-| 4740 | Master of Apises II | Meister der Apises II |
-| 4741 | Defeat the Master of Apises 2 times. | Besiege den Meister der Apises 2 Mal. |
-| 4742 | Master of Apises III | Meister der Apises III |
-| 4743 | Defeat the Master of Apises 3 times. | Besiege den Meister der Apises 3 Mal. |
-| 4744 | Master of Apises IV | Meister der Apises IV |
-| 4745 | Defeat the Master of Apises 4 times. | Besiege den Meister der Apises 4 Mal. |
-| 4746 | Master of Apises V | Meister der Apises V |
-| 4747 | Defeat the Master of Apises 5 times. | Besiege den Meister der Apises 5 Mal. |
-| 4748 | Master of Apises VI | Meister der Apises VI |
-| 4749 | Defeat the Master of Apises 6 times. | Besiege den Meister der Apises 6 Mal. |
-| 4750 | Master of Apises VII | Meister der Apises VII |
-| 4751 | Defeat the Master of Apises 7 times. | Besiege den Meister der Apises 7 Mal. |
-| 4752 | Master of Apises VIII | Meister der Apises VIII |
-| 4753 | Defeat the Master of Apises 8 times. | Besiege den Meister der Apises 8 Mal. |
-| 4754 | Master of Apises IX | Meister der Apises IX |
-| 4755 | Defeat the Master of Apises 9 times. | Besiege den Meister der Apises 9 Mal. |
-| 4756 | Master of Apises X | Meister der Apises X |
-| 4757 | Defeat the Master of Apises 10 times. | Besiege den Meister der Apises 10 Mal. |
+| 4738 | Master of Apises I | Meister der Apis I |
+| 4739 | Defeat the Master of Apises 1 time. | Besiege den Meister der Apis 1-mal. |
+| 4740 | Master of Apises II | Meister der Apis II |
+| 4741 | Defeat the Master of Apises 2 times. | Besiege den Meister der Apis 2-mal. |
+| 4742 | Master of Apises III | Meister der Apis III |
+| 4743 | Defeat the Master of Apises 3 times. | Besiege den Meister der Apis 3-mal. |
+| 4744 | Master of Apises IV | Meister der Apis IV |
+| 4745 | Defeat the Master of Apises 4 times. | Besiege den Meister der Apis 4-mal. |
+| 4746 | Master of Apises V | Meister der Apis V |
+| 4747 | Defeat the Master of Apises 5 times. | Besiege den Meister der Apis 5-mal. |
+| 4748 | Master of Apises VI | Meister der Apis VI |
+| 4749 | Defeat the Master of Apises 6 times. | Besiege den Meister der Apis 6-mal. |
+| 4750 | Master of Apises VII | Meister der Apis VII |
+| 4751 | Defeat the Master of Apises 7 times. | Besiege den Meister der Apis 7-mal. |
+| 4752 | Master of Apises VIII | Meister der Apis VIII |
+| 4753 | Defeat the Master of Apises 8 times. | Besiege den Meister der Apis 8-mal. |
+| 4754 | Master of Apises IX | Meister der Apis IX |
+| 4755 | Defeat the Master of Apises 9 times. | Besiege den Meister der Apis 9-mal. |
+| 4756 | Master of Apises X | Meister der Apis X |
+| 4757 | Defeat the Master of Apises 10 times. | Besiege den Meister der Apis 10-mal. |
 | 4758 | Master of Apocalypses I | Meister der Apokalypsen I |
 | 4759 | Defeat the Master of Apocalypses 1 time. | Besiege den Meister der Apokalypsen 1 Mal. |
 | 4760 | Master of Apocalypses II | Meister der Apokalypsen II |
