@@ -1,17 +1,1 @@
 file,line,english,german,english_numbers,german_numbers
-achievements.csv,8672,Earning 5740-NG,{RELIC_ROBO} freischalten,{'5740': 1},{}
-achievements.csv,9500,Empowering 5740-NG I,{RELIC_ROBO} verstärken I,{'5740': 1},{}
-achievements.csv,9502,Empowering 5740-NG II,{RELIC_ROBO} verstärken II,{'5740': 1},{}
-achievements.csv,9504,Empowering 5740-NG III,{RELIC_ROBO} verstärken III,{'5740': 1},{}
-achievements.csv,9506,Empowering 5740-NG IV,{RELIC_ROBO} verstärken IV,{'5740': 1},{}
-achievements.csv,9508,Empowering 5740-NG V,{RELIC_ROBO} verstärken V,{'5740': 1},{}
-achievements.csv,9510,Empowering 5740-NG VI,{RELIC_ROBO} verstärken VI,{'5740': 1},{}
-achievements.csv,9512,Empowering 5740-NG VII,{RELIC_ROBO} verstärken VII,{'5740': 1},{}
-achievements.csv,9514,Empowering 5740-NG VIII,{RELIC_ROBO} verstärken VIII,{'5740': 1},{}
-achievements.csv,9516,Empowering 5740-NG IX,{RELIC_ROBO} verstärken IX,{'5740': 1},{}
-achievements.csv,9518,Empowering 5740-NG X,{RELIC_ROBO} verstärken X,{'5740': 1},{}
-spells.csv,265,"Random enemies take a moderate amount of damage 3 times, plus 2 more times for each dead creature on the battlefield.","Zufällige Feinde erleiden dreimal moderaten Schaden, plus zweimal mehr für jede tote Kreatur auf dem Schlachtfeld.","{'3': 1, '2': 1}",{}
-spells.csv,955,Enemies take a moderate amount of damage 4 times.,Gegner erleiden viermal moderaten Schaden.,{'4': 1},{}
-spells.csv,1189,Enemies take a moderate amount of damage 2 times.,Gegner erleiden zweimal moderaten Schaden.,{'2': 1},{}
-traits.csv,2716,Enemies always have {CONDNAME_DEBUFF_SCORN}. This debuff switches back and forth with {CONDNAME_DEBUFF_SILENCE} at the start of this creature's turn. Enemies can only {ACTION_attack} and {ACTION_cast} spells 1 time per turn.,Feinde haben immer {CONDNAME_DEBUFF_SCORN}. Dieser Debuff wechselt zu Beginn des Zuges dieser Kreatur zwischen {CONDNAME_DEBUFF_SCORN} und {CONDNAME_DEBUFF_SILENCE}. Feinde können pro Zug nur 1 Mal {ACTION_attack} und nur 1 Mal einen Zauber {ACTION_cast}.,{'1': 1},{'1': 2}
-traits.csv,3340,"This creature's on-attack, on-cast, on-defend, and on-provoke effects have a 50% chance to activate 1 additional time.","Diese Kreatur hat eine 50% Chance, dass ihre Effekte bei Angriff, Zauber, Verteidigung und Provokation ein zusätzliches Mal aktiviert werden.","{'50%': 1, '1': 1}",{'50%': 1}
