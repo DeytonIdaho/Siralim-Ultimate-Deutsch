@@ -2,7 +2,7 @@
 
 | Row | English | German |
 |---:|---|---|
-| 102 | Slippy | Rutschig |
+| 102 | Slippy | Slippy |
 | 103 | Olof | Olof |
 | 104 | Menos | Menos |
 | 105 | Torne | Torne |

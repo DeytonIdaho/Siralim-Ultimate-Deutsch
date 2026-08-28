@@ -22,7 +22,7 @@
 | 19 | Buster | Buster |
 | 20 | Uncle Carb | Onkel Carb |
 | 21 | Carnagor | Carnagor |
-| 22 | Dice | Würfel |
+| 22 | Dice | Dice |
 | 23 | Shun | Shun |
 | 24 | Yash | Yash |
 | 25 | Gringer | Gringer |
