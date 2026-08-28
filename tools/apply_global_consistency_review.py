@@ -8,6 +8,7 @@ EXACT={
  ITEMSETS:ITEMSETS_DE,
  'Daybreaker':'Tagesbrecher',
  '{CONDNAME_DEBUFF_CONFUSED} creatures have a 50% chance to {ACTION_attack} or {ACTION_cast} harmful spells on their allies.':'{CONDNAME_DEBUFF_CONFUSED} Kreaturen haben eine 50% Chance, ihre Verbündeten zu {ACTION_attack} oder schädliche Zauber auf sie zu {ACTION_cast}.',
+ 'At the start of battle, this creature\'s spells with the "Cascading" property gain 4 additional maximum {STAT_charges} for each unique class among your creatures. Does not work on {SPELL_ultimate}s.':'Zu Kampfbeginn erhalten die Zauber dieser Kreatur mit der Eigenschaft „Kaskadierend“ 4 zusätzliche maximale {STAT_charges} für jede einzigartige Klasse unter deinen Kreaturen. Funktioniert nicht bei {SPELL_ultimate}s.',
  'Arbiter':'Schlichter','Eternity\'s End':'Ewigkeits Ende','Faraway Enclave':'Entlegene Enklave','Frostbite Caverns':'Frosthöhlen','Master of Rift Dancers':'Meister der Dimensionsläufer','Master of Voidlords':'Meister der Leerenfürsten',
  "Target's buffs and debuffs are removed.":'Buffs und Debuffs des Ziels werden entfernt.',
  "As a Pyromancer, you'll make heavy use of the Burning debuff to deal damage to enemies over time. In addition, your own creatures will be afflicted with this debuff, but it will heal and empower them rather than dealing damage.":'Als Pyromantiker nutzt du den Brennen-Debuff intensiv, um Gegnern über Zeit Schaden zuzufügen. Zusätzlich werden auch deine eigenen Kreaturen mit diesem Debuff belegt, aber er heilt und stärkt sie, anstatt ihnen Schaden zuzufügen.',
