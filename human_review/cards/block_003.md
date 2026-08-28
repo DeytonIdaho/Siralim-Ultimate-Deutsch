@@ -8,7 +8,7 @@
 | 205 | These bonuses apply to buffs as well. | Diese Boni gelten auch für Buffs. |
 | 206 | Enemies have 5% less {STAT_attack}. | Gegner haben 5% weniger {STAT_attack}. |
 | 207 | Enemies gain 25% less {STAT_attack}. | Feinde erhalten 25% weniger {STAT_attack}. |
-| 208 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_attack}. | Feinde erhalten 50% weniger Nutzen aus den Statusplätzen ihrer Artefakte, die ihren {STAT_attack} verstärken. |
+| 208 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_attack}. | Feinde erhalten 50% weniger Nutzen aus den Attributsplätze ihrer Artefakte, die ihren {STAT_attack} verstärken. |
 | 209 | Your creatures take 5% less damage from attacks. | Deine Kreaturen erleiden 5% weniger Schaden durch Angriffe. |
 | 210 | Your creatures take 5% less damage from attacks. | Deine Kreaturen erleiden 5% weniger Schaden durch Angriffe. |
 | 211 | Your creatures take 5% less damage from attacks. | Deine Kreaturen erleiden 5% weniger Schaden durch Angriffe. |
@@ -20,9 +20,9 @@
 | 217 | Enemies with {CONDNAME_DEBUFF_SCORN} have a 5% chance for their spells to fizzle. | Gegner mit {CONDNAME_DEBUFF_SCORN} haben eine 5% Chance, dass ihre Zauber fehlschlagen. |
 | 218 | Enemies have 5% less {STAT_defense}. | Gegner haben 5% weniger {STAT_defense}. |
 | 219 | Enemies gain 25% less {STAT_defense}. | Feinde erhalten 25% weniger {STAT_defense}. |
-| 220 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_defense}. | Feinde erhalten 50% weniger Nutzen aus den Statusplätzen ihrer Artefakte, die ihren {STAT_defense} verstärken. |
-| 221 | Your creatures' {CONDNAME_BUFF_ARCANE} buffs have a 5% chance to grant the Spell Gem an extra {STAT_charge} when it activates. | Eure Kreaturen haben eine 5% Chance, dem Zauberstein eine zusätzliche {STAT_charge} zu gewähren, wenn ihre {CONDNAME_BUFF_ARCANE}-Buffs aktiviert werden. |
-| 222 | Your creatures' {CONDNAME_BUFF_ARCANE} buffs have a 10% chance to not be removed after they cast a spell. | Eure Kreaturen haben eine 10% Chance, dass ihre {CONDNAME_BUFF_ARCANE} Buffs nach dem Wirken eines Zaubers nicht entfernt werden. |
+| 220 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_defense}. | Feinde erhalten 50% weniger Nutzen aus den Attributsplätze ihrer Artefakte, die ihren {STAT_defense} verstärken. |
+| 221 | Your creatures' {CONDNAME_BUFF_ARCANE} buffs have a 5% chance to grant the Spell Gem an extra {STAT_charge} when it activates. | Deine Kreaturen haben eine 5% Chance, dem Zauberstein eine zusätzliche {STAT_charge} zu gewähren, wenn ihre {CONDNAME_BUFF_ARCANE}-Buffs aktiviert werden. |
+| 222 | Your creatures' {CONDNAME_BUFF_ARCANE} buffs have a 10% chance to not be removed after they cast a spell. | Deine Kreaturen haben eine 10% Chance, dass ihre {CONDNAME_BUFF_ARCANE} Buffs nach dem Wirken eines Zaubers nicht entfernt werden. |
 | 223 | Doubles the chance for these effects to occur. | Verdoppelt die Chance, dass diese Effekte auftreten. |
 | 224 | Your creatures' {CLASS_Chaos} spells deal 10% more damage. | Deine Kreaturen verursachen mit {CLASS_Chaos}-Zaubern 10% mehr Schaden. |
 | 225 | Your creatures' damaging {CLASS_Chaos} spells ignore 10% of their enemies' {STAT_defense}. | Deine Kreaturen ignorieren mit ihren schadenverursachenden {CLASS_Chaos}-Zaubern 10% der {STAT_defense} ihrer Feinde. |
@@ -53,7 +53,7 @@
 | 250 | Your creatures take 3% less damage. | Deine Kreaturen erleiden 3% weniger Schaden. |
 | 251 | Enemies have 5% less {STAT_intelligence}. | Gegner haben 5% weniger {STAT_intelligence}. |
 | 252 | Enemies gain 25% less {STAT_intelligence}. | Feinde erhalten 25% weniger {STAT_intelligence}. |
-| 253 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_intelligence}. | Feinde erhalten 50% weniger Nutzen aus den Statusplätzen ihrer Artefakte, die ihren {STAT_intelligence} verstärken. |
+| 253 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_intelligence}. | Feinde erhalten 50% weniger Nutzen aus den Attributsplätze ihrer Artefakte, die ihren {STAT_intelligence} verstärken. |
 | 254 | Enemies with {CONDNAME_DEBUFF_SNARED} have a 10% lower chance to break free. | Gegner mit {CONDNAME_DEBUFF_SNARED} haben eine 10% geringere Chance, sich zu befreien. |
 | 255 | Enemies with {CONDNAME_DEBUFF_SNARED} deal 20% less damage. | Gegner mit {CONDNAME_DEBUFF_SNARED} verursachen 20% weniger Schaden. |
 | 256 | Enemies with {CONDNAME_DEBUFF_SNARED} have a 10% lower chance to break free. | Gegner mit {CONDNAME_DEBUFF_SNARED} haben eine 10% geringere Chance, sich zu befreien. |
@@ -68,7 +68,7 @@
 | 265 | Your creatures take 15% less damage from {CLASS_Sorcery} spells. | Deine Kreaturen erleiden 15% weniger Schaden durch {CLASS_Sorcery}-Zauber. |
 | 266 | Enemies have 5% less {STAT_speed}. | Gegner haben 5% weniger {STAT_speed}. |
 | 267 | Enemies gain 25% less {STAT_speed}. | Feinde erhalten 25% weniger {STAT_speed}. |
-| 268 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_speed}. | Feinde erhalten 50% weniger Nutzen aus den Statusplätzen ihrer Artefakte, die ihren {STAT_speed} erhöhen. |
+| 268 | Enemies have 50% less benefit from their Artifacts' Stat Slots that boost their {STAT_speed}. | Feinde erhalten 50% weniger Nutzen aus den Attributsplätze ihrer Artefakte, die ihren {STAT_speed} erhöhen. |
 | 269 | Your creatures take 5% less damage from attacks. | Deine Kreaturen erleiden 5% weniger Schaden durch Angriffe. |
 | 270 | Your creatures take 5% less damage from attacks. | Deine Kreaturen erleiden 5% weniger Schaden durch Angriffe. |
 | 271 | Your creatures take 5% less damage from attacks. | Deine Kreaturen erleiden 5% weniger Schaden durch Angriffe. |

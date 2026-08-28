@@ -31,9 +31,9 @@
 | 428 | Your creatures gain 3% (additive) more benefit from their Personalities. | Deine Kreaturen erhalten 3% (additiv) mehr Nutzen aus ihren Persönlichkeiten. |
 | 429 | Your creatures gain 3% (additive) more benefit from their Personalities. | Deine Kreaturen erhalten 3% (additiv) mehr Nutzen aus ihren Persönlichkeiten. |
 | 430 | Your creatures gain 3% (additive) more benefit from their Personalities. | Deine Kreaturen erhalten 3% (additiv) mehr Nutzen aus ihren Persönlichkeiten. |
-| 431 | Your creatures have a 10% chance for their {SPELL_ultimate} Gems to not consume {STAT_charges}. | Deine Kreaturen haben eine 10% Chance, dass ihre {SPELL_ultimate} Edelsteine keine {STAT_charges} verbrauchen. |
-| 432 | Your creatures have a 10% chance for their {SPELL_ultimate} Gems to not consume {STAT_charges}. | Deine Kreaturen haben eine 10% Chance, dass ihre {SPELL_ultimate} Edelsteine keine {STAT_charges} verbrauchen. |
-| 433 | Your creatures have a 10% chance for their {SPELL_ultimate} Gems to not consume {STAT_charges}. | Deine Kreaturen haben eine 10% Chance, dass ihre {SPELL_ultimate} Edelsteine keine {STAT_charges} verbrauchen. |
+| 431 | Your creatures have a 10% chance for their {SPELL_ultimate} Gems to not consume {STAT_charges}. | Deine Kreaturen haben eine 10% Chance, dass ihre {SPELL_ultimate} Zaubersteine keine {STAT_charges} verbrauchen. |
+| 432 | Your creatures have a 10% chance for their {SPELL_ultimate} Gems to not consume {STAT_charges}. | Deine Kreaturen haben eine 10% Chance, dass ihre {SPELL_ultimate} Zaubersteine keine {STAT_charges} verbrauchen. |
+| 433 | Your creatures have a 10% chance for their {SPELL_ultimate} Gems to not consume {STAT_charges}. | Deine Kreaturen haben eine 10% Chance, dass ihre {SPELL_ultimate} Zaubersteine keine {STAT_charges} verbrauchen. |
 | 434 | Your creatures take 3% less indirect damage. | Deine Kreaturen erleiden 3% weniger indirekten Schaden. |
 | 435 | Your creatures take 3% less indirect damage. | Deine Kreaturen erleiden 3% weniger indirekten Schaden. |
 | 436 | Your creatures take 3% less indirect damage. | Deine Kreaturen erleiden 3% weniger indirekten Schaden. |

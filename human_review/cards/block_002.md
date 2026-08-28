@@ -13,9 +13,9 @@
 | 110 | Your creatures have 5% more {STAT_speed}. | Deine Kreaturen haben 5% mehr {STAT_speed}. |
 | 111 | Your creatures have 5% more {STAT_speed}. | Deine Kreaturen haben 5% mehr {STAT_speed}. |
 | 112 | Your creatures have 5% more {STAT_speed}. | Deine Kreaturen haben 5% mehr {STAT_speed}. |
-| 113 | Your creatures gain 10% more {STAT_speed} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_speed} durch Attribute-verstärkende Effekte. |
-| 114 | Your creatures gain 10% more {STAT_speed} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_speed} durch Attribute-verstärkende Effekte. |
-| 115 | Your creatures gain 10% more {STAT_speed} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_speed} durch Attribute-verstärkende Effekte. |
+| 113 | Your creatures gain 10% more {STAT_speed} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_speed} durch attributssteigernde Effekte. |
+| 114 | Your creatures gain 10% more {STAT_speed} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_speed} durch attributssteigernde Effekte. |
+| 115 | Your creatures gain 10% more {STAT_speed} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_speed} durch attributssteigernde Effekte. |
 | 116 | Your creatures with {CONDNAME_BUFF_TAUNT} take 15% less damage. | Deine Kreaturen mit {CONDNAME_BUFF_TAUNT} erleiden 15% weniger Schaden. |
 | 117 | Your creatures with {CONDNAME_BUFF_TAUNT} have 15% more {STAT_speed}. | Deine Kreaturen mit {CONDNAME_BUFF_TAUNT} haben 15% mehr {STAT_speed}. |
 | 118 | Your creatures with {CONDNAME_BUFF_TAUNT} have a 15% chance for effects that occur after they {ACTION_provoke} to occur an additional time. | Deine Kreaturen mit {CONDNAME_BUFF_TAUNT} haben eine 15% Chance, dass Effekte, die auftreten, nachdem sie {ACTION_provoke}, ein zusätzliches Mal auftreten. |
@@ -28,12 +28,12 @@
 | 125 | Your creatures' Spell Gems have 1 additional {STAT_charge}. | Deine Kreaturen-Zaubersteine haben 1 zusätzliche {STAT_charge}. |
 | 126 | Your creatures' Spell Gems have 1 additional {STAT_charge}. | Deine Kreaturen-Zaubersteine haben 1 zusätzliche {STAT_charge}. |
 | 127 | Your creatures' Spell Gems have 1 additional {STAT_charge}. | Deine Kreaturen-Zaubersteine haben 1 zusätzliche {STAT_charge}. |
-| 128 | Your creatures gain 10% more {STAT_defense} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_defense} durch statusverbessernde Effekte. |
-| 129 | Your creatures gain 10% more {STAT_defense} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_defense} durch statusverbessernde Effekte. |
-| 130 | Your creatures gain 10% more {STAT_defense} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_defense} durch statusverbessernde Effekte. |
+| 128 | Your creatures gain 10% more {STAT_defense} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_defense} durch attributssteigernde Effekte. |
+| 129 | Your creatures gain 10% more {STAT_defense} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_defense} durch attributssteigernde Effekte. |
+| 130 | Your creatures gain 10% more {STAT_defense} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_defense} durch attributssteigernde Effekte. |
 | 131 | Your creatures' healing effects are 10% more potent. | Deine Kreaturen wirken 10% stärkere Heilungseffekte. |
 | 132 | Your creatures receive 10% more healing. | Deine Kreaturen erhalten 10% mehr Heilung. |
-| 133 | Your creatures' healing effects have a 25% chance to ignore {CONDNAME_DEBUFF_BLIGHT}. | Eure Kreaturen haben eine 25% Chance, mit ihren Heileffekten {CONDNAME_DEBUFF_BLIGHT} zu ignorieren. |
+| 133 | Your creatures' healing effects have a 25% chance to ignore {CONDNAME_DEBUFF_BLIGHT}. | Deine Kreaturen haben eine 25% Chance, mit ihren Heileffekten {CONDNAME_DEBUFF_BLIGHT} zu ignorieren. |
 | 134 | Your creatures gain 5% more experience points from battles. | Deine Kreaturen erhalten 5% mehr Erfahrungspunkte aus Kämpfen. |
 | 135 | Your creatures gain 5% more experience points from battles. | Deine Kreaturen erhalten 5% mehr Erfahrungspunkte aus Kämpfen. |
 | 136 | Your creatures gain 5% more experience points from battles. | Deine Kreaturen erhalten 5% mehr Erfahrungspunkte aus Kämpfen. |
@@ -49,9 +49,9 @@
 | 146 | Your creatures take 15% less damage from {CLASS_Life} spells. | Deine Kreaturen erleiden 15% weniger Schaden durch {CLASS_Life}-Zauber. |
 | 147 | Your creatures take 15% less damage from {CLASS_Life} spells. | Deine Kreaturen erleiden 15% weniger Schaden durch {CLASS_Life}-Zauber. |
 | 148 | Your creatures take 15% less damage from {CLASS_Life} spells. | Deine Kreaturen erleiden 15% weniger Schaden durch {CLASS_Life}-Zauber. |
-| 149 | Your creatures gain 10% more {STAT_attack} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_attack} durch statussteigernde Effekte. |
-| 150 | Your creatures gain 10% more {STAT_attack} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_attack} durch statusverbessernde Effekte. |
-| 151 | Your creatures gain 10% more {STAT_attack} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_attack} durch statussteigernde Effekte. |
+| 149 | Your creatures gain 10% more {STAT_attack} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_attack} durch attributssteigernde Effekte. |
+| 150 | Your creatures gain 10% more {STAT_attack} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_attack} durch attributssteigernde Effekte. |
+| 151 | Your creatures gain 10% more {STAT_attack} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr {STAT_attack} durch attributssteigernde Effekte. |
 | 152 | Your creatures have a 5% chance to {ACTION_attack} an additional time. | Deine Kreaturen haben eine 5% Chance, ein zusätzliches Mal zu {ACTION_attack}. |
 | 153 | Your creatures have a 5% chance to {ACTION_cast} spells an additional time. | Deine Kreaturen haben eine 5% Chance, Zauber ein zusätzliches Mal zu {ACTION_cast}. |
 | 154 | Doubles the chance for these effects to occur. | Verdoppelt die Chance, dass diese Effekte auftreten. |
@@ -88,7 +88,7 @@
 | 185 | Enemies deal 15% less damage from their {CONDNAME_DEBUFF_WEAK} debuffs. | Feinde verursachen 15% weniger Schaden durch ihre {CONDNAME_DEBUFF_WEAK}-Schwächungen. |
 | 186 | Enemies with {CONDNAME_DEBUFF_WEAK} have a 50% lower chance to deal critical damage. | Gegner mit {CONDNAME_DEBUFF_WEAK} haben eine 50% geringere Chance, kritischen Schaden zu verursachen. |
 | 187 | Enemies' {CONDNAME_DEBUFF_WEAK} debuffs last forever. | Debuffs vom Typ {CONDNAME_DEBUFF_WEAK} der Gegner halten ewig an. |
-| 188 | Your creatures' {CONDNAME_BUFF_SHELL} buffs have a 10% chance to persist after taking damage. | Eure Kreaturen haben eine 10% Chance, dass ihre {CONDNAME_BUFF_SHELL}-Buffs bestehen bleiben, nachdem sie Schaden erlitten haben. |
+| 188 | Your creatures' {CONDNAME_BUFF_SHELL} buffs have a 10% chance to persist after taking damage. | Deine Kreaturen haben eine 10% Chance, dass ihre {CONDNAME_BUFF_SHELL}-Buffs bestehen bleiben, nachdem sie Schaden erlitten haben. |
 | 189 | Your creatures with {CONDNAME_BUFF_SHELL} have a 5% chance to avoid damage. | Deine Kreaturen mit {CONDNAME_BUFF_SHELL} haben eine 5% Chance, Schaden zu vermeiden. |
 | 190 | Doubles the chance for these effects to occur. | Verdoppelt die Chance, dass diese Effekte auftreten. |
 | 191 | You gain 15% more resources from battles. | Du erhältst 15% mehr Ressourcen aus Kämpfen. |

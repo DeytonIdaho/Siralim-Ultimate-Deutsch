@@ -35,8 +35,8 @@
 | 332 | Your creatures recover 20% more {STAT_health} from {CONDNAME_BUFF_LEECH}. | Deine Kreaturen regenerieren 20% mehr {STAT_health} durch {CONDNAME_BUFF_LEECH}. |
 | 333 | When your creatures recover {STAT_health} from {CONDNAME_BUFF_LEECH}, the amount of healing has a 25% chance to be doubled. | Wenn deine Kreaturen {STAT_health} durch {CONDNAME_BUFF_LEECH} wiederherstellen, besteht eine 25% Chance, dass die Heilungsmenge verdoppelt wird. |
 | 334 | Your creatures' {CONDNAME_BUFF_LEECH} buff lasts forever. | Dein Buff {CONDNAME_BUFF_LEECH} für Kreaturen hält ewig an. |
-| 335 | Your creatures gain 5% more stats from stat-boosting effects. | Deine Kreaturen erhalten 5% mehr Werte durch wertsteigernde Effekte. |
-| 336 | Enemies lose 5% more stats from stat-reducing effects. | Feinde verlieren 5% mehr Werte durch wertreduzierende Effekte. |
+| 335 | Your creatures gain 5% more stats from stat-boosting effects. | Deine Kreaturen erhalten 5% mehr Werte durch attributssteigernde Effekte. |
+| 336 | Enemies lose 5% more stats from stat-reducing effects. | Feinde verlieren 5% mehr Werte durch attributssenkende Effekte. |
 | 337 | Doubles the potency of these effects. | Verdoppelt die Effektstärke dieser Effekte. |
 | 338 | Enemies resurrect with 5% less {STAT_health}. | Feinde werden mit 5% weniger {STAT_health} wiederbelebt. |
 | 339 | Enemies resurrect with 5% less {STAT_health}. | Feinde werden mit 5% weniger {STAT_health} wiederbelebt. |
@@ -50,9 +50,9 @@
 | 347 | At the start of battle, enemies' Spell Gems each have a 3% chance to be Sealed. | Zu Beginn des Kampfes haben die Zaubersteine der Gegner jeweils eine 3% Chance, versiegelt zu werden. |
 | 348 | At the start of battle, enemies' Spell Gems each have a 3% chance to be Sealed. | Zu Beginn des Kampfes haben die Zaubersteine der Gegner jeweils eine 3% Chance, versiegelt zu werden. |
 | 349 | At the start of battle, enemies' Spell Gems each have a 3% chance to be Sealed. | Zu Beginn des Kampfes haben die Zaubersteine der Gegner jeweils eine 3% Chance, versiegelt zu werden. |
-| 350 | Your creatures gain 10% more Maximum {STAT_health} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr Maximales {STAT_health} durch statussteigernde Effekte. |
-| 351 | Your creatures gain 10% more Maximum {STAT_health} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr Maximales {STAT_health} durch Attribute-verstärkende Effekte. |
-| 352 | Your creatures gain 10% more Maximum {STAT_health} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr Maximales {STAT_health} durch statussteigernde Effekte. |
+| 350 | Your creatures gain 10% more Maximum {STAT_health} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr maximales {STAT_health} durch attributssteigernde Effekte. |
+| 351 | Your creatures gain 10% more Maximum {STAT_health} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr maximales {STAT_health} durch attributssteigernde Effekte. |
+| 352 | Your creatures gain 10% more Maximum {STAT_health} from stat-boosting effects. | Deine Kreaturen erhalten 10% mehr maximales {STAT_health} durch attributssteigernde Effekte. |
 | 353 | You have a 5% chance to gain double resources from breakable objects. | Du hast eine 5% Chance, doppelte Ressourcen aus zerstörbaren Objekten zu erhalten. |
 | 354 | You have a 5% chance to gain double resources from breakable objects. | Du hast eine 5% Chance, doppelte Ressourcen aus zerstörbaren Objekten zu erhalten. |
 | 355 | You have a 5% chance to gain double resources from breakable objects. | Du hast eine 5% Chance, doppelte Ressourcen aus zerstörbaren Objekten zu erhalten. |
@@ -74,12 +74,12 @@
 | 371 | Your creatures' Ethereal Spell Gems heal 15% more. | Deine Kreaturen heilen durch Ätherische Zaubersteine 15% mehr. |
 | 372 | Your creatures' Ethereal Spell Gems increase/decrease stats 15% more. | Deine Kreaturen-Ätherische Zaubersteine erhöhen/verringern Werte um 15% mehr. |
 | 373 | Your creatures' Ethereal Spell Gems deal 15% more damage. | Deine Kreaturen verursachen mit Ätherischen Zaubersteinen 15% mehr Schaden. |
-| 374 | Your creatures deal 3% more damage to enemies for each Sealed Spell Gem the enemy has. | Deine Kreaturen verursachen 3% mehr Schaden an Feinde für jeden Versiegelten Zauberstein, den der Feind besitzt. |
-| 375 | Your creatures take 3% less damage for each Sealed Spell Gem the enemy has. | Deine Kreaturen erleiden 3% weniger Schaden für jedes Versiegelte Zauberstein, das der Gegner besitzt. |
+| 374 | Your creatures deal 3% more damage to enemies for each Sealed Spell Gem the enemy has. | Deine Kreaturen verursachen 3% mehr Schaden an Feinden für jeden versiegelten Zauberstein, den der Feind besitzt. |
+| 375 | Your creatures take 3% less damage for each Sealed Spell Gem the enemy has. | Deine Kreaturen erleiden 3% weniger Schaden für jeden versiegelten Zauberstein, das der Gegner besitzt. |
 | 376 | Doubles the potency of these effects. | Verdoppelt die Effektstärke dieser Effekte. |
-| 377 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Eure Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
-| 378 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Eure Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
-| 379 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Eure Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
+| 377 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Deine Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
+| 378 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Deine Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
+| 379 | Your creatures' Spell Gems have a 5% chance to not consume {STAT_charges}. | Deine Kreaturen-Zaubersteine haben eine 5% Chance, keine {STAT_charges} zu verbrauchen. |
 | 380 | You gain 30% more {RES_ESSENCE} from battles. | Du erhältst 30% mehr {RES_ESSENCE} aus Kämpfen. |
 | 381 | Increases the base amount of {RES_ESSENCE} gained from battles by 15. | Erhöht die Basismenge an {RES_ESSENCE}, die aus Kämpfen gewonnen wird, um 15. |
 | 382 | You have a 15% chance to gain double {RES_ESSENCE} from battles. | Du hast eine 15% Chance, doppeltes {RES_ESSENCE} aus Kämpfen zu erhalten. |
