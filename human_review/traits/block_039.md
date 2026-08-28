@@ -98,7 +98,7 @@
 | 3895 | Use Your Illusion | Nutze Deine Illusion |
 | 3896 | After an enemy manually {ACTION_casts} a spell, each of your creatures {ACTION_cast} that spell as well. After an enemy {ACTION_attacks}, each of your creatures {ACTION_attack} a random enemy as well. | Nachdem ein Feind manuell einen Zauber {ACTION_casts}, {ACTION_cast} jede deiner Kreaturen diesen Zauber ebenfalls. Nachdem ein Feind {ACTION_attacks}, {ACTION_attack} jede deiner Kreaturen einen zufälligen Feind ebenfalls. |
 | 3897 | Menagerie | Menagerie |
-| 3898 | Your creatures always have an army of minions. At the start of your creatures' turns, they {ACTION_cast} [icons,1984]Crucifixion on each enemy. | Deine Kreaturen haben immer eine Armee von Dienern. Zu Beginn der Züge deiner Kreaturen {ACTION_cast} sie [icons,1984]Kreuzigung auf jeden Feind. |
+| 3898 | Your creatures always have an army of minions. At the start of your creatures' turns, they {ACTION_cast} [icons,1984]Crucifixion on each enemy. | Deine Kreaturen haben immer eine Armee von Dienernn. Zu Beginn der Züge deiner Kreaturen {ACTION_cast} sie [icons,1984]Kreuzigung auf jeden Feind. |
 | 3899 | Guardian of the Forest | Wächter des Waldes |
 | 3900 | Your creatures take 120% less damage, minus 1% for each time they've {ACTION_attacked} or {ACTION_cast} a spell in the current battle. | Deine Kreaturen erleiden 120% weniger Schaden, abzüglich 1% für jedes Mal, das sie im aktuellen Kampf {ACTION_attacked} oder {ACTION_cast} einen Zauber haben. |
 | 3901 | Grandiose | Grandios |

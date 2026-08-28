@@ -100,5 +100,5 @@
 | 2697 | Waking the Fallen | Erweckung der Gefallenen |
 | 2698 | At the start of battle, this creature and its allies gain {CONDNAME_MINION_CONQUEST}, {CONDNAME_MINION_DEATH}, {CONDNAME_MINION_FAMINE}, and {CONDNAME_MINION_WAR}. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Zu Beginn des Kampfes erhalten diese Kreatur und ihre Verbündeten {CONDNAME_MINION_CONQUEST}, {CONDNAME_MINION_DEATH}, {CONDNAME_MINION_FAMINE} und {CONDNAME_MINION_WAR}. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} sie [icons,1984] Entrückung. |
 | 2699 | Waking the Fallen | Erweckung der Gefallenen |
-| 2700 | This creature and its allies always have an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Diese Kreatur und seine Verbündeten haben stets eine Armee von Dienern. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} es [icons,1984] Verzückung. |
+| 2700 | This creature and its allies always have an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture. | Diese Kreatur und seine Verbündeten haben stets eine Armee von Dienernn. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} es [icons,1984] Verzückung. |
 | 2701 | Mirror Blades | Spiegelklingen |
