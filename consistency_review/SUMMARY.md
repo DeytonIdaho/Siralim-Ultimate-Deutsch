@@ -9,5 +9,6 @@
 - buff focused outliers: 50
 - debuff focused outliers: 58
 - minion focused outliers: 25
+- perk focused outliers: 45
 
 These are review candidates, not automatic errors.
