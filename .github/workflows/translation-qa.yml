@@ -26,6 +26,7 @@ jobs:
           python tools/apply_boss_review.py
           python tools/apply_cards_review.py
           python tools/apply_creatures_review.py
+          python tools/apply_codex_review.py
       - name: Generate fresh QA queues
         run: |
           rm -rf review
