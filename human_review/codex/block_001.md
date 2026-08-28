@@ -27,8 +27,8 @@
 | 24 | Introduction | Einführung |
 | 25 | Crafting | Handwerk |
 | 26 | Upgrading | Verbessern |
-| 27 | Socketing | Socketing |
-| 28 | Stat Slots | Statusplätze |
+| 27 | Socketing | Einsetzen |
+| 28 | Stat Slots | Attributsplätze |
 | 29 | Trick Slots | Trick-Slots |
 | 30 | Trait Slots | Merkmalsplätze |
 | 31 | Spell Slots | Zauberplätze |
@@ -59,7 +59,7 @@
 | 56 | Disenchanting | Entzaubern |
 | 57 | Special Spells | Spezialzauber |
 | 58 | Spell Potency | Zaubermacht |
-| 59 | Ethereal Gems | Ätherische Edelsteine |
+| 59 | Ethereal Gems | Ätherische Zaubersteine |
 | 60 | Introduction | Einführung |
 | 61 | Decorations | Dekorationen |
 | 62 | Decoration Mode | Dekorationsmodus |
@@ -75,9 +75,9 @@
 | 72 | Introduction | Einführung |
 | 73 | Timeline | Zeitlinie |
 | 74 | Attacking | Angreifen |
-| 75 | Casting | Beschwörung |
+| 75 | Casting | Zauberwirken |
 | 76 | Defending | Verteidigung |
-| 77 | Provoking | Provozierend |
+| 77 | Provoking | Provozieren |
 | 78 | Inspection | Untersuchung |
 | 79 | Damage Types | Schadensarten |
 | 80 | Resistant Creatures | Widerstandsfähige Kreaturen |
@@ -96,7 +96,7 @@
 | 93 | Fortune | Glück |
 | 94 | Introduction | Einführung |
 | 95 | Mana | Mana |
-| 96 | Stats | Werte |
+| 96 | Stats | Attribute |
 | 97 | Personalities | Persönlichkeiten |
 | 98 | Health Personalities | Gesundheits-Persönlichkeiten |
 | 99 | Attack Personalities | Angriffspersönlichkeiten |

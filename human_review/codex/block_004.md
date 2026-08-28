@@ -5,11 +5,11 @@
 | 302 | The spell deals additional damage. | Der Zauber verursacht zusätzlichen Schaden. |
 | 303 | The spell heals for a greater amount. | Der Zauber heilt eine größere Menge. |
 | 304 | The spell increases and decreases stats by a greater amount. | Der Zauber erhöht und verringert Werte um einen größeren Betrag. |
-| 305 | The Spell Gem's class is changed to {CLASS_Chaos}. | Der Zauberstein-Klasse wird zu {CLASS_Chaos} geändert. |
-| 306 | The Spell Gem's class is changed to {CLASS_Death}. | Der Zauberstein-Klasse wird zu {CLASS_Death} geändert. |
-| 307 | The Spell Gem's class is changed to {CLASS_Life}. | Der Zauberstein-Klasse wird zu {CLASS_Life} geändert. |
-| 308 | The Spell Gem's class is changed to {CLASS_Sorcery}. | Der Zauberstein-Klasse wird zu {CLASS_Sorcery} geändert. |
-| 309 | The Spell Gem's class is changed to {CLASS_Nature}. | Der Zauberstein-Typ wird zu {CLASS_Nature} geändert. |
+| 305 | The Spell Gem's class is changed to {CLASS_Chaos}. | Die Klasse des Zaubersteins wird zu {CLASS_Chaos}. |
+| 306 | The Spell Gem's class is changed to {CLASS_Death}. | Die Klasse des Zaubersteins wird zu {CLASS_Death}. |
+| 307 | The Spell Gem's class is changed to {CLASS_Life}. | Die Klasse des Zaubersteins wird zu {CLASS_Life}. |
+| 308 | The Spell Gem's class is changed to {CLASS_Sorcery}. | Die Klasse des Zaubersteins wird zu {CLASS_Sorcery}. |
+| 309 | The Spell Gem's class is changed to {CLASS_Nature}. | Die Klasse des Zaubersteins wird zu {CLASS_Nature}. |
 | 310 | Creature has a chance to {ACTION_defend} after it casts the spell. | Kreatur hat eine Chance zu {ACTION_defend}, nachdem sie den Zauber gewirkt hat. |
 | 311 | Creature has a chance to {ACTION_provoke} after it casts the spell. | Kreatur hat eine Chance zu {ACTION_provoke}, nachdem sie den Zauber gewirkt hat. |
 | 312 | Creature has a chance to {ACTION_attack} a random enemy after it casts the spell. | Kreatur hat eine Chance, einen zufälligen Gegner zu {ACTION_attack}, nachdem sie den Zauber gewirkt hat. |
@@ -28,7 +28,7 @@
 | 325 | This False God has the following traits: | Dieser Falsche Gott hat die folgenden Merkmale: |
 | 326 | Spell Slots | Zauberplätze |
 | 327 | Trait Slots | Merkmalsplätze |
-| 328 | Stat Slots | Statusplätze |
+| 328 | Stat Slots | Attributsplätze |
 | 329 | Trick Slots | Trick-Slots |
 | 330 | This property is applied to {1}. | Diese Eigenschaft wird auf {1} angewendet. |
 | 331 | Material: Spell Gems | Material: Zaubersteine |
@@ -37,7 +37,7 @@
 | 334 | Charges: {1} | Ladungen: {1} |
 | 335 | Creature: none | Kreatur: keine |
 | 336 | Creature: {1} | Kreatur: {1} |
-| 337 | none | none |
+| 337 | none | keine |
 | 338 | (Owned: {1}) | (Besitzt: {1}) |
 | 339 | Material: {1} | Material: {1} |
 | 340 | Trait: {1} | Merkmal: {1} |
