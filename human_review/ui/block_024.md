@@ -22,7 +22,7 @@
 | 2319 | [ag_greenstatue] +50% Favor From Animation Statues | [ag_greenstatue] +50% Gunst von Animationsstatuen |
 | 2320 | [gh_dwarf] +50% Favor From Drunken Gambling Dwarves | [gh_dwarf] +50% Gunst von betrunkenen, spielsüchtigen Zwergen |
 | 2321 | [fl_cog] +1 Shiny Cogs Spawn | [fl_cog] +1 Glänzende Zahnräder erscheinen |
-| 2322 | [fae_dreamcatch] Dream Catchers Grant a Minion | [fae_dreamcatch] Traumfänger Gewähre einen Diener |
+| 2322 | [fae_dreamcatch] Dream Catchers Grant a Minion | [fae_dreamcatch] Traumfänger gewähren einen Diener |
 | 2323 | [amg_roses] +50% Favor From Neon Roses | [amg_roses] +50% Gunst von Neon Roses |
 | 2324 | [fdp_redmagnet] Red Magnetic Stones Decrease Enemies' Attack | [fdp_redmagnet] Rote Magnetsteine verringern die Angriffskraft der Feinde |
 | 2325 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
@@ -100,5 +100,5 @@
 | 2397 | [tw_bloodwell] +50% Favor From Blood Wells | [tw_bloodwell] +50% Gunst von Blutquellen |
 | 2398 | [um_effigy] Effigies Afflict Enemies With a Debuff | [um_effigy] Effigies belegen Feinde mit einem Debuff |
 | 2399 | [tc_scroll] Scrolls Reduce Enemies' Stats | [tc_scroll] Schriftrollen verringern die Attribute der Gegner |
-| 2400 | [fc_grave] Mummy Graves Afflict Enemies With a Debuff | [fc_grave] Mumien-Gräber Belegen Feinde Mit Einem Debuff |
-| 2401 | [fe_crab] Crabs Damage Enemies | [fe_crab] Krabben schaden Feinden |
+| 2400 | [fc_grave] Mummy Graves Afflict Enemies With a Debuff | [fc_grave] Mumiengräber belegen Feinde mit einem Debuff |
+| 2401 | [fe_crab] Crabs Damage Enemies | [fe_crab] Krabben Schaden Feinden |

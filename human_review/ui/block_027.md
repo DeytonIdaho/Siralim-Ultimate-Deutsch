@@ -2,15 +2,15 @@
 
 | Row | English | German |
 |---:|---|---|
-| 2602 | [um_effigy] Effigies Grant Reduced Damage In Next Battle | [um_effigy] Effigien gewähren reduzierten schaden im nächsten Kampf |
+| 2602 | [um_effigy] Effigies Grant Reduced Damage In Next Battle | [um_effigy] Effigien gewähren reduzierten Schaden im nächsten Kampf |
 | 2603 | [tc_scroll] Scrolls Grant 100% Critical Chance In Next Battle | [tc_scroll] Schriftrollen gewähren 100% kritische Trefferchance im nächsten Kampf |
 | 2604 | [fc_grave] +50% Favor From Mummy Graves | [fc_grave] +50% Gunst von Mumien-Gräbern |
-| 2605 | [fe_crab] Crabs Reduce Damage Taken In Next Battle | [fe_crab] Krabben reduzieren erlittenen schaden im nächsten Kampf |
+| 2605 | [fe_crab] Crabs Reduce Damage Taken In Next Battle | [fe_crab] Krabben reduzieren erlittenen Schaden im nächsten Kampf |
 | 2606 | [bns_treasure] 25% Chance to Receive Emblem From Buried Treasure | [bns_treasure] 25% Chance, ein Emblem aus vergrabenem Schatz zu erhalten |
-| 2607 | [bg_trap] Traps Grant Essence | [bg_trap] fallen gewähren Essenz |
+| 2607 | [bg_trap] Traps Grant Essence | [bg_trap] Fallen gewähren Essenz |
 | 2608 | [su_tithe] Tithes Grant Granite | [su_tithe] Zehnt gewährt Granit |
 | 2609 | [cj_cairn] 25% Chance to Receive Emblem From Cairns | [cj_cairn] 25% Chance, ein Emblem aus Steinhügeln zu erhalten |
-| 2610 | [an_shrine] Spider Shrines Damage Enemies | [an_shrine] Spinnenschreine schaden Feinden |
+| 2610 | [an_shrine] Spider Shrines Damage Enemies | [an_shrine] Spinnenschreine Schaden Feinden |
 | 2611 | [wdsd_shipwreck] Shipwrecks Grant 1 Additional Resource Type | [wdsd_shipwreck] Schiffswracks gewähren 1 zusätzlichen Ressourcentyp |
 | 2612 | [kh_arms] +2 Coats of Arms Spawn | [kh_arms] +2 Wappen erscheinen |
 | 2613 | [ee_spire] Spires Decrease Enemies' Stats | [ee_spire] Türme verringern die Werte der Feinde |
@@ -18,7 +18,7 @@
 | 2615 | [lobab_book] Bookshelves Spawn Closer to You | [lobab_book] Bücherregale erscheinen näher bei dir |
 | 2616 | [ot_statue] Pristine Statues Grant Health Boost | [ot_statue] Makellose Statuen gewähren Gesundheitsschub |
 | 2617 | [ag_portal] Portal Bosses Drop an Emblem | [ag_portal] Portalbosse lassen ein Emblem fallen |
-| 2618 | [gh_gamewheel] Portal Bosses Damage Enemies | [gh_gamewheel] Portalbosse fügen Gegnern schaden zu |
+| 2618 | [gh_gamewheel] Portal Bosses Damage Enemies | [gh_gamewheel] Portalbosse fügen Gegnern Schaden zu |
 | 2619 | [fl_robohead] Robot Assembly Grants All Stats Boost | [fl_robohead] Robotermontage gewährt Bonus auf alle Attribute |
 | 2620 | [fae_fae] 35% Chance to Receive Emblem From Fae | [fae_fae] 35% Chance, ein Emblem von Fae zu erhalten |
 | 2621 | [amg_redrune] +1 Red Runestones Spawn | [amg_redrune] +1 Rote Runensteine erscheinen |
@@ -36,10 +36,10 @@
 | 2633 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2634 | [cr_sewer] More Treasure From Caustic Reactor Boss Rooms | [cr_sewer] Mehr Schätze aus den Bossräumen des Ätzenden Reaktors |
 | 2635 | [tw_zits] Zits Decrease Enemies' Intelligence | [tw_zits] Pickel verringern die Intelligenz der Gegner |
-| 2636 | [um_pinwheel] Pinwheels Kill Random Enemy In Next Battle | [um_pinwheel] Windrädchen tötet Zufälligen Gegner Im Nächsten Kampf |
+| 2636 | [um_pinwheel] Pinwheels Kill Random Enemy In Next Battle | [um_pinwheel] Windrädchen tötet zufälligen Gegner im nächsten Kampf |
 | 2637 | [tc_well] Wells Decrease Enemies' Health | [tc_well] Brunnen verringern die Gesundheit der Feinde |
 | 2638 | [fc_diamond] Diamonds Grant Defense Boost | [fc_diamond] Diamanten gewähren Verteidigungsbonus |
-| 2639 | [fe_starfish] Starfish Grant Increased Damage In Next Battle | [fe_starfish] Seestern gewährt erhöhten schaden im nächsten Kampf |
+| 2639 | [fe_starfish] Starfish Grant Increased Damage In Next Battle | [fe_starfish] Seestern gewährt erhöhten Schaden im nächsten Kampf |
 | 2640 | [bns_shrine] Sand Shrines Grant Random Stat Boost | [bns_shrine] Sandschreine gewähren zufälligen Attributsbonus |
 | 2641 | [bg_mushroom] +1 Mushrooms Spawn | [bg_mushroom] +1 Pilze erscheinen |
 | 2642 | [su_statueangel] Angel Statues Grant Health Boost | [su_statueangel] Engelsstatuen gewähren Gesundheitsboost |
@@ -53,7 +53,7 @@
 | 2650 | [ot_vines] 35% Chance to Receive Emblem From Snaptrap Vines | [ot_vines] 35% Chance, ein Emblem von Schnappfallen-Ranken zu erhalten |
 | 2651 | [ag_bigtreasure] Keys Are No Longer Required to Open Large Treasure Chests | [ag_bigtreasure] Schlüssel werden nicht mehr benötigt, um große Schatztruhen zu öffnen |
 | 2652 | [gh_housecards] Houses of Cards Grant Speed Boost | [gh_housecards] Kartenhäuser gewähren Geschwindigkeitsschub |
-| 2653 | [fl_circuit] Schematics Sometimes Refill Spell Gem Charges | [fl_circuit] Schaltpläne füllen manchmal Zauberstein-Ladungen Auf |
+| 2653 | [fl_circuit] Schematics Sometimes Refill Spell Gem Charges | [fl_circuit] Schaltpläne füllen manchmal Zauberstein-Ladungen auf |
 | 2654 | [fae_orb] Orbs Decrease Enemies' Defense | [fae_orb] Kugeln verringern die Verteidigung der Gegner |
 | 2655 | [amg_bluerune] +1 Blue Runestones Spawn | [amg_bluerune] +1 Blaue Runensteine erscheinen |
 | 2656 | [fdp_bughive] Waspid Hives Drop Treasure | [fdp_bughive] Wespiden-Nester lassen Schätze fallen |
@@ -75,7 +75,7 @@
 | 2672 | [fc_tomb] Tombs Grant Treasure Chest After Next Battle | [fc_tomb] Gräber gewähren Schatztruhe nach dem nächsten Kampf |
 | 2673 | [fe_imphut] Imp Huts Grant Attack Boost | [fe_imphut] Koboldshütten gewähren Angriffsbonus |
 | 2674 | [bns_quicksand] 35% Chance to Receive Emblem From Quicksand Bosses | [bns_quicksand] 35% Chance, ein Emblem von Treibsand-Bossen zu erhalten |
-| 2675 | [bg_squash] Vomiting Squash Is More Rewarding | [bg_squash] Kotzendes Kürbisgewächs Ist Lohnender |
+| 2675 | [bg_squash] Vomiting Squash Is More Rewarding | [bg_squash] Kotzendes Kürbisgewächs ist Lohnender |
 | 2676 | [su_statuedevil] Demon Statues Grant Speed Boost | [su_statuedevil] Dämonenstatuen gewähren Geschwindigkeitsschub |
 | 2677 | [cj_treey] Yellow Fruit Trees Grant Intelligence Boost | [cj_treey] Gelbe Fruchtbäume gewähren Intelligenzboost |
 | 2678 | [an_eggs] 50% Chance to Receive Treasure From Spider Eggs | [an_eggs] 50% Chance, Schätze aus Spinneneiern zu erhalten |
@@ -83,14 +83,14 @@
 | 2680 | [kh_blood] Bloodstains Grant Speed Boost | [kh_blood] Blutflecken gewähren Geschwindigkeitsschub |
 | 2681 | [ee_rift] Rifts Grant a Treasure Chest In Next Battle | [ee_rift] Risse gewähren eine Schatztruhe im nächsten Kampf |
 | 2682 | [dmr_gears] 5% Chance For Piles of Gears To Spawn a Dumpling | [dmr_gears] 5% Chance, dass Zahnradhaufen einen Knödel spawnen |
-| 2683 | [lobab_robes] Arbiter Robes Drop Treasure | [lobab_robes] Richtergewänder Beute-Schatz |
+| 2683 | [lobab_robes] Arbiter Robes Drop Treasure | [lobab_robes] Schlichtergewänder lassen Schätze fallen |
 | 2684 | [ob_monlith] Monoliths Grant Treasure Chest In Next Battle | [ob_monlith] Monolithen gewähren Schatztruhe im nächsten Kampf |
 | 2685 | [ag_masochist] Masochist Statues Drop Treasure | [ag_masochist] Masochistische Statuen lassen Schätze fallen |
 | 2686 | [gh_bigslots] Large Slot Machines Grant Resources | [gh_bigslots] Große Spielautomaten gewähren Ressourcen |
 | 2687 | [fl_modrons] Inactive Modrons Drop Treasure | [fl_modrons] Inaktive Modrone lassen Schätze fallen |
 | 2688 | [fae_fountain] Fae Fountains Sometimes Refill Spell Gem Charges | [fae_fountain] Feenbrunnen füllen manchmal Zauberstein-Ladungen nach |
 | 2689 | [amg_brazier] Neon Braziers Spawn a Nemesis Creature | [amg_brazier] Neon-Feuerschalen beschwören eine Nemesis-Kreatur |
-| 2690 | [fdp_musiccrystals] Music Crystals Are More Rewarding | [fdp_musiccrystals] Musiksteine Sind Lohnender |
+| 2690 | [fdp_musiccrystals] Music Crystals Are More Rewarding | [fdp_musiccrystals] Musiksteine sind lohnender |
 | 2691 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
 | 2692 | [morenemesis] +1 Nemesis Creatures Spawn | [morenemesis] +1 Nemesis-Kreaturen erscheinen |
 | 2693 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |

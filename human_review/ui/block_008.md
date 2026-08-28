@@ -47,7 +47,7 @@
 | 744 | Choose an enchantment. Cost: 1000 {RES_CRYSTAL} and 1 {1} (you have {2}) | Wähle eine Verzauberung. Kosten: 1000 {RES_CRYSTAL} und 1 {1} (du hast {2}) |
 | 745 | Choose a gem to disenchant. | Wähle einen Edelstein zum Entzaubern. |
 | 746 | Choose a slot to disenchant. | Wähle einen Platz zum Entzaubern. |
-| 747 | Choose a gem to upgrade. Cost: {1} {RES_CRYSTAL} | Wähle einen Edelstein zum Aufwerten. Kosten: {1} {RES_CRYSTAL} |
+| 747 | Choose a gem to upgrade. Cost: {1} {RES_CRYSTAL} | Wähle einen Edelstein zum aufwerten. Kosten: {1} {RES_CRYSTAL} |
 | 748 | You do not have any Spell Gems. | Du hast keine Zaubersteine. |
 | 749 | You do not have enough {RES_CRYSTAL} to enchant this gem. | Du hast nicht genug {RES_CRYSTAL}, um diesen Edelstein zu verzaubern. |
 | 750 | This gem already has the maximum number of properties it can have at its current tier. | Dieser Edelstein hat bereits die maximale Anzahl an Eigenschaften, die er auf seiner aktuellen Stufe haben kann. |

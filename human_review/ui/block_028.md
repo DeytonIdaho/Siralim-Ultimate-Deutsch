@@ -23,12 +23,12 @@
 | 2720 | [ee_orbmoon] +1 Buffs From Moon Orbs | [ee_orbmoon] +1 Buffs von Mondkugeln |
 | 2721 | [dmr_scrap] Scrap Grants Defense Boost | [dmr_scrap] Schrott gewährt Verteidigungsbonus |
 | 2722 | [lobab_scaleleft] 50% Chance to Receive Treasure From Left-Tipping Scales | [lobab_scaleleft] 50% Chance, Schätze von nach links kippenden Waagen zu erhalten |
-| 2723 | [ot_orb] Mysterious Orbs Reward 1 Emblem | [ot_orb] Mysteriöse Kugeln Belohnung 1 Emblem |
+| 2723 | [ot_orb] Mysterious Orbs Reward 1 Emblem | [ot_orb] Mysteriöse Kugeln gewähren 1 Emblem |
 | 2724 | [ag_greenstatue] Animation Statues Drop Treasure | [ag_greenstatue] Animierte Statuen lassen Schätze fallen |
 | 2725 | [gh_dwarf] Drunken Gambling Dwarves Grant Timeline Priority In Next Battle | [gh_dwarf] Betrunkene, spielsüchtige Zwerge gewähren Zeitlinien-Priorität im nächsten Kampf |
 | 2726 | [fl_cog] Shiny Cogs Decrease Enemies' Stats | [fl_cog] Glänzende Zahnräder verringern Attribute der Gegner |
 | 2727 | [fae_dreamcatch] +1 Dream Catchers Spawn | [fae_dreamcatch] +1 Traumfänger erscheinen |
-| 2728 | [amg_roses] Neon Roses Grant 100% Dodge Chance In Next Battle | [amg_roses] Neon Rosen gewähren 100% Ausweich-Chance Im Nächsten Kampf |
+| 2728 | [amg_roses] Neon Roses Grant 100% Dodge Chance In Next Battle | [amg_roses] Neon Rosen gewähren 100% Ausweich-Chance im nächsten Kampf |
 | 2729 | [fdp_redmagnet] Red Magnetic Stones Decrease Enemies' Speed | [fdp_redmagnet] Rote Magnetsteine verringern die Geschwindigkeit der Feinde |
 | 2730 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2731 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
@@ -52,7 +52,7 @@
 | 2749 | [tc_maiden] 5% Chance for Iron Maidens to Spawn a Dumpling | [tc_maiden] 5% Chance für Eiserne Jungfrauen, einen Knödel zu spawnen |
 | 2750 | [fc_igloo] Igloos Grant 100% Critical Chance In Next Battle | [fc_igloo] Iglus gewähren 100% kritische Trefferchance im nächsten Kampf |
 | 2751 | [fe_pineapple] 20% Chance to Receive Emblem From Pineapples | [fe_pineapple] 20% Chance, ein Emblem von Ananas zu erhalten |
-| 2752 | [bns_relic] Relics Damage Enemies | [bns_relic] Relikte fügen Gegnern schaden zu |
+| 2752 | [bns_relic] Relics Damage Enemies | [bns_relic] Relikte fügen Gegnern Schaden zu |
 | 2753 | [bg_flute] Flutes Grant +1 Attacks In Next Battle | [bg_flute] Flöten gewähren +1 Angriffe im nächsten Kampf |
 | 2754 | [su_brain] Brains Drop Treasure | [su_brain] Gehirne lassen Schätze fallen |
 | 2755 | [cj_totem] Totems Decrease Enemies' Stats | [cj_totem] Totems verringern die Werte der Feinde |
@@ -60,15 +60,15 @@
 | 2757 | [wdsd_mask] Masks Decrease Enemies' Stats | [wdsd_mask] Masken verringern die Attribute der Gegner |
 | 2758 | [kh_potions] Potion Shelves Decrease Enemies' Stats | [kh_potions] Trankregale verringern die Attribute der Gegner |
 | 2759 | [ee_orbsun] Sun Orbs Drop Treasure | [ee_orbsun] Sonnen-Kugeln lassen Schätze fallen |
-| 2760 | [dmr_generator] Generators Damage Enemies | [dmr_generator] Generatoren schaden Gegnern |
+| 2760 | [dmr_generator] Generators Damage Enemies | [dmr_generator] Generatoren Schaden Gegnern |
 | 2761 | [lobab_scaleright] 50% Chance to Receive Treasure From Right-Tipping Scales | [lobab_scaleright] 50% Chance, Schätze von rechts kippenden Waagen zu erhalten |
 | 2762 | [ot_altar] Bloodstained Altars Grant Speed Boost | [ot_altar] Blutbefleckte Altäre gewähren Geschwindigkeitsschub |
 | 2763 | [ag_sculpture] +2 Sculptures Spawn | [ag_sculpture] +2 Skulpturen erscheinen |
 | 2764 | [gh_cards] Decks of Cards Grant Treasure Chest After Next Battle | [gh_cards] Kartendecks gewähren Schatztruhe nach dem nächsten Kampf |
-| 2765 | [fl_weapons] Weapon Piles Damage Enemies | [fl_weapons] Waffenhaufen fügen Gegnern schaden zu |
+| 2765 | [fl_weapons] Weapon Piles Damage Enemies | [fl_weapons] Waffenhaufen fügen Gegnern Schaden zu |
 | 2766 | [fae_fairy] -1 Mischievous Fae Chase Time | [fae_fairy] -1 Zeit der Verfolgung durch schelmische Feen |
-| 2767 | [amg_eyeportal] Eyes of T'mere M'rgo Grant Timeline Priority In Next Battle | [amg_eyeportal] Augen von T'mere M'rgo gewähren Zeitlinienpriorität Im Nächsten Kampf |
-| 2768 | [fdp_bluemagnet] Blue Magnetic Stones Grant a Random Stat Boost | [fdp_bluemagnet] Blaue Magnetsteine gewähren einen Zufälligen Attributsbonus |
+| 2767 | [amg_eyeportal] Eyes of T'mere M'rgo Grant Timeline Priority In Next Battle | [amg_eyeportal] Augen von T'mere M'rgo gewähren Zeitlinienpriorität im nächsten Kampf |
+| 2768 | [fdp_bluemagnet] Blue Magnetic Stones Grant a Random Stat Boost | [fdp_bluemagnet] Blaue Magnetsteine gewähren einen zufälligen Attributsbonus |
 | 2769 | [moretreasure] +10% Treasure From All Sources | [moretreasure] +10% Schätze aus allen Quellen |
 | 2770 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2771 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
@@ -85,7 +85,7 @@
 | 2782 | [rfm_phaseportal] Phase Portals Reduce Enemies' Spell Gems By 3 In Next Battle | [rfm_phaseportal] Phasenportale reduzieren Zaubersteine der Gegner um 3 im nächsten Kampf |
 | 2783 | [tol_horseshoe] Receive Treasure From Horseshoe Battles | [tol_horseshoe] Erhalte Schätze aus Hufeisenkämpfen |
 | 2784 | [btv_shadowcage] Receive Treasure From Shadow Locker Battles | [btv_shadowcage] Erhalte Schätze aus Schattentruhen-Kämpfen |
-| 2785 | [cr_cache] Caches Kill Random Enemy In Next Battle | [cr_cache] tötet zufälligen Gegner im nächsten Kampf |
+| 2785 | [cr_cache] Caches Kill Random Enemy In Next Battle | [cr_cache] Caches töten im nächsten Kampf einen zufälligen Gegner |
 | 2786 | [tw_geyser] Additional Stat Reduction From Geysers | [tw_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2787 | [um_totem] Corrupted Totems Grant Treasure | [um_totem] Verderbte Totems gewähren Schätze |
 | 2788 | [tc_paper] +1 Knowledge Items From Parchment | [tc_paper] +1 Wissensgegenstand aus Pergament |
@@ -93,8 +93,8 @@
 | 2790 | [fe_eggs] Drake Eggs Grant Timeline Priority In Next Battle | [fe_eggs] Drachen-Eier gewähren Zeitlinien-Priorität im nächsten Kampf |
 | 2791 | [bns_oasis] Oases Are More Rewarding | [bns_oasis] Oasen sind lohnender |
 | 2792 | [bg_cave] Cove Boss Battles Grant +1 Casts In Next Battle | [bg_cave] Höhlenbosskämpfe gewähren +1 Anwendungen im nächsten Kampf |
-| 2793 | [su_mirror] Mirrors Grant Increased Damage In Next Battle | [su_mirror] Spiegel gewähren erhöhten schaden im nächsten Kampf |
-| 2794 | [cj_imphut] Imp Huts Damage Enemies | [cj_imphut] Wichtelhütten schaden Feinde |
+| 2793 | [su_mirror] Mirrors Grant Increased Damage In Next Battle | [su_mirror] Spiegel gewähren erhöhten Schaden im nächsten Kampf |
+| 2794 | [cj_imphut] Imp Huts Damage Enemies | [cj_imphut] Wichtelhütten Schaden Feinde |
 | 2795 | [an_ichor] 5% Chance For Ichor To Spawn a Dumpling | [an_ichor] 5% Chance, dass Ichor einen Knödel erschafft |
 | 2796 | [wdsd_jellyfish] Jellyfish Grant Resources | [wdsd_jellyfish] Quallen gewähren Ressourcen |
 | 2797 | [kh_knight] Knights Kill Random Enemy In Next Battle | [kh_knight] Ritter töten zufälligen Gegner im nächsten Kampf |

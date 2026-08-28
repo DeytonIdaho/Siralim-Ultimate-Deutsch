@@ -36,7 +36,7 @@
 | 533 | You don't have enough {RES_ESSENCE}. | Du hast nicht genug {RES_ESSENCE}. |
 | 534 | (With your team assembled, you head into the arena. Good luck!) | (Mit deinem Team versammelt, betrittst du die Arena. Viel Glück!) |
 | 535 | Choose creature #{1}. Press {KEYF} to toggle display, or {KEYQ} to mulligan ({2} left). | Wähle Kreatur #{1}. Drücke {KEYF}, um die Anzeige umzuschalten, oder {KEYQ} für einen Mulligan ({2} übrig). |
-| 536 | Choose {1} more circle(s) to scratch. | Wähle noch {1} weitere Kreise zum Aufkratzen. |
+| 536 | Choose {1} more circle(s) to scratch. | Wähle noch {1} weitere Kreise zum aufkratzen. |
 | 537 | You needed to find at least 3 matches to win.\n\nBetter luck next time! | Du musstest mindestens 3 Übereinstimmungen finden, um zu gewinnen.\n\nViel Glück beim nächsten Mal! |
 | 538 | You won {1} {2}! | Du hast {1} {2} gewonnen! |
 | 539 | Winning Creatures | Siegreiche Kreaturen |
@@ -55,10 +55,10 @@
 | 552 | Creature Mastery | Kreaturenbeherrschung |
 | 553 | (Mastery: {1}) | (Meisterschaft: {1}) |
 | 554 | Mastery Trait: {1} | Meisterschaftsmerkmal: {1} |
-| 555 | You've unlocked the following bonuses for this race:\n\n+{1}% damage dealt to creatures of this race\n-{2}% damage taken from creatures of this race\n+{3}% damage dealt by your creatures of this race\n-{4}% damage taken by your creatures of this race | Du hast die folgenden Boni für diese Rasse freigeschaltet:\n\n+{1}% schaden gegen Kreaturen dieser Rasse\n-{2}% erlittener schaden von Kreaturen dieser Rasse\n+{3}% verursachter schaden deiner Kreaturen dieser Rasse\n-{4}% erlittener schaden deiner Kreaturen dieser Rasse |
+| 555 | You've unlocked the following bonuses for this race:\n\n+{1}% damage dealt to creatures of this race\n-{2}% damage taken from creatures of this race\n+{3}% damage dealt by your creatures of this race\n-{4}% damage taken by your creatures of this race | Du hast die folgenden Boni für diese Rasse freigeschaltet:\n\n+{1}% Schaden gegen Kreaturen dieser Rasse\n-{2}% erlittener Schaden von Kreaturen dieser Rasse\n+{3}% verursachter Schaden deiner Kreaturen dieser Rasse\n-{4}% erlittener Schaden deiner Kreaturen dieser Rasse |
 | 556 | Choose a Reliquary Enhancement to increase. | Wähle eine Reliquienverstärkung zum Erhöhen. |
 | 557 | Rank: {1} | Rang: {1} |
-| 558 | Cost to upgrade: [menu_piety] {1} | Kosten für Aufwertung: [menu_piety] {1} |
+| 558 | Cost to upgrade: [menu_piety] {1} | Kosten für aufwertung: [menu_piety] {1} |
 | 559 | You do not have enough {L_PIETY}. | Du hast nicht genug {L_PIETY}. |
 | 560 | Attack Damage | Angriffsschaden |
 | 561 | Healing Bonus | Heilungsbonus |

@@ -17,7 +17,7 @@
 | 1214 | Swap: Replace my current party with the creatures in a Menagerie Group. | Tauschen: Ersetze meine aktuelle Gruppe mit den Kreaturen einer Menagerie-Gruppe. |
 | 1215 | Clear: Delete a Menagerie Group you've previously created. | Löschen: Löscht eine zuvor erstellte Menagerie-Gruppe. |
 | 1216 | Rename: Change the name of a Menagerie Group. | Umbenennen: Ändere den Namen einer Menagerie-Gruppe. |
-| 1217 | I've changed my mind. Goodbye! | Ich habe meine Meinung geändert. Auf Wiedersehen! |
+| 1217 | I've changed my mind. Goodbye! | Ich habe meine Meinung geändert. auf Wiedersehen! |
 | 1218 | Shop: Purchase tomes to change my creatures' personalities, as well as other items. | Laden: Kaufe Folianten, um die Persönlichkeiten meiner Kreaturen zu verändern, sowie andere Gegenstände. |
 | 1219 | You do not have any creatures in your party. | Du hast keine Kreaturen in deiner Gruppe. |
 | 1220 | Nortah:\nYou shouldn't bother with this for now, {PLAYERNAME}. Pay attention to your quest! | Nortah:\nDu solltest dich damit vorerst nicht befassen, {PLAYERNAME}. Konzentriere dich auf deine Quest! |

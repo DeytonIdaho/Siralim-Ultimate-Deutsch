@@ -68,30 +68,30 @@
 | 1765 | At the start of battle, the bearer gains {CONDNAME_BUFF_SHELL}. | Zu Beginn des Kampfes erhält der Träger {CONDNAME_BUFF_SHELL}. |
 | 1766 | The bearer gains 100% more healing. | Der Träger erhält 100% mehr Heilung. |
 | 1767 | At the start of its bearer's turn, this relic {ACTION_attacks} a random enemy. | Zu Beginn des Zuges seines Trägers {ACTION_attacks} diese Relikt einen zufälligen Gegner. |
-| 1768 | After the bearer takes damage from an attack or spell, this relic {ACTION_casts} [icons,1972]Healing on it. | Nachdem der Träger schaden durch einen Angriff oder Zauber erleidet, {ACTION_casts} diese Relikt [icons,1972]Heilung auf ihn. |
-| 1769 | This relic has a 10% chance to prevent damage dealt to its bearer. | Dieses Relikt hat eine 10% Chance, schaden am Träger zu verhindern. |
+| 1768 | After the bearer takes damage from an attack or spell, this relic {ACTION_casts} [icons,1972]Healing on it. | Nachdem der Träger Schaden durch einen Angriff oder Zauber erleidet, {ACTION_casts} diese Relikt [icons,1972]Heilung auf ihn. |
+| 1769 | This relic has a 10% chance to prevent damage dealt to its bearer. | Dieses Relikt hat eine 10% Chance, Schaden am Träger zu verhindern. |
 | 1770 | The bearer gives 100% more healing. | Der Träger gibt 100% mehr Heilung. |
-| 1771 | After the bearer deals damage with an attack or spell, it gains a {CONDNAME_BUFF_BARRIER} equal to 5% of the damage dealt. | Nachdem der Träger schaden mit einem Angriff oder Zauber verursacht hat, erhält er eine {CONDNAME_BUFF_BARRIER} in Höhe von 5% des verursachten Schadens. |
-| 1772 | The first time the bearer dies in battle, this relic {ACTION_casts} [icons,1972]Major Resurrection on it. | Das erste Mal, wenn der Träger im Kampf stirbt, {ACTION_casts} diese Relikt [icons,1972]Große Auferstehung auf ihn. |
+| 1771 | After the bearer deals damage with an attack or spell, it gains a {CONDNAME_BUFF_BARRIER} equal to 5% of the damage dealt. | Nachdem der Träger Schaden mit einem Angriff oder Zauber verursacht hat, erhält er eine {CONDNAME_BUFF_BARRIER} in Höhe von 5% des verursachten Schadens. |
+| 1772 | The first time the bearer dies in battle, this relic {ACTION_casts} [icons,1972]Major Resurrection on it. | Das erste Mal, wenn der Träger im Kampf stirbt, {ACTION_casts} diese Relikt [icons,1972]Große auferstehung auf ihn. |
 | 1773 | After this relic {ACTION_attacks} or {ACTION_casts} a spell, it gives its bearer {CONDNAME_BUFF_SHELL}. | Nachdem diese Relikt {ACTION_attacks} oder {ACTION_casts} einen Zauber, verleiht sie ihrem Träger {CONDNAME_BUFF_SHELL}. |
 | 1774 | At the end of its bearer's turn, this relic {ACTION_casts} [icons,1972]Holy Explosion. | Am Ende des Zuges seines Trägers {ACTION_casts} diese Relikt [icons,1972]Heilige Explosion. |
 | 1775 | After the bearer {ACTION_attacks} or is {ACTION_attacked}, it has a 50% chance to afflict the enemy with {CONDNAME_DEBUFF_FROZEN}. | Nachdem der Träger {ACTION_attacks} oder {ACTION_attacked} wird, besteht eine 50% Chance, den Gegner mit {CONDNAME_DEBUFF_FROZEN} zu belegen. |
-| 1776 | Enemies deal 10% less damage to the bearer for each {CONDNAME_DEBUFF_FROZEN} enemy. | Feinde verursachen 10% weniger schaden am Träger für jeden {CONDNAME_DEBUFF_FROZEN} Feind. |
+| 1776 | Enemies deal 10% less damage to the bearer for each {CONDNAME_DEBUFF_FROZEN} enemy. | Feinde verursachen 10% weniger Schaden am Träger für jeden {CONDNAME_DEBUFF_FROZEN} Feind. |
 | 1777 | At the start of its bearer's turn, this relic {ACTION_attacks} a random enemy. | Zu Beginn des Zuges seines Trägers {ACTION_attacks} diese Relikt einen zufälligen Gegner. |
-| 1778 | This relic and its bearer deal 35% more damage to {CONDNAME_DEBUFF_FROZEN} enemies. | Diese Relikt und ihr Träger verursachen 35% mehr schaden an {CONDNAME_DEBUFF_FROZEN} Gegnern. |
-| 1779 | After the bearer takes damage, this relic has a 25% chance to {ACTION_cast} [icons,1980]Black Ice. | Nachdem der Träger schaden erlitten hat, hat diese Relikt eine 25% Chance, [icons,1980]Schwarzes Eis zu {ACTION_cast}. |
+| 1778 | This relic and its bearer deal 35% more damage to {CONDNAME_DEBUFF_FROZEN} enemies. | Diese Relikt und ihr Träger verursachen 35% mehr Schaden an {CONDNAME_DEBUFF_FROZEN} Gegnern. |
+| 1779 | After the bearer takes damage, this relic has a 25% chance to {ACTION_cast} [icons,1980]Black Ice. | Nachdem der Träger Schaden erlitten hat, hat diese Relikt eine 25% Chance, [icons,1980]Schwarzes Eis zu {ACTION_cast}. |
 | 1780 | After the bearer afflicts an enemy with {CONDNAME_DEBUFF_FROZEN}, this relic has a 25% chance to {ACTION_cast} [icons,1980]Shatter on it. | Nachdem der Träger einen Feind mit {CONDNAME_DEBUFF_FROZEN} belegt hat, hat diese Relikt eine 25% Chance, [icons,1980]Zerschmettern auf ihn zu {ACTION_cast}. |
 | 1781 | The bearer is immune to {CONDNAME_DEBUFF_FROZEN}. | Der Träger ist immun gegen {CONDNAME_DEBUFF_FROZEN}. |
-| 1782 | After the bearer takes damage, this relic increases its {STAT_defense} by 20%. | Nachdem der Träger schaden erlitten hat, erhöht diese Relikt seine {STAT_defense} um 20%. |
+| 1782 | After the bearer takes damage, this relic increases its {STAT_defense} by 20%. | Nachdem der Träger Schaden erlitten hat, erhöht diese Relikt seine {STAT_defense} um 20%. |
 | 1783 | The bearer {ACTION_attacks} {CONDNAME_DEBUFF_FROZEN} enemies 1 additional time. | Der Träger {ACTION_attacks} {CONDNAME_DEBUFF_FROZEN} Gegner 1 zusätzliches Mal. |
 | 1784 | At the end of its bearer's turn, this relic {ACTION_casts} [icons,1976]Snowstorm. | Am Ende des Zuges seines Trägers {ACTION_casts} diese Relikt [icons,1976]Schneesturm. |
 | 1785 | After the bearer {ACTION_attacks}, it has a 15% chance to send the target to the bottom of the {TIMELINE}. | Nachdem der Träger {ACTION_attacks}, besteht eine 15% Chance, das Ziel an das Ende der {TIMELINE} zu befördern. |
-| 1786 | This relic and its bearer deal 50% more damage to the bottom-most enemy on the {TIMELINE}. | Dieses Relikt und sein Träger verursachen 50% mehr schaden am untersten Gegner auf der {TIMELINE}. |
+| 1786 | This relic and its bearer deal 50% more damage to the bottom-most enemy on the {TIMELINE}. | Dieses Relikt und sein Träger verursachen 50% mehr Schaden am untersten Gegner auf der {TIMELINE}. |
 | 1787 | At the start of its bearer's turn, this relic {ACTION_attacks} the bottom-most enemy on the {TIMELINE}. | Zu Beginn des Zuges seines Trägers {ACTION_attacks} diese Relikt den untersten Feind auf der {TIMELINE}. |
 | 1788 | After this relic or its bearer {ACTION_attack}, the bearer gains 20% {STAT_speed}. | Nachdem diese Relikt oder ihr Träger {ACTION_attack}, erhält der Träger 20% {STAT_speed}. |
 | 1789 | After its bearer {ACTION_attacks}, this relic {ACTION_attacks} the same target. | Nachdem sein Träger {ACTION_attacks}, {ACTION_attacks} diese Relikt dasselbe Ziel. |
 | 1790 | The bearer is immune to {CONDNAME_DEBUFF_SNARED}. | Der Träger ist immun gegen {CONDNAME_DEBUFF_SNARED}. |
-| 1791 | This relic and its bearer's attacks and spells deal additional damage equal to 20% of their {STAT_speed}. | Dieses Relikt und die Angriffe und Zauber seines Trägers verursachen zusätzlichen schaden in Höhe von 20% ihres {STAT_speed}. |
+| 1791 | This relic and its bearer's attacks and spells deal additional damage equal to 20% of their {STAT_speed}. | Dieses Relikt und die Angriffe und Zauber seines Trägers verursachen zusätzlichen Schaden in Höhe von 20% ihres {STAT_speed}. |
 | 1792 | This relic and its bearer {ACTION_attack} enemies 1 additional time for each enemy between the bearer and its target on the {TIMELINE}. | Dieses Relikt und sein Träger {ACTION_attack} Feinde 1 zusätzliches Mal für jeden Feind zwischen dem Träger und seinem Ziel auf der {TIMELINE}. |
 | 1793 | This relic's attacks and spells ignore 25% of its target's {STAT_defense}. | Angriffe und Zauber dieser Relikt ignorieren 25% der {STAT_defense} des Ziels. |
 | 1794 | At the start of battle, this relic {ACTION_casts} [icons,1968]Infernal Charge on its bearer. | Zu Beginn des Kampfes {ACTION_casts} diese Relikt [icons,1968]Infernalische Ladung auf ihren Träger. |
@@ -100,5 +100,5 @@
 | 1797 | At the start of its bearer's turn, this relic {ACTION_attacks} a random enemy twice for 50% normal damage. | Zu Beginn des Zuges seines Trägers {ACTION_attacks} diese Relikt zweimal einen zufälligen Gegner für 50% des normalen Schadens. |
 | 1798 | The bearer's {CONDNAME_BUFF_AGILE} buff activates twice. | Der Träger aktiviert seinen {CONDNAME_BUFF_AGILE}-Buff zweimal. |
 | 1799 | At the start of battle, the bearer gains {CONDNAME_BUFF_SAVAGE}. | Zu Beginn des Kampfes erhält der Träger {CONDNAME_BUFF_SAVAGE}. |
-| 1800 | The bearer has an independent 25% chance to deal critical damage. | Der Träger hat eine unabhängige Chance von 25%, kritischen schaden zu verursachen. |
+| 1800 | The bearer has an independent 25% chance to deal critical damage. | Der Träger hat eine unabhängige Chance von 25%, kritischen Schaden zu verursachen. |
 | 1801 | Enemies cannot move the bearer to the bottom of the {TIMELINE}. | Gegner können den Träger nicht ans Ende der {TIMELINE} bewegen. |

@@ -2,14 +2,14 @@
 
 | Row | English | German |
 |---:|---|---|
-| 2902 | This option makes it so you can only visit each Realm Depth once. In addition, if your party is wiped out, you will never be able to use the Teleportation Shrine again (in other words, it's game over).\n\nEnabling this mode automatically enables Skip Story Mode, so make sure you read about that mode before proceeding. | Diese Option bewirkt, dass du jede Reichtiefe nur einmal besuchen kannst. Außerdem kannst du den Teleportationsschrein nie wieder benutzen, wenn deine Gruppe ausgelöscht wird (mit anderen Worten, das Spiel ist vorbei).\n\nDie Aktivierung dieses Modus aktiviert automatisch den Geschichten-Überspringen-Modus, also stelle sicher, dass du dich über diesen Modus informierst, bevor du fortfährst. |
+| 2902 | This option makes it so you can only visit each Realm Depth once. In addition, if your party is wiped out, you will never be able to use the Teleportation Shrine again (in other words, it's game over).\n\nEnabling this mode automatically enables Skip Story Mode, so make sure you read about that mode before proceeding. | Diese Option bewirkt, dass du jede Reichtiefe nur einmal besuchen kannst. Außerdem kannst du den Teleportationsschrein nie wieder benutzen, wenn deine Gruppe ausgelöscht wird (mit anderen Worten, das Spiel ist vorbei).\n\nDie Aktivierung dieses Modus aktiviert automatisch den Modus „Story überspringen“, also stelle sicher, dass du dich über diesen Modus informierst, bevor du fortfährst. |
 | 2903 | This option randomizes the creatures found in realms. | Diese Option bestimmt die Kreaturen, die du in den Reichen findest, zufällig. |
 | 2904 | This option allows you to start the game with random creatures and a random starting spell. | Diese Option ermöglicht es dir, das Spiel mit zufälligen Kreaturen und einem zufälligen Startzauber zu beginnen. |
-| 2905 | This option allows you to start the game with almost everything unlocked, as well as some cheats enabled. This mode is ideal for testing purposes.\n\nEnabling this mode automatically enables Skip Story Mode, so make sure you read about that mode before proceeding. | Diese Option ermöglicht es dir, das Spiel mit fast allem freigeschaltet zu starten, sowie einigen aktivierten Cheats. Dieser Modus ist ideal für Testzwecke.\n\nDas Aktivieren dieses Modus schaltet automatisch den Geschichten-Überspringen-Modus ein, also stelle sicher, dass du über diesen Modus Bescheid weißt, bevor du fortfährst. |
+| 2905 | This option allows you to start the game with almost everything unlocked, as well as some cheats enabled. This mode is ideal for testing purposes.\n\nEnabling this mode automatically enables Skip Story Mode, so make sure you read about that mode before proceeding. | Diese Option ermöglicht es dir, das Spiel mit fast allem freigeschaltet zu starten, sowie einigen aktivierten Cheats. Dieser Modus ist ideal für Testzwecke.\n\nDas Aktivieren dieses Modus schaltet automatisch den Modus „Story überspringen“ ein, also stelle sicher, dass du über diesen Modus Bescheid weißt, bevor du fortfährst. |
 | 2906 | Note that enabling this mode will prevent Steam achievements from unlocking on this save file. | Beachte, dass das Aktivieren dieses Modus verhindert, dass Steam-Erfolge für diesen Speicherstand freigeschaltet werden. |
 | 2907 | Today is your birthday. Happy birthday! | Heute ist dein Geburtstag. Alles Gute zum Geburtstag! |
-| 2908 | Choose your Advanced New Game options. | Wähle deine Optionen für das Erweiterte Neue Spiel. |
-| 2909 | {KEYF} Reset to Default  {KEYE} Confirm | {KEYF} Auf Standard zurücksetzen  {KEYE} Bestätigen |
+| 2908 | Choose your Advanced New Game options. | Wähle deine Optionen für Neues Spiel Plus. |
+| 2909 | {KEYF} Reset to Default  {KEYE} Confirm | {KEYF} auf Standard zurücksetzen  {KEYE} Bestätigen |
 | 2910 | Fusion Preview | Fusionsvorschau |
 | 2911 | Loading… | Laden… |
 | 2912 | (Moving) | (Bewegt sich) |
@@ -53,7 +53,7 @@
 | 2950 | This option is just for fun, and changes the way the game looks by applying various filters. | Diese Option ist nur zum Spaß und verändert das Aussehen des Spiels durch verschiedene Filter. |
 | 2951 | You do not have enough Mana to summon any creatures.\n\nDefeat enemy creatures in Realms to acquire their Mana. | Du hast nicht genug Mana, um Kreaturen zu beschwören.\n\nBesiege feindliche Kreaturen in den Reichen, um ihr Mana zu erhalten. |
 | 2952 | Bestiary ({1} / {2}) | Bestiarium ({1} / {2}) |
-| 2953 | Select a creature to summon. Cost: [resource_essence] 1000 | Wähle eine Kreatur zum beschwören aus. Kosten: [resource_essence] 1000 |
+| 2953 | Select a creature to summon. Cost: [resource_essence] 1000 | Wähle eine Kreatur zum Beschwören aus. Kosten: [resource_essence] 1000 |
 | 2954 | No Material Exists | Kein Material vorhanden |
 | 2955 | Source: | Quelle: |
 | 2956 | Knowledge Progress:\n\n\n\nCurrent Bonuses:\n | Wissensfortschritt:\n\n\n\nAktuelle Boni:\n |

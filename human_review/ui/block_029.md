@@ -31,9 +31,9 @@
 | 2828 | [fc_grave] Mummy Graves Drop Treasure | [fc_grave] Mumien-Gräber lassen Schätze fallen |
 | 2829 | [fe_crab] Crabs Decrease Enemies' Defense | [fe_crab] Krabben verringern die Verteidigung der Gegner |
 | 2830 | [bns_treasure] Buried Treasure Grants Treasure Chest After Next Battle | [bns_treasure] Vergrabener Schatz gewährt Schatztruhe nach dem nächsten Kampf |
-| 2831 | [bg_trap] Traps Damage Enemies | [bg_trap] fallen schaden Feinden |
+| 2831 | [bg_trap] Traps Damage Enemies | [bg_trap] Fallen fügen Feinden Schaden zu |
 | 2832 | [su_obelisk] Obelisks Grant a Minion | [su_obelisk] Obelisken gewähren einen Diener |
-| 2833 | [cj_fruity] Vomiting Fruit Is More Rewarding | [cj_fruity] Früchte Erbrechen Ist Lohnender |
+| 2833 | [cj_fruity] Vomiting Fruit Is More Rewarding | [cj_fruity] Früchte Erbrechen ist Lohnender |
 | 2834 | [an_shrine] Spider Shrines Spawn a Nemesis Creature | [an_shrine] Spinnenschreine beschwören eine Nemesis-Kreatur |
 | 2835 | [wdsd_shipwreck] 50% Chance to Receive Double Resources From Shipwrecks | [wdsd_shipwreck] 50% Chance auf doppelte Ressourcen aus Schiffswracks |
 | 2836 | [kh_arms] Coats of Arms Drop Treasure | [kh_arms] Wappen lassen Schätze fallen |
@@ -44,7 +44,7 @@
 | 2841 | [ag_portal] More Treasure From Astral Gallery Boss Rooms | [ag_portal] Mehr Schätze aus den Bossräumen der Astralgalerie |
 | 2842 | [gh_gamewheel] More Treasure From Gambler's Hive Boss Rooms | [gh_gamewheel] Mehr Schätze aus den Bossräumen des Spielerhorts |
 | 2843 | [fl_robohead] 15% Chance for Robot Assembly to Spawn a Treasure Golem | [fl_robohead] 15% Chance, dass Robotermontage einen Schatzgolem erschafft |
-| 2844 | [fae_fae] Fae Drop Treasure | [fae_fae] Feenschatz |
+| 2844 | [fae_fae] Fae Drop Treasure | [fae_fae] Fae lassen Schätze fallen |
 | 2845 | [amg_redrune] Red Runestones Kill Random Enemy In Next Battle | [amg_redrune] Rote Runensteine töten zufälligen Gegner im nächsten Kampf |
 | 2846 | [fdp_wormpit] Pit Worm Pits Drop Treasure | [fdp_wormpit] Grubenwurm-Gruben lassen Schätze fallen |
 | 2847 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
@@ -56,12 +56,12 @@
 | 2853 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
 | 2854 | [morenoderesources] +10% Resources From Resource Nodes | [morenoderesources] +10% Ressourcen von Ressourcenknoten |
 | 2855 | [morebtlresources] +5% Resources From Battles | [morebtlresources] +5% Ressourcen aus Kämpfen |
-| 2856 | [ad_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [ad_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen Auf |
-| 2857 | [ptd_skullcandle] Illuminated Candles Damage Enemies | [ptd_skullcandle] Leuchtende Kerzen fügen Feinden schaden zu |
-| 2858 | [swm_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [swm_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen Auf |
-| 2859 | [gpn_nemesisshrine] Nemesis Shrines Kill Random Enemy In Next Battle | [gpn_nemesisshrine] Nemesis-Schreine töten Zufälligen Feind Im Nächsten Kampf |
+| 2856 | [ad_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [ad_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen auf |
+| 2857 | [ptd_skullcandle] Illuminated Candles Damage Enemies | [ptd_skullcandle] Leuchtende Kerzen fügen Feinden Schaden zu |
+| 2858 | [swm_obelisk] Obelisks Sometimes Refill Spell Gem Charges | [swm_obelisk] Obelisken füllen manchmal Zauberstein-Ladungen auf |
+| 2859 | [gpn_nemesisshrine] Nemesis Shrines Kill Random Enemy In Next Battle | [gpn_nemesisshrine] Nemesis-Schreine töten zufälligen Feind im nächsten Kampf |
 | 2860 | [rfm_bookshelf] Grimoire Shelves Grant Intelligence Boost | [rfm_bookshelf] Grimoire-Regale gewähren Intelligenz-Bonus |
-| 2861 | [tol_giantgem] Giant Gems Sometimes Refill Spell Gem Charges | [tol_giantgem] Riesenkristalle füllen manchmal Zauberstein-Ladungen Auf |
+| 2861 | [tol_giantgem] Giant Gems Sometimes Refill Spell Gem Charges | [tol_giantgem] Riesenkristalle füllen manchmal Zauberstein-Ladungen auf |
 | 2862 | [btv_geyser] Additional Stat Reduction From Geysers | [btv_geyser] Zusätzliche Attributssenkung durch Geysire |
 | 2863 | [cr_sewer] 35% chance to Receive Emblem From Sewers | [cr_sewer] 35% Chance, ein Emblem aus der Kanalisation zu erhalten |
 | 2864 | [tw_zits] Zits Grant 100% Dodge Chance In Next Battle | [tw_zits] Pickel gewähren 100% Ausweich-Chance im nächsten Kampf |
@@ -71,8 +71,8 @@
 | 2868 | [fe_starfish] Starfish Grant Random Spell Gem | [fe_starfish] Seestern gewährt zufälligen Zauberstein |
 | 2869 | [bns_shrine] Sand Shrines Decrease Enemies' Stats | [bns_shrine] Sandschreine verringern die Werte der Feinde |
 | 2870 | [bg_mushroom] 30% Chance to Receive Emblem From Mushrooms | [bg_mushroom] 30% Chance auf Emblem von Pilzen |
-| 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten schaden Feinde |
-| 2872 | [cj_cairn] Cairns Grant Increased Damage In Next Battle | [cj_cairn] Cairns gewähren erhöhten schaden im nächsten Kampf |
+| 2871 | [su_tithe] Tithes Damage Enemies | [su_tithe] Zehnten Schaden Feinde |
+| 2872 | [cj_cairn] Cairns Grant Increased Damage In Next Battle | [cj_cairn] Cairns gewähren erhöhten Schaden im nächsten Kampf |
 | 2873 | [an_scroll] +1 Knowledge From Scrolls | [an_scroll] +1 Wissen aus Schriftrollen |
 | 2874 | [wdsd_relic] Relics Decrease Enemies' Stats | [wdsd_relic] Relikte verringern die Werte der Feinde |
 | 2875 | [kh_satchel] Caches Grant Random Stat Boost | [kh_satchel] Verstecke gewähren zufälligen Attributsbonus |
@@ -84,7 +84,7 @@
 | 2881 | [gh_housecards] Houses of Cards Drop Treasure | [gh_housecards] Kartenhäuser lassen Schätze fallen |
 | 2882 | [fl_circuit] Schematics Grant Random Spell Gem | [fl_circuit] Schaltpläne gewähren zufälligen Zauberstein |
 | 2883 | [fae_orb] Orbs Decrease Enemies' Speed | [fae_orb] Kugeln verringern die Geschwindigkeit der Feinde |
-| 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine schaden an Feinden |
+| 2884 | [amg_bluerune] Blue Runestones Damage Enemies | [amg_bluerune] Blaue Runensteine Schaden an Feinden |
 | 2885 | [fdp_bughive] Waspid Hives Grant 100% Dodge Chance In Next Battle | [fdp_bughive] Wespidnester gewähren 100% Ausweichchance im nächsten Kampf |
 | 2886 | Relaxed | Entspannt |
 | 2887 | Normal | Normal |
@@ -99,6 +99,6 @@
 | 2896 | Sandbox Mode | Sandbox-Modus |
 | 2897 | Mode {1} | Modus {1} |
 | 2898 | This option allows you to skip the game's story and most of its tutorials.\n\nThis mode is absolutely not recommended for new players - you will be very overwhelmed and have no idea what to do! | Diese Option ermöglicht es dir, die Geschichte des Spiels und die meisten Tutorials zu überspringen.\n\nDieser Modus wird für neue Spieler absolut nicht empfohlen - du wirst völlig überfordert sein und keine Ahnung haben, was zu tun ist! |
-| 2899 | This option allows you to adjust the game's difficulty.\n\n"Ruthless" significantly increases the difficulty of enemies and makes it more difficult to acquire resources, experience points, items, and more.\n\n"Relaxed" is the exact opposite. | Diese Option ermöglicht es dir, den Schwierigkeitsgrad des Spiels anzupassen.\n\n"Gnadenlos" erhöht die Schwierigkeit der Gegner erheblich und macht es schwieriger, Ressourcen, Erfahrungspunkte, Gegenstände und mehr zu erhalten.\n\n"Entspannt" ist das genaue Gegenteil. |
+| 2899 | This option allows you to adjust the game's difficulty.\n\n"Ruthless" significantly increases the difficulty of enemies and makes it more difficult to acquire resources, experience points, items, and more.\n\n"Relaxed" is the exact opposite. | Diese Option ermöglicht es dir, den Schwierigkeitsgrad des Spiels anzupassen.\n\n"Unbarmherzig" erhöht die Schwierigkeit der Gegner erheblich und macht es schwieriger, Ressourcen, Erfahrungspunkte, Gegenstände und mehr zu erhalten.\n\n"Entspannt" ist das genaue Gegenteil. |
 | 2900 | Enabling this option significantly reduces the maximum number of actions that can be taken in battle, such as attacking, casting, resurrecting, and so on. | Das Aktivieren dieser Option reduziert die maximale Anzahl an Aktionen, die im Kampf ausgeführt werden können, wie Angreifen, Zaubern, Wiederbeleben und so weiter, erheblich. |
 | 2901 | This option allows you to start the game using the Royal specialization. You can obtain Anointments by defeating story bosses or finding them as loot. | Diese Option ermöglicht es dir, das Spiel mit der Königlichen Spezialisierung zu beginnen. Du kannst Salbungen erhalten, indem du Story-Bosse besiegst oder sie als Beute findest. |

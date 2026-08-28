@@ -3,7 +3,7 @@
 | Row | English | German |
 |---:|---|---|
 | 2402 | [bns_treasure] +50% Treasure From Buried Treasure | [bns_treasure] +50% Schatz aus vergrabenem Schatz |
-| 2403 | [bg_trap] +50% Favor From Traps | [bg_trap] +50% Gunst durch fallen |
+| 2403 | [bg_trap] +50% Favor From Traps | [bg_trap] +50% Gunst durch Fallen |
 | 2404 | [su_statueangel] +1 Buffs From Angel Statues | [su_statueangel] +1 Buffs von Engelstatuen |
 | 2405 | [cj_treeo] +1 Buffs From Orange Fruit Trees | [cj_treeo] +1 Buffs von Orangenfruchtbäumen |
 | 2406 | [an_shrine] +1 Debuffs From Spider Shrines | [an_shrine] +1 Debuffs von Spinnenschreinen |
@@ -61,7 +61,7 @@
 | 2458 | [ptd_mushrooms] Mushrooms Sometimes Refill Spell Gem Charges | [ptd_mushrooms] Pilze füllen manchmal Zauberstein-Ladungen nach |
 | 2459 | [swm_treasure] 25% Chance to Receive Emblem From Treasure Piles | [swm_treasure] 25% Chance, ein Emblem aus Schatzhaufen zu erhalten |
 | 2460 | [gpn_rock] Rocks Grant Additional Resources | [gpn_rock] Steine gewähren zusätzliche Ressourcen |
-| 2461 | [rfm_potion] Potions Grant More Damage In Next Battle | [rfm_potion] Tränke gewähren mehr schaden im nächsten Kampf |
+| 2461 | [rfm_potion] Potions Grant More Damage In Next Battle | [rfm_potion] Tränke gewähren mehr Schaden im nächsten Kampf |
 | 2462 | [tol_bigtreasure] Keys Are No Longer Required to Open Large Treasure Chests | [tol_bigtreasure] Schlüssel werden nicht mehr benötigt, um große Schatztruhen zu öffnen |
 | 2463 | [btv_relic] Void Relics Grant a Buff | [btv_relic] Leerenreliquien gewähren einen Buff |
 | 2464 | [cr_valve] Valves Grant a Buff | [cr_valve] Ventile gewähren einen Buff |
@@ -73,20 +73,20 @@
 | 2470 | [bns_quicksand] More Treasure From The Barrens Boss Rooms | [bns_quicksand] Mehr Schätze aus den Bossräumen der Ödlande |
 | 2471 | [bg_squash] Vomiting Squash Is More Rewarding | [bg_squash] Kotzender Kürbis ist lohnender |
 | 2472 | [su_statuemonarch] Additional Stat Reduction From King Shrines | [su_statuemonarch] Zusätzliche Attributssenkung durch Königsschreine |
-| 2473 | [cj_treep] +1 Stat Boosts From Pink Fruit Trees | [cj_treep] +1 Statuswert-Verstärkungen von rosa Fruchtbäumen |
+| 2473 | [cj_treep] +1 Stat Boosts From Pink Fruit Trees | [cj_treep] +1 Attributsboni von rosa Fruchtbäumen |
 | 2474 | [an_eggs] 25% Chance to Receive Emblem From Spider Eggs | [an_eggs] 25% Chance, ein Emblem aus Spinneneiern zu erhalten |
 | 2475 | [wdsd_treasure] Keys Are No Longer Required to Open Large Treasure Chests | [wdsd_treasure] Schlüssel werden nicht mehr benötigt, um große Schatztruhen zu öffnen |
 | 2476 | [kh_blood] Bloodstains Grant Attack Boost | [kh_blood] Blutflecken gewähren Angriffsboost |
 | 2477 | [ee_rift] Rifts Grant Timeline Priority In Next Battle | [ee_rift] Risse gewähren Zeitlinienpriorität im nächsten Kampf |
 | 2478 | [dmr_gears] 25% Chance to Receive Emblem From Piles of Gears | [dmr_gears] 25% Chance, ein Emblem aus Zahnradhaufen zu erhalten |
-| 2479 | [lobab_robes] 25% Chance to Receive Emblem From Arbiter Robes | [lobab_robes] 25% Chance, ein Emblem von Richterroben zu erhalten |
+| 2479 | [lobab_robes] 25% Chance to Receive Emblem From Arbiter Robes | [lobab_robes] 25% Chance, ein Emblem von Schlichtergewändern zu erhalten |
 | 2480 | [ob_monlith] 50% Chance to Receive Treasure From Monoliths | [ob_monlith] 50% Chance, Schätze von Monolithen zu erhalten |
 | 2481 | [ag_masochist] Masochist Statues Grant +1 Attacks In Next Battle | [ag_masochist] Masochistische Statuen gewähren +1 Angriffe im nächsten Kampf |
 | 2482 | [gh_bigslots] +1 Tickets From Large Slot Machines | [gh_bigslots] +1 Tickets von großen Spielautomaten |
 | 2483 | [fl_modrons] 35% Chance to Receive Emblem From Inactive Modrons | [fl_modrons] 35% Chance, ein Emblem von inaktiven Modrons zu erhalten |
 | 2484 | [fae_fountain] Additional Stat Reduction From Fae Fountains | [fae_fountain] Zusätzliche Attributssenkung durch Feenbrunnen |
 | 2485 | [amg_brazier] 35% Chance to Receive Emblem From Neon Braziers | [amg_brazier] 35% Chance, ein Emblem von Neon-Kohlenbecken zu erhalten |
-| 2486 | [fdp_musiccrystals] Music Crystals Are More Rewarding | [fdp_musiccrystals] Musiksteine Sind Lohnender |
+| 2486 | [fdp_musiccrystals] Music Crystals Are More Rewarding | [fdp_musiccrystals] Musiksteine sind lohnender |
 | 2487 | [chancetgolem] +50% Treasure Golem Spawn Chance | [chancetgolem] +50% Schatzgolem-Erscheinungschance |
 | 2488 | [morechests] +1 Treasure Chests Spawn | [morechests] +1 Schatztruhen erscheinen |
 | 2489 | [morenodes] +1 Resource Nodes Spawn | [morenodes] +1 Ressourcenknoten erscheinen |

@@ -56,7 +56,7 @@
 | 3053 | Allies | Verbündete |
 | 3054 | Enemies | Gegner |
 | 3055 | Enemies Skip Turns | Gegner überspringen Züge |
-| 3056 | Infinite Charges | Unendliche Aufladungen |
+| 3056 | Infinite Charges | Unendliche aufladungen |
 | 3057 | Level Scaling (Enemies) | Stufenskalierung (Gegner) |
 | 3058 | Level Scaling (Allies) | Stufenskalierung (Verbündete) |
 | 3059 | Enabled | Aktiviert |
