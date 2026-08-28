@@ -28,6 +28,7 @@ jobs:
           python tools/apply_creatures_review.py
           python tools/apply_codex_review.py
           python tools/apply_decorations_review.py
+          python tools/apply_dialog_review.py
       - name: Generate fresh QA queues
         run: |
           rm -rf review
