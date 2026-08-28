@@ -8,8 +8,12 @@ EN_COLS=('english','en','source','original','text_en','description_en');DE_COLS=
 TOKEN=re.compile(r'\{[^{}]+\}|<\d+>|\[[^\[\]]+\]');NUM=re.compile(r'(?<![\w])\d+(?:\.\d+)?%?')
 RULES={'creature':('Kreatur','Kreaturen','Wesen','Monster','Gegnerwesen'),'trait':('Merkmal','Eigenschaft'),'stat':('Attribut','Attribute','Wert','Werte','Status','Eigenschaft'),'spell gem':('Zauberstein','Zaubersteine','Zauberjuwel','Zauberjuwelen'),'artifact':('Artefakt','Artefakte'),'relic':('Reliquie','Reliquien','Relikt','Relikte'),'buff':('Buff','Buffs','Verbesserung','Verbesserungen'),'debuff':('Debuff','Debuffs','Schwächung','Schwächungen'),'minion':('Diener','Dienern','Minion','Minions'),'charge':('Ladung','Ladungen'),'maximum':('maximal','maximale','maximalen','Maximum'),'current':('aktuell','aktuelle','derzeitig','gegenwärtig'),'additional':('zusätzlich','zusätzliche','weiter','weiteres'),'independent':('unabhängig','unabhängige'),'manually':('manuell',),'instead':('statt','anstatt'),'once per turn':('einmal pro Zug','1 Mal pro Zug','ein Mal pro Zug'),'for each':('für jede','für jeden','für jedes','pro '),'cannot':('kann nicht','können nicht','unfähig'),'always':('immer',),'before':('bevor','vor '),'after':('nachdem','nach '),'start of':('zu Beginn','am Anfang'),'end of':('am Ende','zum Ende')}
 SUS={'Plünderer':'Reaver specialization','Behändigkeit':'Celerity/Schnelligkeit reference','Vorteilspunkte':'perk terminology review','Stat Slots':'Attribut-Slots','Spell Gems':'untranslated gameplay term'}
-# Focused standards. A row is emitted when English contains the key but German does not contain an accepted canonical form.
-FOCUSED={'trait':('merkmal',),'buff':('buff',),'debuff':('debuff',),'minion':('diener',)}
+FOCUSED={
+ 'trait':(re.compile(r'\btraits?\b',re.I),(re.compile(r'\bmerkmale?n?\b',re.I),)),
+ 'buff':(re.compile(r'\bbuffs?\b',re.I),(re.compile(r'\bbuffs?\b',re.I),)),
+ 'debuff':(re.compile(r'\bdebuffs?\b',re.I),(re.compile(r'\bdebuffs?\b',re.I),)),
+ 'minion':(re.compile(r'\bminions?\b',re.I),(re.compile(r'\bdiener(?:n|s)?\b',re.I),)),
+}
 def cols(fs):
  lo={x.lower():x for x in fs};return next((lo[x] for x in EN_COLS if x in lo),None),next((lo[x] for x in DE_COLS if x in lo),None)
 def norm(s):return re.sub(r'\s+',' ',(s or '').strip())
@@ -35,8 +39,8 @@ def main():
   low,dl=en.lower(),de.lower()
   for key,variants in RULES.items():
    if key in low:rc[key][next((v for v in variants if v.lower() in dl),'<none>')]+=1
-  for key,accepted in FOCUSED.items():
-   if key in low and not any(x in dl for x in accepted):focused[key].append((fn,line,en,de))
+  for key,(enpat,depats) in FOCUSED.items():
+   if enpat.search(en) and not any(p.search(de) for p in depats):focused[key].append((fn,line,en,de))
   for bad,note in SUS.items():
    if bad.lower() in dl:sus.append((fn,line,bad,note,en,de))
  with (OUT/'same_english_multiple_german.csv').open('w',encoding='utf-8',newline='') as f:
@@ -46,13 +50,12 @@ def main():
    if len(vals)>1:
     for de,n in vals:w.writerow([en,len(vals),de,n,'; '.join(examples[en][de])])
  dump('token_mismatches.csv',['file','line','english','german','english_tokens','german_tokens'],tm);dump('number_mismatches.csv',['file','line','english','german','english_numbers','german_numbers'],nm);dump('suspect_terms.csv',['file','line','term','reason','english','german'],sus)
- for key,data in focused.items():dump(f'{key.replace(" ","_")}_outliers.csv',['file','line','english','german'],data)
+ for key,data in focused.items():dump(f'{key}_outliers.csv',['file','line','english','german'],data)
  with (OUT/'rule_term_matrix.csv').open('w',encoding='utf-8',newline='') as f:
   w=csv.writer(f);w.writerow(['english_rule_term','german_variant','count'])
   for k,c in rc.items():
    for v,n in c.most_common():w.writerow([k,v,n])
- multi=sum(1 for c in exact.values() if len([x for x in c if x])>1)
- fs='\n'.join(f'- {k} focused outliers: {len(v)}' for k,v in focused.items())
+ multi=sum(1 for c in exact.values() if len([x for x in c if x])>1);fs='\n'.join(f'- {k} focused outliers: {len(v)}' for k,v in focused.items())
  summary=f'# Global consistency QA\n\n- Localization rows scanned: {len(rows)}\n- Exact English strings with multiple German variants: {multi}\n- Token mismatch candidates: {len(tm)}\n- Number/percentage mismatch candidates: {len(nm)}\n- Explicit suspect-term occurrences: {len(sus)}\n{fs}\n\nThese are review candidates, not automatic errors.\n'
  (OUT/'SUMMARY.md').write_text(summary,encoding='utf-8');print(summary)
 if __name__=='__main__':main()
