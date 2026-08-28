@@ -31,6 +31,7 @@ jobs:
           python tools/apply_dialog_review.py
           python tools/apply_dialog_story_review.py
           python tools/apply_items_review.py
+          python tools/apply_lore_review.py
       - name: Generate fresh QA queues
         run: |
           rm -rf review
