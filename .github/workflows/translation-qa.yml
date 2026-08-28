@@ -34,6 +34,9 @@ jobs:
           python tools/apply_lore_review.py
           python tools/apply_masters_review.py
           python tools/apply_misc_skins_review.py
+          python tools/apply_traits_review.py
+          python tools/apply_perks_review.py
+          python tools/apply_spells_review.py
       - name: Generate fresh QA queues
         run: |
           rm -rf review
