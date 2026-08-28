@@ -14,24 +14,21 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: translation-work
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Apply reviewed safe fixes
         run: |
           for file in *.csv; do
             name="${file%.csv}"
             python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100 --apply-safe-fixes --fixed-file "$file"
           done
-
       - name: Apply reviewed packages
         run: |
           python tools/apply_achievement_review.py
           python tools/apply_ui_review.py
-
+          python tools/apply_battle_review.py
       - name: Generate fresh QA queues
         run: |
           rm -rf review
@@ -39,51 +36,30 @@ jobs:
             name="${file%.csv}"
             python tools/translation_pipeline.py "$file" --out "review/$name" --chunk-size 100
           done
-
       - name: Generate human review blocks for all localization files
         run: |
           rm -rf human_review
           python - <<'PY'
           import csv
           from pathlib import Path
-          BLOCK = 100
-          root = Path('.')
-          outroot = Path('human_review')
-          def esc(value):
-              return (value or '').replace('|', '\\|').replace('\n', '\\n').replace('\r', '')
+          BLOCK=100;root=Path('.');outroot=Path('human_review')
+          def esc(v):return (v or '').replace('|','\\|').replace('\n','\\n').replace('\r','')
           for src in sorted(root.glob('*.csv')):
-              with src.open(encoding='utf-8-sig', newline='') as f:
-                  reader = csv.DictReader(f)
-                  fields = reader.fieldnames or []
-                  lower = {x.lower(): x for x in fields}
-                  en_col = next((lower[x] for x in ('english','en','source','original','text_en','description_en') if x in lower), None)
-                  de_col = next((lower[x] for x in ('german','de','deutsch','translation','text_de','description_de') if x in lower), None)
-                  if not en_col or not de_col:
-                      print(f'Skipping {src}: EN/DE columns not found')
-                      continue
-                  rows = list(reader)
-              target = outroot / src.stem
-              target.mkdir(parents=True, exist_ok=True)
-              block_no = 0
-              for block_no, start in enumerate(range(0, len(rows), BLOCK), 1):
-                  chunk = rows[start:start+BLOCK]
-                  first = start + 1
-                  last = start + len(chunk)
-                  lines = [f'# Human review: {src.name} — {first}-{last}','','| Row | English | German |','|---:|---|---|']
-                  for offset, row in enumerate(chunk, start=first+1):
-                      lines.append(f'| {offset} | {esc(row.get(en_col))} | {esc(row.get(de_col))} |')
-                  (target / f'block_{block_no:03d}.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
-              print(f'{src.name}: {len(rows)} rows -> {block_no} blocks')
+            with src.open(encoding='utf-8-sig',newline='') as f:
+              reader=csv.DictReader(f);fields=reader.fieldnames or[];lower={x.lower():x for x in fields}
+              en_col=next((lower[x] for x in ('english','en','source','original','text_en','description_en') if x in lower),None);de_col=next((lower[x] for x in ('german','de','deutsch','translation','text_de','description_de') if x in lower),None)
+              if not en_col or not de_col:continue
+              rows=list(reader)
+            target=outroot/src.stem;target.mkdir(parents=True,exist_ok=True);block_no=0
+            for block_no,start in enumerate(range(0,len(rows),BLOCK),1):
+              chunk=rows[start:start+BLOCK];first=start+1;last=start+len(chunk);lines=[f'# Human review: {src.name} — {first}-{last}','','| Row | English | German |','|---:|---|---|']
+              for offset,row in enumerate(chunk,start=first+1):lines.append(f'| {offset} | {esc(row.get(en_col))} | {esc(row.get(de_col))} |')
+              (target/f'block_{block_no:03d}.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+            print(f'{src.name}: {len(rows)} rows -> {block_no} blocks')
           PY
-
       - name: Commit corrected files and review data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add '*.csv' review human_review
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Apply translation fixes and rebuild all review data"
-            git push origin HEAD:translation-work
-          fi
+          if git diff --cached --quiet; then echo "No changes to commit."; else git commit -m "Apply translation fixes and rebuild all review data"; git push origin HEAD:translation-work; fi
