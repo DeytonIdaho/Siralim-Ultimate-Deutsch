@@ -2,6 +2,6 @@
 
 - Source: `achievements.csv`
 - Rows: 10570
-- Flagged: 0
+- Flagged: 65
 - Chunk size: 100
-- Review files: 0
+- Review files: 1

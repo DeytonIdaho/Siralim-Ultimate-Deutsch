@@ -100,5 +100,5 @@
 | 9397 | Reach Favor Rank 45 with T'mere M'rgo. | Erreiche Gunstrang 45 bei T'mere M'rgo. |
 | 9398 | Favored by T'mere M'rgo X | Begünstigt von T'mere M'rgo X |
 | 9399 | Reach Favor Rank 50 with T'mere M'rgo. | Erreiche Gunstrang 50 bei T'mere M'rgo. |
-| 9400 | Empowering Mutatias I | Stärkende Mutatias I |
+| 9400 | Empowering Mutatias I | {RELIC_ALEXANDRIA} verstärken I |
 | 9401 | Empower {RELIC_ALEXANDRIA} up to rank 10. | Verstärke {RELIC_ALEXANDRIA} bis Rang 10. |

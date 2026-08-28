@@ -2,23 +2,23 @@
 
 | Row | English | German |
 |---:|---|---|
-| 9502 | Empowering 5740-NG II | Ermächtigung 5740-NG II |
+| 9502 | Empowering 5740-NG II | {RELIC_ROBO} verstärken II |
 | 9503 | Empower {RELIC_ROBO} up to rank 20. | Verstärke {RELIC_ROBO} bis Rang 20. |
-| 9504 | Empowering 5740-NG III | Ermächtigung 5740-NG III |
+| 9504 | Empowering 5740-NG III | {RELIC_ROBO} verstärken III |
 | 9505 | Empower {RELIC_ROBO} up to rank 30. | Verstärke {RELIC_ROBO} bis Rang 30. |
-| 9506 | Empowering 5740-NG IV | Ermächtigung 5740-NG IV |
+| 9506 | Empowering 5740-NG IV | {RELIC_ROBO} verstärken IV |
 | 9507 | Empower {RELIC_ROBO} up to rank 40. | Verstärke {RELIC_ROBO} bis Rang 40. |
-| 9508 | Empowering 5740-NG V | Ermächtigung 5740-NG V |
+| 9508 | Empowering 5740-NG V | {RELIC_ROBO} verstärken V |
 | 9509 | Empower {RELIC_ROBO} up to rank 50. | Verstärke {RELIC_ROBO} bis Rang 50. |
-| 9510 | Empowering 5740-NG VI | Ermächtigung 5740-NG VI |
+| 9510 | Empowering 5740-NG VI | {RELIC_ROBO} verstärken VI |
 | 9511 | Empower {RELIC_ROBO} up to rank 60. | Verstärke {RELIC_ROBO} bis Rang 60. |
-| 9512 | Empowering 5740-NG VII | Ermächtigung 5740-NG VII |
+| 9512 | Empowering 5740-NG VII | {RELIC_ROBO} verstärken VII |
 | 9513 | Empower {RELIC_ROBO} up to rank 70. | Verstärke {RELIC_ROBO} bis Rang 70. |
-| 9514 | Empowering 5740-NG VIII | Ermächtigung 5740-NG VIII |
+| 9514 | Empowering 5740-NG VIII | {RELIC_ROBO} verstärken VIII |
 | 9515 | Empower {RELIC_ROBO} up to rank 80. | Verstärke {RELIC_ROBO} bis Rang 80. |
-| 9516 | Empowering 5740-NG IX | Ermächtigung 5740-NG IX |
+| 9516 | Empowering 5740-NG IX | {RELIC_ROBO} verstärken IX |
 | 9517 | Empower {RELIC_ROBO} up to rank 90. | Verstärke {RELIC_ROBO} bis Rang 90. |
-| 9518 | Empowering 5740-NG X | Ermächtigung 5740-NG X |
+| 9518 | Empowering 5740-NG X | {RELIC_ROBO} verstärken X |
 | 9519 | Empower {RELIC_ROBO} up to rank 100. | Verstärke {RELIC_ROBO} bis Rang 100. |
 | 9520 | Empowering Fable I | Stärkende Fabel I |
 | 9521 | Empower {RELIC_SHALLAN} up to rank 10. | Verstärke {RELIC_SHALLAN} bis Rang 10. |

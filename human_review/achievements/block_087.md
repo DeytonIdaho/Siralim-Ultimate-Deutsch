@@ -62,17 +62,17 @@
 | 8659 | Summon the Avatar of {GOD_SHALLAN}. | Beschwöre den Avatar von {GOD_SHALLAN}. |
 | 8660 | Avatar of {GOD_TMEREMRGO} | Avatar von {GOD_TMEREMRGO} |
 | 8661 | Summon the Avatar of {GOD_TMEREMRGO}. | Beschwöre den Avatar von {GOD_TMEREMRGO}. |
-| 8662 | Earning Mutatias | Mutatias verdienen |
+| 8662 | Earning Mutatias | {RELIC_ALEXANDRIA} freischalten |
 | 8663 | Unlock {RELIC_ALEXANDRIA} at the Reliquary. | Schalte {RELIC_ALEXANDRIA} im Reliquiar frei. |
-| 8664 | Earning Ribcracker | Ribcracker verdienen |
+| 8664 | Earning Ribcracker | {RELIC_ARIAMAKI} freischalten |
 | 8665 | Unlock {RELIC_ARIAMAKI} at the Reliquary. | Schalte {RELIC_ARIAMAKI} im Reliquiar frei. |
-| 8666 | Earning Brambleskin | Brambelhaut verdienen |
+| 8666 | Earning Brambleskin | {RELIC_GENAROS} freischalten |
 | 8667 | Unlock {RELIC_GENAROS} at the Reliquary. | Schalte {RELIC_GENAROS} im Reliquiar frei. |
-| 8668 | Earning Ripplevein | Rippelvene verdienen |
+| 8668 | Earning Ripplevein | {RELIC_MUSE} freischalten |
 | 8669 | Unlock {RELIC_MUSE} at the Reliquary. | Schalte {RELIC_MUSE} im Reliquiar frei. |
 | 8670 | Earning Fatum & Fortuna | Fatum & Fortuna verdienen |
 | 8671 | Unlock {RELIC_RECLUSA} at the Reliquary. | Schalte {RELIC_RECLUSA} im Reliquiar frei. |
-| 8672 | Earning 5740-NG | Verdiene 5740-NG |
+| 8672 | Earning 5740-NG | {RELIC_ROBO} freischalten |
 | 8673 | Unlock {RELIC_ROBO} at the Reliquary. | Schalte {RELIC_ROBO} im Reliquiar frei. |
 | 8674 | Earning Fable | Fabel verdienen |
 | 8675 | Unlock {RELIC_SHALLAN} at the Reliquary. | Schalte {RELIC_SHALLAN} im Reliquiar frei. |

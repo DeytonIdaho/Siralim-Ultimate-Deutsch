@@ -49,7 +49,7 @@
 | 2746 | Empowering Arbiter III | Ermächtigender Schiedsrichter III |
 | 2747 | Empower {RELIC_SURATHLI} up to rank 30. | Verstärke {RELIC_SURATHLI} bis Rang 30. |
 | 2748 | Empowering Arbiter IV | Ermächtigender Schiedsrichter IV |
-| 2749 | Empower {RELIC_SURATHLI} up to rank 40. | Empowere {RELIC_SURATHLI} bis Rang 40. |
+| 2749 | Empower {RELIC_SURATHLI} up to rank 40. | Verstärke {RELIC_SURATHLI} bis Rang 40. |
 | 2750 | Empowering Arbiter V | Ermächtigender Schiedsrichter V |
 | 2751 | Empower {RELIC_SURATHLI} up to rank 50. | Verstärke {RELIC_SURATHLI} bis Rang 50. |
 | 2752 | Empowering Arbiter VI | Ermächtigender Schiedsrichter VI |
