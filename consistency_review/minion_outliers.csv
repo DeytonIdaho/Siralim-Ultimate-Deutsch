@@ -1,26 +1,5 @@
 file,line,english,german
-achievements.csv,662,Master of Minions I,Meister der Schergen I
-achievements.csv,664,Master of Minions II,Meister der Schergen II
-achievements.csv,666,Master of Minions III,Meister der Schergen III
-achievements.csv,668,Master of Minions IV,Meister der Schergen IV
-achievements.csv,670,Master of Minions V,Meister der Schergen V
-achievements.csv,672,Master of Minions VI,Meister der Schergen VI
-achievements.csv,673,"Gain minions 5,000 times.",Erhalte 5.000 Mal Lakaien.
-achievements.csv,674,Master of Minions VII,Meister der Schergen VII
-achievements.csv,675,"Gain minions 10,000 times.",Erhalte 10.000 Mal Schergen.
-achievements.csv,676,Master of Minions VIII,Meister der Schergen VIII
-achievements.csv,678,Master of Minions IX,Meister der Schergen IX
-achievements.csv,679,"Gain minions 50,000 times.",Erhalte 50.000 Mal Lakaien.
-achievements.csv,680,Master of Minions X,Meister der Schergen X
-items.csv,1477,Minion Master Staff,Stab des Dienermeister
+items.csv,1477,Minion Master Staff,Stab des Dienermeisters
 overworld.csv,341,Your creatures gained +0.1% Minion Damage!,"Deine Kreaturen haben +0,1% Dienerschaden erhalten!"
-traits.csv,1171,"At the start of battle, this creature and its allies gain an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture.","Zu Beginn des Kampfes erhält diese Kreatur und ihre Verbündeten eine Armee von Dienernn. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} sie [icons,1984] Verzückung."
-traits.csv,2700,"This creature and its allies always have an army of minions. At the start of this creature's turn, it {ACTION_casts} [icons,1984] Rapture.","Diese Kreatur und seine Verbündeten haben stets eine Armee von Dienernn. Zu Beginn des Zuges dieser Kreatur {ACTION_casts} es [icons,1984] Verzückung."
 traits.csv,3519,Minion Master,Dienermeister
-traits.csv,3898,"Your creatures always have an army of minions. At the start of your creatures' turns, they {ACTION_cast} [icons,1984]Crucifixion on each enemy.","Deine Kreaturen haben immer eine Armee von Dienernn. Zu Beginn der Züge deiner Kreaturen {ACTION_cast} sie [icons,1984]Kreuzigung auf jeden Feind."
-ui.csv,205,Minions,Schergen
-ui.csv,371,"This option allows you to choose if floating battle text related to minions is displayed for enemies only, allies only, both, or neither.\n\nThis option is ignored in the Arena.","Diese Option ermöglicht es dir zu wählen, ob schwebender Kampftext bezüglich Lakaien nur für Feinde, nur für Verbündete, für beide oder für keinen angezeigt wird.\n\nDiese Option wird in der Arena ignoriert."
 ui.csv,1244,{1}% Minion Damage,{1}% Dienerschaden
-ui.csv,1378,[realmprop_f_nominions] Can't Have Minions,[realmprop_f_nominions] Keine Lakaien möglich
-ui.csv,1484,has > {1} minions,hat > {1} Lakaien
-ui.csv,1485,has < {1} minions,hat < {1} Lakaien

@@ -2302,7 +2302,7 @@ L_WALL_GONFURIAN,,Gonfurian,ゴンフリアン,Gonfurian,Gonfurian,Gonfurian,Gon
 L_WALL_FRIDEN,,Friden,フリデン,Friden,Friden,Friden,Friden,Фриден,Friden,弗里登,弗里登,프리든,Friden,Фріден,Friden,Friden
 L_WALL_LISTER,,Lister,リスター,Lister,Lister,Listar,Catalogador,Листер,Elenco,清單,利斯特,리스터,Lister,Лістер,Lijster,Listeleyici
 L_WALL_MERAXIS,,Meraxis,メラクシス,Meraxis,Meraxis,Meraxis,Meraxis,Мераксис,Meraxis,梅拉克斯,梅拉西斯,메락시스,Meraxis,Мераксіс,Meraxis,Meraxis
-L_WALL_PERDITION,,Perdition,破滅,Perdition,Perdition,Perdición,Perdição,Погибель,Perdizione,滅亡,珀迪森,멸망,Zatracenie,Загибель,Verdoemenis,Cehennem
+L_WALL_PERDITION,,Perdition,破滅,Verdammnis,Perdition,Perdición,Perdição,Погибель,Perdizione,滅亡,珀迪森,멸망,Zatracenie,Загибель,Verdoemenis,Cehennem
 L_WALL_TARTARITH,,Tartarith,タルタリス,Tartarith,Tartarith,Tartarith,Tartarith,Тартарит,Tartarith,塔爾塔里斯,塔尔塔里斯,타르타리스,Tartarith,Тартаріт,Tartarith,Tartarith
 L_WALL_TENEBRIS,,Tenebris,テネブリス,Tenebris,Tenebris,Tenebris,Tenebris,Тенебрис,Tenebris,闇黑,特内布里斯,테네브리스,Tenebris,Тенебріс,Tenebris,Tenebris
 L_WALL_TORUN,,Torun,トルン,Torun,Torun,Torun,Torun,Торун,Torun,托倫,托伦,토룬,Toruń,Торун,Torun,Torun
@@ -2354,7 +2354,7 @@ L_FLOOR_FRIDEN,,Friden,フリデン,Friden,Friden,Friden,Friden,Фриден,Fri
 L_FLOOR_GONFURIAN,,Gonfurian,ゴンフリアン,Gonfurian,Gonfurian,Gonfurian,Gonfurian,Гонфуриан,Gonfurian,貢夫里安,贡弗瑞安,곤푸리안,Gonfurian,Гонфуріан,Gonfurian,Gonfurian
 L_FLOOR_LISTER,,Lister,リスター,Lister,Lister,Listar,Catalogador,Листер,Elenco,清單,利斯特,리스터,Lister,Лістер,Lijster,Listeleyici
 L_FLOOR_MERAXIS,,Meraxis,メラクシス,Meraxis,Meraxis,Meraxis,Meraxis,Мераксис,Meraxis,梅拉克斯,梅拉西斯,메락시스,Meraxis,Мераксіс,Meraxis,Meraxis
-L_FLOOR_PERDITION,,Perdition,破滅,Perdition,Perdition,Perdición,Perdição,Погибель,Perdizione,滅亡,珀迪森,멸망,Zatracenie,Загибель,Verdoemenis,Cehennem
+L_FLOOR_PERDITION,,Perdition,破滅,Verdammnis,Perdition,Perdición,Perdição,Погибель,Perdizione,滅亡,珀迪森,멸망,Zatracenie,Загибель,Verdoemenis,Cehennem
 L_FLOOR_TARTARITH,,Tartarith,タルタリス,Tartarith,Tartarith,Tartarith,Tartarith,Тартарит,Tartarith,塔爾塔里斯,塔尔塔里斯,타르타리스,Tartarith,Тартаріт,Tartarith,Tartarith
 L_FLOOR_TENEBRIS,,Tenebris,テネブリス,Tenebris,Tenebris,Tenebris,Tenebris,Тенебрис,Tenebris,闇黑,特内布里斯,테네브리스,Tenebris,Тенебріс,Tenebris,Tenebris
 L_FLOOR_TORUN,,Torun,トルン,Torun,Torun,Torun,Torun,Торун,Torun,托倫,托伦,토룬,Toruń,Торун,Torun,Torun

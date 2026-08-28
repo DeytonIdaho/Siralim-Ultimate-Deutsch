@@ -1,93 +1,25 @@
 english,variants,german,count,examples
-Aeolian,2,Aeolian,2,creatures.csv:893; items.csv:2023
-Aeolian,2,Aeolisch,3,decorations.csv:2297; decorations.csv:2349; vocabulary.csv:171
-"After the bearer {ACTION_attacks}, this relic {ACTION_attacks} the enemy as well.",2,"Nachdem der Träger {ACTION_attacks}, {ACTION_attacks} diese Relikt den Feind ebenfalls.",4,ui.csv:1826; ui.csv:1976; ui.csv:2055
-"After the bearer {ACTION_attacks}, this relic {ACTION_attacks} the enemy as well.",2,"Nachdem der Träger {ACTION_attacks}, greift diese Relikt den Feind ebenfalls {ACTION_attacks} an.",1,ui.csv:2025
 Arbiter,2,Schlichter,1,creatures.csv:137
 Arbiter,2,Schiedsrichter,1,vocabulary.csv:304
-Arm of Loid,2,Arm von Loid,1,creatures.csv:1207
-Arm of Loid,2,Arm des Loid,1,creatures.csv:1208
 Attack,2,Angriff,5,ui.csv:2; ui.csv:167; ui.csv:1576
 Attack,2,Angreifen,1,vocabulary.csv:143
 Casting,2,Zauberwirken,1,codex.csv:75
 Casting,2,Beschwörung,1,vocabulary.csv:156
-Celestial Orb,2,Himmlische Kugel,1,decorations.csv:785
-Celestial Orb,2,Himmels-Orb,1,items.csv:837
 Daybreaker,2,Tagesanbruch,1,perks.csv:244
 Daybreaker,2,Tagesbrecher,1,traits.csv:1478
-Death Orb,2,Todesperle,1,creatures.csv:1123
-Death Orb,2,Todeskugel,1,spells.csv:1058
 Dice,2,Würfel,1,items.csv:2905
 Dice,2,Dice,1,masters.csv:22
-Enemies gain 50% less benefit from stat-boosting effects.,2,Gegner erhalten 50% weniger Nutzen aus attributssteigernden Effekten.,1,perks.csv:1051
-Enemies gain 50% less benefit from stat-boosting effects.,2,Gegner erhalten 50% weniger Nutzen aus statussteigernden Effekten.,1,traits.csv:1125
 Eternity's End,2,Ewigkeits Ende,2,decorations.csv:2223; vocabulary.csv:398
 Eternity's End,2,Ende der Ewigkeit,1,skins.csv:247
 Faraway Enclave,2,Entlegene Enklave,2,decorations.csv:2221; vocabulary.csv:396
 Faraway Enclave,2,Ferne Enklave,1,skins.csv:243
 Frostbite Caverns,2,Frosthöhlen,2,decorations.csv:2213; vocabulary.csv:392
 Frostbite Caverns,2,Frostbiss-Höhlen,1,skins.csv:236
-Head of Lost Construct,2,Kopf des Verlorenen Konstrukts,1,creatures.csv:1235
-Head of Lost Construct,2,Kopf des verlorenen Konstrukts,1,traits.csv:3201
-Imp Impington,2,Imp Impington,3,misc.csv:16; misc.csv:49; skins.csv:10
-Imp Impington,2,Kobold Koboldingen,1,quests.csv:674
 "Item Sets allow you to easily save and load groups of Artifacts and Spell Gems. You can use these Item Sets to quickly equip your creatures with different Artifacts and Spell Gems.\n\nTo create an Item Set, open the menu and select ""Creatures"", then select a creature and choose ""Manage Item Sets"". A new menu will appear that allows you to ""Assign"" that creature's currently equipped items to an Item Set. Later, you can use the ""Equip"" option to quickly equip the items contained in that Item Set.",2,"Ausrüstungssets ermöglichen es dir, Gruppen von Artefakten und Zaubersteinen einfach zu speichern und zu laden. Du kannst diese Ausrüstungssets verwenden, um deine Kreaturen schnell mit verschiedenen Artefakten und Zaubersteinen auszurüsten. Um ein Ausrüstungsset zu erstellen, öffne das Menü und wähle „Kreaturen“. Wähle anschließend eine Kreatur und dann „Ausrüstungssets verwalten“. Es erscheint ein neues Menü, in dem du die derzeit ausgerüsteten Gegenstände dieser Kreatur über „Zuweisen“ einem Ausrüstungsset zuordnen kannst. Später kannst du mit der Option „Ausrüsten“ schnell die in diesem Ausrüstungsset enthaltenen Gegenstände anlegen.",1,codex.csv:215
 "Item Sets allow you to easily save and load groups of Artifacts and Spell Gems. You can use these Item Sets to quickly equip your creatures with different Artifacts and Spell Gems.\n\nTo create an Item Set, open the menu and select ""Creatures"", then select a creature and choose ""Manage Item Sets"". A new menu will appear that allows you to ""Assign"" that creature's currently equipped items to an Item Set. Later, you can use the ""Equip"" option to quickly equip the items contained in that Item Set.",2,"Ausrüstungssets ermöglichen es dir, Gruppen von Artefakten und Zaubersteinen einfach zu speichern und zu laden. Du kannst diese Ausrüstungssets verwenden, um deine Kreaturen schnell mit verschiedenen Artefakten und Zaubersteinen auszustatten.\n\nUm ein Ausrüstungsset zu erstellen, öffne das Menü und wähle ""Kreaturen",1,ui.csv:1033
-Master of Arbiters,2,Meister der Schlichter,1,items.csv:2600
-Master of Arbiters,2,Meister der Schiedsrichter,1,traits.csv:3543
-Master of Eggxotics,2,Meister der Eggxotics,1,items.csv:2734
-Master of Eggxotics,2,Meister der Eggxotik,1,traits.csv:4318
-Master of Fiends,2,Meister der Unholde,1,items.csv:2260
-Master of Fiends,2,Meister der Dämonen,1,traits.csv:2815
-Master of Gargantuans,2,Meister der Gargantuans,1,items.csv:2262
-Master of Gargantuans,2,Meister der Giganten,1,traits.csv:2819
-Master of Gemlings,2,Meister der Edelsteinjünglinge,1,items.csv:2264
-Master of Gemlings,2,Meister der Edelsteinlinge,1,traits.csv:2823
-Master of Hemomancers,2,Meister der Blutmagier,1,items.csv:2272
-Master of Hemomancers,2,Meister der Hämomanten,1,traits.csv:2839
-Master of Lucanians,2,Meister der Lucanians,1,items.csv:2733
-Master of Lucanians,2,Meister der Lucanier,1,traits.csv:4319
-Master of Luckmantrias,2,Meister der Glücksbeschwörungen,1,items.csv:2608
-Master of Luckmantrias,2,Meister der Glückmantras,1,traits.csv:3559
-Master of Nixes,2,Meister der Nix,1,items.csv:2291
-Master of Nixes,2,Meister der Nixen,1,traits.csv:2877
-Master of Ophans,2,Meister der Ophans,1,items.csv:2293
-Master of Ophans,2,Meister der Waisen,1,traits.csv:2881
-Master of Pit Worms,2,Meister der Grubenwürmer,1,items.csv:2298
-Master of Pit Worms,2,Meister der Grubendrachen,1,traits.csv:2891
 Master of Rift Dancers,2,Meister der Dimensionsläufer,1,items.csv:2305
 Master of Rift Dancers,2,Meister der Riss-Tänzer,1,traits.csv:2905
 Master of Voidlords,2,Meister der Leerenfürsten,1,items.csv:2333
 Master of Voidlords,2,Meister der Leerefürsten,1,traits.csv:2961
-Master of Wights,2,Meister der Untoten,1,items.csv:2338
-Master of Wights,2,Meister der Wichte,1,traits.csv:2971
-Nether Orb,2,Nether-Orb,1,skins.csv:833
-Nether Orb,2,Nether-Kugel,1,traits.csv:2448
-Overkill,2,Übertötung,1,skins.csv:28
-Overkill,2,Overkill,1,traits.csv:924
-Pay your respects to fallen {CASTLENAME} knights and magi in this Realm.,2,Erweise den gefallenen Rittern und Magiern von {CASTLENAME} in diesem Reich deinen Respekt.,1,quests.csv:90
-Pay your respects to fallen {CASTLENAME} knights and magi in this Realm.,2,Erweise den gefallenen Rittern und Magiern von {CASTLENAME} in diesem Reich deine Ehrerbietung.,1,quests.csv:162
-Perdition,2,Verdammnis,2,creatures.csv:1120; vocabulary.csv:197
-Perdition,2,Perdition,3,decorations.csv:2305; decorations.csv:2357; items.csv:2215
 Provoking,2,Provozieren,1,codex.csv:77
 Provoking,2,Provozierend,1,vocabulary.csv:152
-The Swamplands,2,Die Sümpfe,2,decorations.csv:2210; vocabulary.csv:388
-The Swamplands,2,Sumpflande,1,skins.csv:252
-Tigerseye Catbuncle,2,Tigerauge-Katbunkel,1,skins.csv:553
-Tigerseye Catbuncle,2,Tigeraugen-Katbunkel,1,skins.csv:644
-Undead Army,2,Untote Armee,1,traits.csv:1934
-Undead Army,2,Armee der Untoten,1,traits.csv:1958
-Unsullied Meadows,2,Unbefleckte Auen,2,decorations.csv:2211; vocabulary.csv:391
-Unsullied Meadows,2,Unbefleckte Wiesen,1,skins.csv:238
-"You can Fuse two creatures together to create a new one.\n\nThe offspring inherits the average base stats of both parents, as well as both of their traits. In addition, the resulting creature will inherit the class of the secondary parent.\n\nAesthetically, the offspring will inherit the body of the primary parent and the color palette of the secondary parent. There are several different color combinations for you to choose from with each Fusion, so choose the one you think looks best!",2,"Du kannst zwei Kreaturen miteinander verschmelzen, um eine neue zu erschaffen.\n\nDer Nachwuchs erbt die durchschnittlichen Basiswerte beider Eltern sowie beide ihrer Merkmale. Außerdem übernimmt die resultierende Kreatur die Klasse des zweiten Elternteils.\n\nVom Aussehen her erbt der Nachwuchs den Körper des ersten Elternteils und die Farbpalette des zweiten Elternteils. Bei jeder Fusion stehen dir verschiedene Farbkombinationen zur Auswahl, also wähle die, die deiner Meinung nach am besten aussieht!",1,codex.csv:214
-"You can Fuse two creatures together to create a new one.\n\nThe offspring inherits the average base stats of both parents, as well as both of their traits. In addition, the resulting creature will inherit the class of the secondary parent.\n\nAesthetically, the offspring will inherit the body of the primary parent and the color palette of the secondary parent. There are several different color combinations for you to choose from with each Fusion, so choose the one you think looks best!",2,"Du kannst zwei Kreaturen miteinander verschmelzen, um eine neue zu erschaffen.\n\nDer nachwuchs erbt die durchschnittlichen Basiswerte beider Eltern sowie beide ihrer Merkmale. Außerdem übernimmt die resultierende Kreatur die Klasse des zweiten Elternteils.\n\nVom Aussehen her erbt der nachwuchs den Körper des ersten Elternteils und die Farbpalette des zweiten Elternteils. Bei jeder Fusion stehen dir verschiedene Farbkombinationen zur Auswahl, also wähle die, die deiner Meinung nach am besten aussieht!",1,ui.csv:1016
-You gain 5% more Notoriety from the Gambling Dwarves.,2,Du erhältst 5% mehr Berüchtigtsein von den Glücksspiel-Zwergen.,2,cards.csv:299; cards.csv:301
-You gain 5% more Notoriety from the Gambling Dwarves.,2,Du erhältst 5% mehr Berüchtigtheit von den Glücksspiel-Zwergen.,1,cards.csv:300
-Your creatures have a 3% chance to ignore incoming debuffs.,2,"Deine Kreaturen haben eine 3% Chance, eingehende Schwächungen zu ignorieren.",1,cards.csv:392
-Your creatures have a 3% chance to ignore incoming debuffs.,2,"Deine Kreaturen haben eine 3% Chance, eingehende Debuffs zu ignorieren.",2,cards.csv:393; cards.csv:394
-Your creatures take 10% less damage while they're {ACTION_provoking}.,2,"Deine Kreaturen erleiden 10% weniger Schaden, während sie {ACTION_provoking}.",2,cards.csv:95; cards.csv:96
-Your creatures take 10% less damage while they're {ACTION_provoking}.,2,"Deine Kreaturen erleiden 10% weniger Schaden, während sie {ACTION_provoking} sind.",1,cards.csv:97
-[bg_squash] Vomiting Squash Is More Rewarding,2,[bg_squash] Kotzender Kürbis ist lohnender,2,ui.csv:2278; ui.csv:2471
-[bg_squash] Vomiting Squash Is More Rewarding,2,[bg_squash] Kotzendes Kürbisgewächs ist Lohnender,1,ui.csv:2675
-none,2,keine,1,codex.csv:337
-none,2,none,1,ui.csv:21

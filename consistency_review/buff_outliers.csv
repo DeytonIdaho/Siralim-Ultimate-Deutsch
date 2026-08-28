@@ -1,51 +1,13 @@
 file,line,english,german
-achievements.csv,623,Buff creatures 100 times.,Verstärke Kreaturen 100 Mal.
-achievements.csv,625,Buff creatures 250 times.,Verstärke Kreaturen 250 Mal.
-achievements.csv,627,Buff creatures 500 times.,Verstärke Kreaturen 500 Mal.
-achievements.csv,629,"Buff creatures 1,000 times.",Verstärke Kreaturen 1.000 Mal.
-achievements.csv,631,"Buff creatures 2,500 times.",Verstärke Kreaturen 2.500 Mal.
-achievements.csv,633,"Buff creatures 5,000 times.",Verstärke Kreaturen 5.000 Mal.
-achievements.csv,635,"Buff creatures 10,000 times.",Kreaturen 10.000 Mal verstärken.
-achievements.csv,637,"Buff creatures 25,000 times.",Verstärke Kreaturen 25.000 Mal.
-achievements.csv,639,"Buff creatures 50,000 times.",Verstärke Kreaturen 50.000 Mal.
-achievements.csv,641,"Buff creatures 100,000 times.",Verstärke Kreaturen 100.000 Mal.
-achievements.csv,1923,Gain 5 buffs in the overworld.,Erhalte 5 Verstärkungen in der Oberwelt.
-achievements.csv,1925,Gain 10 buffs in the overworld.,Erhalte 10 Verstärkungen in der Oberwelt.
-achievements.csv,1931,Gain 75 buffs in the overworld.,Erhalte 75 Verstärkungen in der Oberwelt.
-battle.csv,56,Enemies start with 5 buffs.,Gegner beginnen mit 5 Verstärkungen.
-battle.csv,123,Buffs/Debuffs/Minions\nRemoved,Stärkungen/Schwächungen/Diener\nEntfernt
-battle.csv,236,{1} has already received too many buffs this turn.,{1} hat in dieser Runde bereits zu viele Verstärkungen erhalten.
-codex.csv,148,"In each Realm, you'll encounter a variety of interesting objects, some of which will grant your creatures temporary bonuses in battle. As your Favor Rank with the god of that Realm increases, you'll unlock Blessings of the god of that Realm. Each god's blessings are only active in their own Realm, and confer a variety of benefits both in and out of battle called Realm Boosts.\n\nIf you obtain multiple copies of a bonus that take place in the next battle, they will not stack. However, only one of those bonuses will be removed after the battle is finished so they won't be wasted. You are limited to a maximum of 5 buffs, 5 enemy debuffs, and 5 minions granted by these blessings.","In jedem Reich wirst du auf eine Vielzahl interessanter Objekte stoßen, von denen einige deinen Kreaturen vorübergehende Boni im Kampf gewähren. Wenn dein Gunstrang bei dem Gott dieses Reiches steigt, schaltest du Segnungen des Gottes dieses Reiches frei. Die Segnungen jedes Gottes sind nur in seinem eigenen Reich aktiv und gewähren verschiedene Vorteile innerhalb und außerhalb des Kampfes, die als Reichsverstärkungen bezeichnet werden.\n\nWenn du mehrere Kopien eines Bonus erhältst, die im nächsten Kampf wirksam werden, stapeln sie sich nicht. Allerdings wird nach Beendigung des Kampfes nur einer dieser Boni entfernt, sodass sie nicht verschwendet werden. Du bist auf maximal 5 Stärkungen, 5 Schwächungen für Gegner und 5 Diener beschränkt, die durch diese Segnungen gewährt werden."
-codex.csv,267,Your creatures can only have a certain amount of buffs at a time. Buffs gained from realm effects do not count against this limit.,"Deine Kreaturen können nur eine bestimmte Anzahl an Verstärkungen gleichzeitig haben. Verstärkungen, die durch Reicheffekte gewonnen werden, zählen nicht gegen dieses Limit."
-codex.csv,301,Increases the duration of buffs granted and debuffs afflicted by the Spell Gem.,"Erhöht die Dauer von Stärkungen und Schwächungen, die durch den Zauberstein gewährt bzw. verursacht werden."
-perks.csv,609,Your creatures' buffs and minions persist through death.,Deine Kreaturen behalten ihre Verstärkungen und Diener auch nach dem Tod bei.
-perks.csv,775,Your creatures' buffs persist through death.,Deine Kreaturen behalten ihre Verstärkungen auch nach dem Tod bei.
-perks.csv,799,"When your creatures afflict each other with a debuff, they gain a random buff instead.","Wenn deine Kreaturen sich gegenseitig mit einem Debuff belegen, erhalten sie stattdessen einen zufälligen Stärkungseffekt."
-perks.csv,823,Enemies with {CONDNAME_DEBUFF_CONFUSED} have a <5>% chance to afflict allies with a debuff instead of a buff.\n\n{CONDDESC_DEBUFF_CONFUSED},"Gegner mit {CONDNAME_DEBUFF_CONFUSED} haben eine <5>%-Chance, Verbündete mit einer Schwächung anstatt einer Stärkung zu belegen.\n\n{CONDDESC_DEBUFF_CONFUSED}"
-perks.csv,1081,Your creatures' buffs and minions persist through death.,Deine Kreaturen behalten ihre Verstärkungen und Diener auch nach dem Tod bei.
-perks.csv,1229,"When your creatures' {CONDNAME_BUFF_SHELL} or {CONDNAME_BUFF_ARCANE} buffs would be removed, they have an 80% chance for it to persist.","Wenn die {CONDNAME_BUFF_SHELL}- oder {CONDNAME_BUFF_ARCANE}-Verstärkungen deiner Kreaturen entfernt werden würden, besteht eine 80% Chance, dass sie bestehen bleiben."
-perks.csv,1307,"Buffs granted by your creatures' Relics last forever. In addition, after your Relics give one of your creatures a buff, they grant all your other creatures that buff as well.","Verbesserungen, die durch die Relikte deiner Kreaturen gewährt werden, halten ewig an. Zusätzlich gewähren deine Relikte, nachdem sie einer deiner Kreaturen eine Verbesserung gegeben haben, allen deinen anderen Kreaturen ebenfalls diese Verbesserung."
-spells.csv,89,Target's buffs and debuffs are removed.,Zieleffekte und Schwächungen werden entfernt.
-spells.csv,229,All the creatures on the battlefield lose their buffs and debuffs.,Alle Kreaturen auf dem Schlachtfeld verlieren ihre Stärkungen und Schwächungen.
-spells.csv,497,Your creatures gain copies of all the target's buffs.,Deine Kreaturen erhalten Kopien aller Stärkungen des Ziels.
-spells.csv,727,"Target is afflicted with {CONDNAME_DEBUFF_FEAR}, and all its buffs are removed.","Ziel ist von {CONDNAME_DEBUFF_FEAR} betroffen, und alle seine Stärkungen werden entfernt."
-spells.csv,1057,Enemies take a large amount of damage and their buffs and minions are removed.,Feinde erleiden großen Schaden und ihre Verstärkungen und Diener werden entfernt.
-spells.csv,1089,Enemies' buffs are removed.,Stärkungen der Gegner werden entfernt.
-spells.csv,1101,Caster gains 3 random buffs and is afflicted with 3 random debuffs.,Zaubernder erhält 3 zufällige Stärkungen und wird mit 3 zufälligen Schwächungen belegt.
-spells.csv,1157,Increases the potency of all creatures' buffs and debuffs by 50%. This spell does not affect {CONDNAME_DEBUFF_INVERTED}.,Erhöht die Zaubermacht aller Stärkungen und Schwächungen von Kreaturen um 50%. Dieser Zauber beeinflusst {CONDNAME_DEBUFF_INVERTED} nicht.
-spells.csv,1315,"Enemies lose a devastating amount of all stats, and their buffs and minions are removed. This spell is an {SPELL_ultimate}.","Feinde verlieren eine verheerende Menge aller Attribute, und ihre Verstärkungen und Diener werden entfernt. Dieser Zauber ist ein {SPELL_ultimate}."
-spells.csv,1495,"Caster's buffs are removed and this Spell Gem's owner steals 5% of the caster's highest stat. This spell cannot be cast manually, but has a 20% chance to be cast by enemies at the start of their turns.","Die Verstärkungen des Zaubernden werden entfernt und der Besitzer dieses Zaubersteins stiehlt 5% des höchsten Attributs des Zaubernden. Dieser Zauber kann nicht manuell gewirkt werden, hat aber eine 20% Chance, von Gegnern zu Beginn ihres Zuges gewirkt zu werden."
-traits.csv,219,"This creature starts battles with 5 random buffs, but cannot gain additional buffs.","Diese Kreatur beginnt Kämpfe mit 5 zufälligen Verstärkungen, kann jedoch keine zusätzlichen Verstärkungen erhalten."
-traits.csv,1025,Your other creatures' buffs persist through death.,Deine Stärkungen auf anderen Kreaturen bleiben nach deren Tod bestehen.
-traits.csv,1055,"When your creatures buff an enemy, they debuff them instead. When your creatures debuff an ally, they buff them instead. This trait does not stack.","Wenn deine Kreaturen einen Feind verstärken, schwächen sie ihn stattdessen. Wenn deine Kreaturen einen Verbündeten schwächen, verstärken sie ihn stattdessen. Dieses Merkmal ist nicht kumulativ."
-traits.csv,1857,"Buffs and debuffs last twice as long, but they lose 2 units of duration per turn. This trait does not stack.","Stärkungen und Debuffs halten doppelt so lange an, verlieren aber 2 Einheiten Dauer pro Zug. Dieses Merkmal ist nicht kumulativ."
-traits.csv,2043,Creatures cannot gain buffs.,Kreaturen können keine Stärkungen erhalten.
-traits.csv,2185,Your creatures' {CONDNAME_BUFF_REPELLING} buffs now have a 60% chance to prevent damage from spells. This trait does not stack.,"Eure Kreaturen mit {CONDNAME_BUFF_REPELLING}-Verstärkungen haben jetzt eine 60% Chance, Schaden durch Zauber zu verhindern. Dieses Merkmal ist nicht kumulativ."
-traits.csv,2251,"When your creatures' {CONDNAME_MINION_WRITHELING} minions afflict a debuff, they also grant one of your creatures a random buff. In addition, your creatures start battles with 1 {CONDNAME_MINION_WRITHELING}. This trait does not stack.","Wenn die {CONDNAME_MINION_WRITHELING}-Diener deiner Kreaturen einen Debuffs verursachen, gewähren sie auch einer deiner Kreaturen einen zufälligen Stärkungszauber. Außerdem beginnen deine Kreaturen Kämpfe mit 1 {CONDNAME_MINION_WRITHELING}. Dieses Merkmal ist nicht kumulativ."
-traits.csv,2437,"After this creature damages an enemy, it steals their buffs and minions and gives them its debuffs. In addition, your creatures' buffs and minions last forever, and enemies' debuffs last forever.","Nachdem diese Kreatur einem Feind Schaden zugefügt hat, stiehlt sie dessen Verstärkungen und Diener und gibt ihm ihre Debuffs. Zusätzlich halten die Verstärkungen und Diener deiner Kreaturen für immer an, und die Debuffs der Feinde halten für immer an."
-traits.csv,2802,Your {RACE_Dryad}s' buffs and minions last forever.,Deine {RACE_Dryad}en-Verstärkungen und -Diener halten ewig.
-traits.csv,3204,The saddle grants protective buffs to all the body parts.,Der Sattel gewährt allen Körperteilen schützende Verstärkungen.
-traits.csv,3622,"Your {RACE_Exotic} creatures' buffs, debuffs, minions persist through death.","Deine Stärkungen, Debuffs und Diener deiner {RACE_Exotic}-Kreaturen bleiben nach dem Tod bestehen."
-traits.csv,3672,Your creatures' {CONDNAME_BUFF_SPLASH} buffs deal 100% more damage. This trait does not stack.,Deine Kreaturen verursachen mit ihren {CONDNAME_BUFF_SPLASH}-Verstärkungen 100% mehr Schaden. Dieses Merkmal ist nicht kumulativ.
-ui.csv,1671,"As a Mesmerist, you'll manipulate buffs and debuffs to disrupt your enemies while empowering your own creatures. Sleeping and Blind enemies suffer devastating penalties, while your creatures twist spells and status effects into unexpected weapons.","Als Mesmerist manipulierst du Stärkungen und Schwächungen, um deine Feinde zu stören und gleichzeitig deine eigenen Kreaturen zu stärken. Schlafende und blinde Feinde erleiden verheerende Einbußen, während deine Kreaturen Zauber und Statuseffekte in unerwartete Waffen verwandeln."
-ui.csv,2049,"This relic and its bearer's on-heal, on-debuff, and on-buff effects activate 1 additional time.","Dieser Relikt und die Bei-Heilung-, Bei-Schwächung- und Bei-Stärkung-Effekte seines Trägers werden 1 zusätzliches Mal aktiviert."
+achievements.csv,623,Buff creatures 100 times.,Buffe Kreaturen 100 Mal.
+achievements.csv,625,Buff creatures 250 times.,Buffe Kreaturen 250 Mal.
+achievements.csv,627,Buff creatures 500 times.,Buffe Kreaturen 500 Mal.
+achievements.csv,629,"Buff creatures 1,000 times.",Buffe Kreaturen 1.000 Mal.
+achievements.csv,631,"Buff creatures 2,500 times.",Buffe Kreaturen 2.500 Mal.
+achievements.csv,633,"Buff creatures 5,000 times.",Buffe Kreaturen 5.000 Mal.
+achievements.csv,635,"Buff creatures 10,000 times.",Buffe Kreaturen 10.000 Mal.
+achievements.csv,637,"Buff creatures 25,000 times.",Buffe Kreaturen 25.000 Mal.
+achievements.csv,639,"Buff creatures 50,000 times.",Buffe Kreaturen 50.000 Mal.
+achievements.csv,641,"Buff creatures 100,000 times.",Buffe Kreaturen 100.000 Mal.
+spells.csv,89,Target's buffs and debuffs are removed.,Zieleffekte und Debuffs werden entfernt.
+traits.csv,1055,"When your creatures buff an enemy, they debuff them instead. When your creatures debuff an ally, they buff them instead. This trait does not stack.","Wenn deine Kreaturen einen Feind buffen, debuffen sie ihn stattdessen. Wenn deine Kreaturen einen Verbündeten debuffen, buffen sie ihn stattdessen. Dieses Merkmal ist nicht kumulativ."

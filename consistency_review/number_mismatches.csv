@@ -130,26 +130,26 @@ achievements.csv,615,"Resurrect creatures 10,000 times.",Belebe Kreaturen 10.000
 achievements.csv,617,"Resurrect creatures 25,000 times.",Belebe Kreaturen 25.000 Mal wieder.,"{'25': 1, '000': 1}",{'25.000': 1}
 achievements.csv,619,"Resurrect creatures 50,000 times.",Belebe Kreaturen 50.000 Mal wieder.,"{'50': 1, '000': 1}",{'50.000': 1}
 achievements.csv,621,"Resurrect creatures 100,000 times.",Belebe Kreaturen 100.000 Mal wieder.,"{'100': 1, '000': 1}",{'100.000': 1}
-achievements.csv,629,"Buff creatures 1,000 times.",Verstärke Kreaturen 1.000 Mal.,"{'1': 1, '000': 1}",{'1.000': 1}
-achievements.csv,631,"Buff creatures 2,500 times.",Verstärke Kreaturen 2.500 Mal.,"{'2': 1, '500': 1}",{'2.500': 1}
-achievements.csv,633,"Buff creatures 5,000 times.",Verstärke Kreaturen 5.000 Mal.,"{'5': 1, '000': 1}",{'5.000': 1}
-achievements.csv,635,"Buff creatures 10,000 times.",Kreaturen 10.000 Mal verstärken.,"{'10': 1, '000': 1}",{'10.000': 1}
-achievements.csv,637,"Buff creatures 25,000 times.",Verstärke Kreaturen 25.000 Mal.,"{'25': 1, '000': 1}",{'25.000': 1}
-achievements.csv,639,"Buff creatures 50,000 times.",Verstärke Kreaturen 50.000 Mal.,"{'50': 1, '000': 1}",{'50.000': 1}
-achievements.csv,641,"Buff creatures 100,000 times.",Verstärke Kreaturen 100.000 Mal.,"{'100': 1, '000': 1}",{'100.000': 1}
-achievements.csv,649,"Debuff creatures 1,000 times.",Schwäche Kreaturen 1.000 Mal.,"{'1': 1, '000': 1}",{'1.000': 1}
-achievements.csv,651,"Debuff creatures 2,500 times.",Schwäche Kreaturen 2.500 Mal.,"{'2': 1, '500': 1}",{'2.500': 1}
-achievements.csv,653,"Debuff creatures 5,000 times.",Schwäche Kreaturen 5.000 Mal.,"{'5': 1, '000': 1}",{'5.000': 1}
-achievements.csv,655,"Debuff creatures 10,000 times.",Schwäche Kreaturen 10.000 Mal.,"{'10': 1, '000': 1}",{'10.000': 1}
-achievements.csv,657,"Debuff creatures 25,000 times.",Schwäche Kreaturen 25.000 Mal.,"{'25': 1, '000': 1}",{'25.000': 1}
-achievements.csv,659,"Debuff creatures 50,000 times.",Schwäche Kreaturen 50.000 Mal.,"{'50': 1, '000': 1}",{'50.000': 1}
-achievements.csv,661,"Debuff creatures 100,000 times.",Schwäche Kreaturen 100.000 Mal.,"{'100': 1, '000': 1}",{'100.000': 1}
+achievements.csv,629,"Buff creatures 1,000 times.",Buffe Kreaturen 1.000 Mal.,"{'1': 1, '000': 1}",{'1.000': 1}
+achievements.csv,631,"Buff creatures 2,500 times.",Buffe Kreaturen 2.500 Mal.,"{'2': 1, '500': 1}",{'2.500': 1}
+achievements.csv,633,"Buff creatures 5,000 times.",Buffe Kreaturen 5.000 Mal.,"{'5': 1, '000': 1}",{'5.000': 1}
+achievements.csv,635,"Buff creatures 10,000 times.",Buffe Kreaturen 10.000 Mal.,"{'10': 1, '000': 1}",{'10.000': 1}
+achievements.csv,637,"Buff creatures 25,000 times.",Buffe Kreaturen 25.000 Mal.,"{'25': 1, '000': 1}",{'25.000': 1}
+achievements.csv,639,"Buff creatures 50,000 times.",Buffe Kreaturen 50.000 Mal.,"{'50': 1, '000': 1}",{'50.000': 1}
+achievements.csv,641,"Buff creatures 100,000 times.",Buffe Kreaturen 100.000 Mal.,"{'100': 1, '000': 1}",{'100.000': 1}
+achievements.csv,649,"Debuff creatures 1,000 times.",Debuffe Kreaturen 1.000 Mal.,"{'1': 1, '000': 1}",{'1.000': 1}
+achievements.csv,651,"Debuff creatures 2,500 times.",Debuffe Kreaturen 2.500 Mal.,"{'2': 1, '500': 1}",{'2.500': 1}
+achievements.csv,653,"Debuff creatures 5,000 times.",Debuffe Kreaturen 5.000 Mal.,"{'5': 1, '000': 1}",{'5.000': 1}
+achievements.csv,655,"Debuff creatures 10,000 times.",Debuffe Kreaturen 10.000 Mal.,"{'10': 1, '000': 1}",{'10.000': 1}
+achievements.csv,657,"Debuff creatures 25,000 times.",Debuffe Kreaturen 25.000 Mal.,"{'25': 1, '000': 1}",{'25.000': 1}
+achievements.csv,659,"Debuff creatures 50,000 times.",Debuffe Kreaturen 50.000 Mal.,"{'50': 1, '000': 1}",{'50.000': 1}
+achievements.csv,661,"Debuff creatures 100,000 times.",Debuffe Kreaturen 100.000 Mal.,"{'100': 1, '000': 1}",{'100.000': 1}
 achievements.csv,669,"Gain minions 1,000 times.",Beschwöre 1.000 Mal Diener.,"{'1': 1, '000': 1}",{'1.000': 1}
 achievements.csv,671,"Gain minions 2,500 times.",Beschwöre 2.500 Mal Diener.,"{'2': 1, '500': 1}",{'2.500': 1}
-achievements.csv,673,"Gain minions 5,000 times.",Erhalte 5.000 Mal Lakaien.,"{'5': 1, '000': 1}",{'5.000': 1}
-achievements.csv,675,"Gain minions 10,000 times.",Erhalte 10.000 Mal Schergen.,"{'10': 1, '000': 1}",{'10.000': 1}
+achievements.csv,673,"Gain minions 5,000 times.",Erhalte 5.000 Mal Diener.,"{'5': 1, '000': 1}",{'5.000': 1}
+achievements.csv,675,"Gain minions 10,000 times.",Erhalte 10.000 Mal Diener.,"{'10': 1, '000': 1}",{'10.000': 1}
 achievements.csv,677,"Gain minions 25,000 times.",Beschwöre 25.000 Mal Diener.,"{'25': 1, '000': 1}",{'25.000': 1}
-achievements.csv,679,"Gain minions 50,000 times.",Erhalte 50.000 Mal Lakaien.,"{'50': 1, '000': 1}",{'50.000': 1}
+achievements.csv,679,"Gain minions 50,000 times.",Erhalte 50.000 Mal Diener.,"{'50': 1, '000': 1}",{'50.000': 1}
 achievements.csv,681,"Gain minions 100,000 times.",Beschwöre 100.000 Mal Diener.,"{'100': 1, '000': 1}",{'100.000': 1}
 achievements.csv,689,"Use 1,000 Spell Gem Charges.",Verwende 1.000 Zauberstein-Ladungen.,"{'1': 1, '000': 1}",{'1.000': 1}
 achievements.csv,691,"Use 2,500 Spell Gem Charges.",Verwende 2.500 Zauberstein-Ladungen.,"{'2': 1, '500': 1}",{'2.500': 1}
