@@ -17,7 +17,7 @@ L_HEALTH,,Health,体力,Gesundheit,Santé,Salud,Saúde,Здоровье,Salute,�
 L_MAXHEALTH,,Max Health,最大HP,Maximale Gesundheit,Santé Max,Salud máxima,Saúde Máxima,Максимальное здоровье,Salute Massima,最大生命值,最大生命值,최대 체력,Maksymalne Zdrowie,Максимальне здоров'я,Maximale Gezondheid,Maksimum Can
 L_DEFENSE,,Defense,防御,Verteidigung,Défense,Defensa,Defesa,Защита,Difesa,防禦,防御,방어력,Obrona,Захист,Verdediging,Savunma
 L_SPEED,,Speed,速度,Geschwindigkeit,Vitesse,Velocidad,Velocidade,Скорость,Velocità,速度,速度,속도,Szybkość,Швидкість,Snelheid,Hız
-L_CHARGE,,Charge,チャージ,Ansturm,Charge,Cargar,Investida,Рывок,Carica,衝鋒,充能,돌격,Szarża,Заряд,Aanval,Şarj
+L_CHARGE,,Charge,チャージ,Ladung,Charge,Cargar,Investida,Рывок,Carica,衝鋒,充能,돌격,Szarża,Заряд,Aanval,Şarj
 L_CHARGES,,Charges,チャージ,Ladungen,Charges,Cargas,Cargas,Заряды,Cariche,充能,充能,차지,Ładunki,Заряди,Ladingen,Şarjlar
 L_LIFE,,Life,生命,Leben,Vie,Vida,Vida,Жизнь,Vita,生命,生命,생명,Życie,Життя,Leven,Yaşam
 L_DEATH,,Death,死,Tod,Mort,Muerte,Morte,Смерть,Morte,死亡,死亡,죽음,Śmierć,Смерть,Dood,Ölüm
@@ -142,19 +142,19 @@ L_FIREIMPS,,Fire Imps,ファイアインプ,Feuerkobolde,Lutins de Feu,Diablillo
 L_CHAOSSATYRS,,Chaos Satyrs,カオス・サテュロス,Chaos-Satyrn,Satyres du Chaos,Sátiros del Caos,Sátiros do Caos,Сатиры Хаоса,Satiri del Caos,混沌薩提爾,混沌萨堤尔,혼돈 사티로스,Satyry Chaosu,Сатири Хаосу,Chaos Satyrs,Kaos Satirleri
 L_ATTACK2,,Attack,攻撃する,Angreifen,Attaquer,Atacar,Atacar,Атаковать,Attaccare,攻擊,攻击,공격하다,Atakować,Атакувати,Aanvallen,Saldırmak
 L_ATTACKING,,Attacking,攻撃中,Angreifen,Attaque,Atacando,Atacando,Атака,Attaccando,攻擊中,攻击,공격 중,Atakowanie,Атака,Aanvallen,Saldırı
-L_ATTACKS,,Attacks,攻撃,Angriffe,Attaques,Ataques,Ataques,Атаки,Attacchi,攻擊,攻击,공격,Ataki,Атаки,Aanvallen,Saldırılar
+L_ATTACKS,,Attacks,攻撃,Greift an,Attaques,Ataques,Ataques,Атаки,Attacchi,攻擊,攻击,공격,Ataki,Атаки,Aanvallen,Saldırılar
 L_ATTACKED,,Attacked,攻撃された,Angegriffen,Attaqué,Atacado,Atacado,Атакован,Attaccato,受到攻擊,攻击,공격받음,Zaatakowany,Атаковано,Aangevallen,Saldırıya uğradı
 L_DEFEND,,Defend,防御,Verteidigen,Défendre,Defender,Defender,Защита,Difendi,防禦,防御,방어,Obrona,Захист,Verdedigen,Savun
-L_DEFENDING,,Defending,防御中,Verteidigung,Se défendre,Defendiendo,Defendendo,Защита,Difendendo,防禦中,防御,방어 중,Obrona,Захист,Verdedigen,Savunma
+L_DEFENDING,,Defending,防御中,Verteidigend,Se défendre,Defendiendo,Defendendo,Защита,Difendendo,防禦中,防御,방어 중,Obrona,Захист,Verdedigen,Savunma
 L_DEFENDS,,Defends,防御する,Verteidigt,Défend,Defiende,Defende,Защищает,Difende,防禦,防御,방어,Broni,Захищає,Verdedigt,Savunur
 L_DEFENDED,,Defended,防御した,Verteidigt,Défendu,Defendido,Defendido,Защищён,Difeso,防禦了,防御,방어함,Obrona,Захищено,Verdedigd,Savunuldu
 L_PROVOKE,,Provoke,挑発,Provozieren,Provoquer,Provocar,Provocar,Провокация,Provocare,挑釁,挑衅,도발,Prowokacja,Спровокувати,Provoceren,Kışkırt
 L_PROVOKING,,Provoking,挑発,Provozierend,Provocation,Provocando,Provocando,Провоцирование,Provocante,挑釁,挑衅,도발,Prowokowanie,Провокування,Provoceren,Kışkırtıcı
 L_PROVOKES,,Provokes,挑発する,Provoziert,Provoque,Provoca,Provoca,Провоцирует,Provoca,挑釁,挑衅,도발,Prowokuje,Провокує,Provoceert,Kışkırtır
 L_PROVOKED,,Provoked,挑発された,Provoziert,Provoqué,Provocado,Provocado,Спровоцирован,Provocato,被激怒,挑衅,도발됨,Sprowokowany,Спровокований,Geprovoceerd,Kışkırtılmış
-L_CAST,,Cast,キャスト,Besetzung,Lancer,Lanzar,Lançar,Применить,Lancia,施放,施放,시전,Rzuć,Застосувати,Werpen,Büyü Yap
-L_CASTING,,Casting,詠唱,Beschwörung,Lancement,Lanzamiento,Conjuração,Колдовство,Lancio,施法,施放,시전,Rzucanie,Закляття,Werpen,Büyü Yapma
-L_CASTS,,Casts,詠唱,Wirft,Lance,Lanzamientos,Lança,Заклинания,Lanci,施放,施放,시전,Rzuca,Закляття,Werpt,Büyüler
+L_CAST,,Cast,キャスト,Wirken,Lancer,Lanzar,Lançar,Применить,Lancia,施放,施放,시전,Rzuć,Застосувати,Werpen,Büyü Yap
+L_CASTING,,Casting,詠唱,Wirkend,Lancement,Lanzamiento,Conjuração,Колдовство,Lancio,施法,施放,시전,Rzucanie,Закляття,Werpen,Büyü Yapma
+L_CASTS,,Casts,詠唱,Wirkt,Lance,Lanzamientos,Lança,Заклинания,Lanci,施放,施放,시전,Rzuca,Закляття,Werpt,Büyüler
 L_CASTED,,Casted,詠唱した,Gewirkt,Lancé,Lanzado,Lançado,Наложено,Lanciato,施放了,施放,시전됨,Rzucone,Застосовано,Geworpen,Büyü Yapıldı
 L_SPELL,,Spell,呪文,Zauber,Sort,Hechizo,Magia,Заклинание,Incantesimo,法術,法术,주문,Czar,Закляття,Spreuk,Büyü
 L_SPELLS,,Spells,魔法,Zauber,Sorts,Hechizos,Magias,Заклинания,Incantesimi,法術,法术,주문,Zaklęcia,Закляття,Spreuken,Büyüler

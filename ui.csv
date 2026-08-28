@@ -1,6 +1,6 @@
 Tag,Notes,English,Japanese,German,French,Spanish,Portuguese,Russian,Italian,Chinese (Traditional),Chinese (Simplified),Korean,Polish,Ukrainian,Dutch,Turkish
 L_BMENU_ATTACK,,Attack,攻撃,Angriff,Attaque,Ataque,Atacar,Атака,Attacco,攻擊,攻击,공격,Atak,Атака,Aanval,Saldırı
-L_BMENU_CAST,,Cast,キャスト,Besetzung,Lancer,Lanzar,Lançar,Применить,Lancia,施放,施法,시전,Rzuć,Застосувати,Werpen,Büyü Yap
+L_BMENU_CAST,,Cast,キャスト,Wirken,Lancer,Lanzar,Lançar,Применить,Lancia,施放,施法,시전,Rzuć,Застосувати,Werpen,Büyü Yap
 L_BMENU_DEFEND,,Defend,防御,Verteidigen,Défendre,Defender,Defender,Защита,Difendi,防禦,防御,방어,Obrona,Захист,Verdedigen,Savun
 L_BMENU_PROVOKE,,Provoke,挑発,Provozieren,Provoquer,Provocar,Provocar,Провокация,Provocare,挑釁,挑衅,도발,Prowokacja,Спровокувати,Provoceren,Kışkırt
 L_BMENU_MACRO,,Macro,マクロ,Makro,Macro,Macro,Macro,Макрос,Macro,巨集,宏,매크로,Makro,Макрос,Macro,Makro
@@ -165,7 +165,7 @@ L_MENU_CRIT_MANAGEGEMS,,Manage Spell Gems,魔石の管理,Zaubersteine verwalten
 L_MENU_CRIT_MANAGEITEMS,,Manage Item Sets,アイテムセットを管理,Ausrüstungssets verwalten,Gérer les ensembles d'objets,Administrar Conjuntos de Objetos,Gerenciar Conjuntos de Itens,Управление наборами предметов,Gestisci Set di Oggetti,管理物品組合,管理物品套装,아이템 세트 관리,Zarządzaj zestawami przedmiotów,Керувати наборами предметів,Beheer Itemsets,Eşya Setlerini Yönet
 L_MENU_CRIT_STRATEGY,"1 = string for creature's strategy, such as attack/cast",Strategy ({1}),ストラテジー ({1}),Strategie ({1}),Stratégie ({1}),Estrategia ({1}),Estratégia ({1}),Стратегия ({1}),Strategia ({1}),策略 ({1}),策略（{1}）,전략 ({1}),Strategia ({1}),Стратегія ({1}),Strategie ({1}),Strateji ({1})
 L_MENU_CRIT_STRAT_ATTACK,,Attack,攻撃,Angriff,Attaque,Ataque,Atacar,Атака,Attacco,攻擊,攻击,공격,Atak,Атака,Aanval,Saldırı
-L_MENU_CRIT_STRAT_CAST,,Cast,キャスト,Besetzung,Lancer,Lanzar,Lançar,Применить,Lancia,施放,施法,시전,Rzuć,Застосувати,Werpen,Büyü Yap
+L_MENU_CRIT_STRAT_CAST,,Cast,キャスト,Wirken,Lancer,Lanzar,Lançar,Применить,Lancia,施放,施法,시전,Rzuć,Застосувати,Werpen,Büyü Yap
 L_MENU_CRIT_STRAT_DEFEND,,Defend,防御,Verteidigen,Défendre,Defender,Defender,Защита,Difendi,防禦,防御,방어,Obrona,Захист,Verdedigen,Savun
 L_MENU_CRIT_STRAT_PROVOKE,,Provoke,挑発,Provozieren,Provoquer,Provocar,Provocar,Провокация,Provocare,挑釁,挑衅,도발,Prowokacja,Спровокувати,Provoceren,Kışkırt
 L_MENU_CRIT_STRAT_MACRO,,Macro,マクロ,Makro,Macro,Macro,Macro,Макрос,Macro,巨集,宏,매크로,Makro,Макрос,Macro,Makro
