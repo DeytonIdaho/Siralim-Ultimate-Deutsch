@@ -1,0 +1,36 @@
+name: Apply Verified Vocabulary Review
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply exactly 40 approved tag values
+        run: python tools/apply_vocabulary_review.py
+      - name: Validate exact result
+        run: |
+          python - <<'PY'
+          import csv
+          rows=list(csv.DictReader(open('vocabulary.csv',encoding='utf-8')))
+          assert len(rows)==480, len(rows)
+          assert len({r['Tag'] for r in rows})==480
+          print('CSV valid: 480 unique tags')
+          PY
+          git diff --check -- vocabulary.csv
+          git diff --stat -- vocabulary.csv
+      - name: Commit exact reviewed file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vocabulary.csv
+          git diff --cached --quiet && { echo 'No changes required'; exit 0; }
+          git commit -m "Apply manually reviewed German vocabulary terminology"
+          git push origin HEAD:main
