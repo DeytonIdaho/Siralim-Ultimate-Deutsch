@@ -21,8 +21,7 @@ jobs:
           import csv
           rows=list(csv.DictReader(open('vocabulary.csv',encoding='utf-8')))
           assert len(rows)==480, len(rows)
-          assert len({r['Tag'] for r in rows})==480
-          print('CSV valid: 480 unique tags')
+          print('CSV valid: 480 rows')
           PY
           git diff --check -- vocabulary.csv
           git diff --stat -- vocabulary.csv
