@@ -1,0 +1,31 @@
+English,German,Context
+Splashing,Streuschaden,Buff/Mechanik
+Mending,Regeneration,Buff/Mechanik
+Leeching,Lebensentzug,Buff/Mechanik
+Shelled,Gepanzert,Buff/Mechanik
+Taunting,Verspotten,Buff - getrennt von Provoke
+Provoke,Provozieren,Aktion
+Repelling,Zauberabwehr,Buff/Mechanik
+Scorned,Entmutigt,Debuff - verhindert Angriffe
+Savage,Brutal,Buff/Mechanik
+Proficient,Versiert,Buff/Mechanik
+Warded,Unbeugsam,Buff - verhindert Attributverlust
+Protected,Geschützt,Buff - Schadensreduktion
+Stone,Versteinert,Debuff-Kontext
+Sleeping,Schlafend,Debuff-Kontext
+Evoker,Beschwörer,Spezialisierung
+Stat,Attribut,Spielmechanischer Wert
+Trait,Merkmal,Spielmechanik
+Spell,Zauber,Spielmechanik
+Cast,Wirken,Aktion
+Slot,Slot,RPG/UI-Begriff darf als Slot bleiben
+Arsenal Spell,Arsenalzauber,Zauberkategorie
+Ultimate Spell,Ultimativzauber,Zauberkategorie
+Booze Spell,Saufzauber,Zauberkategorie
+Bashful,Gehemmt,Persönlichkeit
+Shy,Schüchtern,Persönlichkeit
+Timid,Zaghaft,Persönlichkeit
+Sorcery Strength,Zauberei-Stärke,Artefakt-Klassenstärke
+Death Strength,Todes-Stärke,Artefakt-Klassenstärke
+Life Strength,Lebens-Stärke,Artefakt-Klassenstärke
+Nature Strength,Natur-Stärke,Artefakt-Klassenstärke
