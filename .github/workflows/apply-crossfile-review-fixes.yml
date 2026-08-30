@@ -32,7 +32,8 @@ jobs:
               width=len(after[0])
               if any(len(r)!=width for r in after):
                   raise SystemExit(f'Malformed CSV: {fn}')
-              before_text=subprocess.check_output(['git','show',f'HEAD:{fn}'],text=True,encoding='utf-8-sig')
+              before_bytes=subprocess.check_output(['git','show',f'HEAD:{fn}'])
+              before_text=before_bytes.decode('utf-8-sig')
               before=list(csv.reader(before_text.splitlines(keepends=True)))
               if len(before)!=len(after):
                   raise SystemExit(f'CSV record count changed in {fn}: {len(before)} -> {len(after)}')
