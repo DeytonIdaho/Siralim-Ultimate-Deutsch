@@ -1,0 +1,38 @@
+name: Apply Reviewed Gameplay Block
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply exact reviewed row changes
+        run: python tools/apply_reviewed_gameplay_block.py
+      - name: Validate all changed CSV files
+        run: |
+          python - <<'PY'
+          import csv
+          files=['vocabulary.csv','battle.csv','perks.csv','traits.csv','spells.csv','items.csv','ui.csv','codex.csv']
+          for fn in files:
+              with open(fn,encoding='utf-8',newline='') as f:
+                  rows=list(csv.DictReader(f))
+              assert rows, fn
+              print(fn, len(rows), 'rows OK')
+          PY
+          git diff --check -- vocabulary.csv battle.csv perks.csv traits.csv spells.csv items.csv ui.csv codex.csv
+          git diff --stat -- vocabulary.csv battle.csv perks.csv traits.csv spells.csv items.csv ui.csv codex.csv
+      - name: Commit reviewed gameplay block
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vocabulary.csv battle.csv perks.csv traits.csv spells.csv items.csv ui.csv codex.csv
+          git diff --cached --quiet && { echo 'No changes required'; exit 0; }
+          git commit -m "Apply reviewed German gameplay terminology block"
+          git push origin HEAD:main
