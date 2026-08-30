@@ -24,14 +24,31 @@ jobs:
           allowed={'overworld.csv','bosses.csv','achievements.csv','ui.csv','dialog_story.csv','items.csv','personality.csv','decorations.csv','lore.csv','quests.csv','traits.csv','codex.csv','spells.csv'}
           if set(changed)!=allowed:
               raise SystemExit(f'Unexpected changed-file scope: {changed}')
+          total_changed_records=0
           for fn in changed:
-              with Path(fn).open(encoding='utf-8-sig',newline='') as f: rows=list(csv.reader(f))
-              width=len(rows[0])
-              if any(len(r)!=width for r in rows): raise SystemExit(f'Malformed CSV: {fn}')
+              path=Path(fn)
+              with path.open(encoding='utf-8-sig',newline='') as f:
+                  after=list(csv.reader(f))
+              width=len(after[0])
+              if any(len(r)!=width for r in after):
+                  raise SystemExit(f'Malformed CSV: {fn}')
+              before_text=subprocess.check_output(['git','show',f'HEAD:{fn}'],text=True,encoding='utf-8-sig')
+              before=list(csv.reader(before_text.splitlines(keepends=True)))
+              if len(before)!=len(after):
+                  raise SystemExit(f'CSV record count changed in {fn}: {len(before)} -> {len(after)}')
+              if before[0]!=after[0]:
+                  raise SystemExit(f'CSV header changed in {fn}')
+              changed_records=sum(a!=b for a,b in zip(before[1:],after[1:]))
+              if changed_records==0:
+                  raise SystemExit(f'No CSV records changed in expected file {fn}')
+              total_changed_records += changed_records
+              print(f'{fn}: {changed_records} changed CSV records')
+          if total_changed_records != 148:
+              raise SystemExit(f'Expected exactly 148 changed CSV records, found {total_changed_records}')
           print('Validated changed files:', sorted(changed))
+          print('Validated changed CSV records:', total_changed_records)
           PY
           git diff --check
-          test "$(git diff --numstat | awk '{a+=$1; d+=$2} END {print a":"d}')" = "148:148"
           git diff --stat
       - name: Show patch
         run: git diff -- '*.csv'
