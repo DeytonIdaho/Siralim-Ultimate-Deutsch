@@ -4,10 +4,22 @@ import base64,csv,io,json,re,zlib
 parts=[Path(f'tools/creature_name_fixes_20260830_{i}.dat').read_text(encoding='ascii').strip() for i in (1,2,3)]
 FIX={t:(o,n) for t,o,n in json.loads(zlib.decompress(base64.b64decode(''.join(parts))))}
 if len(FIX)!=232: raise SystemExit(f'Unexpected creature patch size: {len(FIX)}')
-with open('creatures.csv',encoding='utf-8-sig',newline='') as f: creatures={r['Tag']:r for r in csv.DictReader(f)}
-if len(creatures)!=1612: raise SystemExit(f'Unexpected creatures row count: {len(creatures)}')
+with open('creatures.csv',encoding='utf-8-sig',newline='') as f: creature_rows=list(csv.DictReader(f))
+if len(creature_rows)!=1612: raise SystemExit(f'Unexpected creatures record count: {len(creature_rows)}')
+# creatures.csv intentionally contains duplicate tags for multi-part boss/special entries.
+# The reviewed source ZIP and current file both contain 1612 records but 1585 unique tags (27 duplicate records).
+creature_groups={}
+for r in creature_rows: creature_groups.setdefault(r['Tag'],[]).append(r)
+if len(creature_groups)!=1585: raise SystemExit(f'Unexpected unique creature tag count: {len(creature_groups)}')
+if sum(len(v)-1 for v in creature_groups.values())!=27: raise SystemExit('Unexpected duplicate creature-tag record count')
+creatures={}
+for tag,group in creature_groups.items():
+    english={r['English'] for r in group}; german={r['German'] for r in group}
+    if len(english)!=1: raise SystemExit(f'Conflicting English values for duplicate creature tag {tag}')
+    creatures[tag]=group[0]
 for tag,(old,new) in FIX.items():
-    if tag not in creatures or creatures[tag]['German']!=new: raise SystemExit(f'creatures.csv not at reviewed state for {tag}')
+    if tag not in creature_groups: raise SystemExit(f'Missing reviewed creature tag {tag}')
+    if any(r['German']!=new for r in creature_groups[tag]): raise SystemExit(f'creatures.csv not at reviewed state for {tag}')
 TERM_RULES=[('Spell Gem','Edelsteine','Zaubersteine'),('Spell Gem','Edelstein','Zauberstein'),('Stat Slot','Statusplatz','Attributslot')]
 OVERRIDES={
  ('bosses.csv','L_D_BOSS_COCKATRICE_2'):[('der Kokatrice','die Kokatrice'),('Seinem Charakter treu','Ihrem Charakter treu'),('sobald er dich sieht','sobald sie dich sieht')],
