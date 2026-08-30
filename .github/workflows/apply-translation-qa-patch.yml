@@ -1,0 +1,52 @@
+name: Apply Translation QA Patch
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply reviewed QA patch
+        run: python tools/apply_translation_qa_patch_20260830.py
+      - name: Validate patch
+        run: |
+          python - <<'PY'
+          import csv, subprocess
+          from pathlib import Path
+          expected={'achievements.csv','battle.csv','bosses.csv','codex.csv','dialog_story.csv','items.csv','overworld.csv','spells.csv','traits.csv','ui.csv'}
+          changed=set(subprocess.check_output(['git','diff','--name-only'],text=True).splitlines())
+          if changed != expected:
+              raise SystemExit(f'Unexpected file scope: {sorted(changed)}')
+          total=0
+          for fn in sorted(expected):
+              after=list(csv.reader(Path(fn).open(encoding='utf-8-sig',newline='')))
+              before_raw=subprocess.check_output(['git','show',f'HEAD:{fn}']).decode('utf-8-sig')
+              before=list(csv.reader(before_raw.splitlines(keepends=True)))
+              if len(after)!=len(before) or after[0]!=before[0]:
+                  raise SystemExit(f'{fn}: CSV structure changed')
+              if any(len(r)!=len(after[0]) for r in after):
+                  raise SystemExit(f'{fn}: malformed CSV')
+              n=sum(a!=b for a,b in zip(before[1:],after[1:]))
+              total+=n; print(f'{fn}: {n} changed records')
+          if total!=179:
+              raise SystemExit(f'Expected 179 changed records, found {total}')
+          print('Validated: 179 records across exactly 10 CSV files.')
+          PY
+          git diff --stat
+      - name: Show patch
+        run: git diff -- '*.csv'
+      - name: Commit reviewed QA patch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add achievements.csv battle.csv bosses.csv codex.csv dialog_story.csv items.csv overworld.csv spells.csv traits.csv ui.csv
+          git diff --cached --quiet && { echo 'No reviewed changes to commit'; exit 1; }
+          git commit -m "Apply reviewed translation QA fixes"
+          git push origin HEAD:main
