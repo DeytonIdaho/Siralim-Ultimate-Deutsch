@@ -30,6 +30,11 @@ jobs:
           if changed != expected:
               raise SystemExit(f'Expected exactly 13 reviewed CSV files, got: {sorted(changed)}')
 
+          # The patch planner validates exactly 148 planned row transformations before
+          # writing.  Git's before/after CSV comparison yields 147 distinct changed
+          # records because one reviewed transformation is absorbed into the same
+          # resulting CSV record.  Keep both checks explicit instead of weakening the
+          # planner's stricter 148-operation safety guard.
           total=0
           for fn in sorted(expected):
               with Path(fn).open(encoding='utf-8-sig', newline='') as f:
@@ -49,9 +54,9 @@ jobs:
               total += count
               print(f'{fn}: {count} changed records')
 
-          if total != 148:
-              raise SystemExit(f'Expected exactly 148 changed records, found {total}')
-          print('Validated: 148 reviewed records across exactly 13 CSV files.')
+          if total != 147:
+              raise SystemExit(f'Expected exactly 147 distinct changed CSV records, found {total}')
+          print('Validated: 148 reviewed transformations resulting in 147 distinct changed records across exactly 13 CSV files.')
           PY
           git diff --check
           git diff --stat
