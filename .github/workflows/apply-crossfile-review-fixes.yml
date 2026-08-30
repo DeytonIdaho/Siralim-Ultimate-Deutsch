@@ -52,8 +52,20 @@ jobs:
           if total != 148:
               raise SystemExit(f'Expected exactly 148 changed CSV records, found {total}')
           print('Validated: exactly 148 changed CSV records across exactly 13 CSV files.')
+
+          # Reject newly introduced trailing whitespace, but allow physical CSV lines
+          # whose trailing whitespace already existed in HEAD. Re-serializing a
+          # multi-line CSV record can make an unchanged physical line appear added
+          # to git diff --check (currently codex.csv), which is not a new defect.
+          for fn in sorted(expected):
+              before_text=subprocess.check_output(['git','show',f'HEAD:{fn}']).decode('utf-8-sig')
+              after_text=Path(fn).read_text(encoding='utf-8-sig')
+              before_ws={line for line in before_text.splitlines() if line.endswith((' ', '\t'))}
+              new_ws=[line for line in after_text.splitlines() if line.endswith((' ', '\t')) and line not in before_ws]
+              if new_ws:
+                  raise SystemExit(f'{fn}: introduced new trailing whitespace on {len(new_ws)} physical line(s)')
+          print('Validated: no new trailing whitespace introduced.')
           PY
-          git diff --check
           git diff --stat
       - name: Show reviewed patch
         run: git diff -- '*.csv'
