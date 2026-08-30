@@ -13,50 +13,55 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Apply validated creature-name and terminology sync
+      - name: Apply reviewed cross-file fixes
         run: python tools/apply_crossfile_creature_sync.py
-      - name: Validate CSV files and exact patch scope
+      - name: Validate exact file scope and CSV integrity
         run: |
           python - <<'PY'
           import csv, subprocess
           from pathlib import Path
-          changed=[x for x in subprocess.check_output(['git','diff','--name-only'],text=True).splitlines() if x]
-          allowed={'overworld.csv','bosses.csv','achievements.csv','ui.csv','dialog_story.csv','items.csv','personality.csv','decorations.csv','lore.csv','quests.csv','traits.csv','codex.csv','spells.csv'}
-          if set(changed)!=allowed:
-              raise SystemExit(f'Unexpected changed-file scope: {changed}')
-          total_changed_records=0
-          for fn in changed:
-              path=Path(fn)
-              with path.open(encoding='utf-8-sig',newline='') as f:
+
+          expected={
+              'overworld.csv','bosses.csv','achievements.csv','ui.csv',
+              'dialog_story.csv','items.csv','personality.csv','decorations.csv',
+              'lore.csv','quests.csv','traits.csv','codex.csv','spells.csv'
+          }
+          changed=set(subprocess.check_output(['git','diff','--name-only'], text=True).splitlines())
+          if changed != expected:
+              raise SystemExit(f'Expected exactly 13 reviewed CSV files, got: {sorted(changed)}')
+
+          total=0
+          for fn in sorted(expected):
+              with Path(fn).open(encoding='utf-8-sig', newline='') as f:
                   after=list(csv.reader(f))
+              before_raw=subprocess.check_output(['git','show',f'HEAD:{fn}']).decode('utf-8-sig')
+              before=list(csv.reader(before_raw.splitlines(keepends=True)))
+              if not after or len(after) != len(before):
+                  raise SystemExit(f'{fn}: CSV record count changed')
+              if after[0] != before[0]:
+                  raise SystemExit(f'{fn}: CSV header changed')
               width=len(after[0])
-              if any(len(r)!=width for r in after):
-                  raise SystemExit(f'Malformed CSV: {fn}')
-              before_bytes=subprocess.check_output(['git','show',f'HEAD:{fn}'])
-              before_text=before_bytes.decode('utf-8-sig')
-              before=list(csv.reader(before_text.splitlines(keepends=True)))
-              if len(before)!=len(after):
-                  raise SystemExit(f'CSV record count changed in {fn}: {len(before)} -> {len(after)}')
-              if before[0]!=after[0]:
-                  raise SystemExit(f'CSV header changed in {fn}')
-              changed_records=sum(a!=b for a,b in zip(before[1:],after[1:]))
-              if changed_records==0:
-                  raise SystemExit(f'No CSV records changed in expected file {fn}')
-              total_changed_records += changed_records
-              print(f'{fn}: {changed_records} changed CSV records')
-          if total_changed_records != 148:
-              raise SystemExit(f'Expected exactly 148 changed CSV records, found {total_changed_records}')
-          print('Validated changed files:', sorted(changed))
-          print('Validated changed CSV records:', total_changed_records)
+              if any(len(row) != width for row in after):
+                  raise SystemExit(f'{fn}: malformed CSV')
+              count=sum(a != b for a,b in zip(before[1:], after[1:]))
+              if count < 1:
+                  raise SystemExit(f'{fn}: expected reviewed changes but found none')
+              total += count
+              print(f'{fn}: {count} changed records')
+
+          if total != 148:
+              raise SystemExit(f'Expected exactly 148 changed records, found {total}')
+          print('Validated: 148 reviewed records across exactly 13 CSV files.')
           PY
           git diff --check
           git diff --stat
-      - name: Show patch
+      - name: Show reviewed patch
         run: git diff -- '*.csv'
-      - name: Commit to main
+      - name: Commit reviewed patch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add overworld.csv bosses.csv achievements.csv ui.csv dialog_story.csv items.csv personality.csv decorations.csv lore.csv quests.csv traits.csv codex.csv spells.csv
+          git diff --cached --quiet && { echo 'No reviewed changes to commit'; exit 1; }
           git commit -m "Synchronize reviewed creature names across localization"
           git push origin HEAD:main
