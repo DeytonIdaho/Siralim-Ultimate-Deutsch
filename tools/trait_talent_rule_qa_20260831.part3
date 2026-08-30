@@ -1,0 +1,14 @@
+B8JJJ+CEV2K1O`$)4RX?C58XkM?Az*9|-`4w(CxMj#rVw9VD#MqiUoZ4}&3HYBeFPy~M1*2K_^AOS<AERq0QXYe@bqVH8t?=51;pg%S6uxz%H+py@kO<;H4b&1gJ0^kwx7iOg&Y&m|hPtsgE;G=XSohsDtf;HIdyGXB@H3f6vMAM+<OTHX~XZ~KrGbv(S<!EST*doG2JaTjz1&d@1?v%1^xDAsU9wTHP5=8V?QU)XIo+TfHhK@j{d3tsUR7s~Oihq9-@t)%wiyd$-md5K^1)uy-sm~WRKtqA`*3gI{GhQ2aLQk!XZ`WP=(Xu`D;llVqOv`ZO~aZ@lM{60Pvx$)SnBZNKS-C|_Pu7-#3@+yvR`c4_5$V3E}gT;rxvNYsoy2;Xb9w+HXs|!C`HvU|HkzrE@<fgmHbAF?n7D)LcZxZV96C(^ReDd3-#NB=^x9-WQ!bA*o;iWoQo57gIa9>+x)X-{^MxLxJD@~yh>(SN<edR@at-&%f$GR%Ng+5W$X!vFv`ar&z@d!RVF*w3{9>!<t(KPbFNY2u8GKKf_F^N~~5>Y(vGtQ)eE3hv~mn{Oq_dBx7!O6Q7*zyDJk$dpAn7JQz?G%qo7ICgz3(umj!8%1l!d_l6?+w3<UQOOgh5H?ethYC7r??%Eh?^HmZDf%kYmdutkcunx4hjWX04N$fqCcdm&h(C5SiOHVSPumQT(E%j4v52AMf+L6E}Ot*hXN|8W>`7U<<gs|EYx`o8B+|Bk+S5xtY!|_<xHv72km2hFQGTea)?r0THHZoQv48s>ywf1`K~{3!srLd+&J(fKe`?h-Cl%R%Gw-91tEPplB3Ntwf82-+1kY@iy+E)>JtZ*d)BnEqNe(rd;f-!1pRg-^qUceZh;>1_O~o-M%xUA<Go%4(X9viDa!U71@i?vf{BBJx$z2ZP$>ef&Y;0`m45Bw`q&N}d-!^O-zj?Q49AQSZ=((ft5a)~z^8cNrA^9E)$grD1E}b%H1Q&e%*JRQr;a06lLn^BPy3PW_Q|*&k)fDgvfkTzvwAcRE@&$yO};3`i#Um;k4Kf72_v5HMFCwU%i^fjCH*#>=XhgO{9||@I-{{mPy&o>#{>x-e1rAjGGTYM{1!Z~;3xt0(8xo4+MTdlPyRm!sAI^@UDx)Ukye#%%R}_b02&uX&$N`8O%lu?TNWb4a8h?Y^B2UT_*}aw{Ym@(km%iDet^F2!p*syfW;Al3}>O6TA{XTw6cYy2mZ_&{H;X{G5io-d%a<RlVlp9`liwl+s&%gc;J{ju<<M)#aN%+9=BP6H810IwX?&br%FSV8HRt~vWu3rt3-jef3R!_d1KZAM=mFHo})todV$^IU3H+u6`}~g`v9IMp3Whj!|V7d-eJ#v1a;|HlMEdZpMm2<Ut)oX;wQ!Pw>A3&*tY_`Qz~RflYksp<EgM+RD3-4s4DrODrwDuX00b>&wpfJOH{4Lbm#egU})zSW!_aS)8i$e<`RzyntF++qsBv3CN*){^>XJvjveo(g<ZZtE@R9oU2ZUZ<P}IP;&Y_+tDnk=|EH(_0+1Kl5&')).decode())
+for fn,repl in P.items():
+ p=Path(fn)
+ with p.open(encoding="utf-8-sig",newline="") as f:r=list(csv.DictReader(f)); fields=list(r[0])
+ d={x["Tag"]:x for x in r}
+ missing=set(repl)-set(d)
+ if missing: raise SystemExit(f"{fn} missing tags: {sorted(missing)}")
+ n=0
+ for tag,v in repl.items():
+  if d[tag]["German"]!=v:d[tag]["German"]=v;n+=1
+ if n!=len(repl):raise SystemExit(f"{fn} expected {len(repl)} changes, got {n}")
+ with p.open("w",encoding="utf-8-sig",newline="") as f:
+  w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(r)
+ print(fn,n)
