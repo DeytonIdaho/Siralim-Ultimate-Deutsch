@@ -1,36 +1,25 @@
 #!/usr/bin/env python3
-import csv
+import base64,csv,io,json,zlib
 from pathlib import Path
-
-# Manually reviewed, tag-specific corrections only.
-# Wight deliberately remains a distinct family from Revenant (Wiedergänger).
-FIX={
-'L_FAMILIAR':'Vertrauter','L_LEECH':'Blutegel','L_MIMIC':'Mimic','L_EFREET':'Ifrit','L_WIGHT':'Wight',
-'L_CRIT_FLAMEGRIPCLUTCHER':'Flammengriff-Greifer',
-'L_CRIT_SAVAGEBANSHEE':'Wilde Banshee','L_CRIT_IMPALERBANSHEE':'Pfähler-Banshee',
-'L_CRIT_PULSEBAT':'Pulsfledermaus','L_CRIT_PELLUCIDBEACON':'Klares Leuchtfeuer',
-'L_CRIT_CLOTHABOMINATION':'Stoff-Abscheulichkeit','L_CRIT_WILLOWCONSTRUCT':'Weidenkonstrukt',
-'L_CRIT_CINDERDEVIL':'Glutteufel','L_CRIT_VEGETABLEDUMPLING':'Gemüseknödel',
-'L_CRIT_HEMLOCKENT':'Hemlock-Ent','L_CRIT_FLOODFAMILIAR':'Flut-Vertrauter',
-'L_CRIT_INKJETKRAKEN':'Tintenstrahl-Kraken','L_CRIT_GIFTMIMIC':'Geschenk-Mimic',
-'L_CRIT_WOEFULSPECTRE':'Klagendes Gespenst','L_CRIT_HOLIDAYSPIRIT':'Feiertagsgeist',
-'L_CRIT_QUARNOKTREMOR':'Quarnok-Beben','L_CRIT_GORLUMTREMOR':'Gorlum-Beben',
-'L_CRIT_SKYWARDVULPES':'Himmels-Vulpes','L_CRIT_PLATEDWARHOG':'Gepanzerter Kriegseber',
-'L_CRIT_UNDERDWELLERMISCHIEFMAKER':'Unterirdischer Unheilstifter','L_CRIT_UNDERDWELLERFEARMONGER':'Unterirdischer Angstmacher',
-'L_CRIT_TERRORWIGHT':'Terror-Wight','L_CRIT_GRAVEBANEWIGHT':'Grabfluch-Wight','L_CRIT_RECLUSIVEWIGHT':'Zurückgezogener Wight','L_CRIT_ROOFSTALKERWIGHT':'Dachschleicher-Wight','L_CRIT_DREADWIGHT':'Schreckens-Wight','L_CRIT_TREPIDATIONWIGHT':'Angst-Wight','L_CRIT_FROSTBITEWIGHT':'Frostbiss-Wight','L_CRIT_HEADLESSWIGHT':'Kopfloser Wight','L_CRIT_HOLYWIGHT':'Heiliger Wight',
-'L_CRIT_WILDFIREEFREET':'Wildfeuer-Ifrit','L_CRIT_VOLCANICEFREET':'Vulkanischer Ifrit','L_CRIT_FROSTFIREEFREET':'Frostfeuer-Ifrit','L_CRIT_OBSIDIANEFREET':'Obsidian-Ifrit','L_CRIT_DREADFULEFREET':'Schrecklicher Ifrit','L_CRIT_ASHBONEEFREET':'Aschenknochen-Ifrit','L_CRIT_FLAMETONGUEEFREET':'Flammenzungen-Ifrit',
-'L_CRIT_DJINNEVOKER':'Djinn-Beschwörer','L_CRIT_VENGEFULDJINN':'Rachsüchtiger Djinn','L_CRIT_UNCHAINEDDJINN':'Entfesselter Djinn',
-}
-P=Path('creatures.csv')
-with P.open(encoding='utf-8-sig',newline='') as f:r=csv.DictReader(f);fields=r.fieldnames or [];rows=list(r)
-changed=[];seen=set()
-for row in rows:
- tag=row.get('Tag','')
+DATA='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'
+FIX={t:(o,n) for t,o,n in json.loads(zlib.decompress(base64.b64decode(DATA)))}
+p=Path('creatures.csv'); raw=p.read_bytes(); bom=b'\xef\xbb\xbf' if raw.startswith(b'\xef\xbb\xbf') else b''; body=raw[len(bom):].decode('utf-8'); lines=body.splitlines(keepends=True)
+rows=list(csv.DictReader(io.StringIO(body)))
+if len(lines)!=len(rows)+1: raise SystemExit('Unexpected multiline CSV records')
+h=next(csv.reader([lines[0].rstrip('\r\n')])); ti,gi=h.index('Tag'),h.index('German'); seen=set(); out=[lines[0]]; changed=0
+for line in lines[1:]:
+ e='\r\n' if line.endswith('\r\n') else ('\n' if line.endswith('\n') else ''); text=line[:-len(e)] if e else line; f=next(csv.reader([text])); tag=f[ti]
  if tag in FIX:
-  seen.add(tag);old=row.get('German','');new=FIX[tag]
-  if old!=new:row['German']=new;changed.append((tag,old,new))
+  if tag in seen: raise SystemExit('Duplicate tag '+tag)
+  seen.add(tag); old,new=FIX[tag]
+  if f[gi]!=old: raise SystemExit(f'Unexpected old value {tag}: {f[gi]!r} != {old!r}')
+  f[gi]=new; b=io.StringIO(newline=''); csv.writer(b,lineterminator='').writerow(f); out.append(b.getvalue()+e); changed+=1
+ else: out.append(line)
 missing=set(FIX)-seen
-if missing:raise SystemExit('Missing reviewed tags: '+', '.join(sorted(missing)))
-with P.open('w',encoding='utf-8',newline='') as f:w=csv.DictWriter(f,fieldnames=fields,lineterminator='\n');w.writeheader();w.writerows(rows)
-print('changes',len(changed))
-for x in changed:print('FIX | '+' | '.join(x))
+if missing: raise SystemExit('Missing tags: '+', '.join(sorted(missing)))
+if changed!=len(FIX): raise SystemExit(f'Expected {len(FIX)} changes, got {changed}')
+p.write_bytes(bom+''.join(out).encode('utf-8'))
+with p.open(encoding='utf-8-sig',newline='') as fh: result={r['Tag']:r for r in csv.DictReader(fh)}
+for tag,(_,new) in FIX.items():
+ if result[tag]['German']!=new: raise SystemExit('Post-check failed '+tag)
+print(f'Applied and verified {changed} reviewed creature-name changes')
