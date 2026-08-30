@@ -5,6 +5,7 @@ DATA='eNqFWUmW4zYSvYpera1DQCQkosRB5pDKLD8/P6QESbA4pEGyM53rvoc3dQavaqeLdQDgAFBU9a
 FIX={t:(o,n) for t,o,n in json.loads(zlib.decompress(base64.b64decode(DATA)))}
 p=Path('creatures.csv'); raw=p.read_bytes(); bom=b'\xef\xbb\xbf' if raw.startswith(b'\xef\xbb\xbf') else b''; body=raw[len(bom):].decode('utf-8'); lines=body.splitlines(keepends=True)
 rows=list(csv.DictReader(io.StringIO(body)))
+if len(rows)!=1612: raise SystemExit(f'Unexpected row count: {len(rows)}')
 if len(lines)!=len(rows)+1: raise SystemExit('Unexpected multiline CSV records')
 h=next(csv.reader([lines[0].rstrip('\r\n')])); ti,gi=h.index('Tag'),h.index('German'); seen=set(); out=[lines[0]]; changed=0
 for line in lines[1:]:
