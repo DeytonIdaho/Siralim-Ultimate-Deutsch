@@ -25,30 +25,24 @@ OVERRIDES={
  ('personality.csv','L_D_PERS_SPEED_ANIMATION'):[('Erweckts','Erweckten')],
  ('decorations.csv','L_DEC_ASTRALGALLERYANIMATIONSTATUE'):[('Erwecktsstatue','Statue der Erweckten')],
 }
-
 def records_with_raw(text):
-    # Return parsed CSV records together with their exact original text spans.
-    # csv.reader.line_num counts physical lines consumed, including quoted embedded newlines.
     phys=text.splitlines(keepends=True); reader=csv.reader(io.StringIO(text,newline='')); out=[]; prev=0
     for row in reader:
         end=reader.line_num; out.append((row,''.join(phys[prev:end]))); prev=end
     if prev!=len(phys): raise SystemExit('CSV physical-line accounting mismatch')
     return out
-
 files=sorted(p for p in Path('.').glob('*.csv') if p.name not in {'creatures.csv','battle.csv','TERMINOLOGIE.csv'})
 plans=[]; parsed={}
 for p in files:
-    raw=p.read_bytes(); bom=raw.startswith(b'\xef\xbb\xbf'); body=raw[3:] if bom else raw; text=body.decode('utf-8')
-    recs=records_with_raw(text)
+    raw=p.read_bytes(); bom=raw.startswith(b'\xef\xbb\xbf'); text=(raw[3:] if bom else raw).decode('utf-8'); recs=records_with_raw(text)
     if len(recs)<2: continue
     header=recs[0][0]
     if not {'Tag','English','German'}.issubset(header): continue
-    ti,ei,gi=header.index('Tag'),header.index('English'),header.index('German'); seen=set(); parsed[p]=(bom,recs,gi)
+    ti,ei,gi=header.index('Tag'),header.index('English'),header.index('German'); parsed[p]=(bom,recs,gi)
     for ri,(fields,rawrec) in enumerate(recs[1:],1):
         if len(fields)!=len(header): raise SystemExit(f'{p}: malformed CSV record {ri}')
         tag=fields[ti]; eng=fields[ei]; old_de=fields[gi]; new_de=old_de; reasons=[]
-        if tag in seen: raise SystemExit(f'{p}: duplicate tag {tag}')
-        seen.add(tag)
+        # Record identity is (file, record index, tag, English, old German); duplicate tags are legitimate.
         for ctag,(old_name,new_name) in FIX.items():
             en_name=creatures[ctag]['English']
             if en_name and old_name and old_name!=new_name and re.search(r'(?<!\w)'+re.escape(en_name)+r'(?!\w)',eng,re.I) and old_name in new_de:
@@ -58,25 +52,26 @@ for p in files:
                 new_de=new_de.replace(old_term,new_term); reasons.append(eng_term)
         for a,b in OVERRIDES.get((p.name,tag),[]):
             if a in new_de: new_de=new_de.replace(a,b)
-        if new_de!=old_de: plans.append((p,ri,tag,old_de,new_de,reasons))
+        if new_de!=old_de: plans.append((p,ri,tag,eng,old_de,new_de,reasons))
 EXPECTED=148
 if len(plans)!=EXPECTED: raise SystemExit(f'Expected exactly {EXPECTED} validated rows, found {len(plans)}')
 allowed={'overworld.csv','bosses.csv','achievements.csv','ui.csv','dialog_story.csv','items.csv','personality.csv','decorations.csv','lore.csv','quests.csv','traits.csv','codex.csv','spells.csv'}
 actual={x[0].name for x in plans}
 if actual!=allowed: raise SystemExit(f'Unexpected file scope: {sorted(actual)}')
-# All global validations passed. Rebuild only changed CSV records; untouched records remain byte-for-byte identical.
+# Verify every planned record still has its exact identity before any write.
+for p,ri,tag,eng,old,new,reasons in plans:
+    rec=parsed[p][1][ri][0]; header=parsed[p][1][0][0]; ti,ei,gi=header.index('Tag'),header.index('English'),header.index('German')
+    if (rec[ti],rec[ei],rec[gi])!=(tag,eng,old): raise SystemExit(f'{p}: record identity changed at {ri}')
 byfile={}
 for plan in plans: byfile.setdefault(plan[0],[]).append(plan)
 for p,pp in byfile.items():
-    bomflag,recs,gi=parsed[p]; changes={ri:new for _,ri,tag,old,new,reasons in pp}; chunks=[]
+    bomflag,recs,gi=parsed[p]; changes={ri:new for _,ri,tag,eng,old,new,reasons in pp}; chunks=[]
     for ri,(fields,rawrec) in enumerate(recs):
         if ri not in changes: chunks.append(rawrec); continue
         ending='\r\n' if rawrec.endswith('\r\n') else ('\n' if rawrec.endswith('\n') else '')
-        fields=list(fields); fields[gi]=changes[ri]
-        out=io.StringIO(newline=''); csv.writer(out,lineterminator='').writerow(fields); chunks.append(out.getvalue()+ending)
+        fields=list(fields); fields[gi]=changes[ri]; out=io.StringIO(newline=''); csv.writer(out,lineterminator='').writerow(fields); chunks.append(out.getvalue()+ending)
     p.write_bytes((b'\xef\xbb\xbf' if bomflag else b'')+''.join(chunks).encode('utf-8'))
-    with p.open(encoding='utf-8-sig',newline='') as f:
-        post=list(csv.reader(f))
-    if not post: raise SystemExit(f'{p}: empty after patch')
+    with p.open(encoding='utf-8-sig',newline='') as f: post=list(csv.reader(f))
+    if len(post)!=len(recs): raise SystemExit(f'{p}: record count changed')
 print(f'Applied {len(plans)} validated cross-file rows across {len(byfile)} files.')
 for p in sorted(byfile,key=lambda x:x.name): print(f'  {p.name}: {len(byfile[p])}')
