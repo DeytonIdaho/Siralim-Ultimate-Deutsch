@@ -1,0 +1,82 @@
+name: Recover Reviewed Translation Changes 2026-08-31
+
+on:
+  push:
+    paths:
+      - '.github/workflows/recover-reviewed-changes-20260831.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Capture exact baseline
+        run: |
+          cp traits.csv /tmp/traits.before.csv
+          cp perks.csv /tmp/perks.before.csv
+          cp spells.csv /tmp/spells.before.csv
+          cp battle.csv /tmp/battle.before.csv
+
+      - name: Apply recovered reviewed records
+        run: python tools/recover_reviewed_changes_20260831.py
+
+      - name: Validate recovered data
+        run: |
+          python - <<'PY'
+          import csv, re, subprocess
+          from pathlib import Path
+
+          expected = {'traits.csv': 282, 'perks.csv': 12, 'spells.csv': 82, 'battle.csv': 13}
+          changed_files = set(subprocess.check_output(['git','diff','--name-only'], text=True).splitlines())
+          if changed_files != set(expected):
+              raise SystemExit(f'Unexpected changed files: {sorted(changed_files)}')
+
+          token_re = re.compile(r'(?:\{[^{}]+\}|\[[^\[\]]+\]|<[^<>]+>)')
+          total = 0
+          for fn, wanted in expected.items():
+              before_path = Path('/tmp') / fn.replace('.csv', '.before.csv')
+              with before_path.open(encoding='utf-8-sig', newline='') as f:
+                  rb = csv.DictReader(f); before = list(rb); fields_b = rb.fieldnames
+              with Path(fn).open(encoding='utf-8-sig', newline='') as f:
+                  ra = csv.DictReader(f); after = list(ra); fields_a = ra.fieldnames
+              if fields_a != fields_b or len(after) != len(before):
+                  raise SystemExit(f'{fn}: structure/row count changed')
+              if [r['Tag'] for r in after] != [r['Tag'] for r in before]:
+                  raise SystemExit(f'{fn}: tag/order changed')
+              count = 0
+              for a,b in zip(before,after):
+                  diff = [k for k in fields_b if a[k] != b[k]]
+                  if diff:
+                      if diff != ['German']:
+                          raise SystemExit(f"{fn}/{a['Tag']}: changed fields {diff}")
+                      if sorted(token_re.findall(a['German'])) != sorted(token_re.findall(b['German'])):
+                          raise SystemExit(f"{fn}/{a['Tag']}: placeholder mismatch")
+                      count += 1
+              if count != wanted:
+                  raise SystemExit(f'{fn}: expected {wanted} changed records, got {count}')
+              print(f'{fn}: exactly {count} German-only records validated')
+              total += count
+          if total != 389:
+              raise SystemExit(f'Expected 389 total records, got {total}')
+          print('Validated exactly 389 recovered German-only records.')
+          PY
+
+      - name: Commit recovered data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add traits.csv perks.csv spells.csv battle.csv
+          git diff --cached --quiet && { echo 'No recovered changes to commit'; exit 1; }
+          git commit -m "Recover reviewed German translation changes"
+          git push origin HEAD:main
