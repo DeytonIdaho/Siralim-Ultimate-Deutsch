@@ -1,3 +1,0 @@
-line,english,german,issues,reviewed,replacement
-97,Your creatures' {CONDNAME_BUFF_SAVAGE} buff now causes them to have a 100% chance to deal critical damage.\n\n{CONDDESC_BUFF_SAVAGE},"Deine Kreaturen haben durch den Buff {CONDNAME_BUFF_SAVAGE} nun eine 100%ige Chance, kritischen Schaden zu verursachen.\n\n{CONDDESC_BUFF_SAVAGE}",TOKEN_MISMATCH,,
-1313,"Your creatures have a 1% chance (up to 35%) to avoid debuffs for every 3 ranks their Relics have. If your creatures' Relics are Rank 150 or more, they are resistant to debuffs.","Deine Kreaturen haben eine 1%ige Chance (bis zu 35%), Debuffs zu vermeiden, für jeweils 3 Ränge ihrer Relikte. Wenn die Relikte deiner Kreaturen Rang 150 oder höher sind, sind sie resistent gegen Debuffs.",TOKEN_MISMATCH,,
