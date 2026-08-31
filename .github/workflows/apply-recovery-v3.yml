@@ -14,56 +14,73 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Apply and validate recovery packets
+      - name: Repair packet JSON, apply and validate
         run: |
           python - <<'PY'
-          import csv, json, glob, re, shutil
+          import csv,json,glob,re
           from pathlib import Path
           files=['traits.csv','perks.csv','spells.csv','battle.csv']
           before={}
           for fn in files:
-              shutil.copy2(fn, '/tmp/'+fn)
-              with open(fn,encoding='utf-8-sig',newline='') as f:
-                  r=csv.DictReader(f); before[fn]=(r.fieldnames,list(r))
+            with open(fn,encoding='utf-8-sig',newline='') as f:
+              r=csv.DictReader(f); before[fn]=(r.fieldnames,list(r))
+          def repair_json_controls(s):
+            out=[]; quoted=False; esc=False
+            for c in s:
+              if quoted and ord(c)<32:
+                out.append(json.dumps(c)[1:-1]); continue
+              out.append(c)
+              if esc: esc=False
+              elif c=='\\': esc=True
+              elif c=='"': quoted=not quoted
+            return ''.join(out)
           packets=[]
-          for p in sorted(glob.glob('tools/recovery_v3/r8_*.json')):
-              packets.extend(json.loads(Path(p).read_text(encoding='utf-8')))
-          if len(packets)!=389: raise SystemExit(f'expected 389 packets, got {len(packets)}')
+          paths=sorted(glob.glob('tools/recovery_v3/r8_*.json'))
+          for p in paths:
+            raw=Path(p).read_text(encoding='utf-8')
+            try: data=json.loads(raw)
+            except json.JSONDecodeError:
+              data=json.loads(repair_json_controls(raw))
+              print('repaired control characters:',p)
+            packets.extend(data)
+          if len(paths)!=49: raise SystemExit(f'expected 49 packet files, got {len(paths)}')
+          if len(packets)!=389: raise SystemExit(f'expected 389 records, got {len(packets)}')
           if len({(x[0],x[1]) for x in packets})!=389: raise SystemExit('duplicate file/tag entries')
-          byfile={fn:[] for fn in files}
-          for x in packets: byfile[x[0]].append(x)
           expected={'traits.csv':282,'perks.csv':12,'spells.csv':82,'battle.csv':13}
+          byfile={fn:[] for fn in files}
+          for x in packets:
+            if len(x)!=4 or x[0] not in byfile: raise SystemExit('invalid recovery record')
+            byfile[x[0]].append(x)
           if {k:len(v) for k,v in byfile.items()}!=expected: raise SystemExit('wrong distribution')
+          changed_tags={}
           for fn in files:
-              fields,rows=before[fn]
-              idx={r['Tag']:r for r in rows}
-              for _,tag,old,new in byfile[fn]:
-                  if tag not in idx: raise SystemExit(f'{fn}/{tag}: missing tag')
-                  cur=idx[tag]['German']
-                  if cur==new: continue
-                  if cur!=old: raise SystemExit(f'{fn}/{tag}: expected old text mismatch')
-                  idx[tag]['German']=new
-              with open(fn,'w',encoding='utf-8-sig',newline='') as f:
-                  w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
+            fields,rows=before[fn]; idx={r['Tag']:r for r in rows}; changed_tags[fn]=set()
+            for _,tag,old,new in byfile[fn]:
+              if tag not in idx: raise SystemExit(f'{fn}/{tag}: missing tag')
+              cur=idx[tag]['German']
+              if cur==new: continue
+              if cur!=old: raise SystemExit(f'{fn}/{tag}: old text mismatch')
+              idx[tag]['German']=new; changed_tags[fn].add(tag)
+            with open(fn,'w',encoding='utf-8-sig',newline='') as f:
+              w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
           token=re.compile(r'(?:\{[^{}]+\}|\[[^\[\]]+\]|<[^<>]+>)')
           total=0
           for fn in files:
-              bf,br=before[fn]
-              with open(fn,encoding='utf-8-sig',newline='') as f:
-                  r=csv.DictReader(f); af=r.fieldnames; ar=list(r)
-              if af!=bf or len(ar)!=len(br): raise SystemExit(f'{fn}: structure changed')
-              if [x['Tag'] for x in ar]!=[x['Tag'] for x in br]: raise SystemExit(f'{fn}: tag/order changed')
-              changed=0
-              for a,b in zip(br,ar):
-                  d=[k for k in bf if a[k]!=b[k]]
-                  if d:
-                      if d!=['German']: raise SystemExit(f"{fn}/{a['Tag']}: changed fields {d}")
-                      if sorted(token.findall(a['German']))!=sorted(token.findall(b['German'])): raise SystemExit(f"{fn}/{a['Tag']}: placeholder mismatch")
-                      changed+=1
-              if changed>expected[fn]: raise SystemExit(f'{fn}: too many changed rows {changed}')
-              total+=changed
-              print(fn, changed, 'new changes applied')
-          print('Recovery packet validation passed; total newly changed:',total)
+            bf,br=before[fn]
+            with open(fn,encoding='utf-8-sig',newline='') as f:
+              r=csv.DictReader(f); af=r.fieldnames; ar=list(r)
+            if af!=bf or len(ar)!=len(br): raise SystemExit(f'{fn}: structure changed')
+            if [x['Tag'] for x in ar]!=[x['Tag'] for x in br]: raise SystemExit(f'{fn}: tag/order changed')
+            actual=set()
+            for a,b in zip(br,ar):
+              d=[k for k in bf if a[k]!=b[k]]
+              if d:
+                if d!=['German']: raise SystemExit(f"{fn}/{a['Tag']}: changed fields {d}")
+                if sorted(token.findall(a['German']))!=sorted(token.findall(b['German'])): raise SystemExit(f"{fn}/{a['Tag']}: placeholder mismatch")
+                actual.add(a['Tag'])
+            if actual!=changed_tags[fn]: raise SystemExit(f'{fn}: unexpected changed-tag set')
+            total+=len(actual); print(fn,len(actual),'new changes')
+          print('Recovery validation passed; newly applied:',total)
           PY
       - name: Commit recovered CSV data
         run: |
