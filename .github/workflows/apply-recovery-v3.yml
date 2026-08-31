@@ -1,0 +1,75 @@
+name: Apply Recovery V3
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/apply-recovery-v3.yml'
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply and validate recovery packets
+        run: |
+          python - <<'PY'
+          import csv, json, glob, re, shutil
+          from pathlib import Path
+          files=['traits.csv','perks.csv','spells.csv','battle.csv']
+          before={}
+          for fn in files:
+              shutil.copy2(fn, '/tmp/'+fn)
+              with open(fn,encoding='utf-8-sig',newline='') as f:
+                  r=csv.DictReader(f); before[fn]=(r.fieldnames,list(r))
+          packets=[]
+          for p in sorted(glob.glob('tools/recovery_v3/r8_*.json')):
+              packets.extend(json.loads(Path(p).read_text(encoding='utf-8')))
+          if len(packets)!=389: raise SystemExit(f'expected 389 packets, got {len(packets)}')
+          if len({(x[0],x[1]) for x in packets})!=389: raise SystemExit('duplicate file/tag entries')
+          byfile={fn:[] for fn in files}
+          for x in packets: byfile[x[0]].append(x)
+          expected={'traits.csv':282,'perks.csv':12,'spells.csv':82,'battle.csv':13}
+          if {k:len(v) for k,v in byfile.items()}!=expected: raise SystemExit('wrong distribution')
+          for fn in files:
+              fields,rows=before[fn]
+              idx={r['Tag']:r for r in rows}
+              for _,tag,old,new in byfile[fn]:
+                  if tag not in idx: raise SystemExit(f'{fn}/{tag}: missing tag')
+                  cur=idx[tag]['German']
+                  if cur==new: continue
+                  if cur!=old: raise SystemExit(f'{fn}/{tag}: expected old text mismatch')
+                  idx[tag]['German']=new
+              with open(fn,'w',encoding='utf-8-sig',newline='') as f:
+                  w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
+          token=re.compile(r'(?:\{[^{}]+\}|\[[^\[\]]+\]|<[^<>]+>)')
+          total=0
+          for fn in files:
+              bf,br=before[fn]
+              with open(fn,encoding='utf-8-sig',newline='') as f:
+                  r=csv.DictReader(f); af=r.fieldnames; ar=list(r)
+              if af!=bf or len(ar)!=len(br): raise SystemExit(f'{fn}: structure changed')
+              if [x['Tag'] for x in ar]!=[x['Tag'] for x in br]: raise SystemExit(f'{fn}: tag/order changed')
+              changed=0
+              for a,b in zip(br,ar):
+                  d=[k for k in bf if a[k]!=b[k]]
+                  if d:
+                      if d!=['German']: raise SystemExit(f"{fn}/{a['Tag']}: changed fields {d}")
+                      if sorted(token.findall(a['German']))!=sorted(token.findall(b['German'])): raise SystemExit(f"{fn}/{a['Tag']}: placeholder mismatch")
+                      changed+=1
+              if changed>expected[fn]: raise SystemExit(f'{fn}: too many changed rows {changed}')
+              total+=changed
+              print(fn, changed, 'new changes applied')
+          print('Recovery packet validation passed; total newly changed:',total)
+          PY
+      - name: Commit recovered CSV data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add traits.csv perks.csv spells.csv battle.csv
+          git diff --cached --quiet && { echo 'No CSV changes to commit'; exit 1; }
+          git commit -m "Apply recovered reviewed German translations"
+          git push origin HEAD:main
