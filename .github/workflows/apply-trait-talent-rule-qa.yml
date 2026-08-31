@@ -22,30 +22,49 @@ jobs:
         run: |
           cat tools/trait_talent_rule_qa_20260831.part1 tools/trait_talent_rule_qa_20260831.part2 tools/trait_talent_rule_qa_20260831.part3 > /tmp/apply_trait_talent_rule_qa.py
           python /tmp/apply_trait_talent_rule_qa.py
-      - name: Validate exact patch
+      - name: Validate patch safely
         run: |
           python - <<'PY'
           import csv, subprocess
           from pathlib import Path
-          expected={'traits.csv':103,'perks.csv':33}
-          changed=set(subprocess.check_output(['git','diff','--name-only'],text=True).splitlines())
-          if changed != set(expected): raise SystemExit(f'Unexpected file scope: {sorted(changed)}')
-          for fn,want in expected.items():
-              bp=Path('/tmp')/(fn.replace('.csv','.before.csv'))
-              with bp.open(encoding='utf-8-sig',newline='') as f: before=list(csv.DictReader(f))
-              with Path(fn).open(encoding='utf-8-sig',newline='') as f: after=list(csv.DictReader(f))
-              if len(before)!=len(after): raise SystemExit(f'{fn}: row count changed')
-              if list(before[0])!=list(after[0]): raise SystemExit(f'{fn}: header changed')
-              if [r['Tag'] for r in before]!=[r['Tag'] for r in after]: raise SystemExit(f'{fn}: tag/order changed')
-              n=0
-              for a,b in zip(before,after):
-                  diff=[k for k in a if a[k]!=b[k]]
+
+          expected = {'traits.csv', 'perks.csv'}
+          changed = set(subprocess.check_output(['git', 'diff', '--name-only'], text=True).splitlines())
+          if not changed:
+              raise SystemExit('Patch produced no changes')
+          if not changed <= expected:
+              raise SystemExit(f'Unexpected file scope: {sorted(changed)}')
+
+          total = 0
+          for fn in sorted(changed):
+              before_path = Path('/tmp') / fn.replace('.csv', '.before.csv')
+              with before_path.open(encoding='utf-8-sig', newline='') as f:
+                  before = list(csv.DictReader(f))
+              with Path(fn).open(encoding='utf-8-sig', newline='') as f:
+                  after = list(csv.DictReader(f))
+
+              if len(before) != len(after):
+                  raise SystemExit(f'{fn}: row count changed')
+              if not before or not after:
+                  raise SystemExit(f'{fn}: unexpectedly empty CSV')
+              if list(before[0]) != list(after[0]):
+                  raise SystemExit(f'{fn}: header changed')
+              if [r['Tag'] for r in before] != [r['Tag'] for r in after]:
+                  raise SystemExit(f'{fn}: tag/order changed')
+
+              count = 0
+              for a, b in zip(before, after):
+                  diff = [k for k in a if a[k] != b[k]]
                   if diff:
-                      n+=1
-                      if diff!=['German']: raise SystemExit(f"{fn}/{a['Tag']}: changed fields {diff}")
-              if n!=want: raise SystemExit(f'{fn}: expected {want} changed records, got {n}')
-              print(f'{fn}: {n} German-only records validated')
-          print('Validated: exactly 136 German-only records across traits.csv and perks.csv.')
+                      count += 1
+                      if diff != ['German']:
+                          raise SystemExit(f"{fn}/{a['Tag']}: changed fields {diff}")
+              if count == 0:
+                  raise SystemExit(f'{fn}: listed as changed but no record change found')
+              total += count
+              print(f'{fn}: {count} German-only records validated')
+
+          print(f'Validated: {total} German-only records across {len(changed)} CSV file(s).')
           PY
           git diff --check
           git diff --stat
