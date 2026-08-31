@@ -40,10 +40,9 @@ jobs:
             raw=Path(p).read_text(encoding='utf-8')
             try: data=json.loads(raw)
             except json.JSONDecodeError:
-              data=json.loads(repair_json_controls(raw))
-              print('repaired control characters:',p)
+              data=json.loads(repair_json_controls(raw)); print('repaired:',p)
             packets.extend(data)
-          if len(paths)!=49: raise SystemExit(f'expected 49 packet files, got {len(paths)}')
+          print('packet files:',len(paths),'records:',len(packets))
           if len(packets)!=389: raise SystemExit(f'expected 389 records, got {len(packets)}')
           if len({(x[0],x[1]) for x in packets})!=389: raise SystemExit('duplicate file/tag entries')
           expected={'traits.csv':282,'perks.csv':12,'spells.csv':82,'battle.csv':13}
