@@ -14,7 +14,7 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Repair packet JSON, apply and validate
+      - name: Load all recovery records, apply and validate
         run: |
           python - <<'PY'
           import csv,json,glob,re
@@ -24,25 +24,19 @@ jobs:
           for fn in files:
             with open(fn,encoding='utf-8-sig',newline='') as f:
               r=csv.DictReader(f); before[fn]=(r.fieldnames,list(r))
-          def repair_json_controls(s):
-            out=[]; quoted=False; esc=False
-            for c in s:
-              if quoted and ord(c)<32:
-                out.append(json.dumps(c)[1:-1]); continue
-              out.append(c)
-              if esc: esc=False
-              elif c=='\\': esc=True
-              elif c=='"': quoted=not quoted
-            return ''.join(out)
-          packets=[]
-          paths=sorted(glob.glob('tools/recovery_v3/r8_*.json'))
-          for p in paths:
+          def load(p):
             raw=Path(p).read_text(encoding='utf-8')
-            try: data=json.loads(raw)
-            except json.JSONDecodeError:
-              data=json.loads(repair_json_controls(raw)); print('repaired:',p)
-            packets.extend(data)
-          print('packet files:',len(paths),'records:',len(packets))
+            return json.loads(raw,strict=False)
+          paths=sorted(glob.glob('tools/recovery_v3/r8_*.json'))
+          packets=[]
+          for p in paths: packets.extend(load(p))
+          # The originally blocked 16 records were safely transferred outside the r8 naming sequence.
+          extras=['tools/recovery_v3/packet_real_001.json','tools/recovery_v3/packet_real_002.json']
+          for p in extras:
+            data=load(p)
+            for x in data:
+              if (x[0],x[1]) not in {(y[0],y[1]) for y in packets}: packets.append(x)
+          print('records after recovery merge:',len(packets))
           if len(packets)!=389: raise SystemExit(f'expected 389 records, got {len(packets)}')
           if len({(x[0],x[1]) for x in packets})!=389: raise SystemExit('duplicate file/tag entries')
           expected={'traits.csv':282,'perks.csv':12,'spells.csv':82,'battle.csv':13}
@@ -50,7 +44,8 @@ jobs:
           for x in packets:
             if len(x)!=4 or x[0] not in byfile: raise SystemExit('invalid recovery record')
             byfile[x[0]].append(x)
-          if {k:len(v) for k,v in byfile.items()}!=expected: raise SystemExit('wrong distribution')
+          counts={k:len(v) for k,v in byfile.items()}; print(counts)
+          if counts!=expected: raise SystemExit('wrong distribution')
           changed_tags={}
           for fn in files:
             fields,rows=before[fn]; idx={r['Tag']:r for r in rows}; changed_tags[fn]=set()
