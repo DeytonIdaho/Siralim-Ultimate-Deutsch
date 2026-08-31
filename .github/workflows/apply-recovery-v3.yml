@@ -14,40 +14,43 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Load all recovery records, apply and validate
+      - name: Load recovery, apply and validate
         run: |
           python - <<'PY'
-          import csv,json,glob,re
+          import csv,json,glob,re,copy
           from pathlib import Path
           files=['traits.csv','perks.csv','spells.csv','battle.csv']
           before={}
           for fn in files:
             with open(fn,encoding='utf-8-sig',newline='') as f:
-              r=csv.DictReader(f); before[fn]=(r.fieldnames,list(r))
+              r=csv.DictReader(f); before[fn]=(r.fieldnames,copy.deepcopy(list(r)))
           def load(p): return json.loads(Path(p).read_text(encoding='utf-8'),strict=False)
-          packets=[]
-          for p in sorted(glob.glob('tools/recovery_v3/r8_*.json')): packets.extend(load(p))
+          packets=[]; seen=set()
+          for p in sorted(glob.glob('tools/recovery_v3/r8_*.json')):
+            for x in load(p):
+              k=(x[0],x[1])
+              if k not in seen: packets.append(x); seen.add(k)
           for p in ['tools/recovery_v3/packet_real_001.json','tools/recovery_v3/packet_real_002.json']:
             for x in load(p):
-              if (x[0],x[1]) not in {(y[0],y[1]) for y in packets}: packets.append(x)
-          if len(packets)!=389 or len({(x[0],x[1]) for x in packets})!=389: raise SystemExit(f'recovery set invalid: {len(packets)}')
+              k=(x[0],x[1])
+              if k not in seen: packets.append(x); seen.add(k)
+          if len(packets)!=389 or len(seen)!=389: raise SystemExit(f'recovery set invalid: {len(packets)}')
           expected={'traits.csv':282,'perks.csv':12,'spells.csv':82,'battle.csv':13}
           byfile={fn:[] for fn in files}
           for x in packets:
             if len(x)!=4 or x[0] not in byfile: raise SystemExit('invalid recovery record')
             byfile[x[0]].append(x)
           if {k:len(v) for k,v in byfile.items()}!=expected: raise SystemExit('wrong distribution')
-          changed_tags={fn:set() for fn in files}; preexisting=[]
+          changed_tags={fn:set() for fn in files}; retained=[]
           for fn in files:
-            fields,rows=before[fn]; idx={r['Tag']:r for r in rows}
+            fields,orig=before[fn]; rows=copy.deepcopy(orig); idx={r['Tag']:r for r in rows}
             for _,tag,old,new in byfile[fn]:
               if tag not in idx: raise SystemExit(f'{fn}/{tag}: missing tag')
               cur=idx[tag]['German']
-              if cur==new: preexisting.append((fn,tag)); continue
-              if cur==old: idx[tag]['German']=new; changed_tags[fn].add(tag); continue
-              # A reviewed row may already have been improved by an earlier accepted commit.
-              # Never overwrite it blindly: retain current text and report it for audit.
-              preexisting.append((fn,tag))
+              if cur==new: retained.append((fn,tag,'already target')); continue
+              if cur==old:
+                idx[tag]['German']=new; changed_tags[fn].add(tag); continue
+              retained.append((fn,tag,'current differs from recovery baseline'))
               print('retain current reviewed text:',fn,tag)
             with open(fn,'w',encoding='utf-8-sig',newline='') as f:
               w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
@@ -65,9 +68,10 @@ jobs:
                 if d!=['German']: raise SystemExit(f"{fn}/{a['Tag']}: changed fields {d}")
                 if sorted(token.findall(a['German']))!=sorted(token.findall(b['German'])): raise SystemExit(f"{fn}/{a['Tag']}: placeholder mismatch")
                 actual.add(a['Tag'])
-            if actual!=changed_tags[fn]: raise SystemExit(f'{fn}: unexpected changed-tag set')
-            total+=len(actual)
-          print('Recovery validation passed. records=389 newly_applied=',total,'already_current_or_newer=',len(preexisting))
+            if actual!=changed_tags[fn]:
+              raise SystemExit(f'{fn}: unexpected changed-tag set expected={len(changed_tags[fn])} actual={len(actual)}')
+            total+=len(actual); print(fn,'newly applied',len(actual))
+          print('Recovery validation passed records=389 newly_applied=',total,'retained=',len(retained))
           PY
       - name: Commit recovered CSV data
         run: |
