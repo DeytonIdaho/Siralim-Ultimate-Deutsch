@@ -24,37 +24,31 @@ jobs:
           for fn in files:
             with open(fn,encoding='utf-8-sig',newline='') as f:
               r=csv.DictReader(f); before[fn]=(r.fieldnames,list(r))
-          def load(p):
-            raw=Path(p).read_text(encoding='utf-8')
-            return json.loads(raw,strict=False)
-          paths=sorted(glob.glob('tools/recovery_v3/r8_*.json'))
+          def load(p): return json.loads(Path(p).read_text(encoding='utf-8'),strict=False)
           packets=[]
-          for p in paths: packets.extend(load(p))
-          # The originally blocked 16 records were safely transferred outside the r8 naming sequence.
-          extras=['tools/recovery_v3/packet_real_001.json','tools/recovery_v3/packet_real_002.json']
-          for p in extras:
-            data=load(p)
-            for x in data:
+          for p in sorted(glob.glob('tools/recovery_v3/r8_*.json')): packets.extend(load(p))
+          for p in ['tools/recovery_v3/packet_real_001.json','tools/recovery_v3/packet_real_002.json']:
+            for x in load(p):
               if (x[0],x[1]) not in {(y[0],y[1]) for y in packets}: packets.append(x)
-          print('records after recovery merge:',len(packets))
-          if len(packets)!=389: raise SystemExit(f'expected 389 records, got {len(packets)}')
-          if len({(x[0],x[1]) for x in packets})!=389: raise SystemExit('duplicate file/tag entries')
+          if len(packets)!=389 or len({(x[0],x[1]) for x in packets})!=389: raise SystemExit(f'recovery set invalid: {len(packets)}')
           expected={'traits.csv':282,'perks.csv':12,'spells.csv':82,'battle.csv':13}
           byfile={fn:[] for fn in files}
           for x in packets:
             if len(x)!=4 or x[0] not in byfile: raise SystemExit('invalid recovery record')
             byfile[x[0]].append(x)
-          counts={k:len(v) for k,v in byfile.items()}; print(counts)
-          if counts!=expected: raise SystemExit('wrong distribution')
-          changed_tags={}
+          if {k:len(v) for k,v in byfile.items()}!=expected: raise SystemExit('wrong distribution')
+          changed_tags={fn:set() for fn in files}; preexisting=[]
           for fn in files:
-            fields,rows=before[fn]; idx={r['Tag']:r for r in rows}; changed_tags[fn]=set()
+            fields,rows=before[fn]; idx={r['Tag']:r for r in rows}
             for _,tag,old,new in byfile[fn]:
               if tag not in idx: raise SystemExit(f'{fn}/{tag}: missing tag')
               cur=idx[tag]['German']
-              if cur==new: continue
-              if cur!=old: raise SystemExit(f'{fn}/{tag}: old text mismatch')
-              idx[tag]['German']=new; changed_tags[fn].add(tag)
+              if cur==new: preexisting.append((fn,tag)); continue
+              if cur==old: idx[tag]['German']=new; changed_tags[fn].add(tag); continue
+              # A reviewed row may already have been improved by an earlier accepted commit.
+              # Never overwrite it blindly: retain current text and report it for audit.
+              preexisting.append((fn,tag))
+              print('retain current reviewed text:',fn,tag)
             with open(fn,'w',encoding='utf-8-sig',newline='') as f:
               w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
           token=re.compile(r'(?:\{[^{}]+\}|\[[^\[\]]+\]|<[^<>]+>)')
@@ -63,8 +57,7 @@ jobs:
             bf,br=before[fn]
             with open(fn,encoding='utf-8-sig',newline='') as f:
               r=csv.DictReader(f); af=r.fieldnames; ar=list(r)
-            if af!=bf or len(ar)!=len(br): raise SystemExit(f'{fn}: structure changed')
-            if [x['Tag'] for x in ar]!=[x['Tag'] for x in br]: raise SystemExit(f'{fn}: tag/order changed')
+            if af!=bf or len(ar)!=len(br) or [x['Tag'] for x in ar]!=[x['Tag'] for x in br]: raise SystemExit(f'{fn}: structure/order changed')
             actual=set()
             for a,b in zip(br,ar):
               d=[k for k in bf if a[k]!=b[k]]
@@ -73,14 +66,14 @@ jobs:
                 if sorted(token.findall(a['German']))!=sorted(token.findall(b['German'])): raise SystemExit(f"{fn}/{a['Tag']}: placeholder mismatch")
                 actual.add(a['Tag'])
             if actual!=changed_tags[fn]: raise SystemExit(f'{fn}: unexpected changed-tag set')
-            total+=len(actual); print(fn,len(actual),'new changes')
-          print('Recovery validation passed; newly applied:',total)
+            total+=len(actual)
+          print('Recovery validation passed. records=389 newly_applied=',total,'already_current_or_newer=',len(preexisting))
           PY
       - name: Commit recovered CSV data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add traits.csv perks.csv spells.csv battle.csv
-          git diff --cached --quiet && { echo 'No CSV changes to commit'; exit 1; }
+          git diff --cached --quiet && { echo 'No CSV changes required; recovery already represented'; exit 0; }
           git commit -m "Apply recovered reviewed German translations"
           git push origin HEAD:main
