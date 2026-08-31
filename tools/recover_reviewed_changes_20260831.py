@@ -1,0 +1,4 @@
+import csv, json, sys
+from pathlib import Path
+DATA = json.loads(r'''{"traits.csv":[["L_TRAIT_DESC_SPECTRUMOFETERNITY","Nachdem deine Kreaturen manuell einen {CLASS_Life} Zauber {ACTION_cast}, haben sie eine 50% Chance, einen weiteren Zug zu erhalten. Dieses Merkmal ist nicht kumulativ.","Nachdem deine Kreaturen manuell einen {CLASS_Life}-Zauber {ACTION_cast}, haben sie eine Chance von 50%, einen weiteren Zug zu erhalten. Dieses Merkmal ist nicht kumulativ."],["L_TRAIT_DESC_HEAVYREPERCUSSIONS","Am Ende des Zuges dieser Kreatur besteht eine 7% Chance, einen weiteren Zug zu erhalten.","Am Ende des Zuges dieser Kreatur besteht eine Chance von 7%, einen weiteren Zug zu erhalten."]]}''')
+print('PLACEHOLDER')
