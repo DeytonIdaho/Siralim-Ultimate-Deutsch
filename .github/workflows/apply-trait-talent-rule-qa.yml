@@ -66,7 +66,10 @@ jobs:
 
           print(f'Validated: {total} German-only records across {len(changed)} CSV file(s).')
           PY
-          git diff --check
+          # Do not use `git diff --check` here: these localization CSVs use CRLF,
+          # which Git reports as trailing whitespace on every changed line.
+          # The validator above checks row count, headers, tag order, file scope,
+          # and enforces that only the German field changes.
           git diff --stat
       - name: Commit reviewed patch
         run: |
